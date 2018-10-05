@@ -20,8 +20,8 @@ Please see [**Contributing.md**](../blob/master/CONTRIBUTING.md) to see how to f
 - **Microsoft**
   - Swag: T-shirt
   - Requirements: 1 "meaningful" pull request in a Microsoft Open Source repository.
-  - How to sign up: https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/
-  - Notes: Must complete [this form](https://aka.ms/hacktoberfestshirt) and be in a repository found [here](https://opensource.microsoft.com/)
+  - How to sign up:  Must complete [this form](https://aka.ms/hacktoberfestshirt) and be in a repository found [here](https://opensource.microsoft.com/).
+  - Notes: See their [Blog post](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/)
   
 - **SendGrid**
   - Swag: T-shirt
@@ -34,3 +34,9 @@ Please see [**Contributing.md**](../blob/master/CONTRIBUTING.md) to see how to f
   - Requirements: Get a Hasura sticker pack by simply submitting a pull request. Get a t-shirt and stickers if your PR gets tagged "Hacktoberfest" and merged.
   - How to sign up: Make a PR on their [GraphQL Engine Repo](https://github.com/hasura/graphql-engine) and they'll send you a link.
   - Notes: See their [blog post](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560)
+  
+- **Auth0**
+  - Swag: T-shirt and Stickers
+  - Requirements: Blog post is unclear on number of PRs or merged PRs needed for swag
+  - How to sign up: https://goo.gl/forms/sNo604XkIMhCX8i03
+  - Notes: See their [Blog post](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/) for more information
