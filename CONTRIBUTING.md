@@ -27,6 +27,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 ***
 
-# Contributors
+## Contributors
 
 + [crweiner](https://github.com/crweiner/)
