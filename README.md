@@ -4,7 +4,7 @@ It's that time of year again! Time to get rewarded for contributing to the Open 
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2018 and how you can get your hands on some free gifts for your time and help.
 
-Please see [**Contributing.md**](../blob/master/CONTRIBUTING.md) to see how to format your pull request to add your name to the list.
+Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format your pull request to add your name to the list.
 
 ***
 
