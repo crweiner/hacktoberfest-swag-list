@@ -2,7 +2,7 @@
 
 ## How to format your contribution
 
-Make a fork of this repo and add the details for what company and swag you find in the [Readme.md](../blob/master/README.md) by using the following Markdown formatting:
+Make a fork of this repo and add the details for what company and swag you find in the [Readme.md](../master/README.md) by using the following Markdown formatting:
 
 ```
 - **Company Name**
