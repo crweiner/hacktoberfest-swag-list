@@ -20,8 +20,8 @@ Please see [**Contributing.md**](../blob/master/CONTRIBUTING.md) to see how to f
 - **Microsoft**
   - Swag: T-shirt
   - Requirements: 1 "meaningful" pull request in a Microsoft Open Source repository.
-  - How to sign up: https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/
-  - Notes: Must complete [this form](https://aka.ms/hacktoberfestshirt) and be in a repository found [here](https://opensource.microsoft.com/)
+  - How to sign up:  Must complete [this form](https://aka.ms/hacktoberfestshirt) and be in a repository found [here](https://opensource.microsoft.com/).
+  - Notes: See their [Blog post](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/)
   
 - **SendGrid**
   - Swag: T-shirt
