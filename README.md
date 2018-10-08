@@ -40,3 +40,10 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   - Requirements: Blog post is unclear on number of PRs or merged PRs needed for swag
   - How to sign up: https://goo.gl/forms/sNo604XkIMhCX8i03
   - Notes: See their [Blog post](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/) for more information
+  
+- **Umbraco**
+  - Swag: Unknown
+  - Requirements: At least one *merged* pull request
+  - How to sign up: No signup link given
+  - Notes: See their [Blog post](https://umbraco.com/blog/happy-hacktoberfest/) for more information
+
