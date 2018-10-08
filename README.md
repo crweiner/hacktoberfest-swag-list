@@ -16,7 +16,6 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   - How to sign up: https://hacktoberfest.digitalocean.com/sign_up/register
   - Notes: N/A
 
-
 - **Microsoft**
   - Swag: T-shirt
   - Requirements: 1 "meaningful" pull request in a Microsoft Open Source repository.
@@ -47,3 +46,14 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   - How to sign up: No signup link given
   - Notes: See their [Blog post](https://umbraco.com/blog/happy-hacktoberfest/) for more information
 
+- **OpenEBS**
+  - Swag: T-shirt and Stickers
+  - Requirements: At least one *merged* pull request
+  - How to sign up: They will get in touch after the merged PR
+  - Notes: See their [Blog post](https://blog.openebs.io/celebrate-hacktoberfest-2018-with-openebs-206daa1d653c) and [subpage](https://openebs.io/hacktoberfest) for more information
+
+- **source{d}**
+  - Swag: T-shirt
+  - Requirements: Make a pull request to improve the project’s code or documentation
+  - How to sign up: https://go.sourced.tech/hacktoberfest
+  - Notes: See their [Blog post](https://medium.com/sourcedtech/celebrating-open-source-with-hacktoberfest-2018-7283cfc6666b)
