@@ -49,5 +49,11 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 - **OpenEBS**
   - Swag: T-shirt and Stickers
   - Requirements: At least one *merged* pull request
-  - How to sign up: They will get in touch after the merged PR.
+  - How to sign up: They will get in touch after the merged PR
   - Notes: See their [Blog post](https://blog.openebs.io/celebrate-hacktoberfest-2018-with-openebs-206daa1d653c) and [subpage](https://openebs.io/hacktoberfest) for more information
+
+- **source{d}**
+  - Swag: T-shirt
+  - Requirements: Make a pull request to improve the project’s code or documentation
+  - How to sign up: https://go.sourced.tech/hacktoberfest
+  - Notes: See their [Blog post](https://medium.com/sourcedtech/celebrating-open-source-with-hacktoberfest-2018-7283cfc6666b)
