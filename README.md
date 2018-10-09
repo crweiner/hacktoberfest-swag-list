@@ -36,7 +36,7 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   
 - **Auth0**
   - Swag: T-shirt and Stickers
-  - Requirements: Blog post is unclear on number of PRs or merged PRs needed for swag
+  - Requirements: Per [Twitter](https://twitter.com/Auth0Community/status/1048307994633654278?s=19) "Any contribution to our open source projects qualifies regardless of if it's merged!"
   - How to sign up: https://goo.gl/forms/sNo604XkIMhCX8i03
   - Notes: See their [Blog post](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/) for more information
   
