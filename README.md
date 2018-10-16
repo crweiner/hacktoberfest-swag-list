@@ -73,3 +73,9 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
     - T-Shirt: Resolve 3 issues.
   - How to sign up: We're tracking it manually and will comment you a Google form.
   - Notes: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
+
+- **Kong**
+
+  - Swag: Kong Contributor T-shirt
+  - Requirements: Make a PR on the [code base](https://github.com/Kong/kong) or [documentation](https://github.com/Kong/docs.konghq.com)
+  - Notes: See [pinned forum post](https://discuss.konghq.com/t/contribute-to-kong-for-hacktoberfest/2029)

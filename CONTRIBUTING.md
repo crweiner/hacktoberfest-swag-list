@@ -30,3 +30,4 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 - [crweiner](https://github.com/crweiner/)
 - [kylemh](https://github.com/kylemh/)
+- [Jonathan Yee](https://github.com/jonyeezs)
