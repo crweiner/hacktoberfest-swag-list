@@ -57,3 +57,12 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   - Requirements: Make a pull request to improve the project’s code or documentation
   - How to sign up: https://go.sourced.tech/hacktoberfest
   - Notes: See their [Blog post](https://medium.com/sourcedtech/celebrating-open-source-with-hacktoberfest-2018-7283cfc6666b)
+
+- **Operation Code**
+  - Swag: T-shirt + handwritten note and stickers
+  - Requirements: 
+    - Stickers and handwritten note: Simply open a pull request!
+    - T-Shirt: Resolve 3 issues.
+  - How to sign up: We're tracking it manually and will comment you a Google form.
+  - Notes: See the pinned repositories [here](https://github/com/OperationCode).
+  
