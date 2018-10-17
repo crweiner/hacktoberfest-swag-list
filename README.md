@@ -61,7 +61,7 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 - **Operation Code**
   - Swag: T-shirt + handwritten note and stickers
   - Requirements: 
-    - Stickers and handwritten note: Simply open a pull request!
+    - Stickers and handwritten note: Simply get a pull request merged!
     - T-Shirt: Resolve 3 issues.
   - How to sign up: We're tracking it manually and will comment you a Google form.
   - Notes: See the pinned repositories [here](https://github/com/OperationCode).
