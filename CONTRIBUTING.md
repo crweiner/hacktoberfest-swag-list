@@ -7,8 +7,8 @@ Make a fork of this repo and add the details for what company and swag you find 
 ```
 - **Company Name**
   - Swag: (T-shirt, stickers, etc)
-  - Requirements: (What do I have to complete?)
-  - How to sign up: (Link to signup page)
+  - Requirements: (What do I have to complete? Are there different requiremenets per swag item? Are the PRs merged or just submitted?)
+  - How to sign up: (Link to signup page using inline formatting of [text](URL))
   - Notes: (If needed, otherwise write N/A)
 ```
 
