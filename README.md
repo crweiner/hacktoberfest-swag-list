@@ -78,4 +78,5 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 
   - Swag: Kong Contributor T-shirt
   - Requirements: Make a PR on the [code base](https://github.com/Kong/kong) or [documentation](https://github.com/Kong/docs.konghq.com)
+  - How to sign up: See the CONTRIBUTING.md file in the repo you submit your PR in for a Google Forms link.
   - Notes: See [pinned forum post](https://discuss.konghq.com/t/contribute-to-kong-for-hacktoberfest/2029)
