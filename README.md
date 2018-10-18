@@ -85,6 +85,6 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 
 - **Nexmo**
   - Swag: T-shirt
-  - Requirements: Create at least one or more pull request on one of their [Nexmo](https://github.com/nexmo) or [Nexmo Community](https://github.com/nexmo-community) repos.
+  - Requirements: Create at least one or more _merged_ pull request on one of their [Nexmo](https://github.com/nexmo) or [Nexmo Community](https://github.com/nexmo-community) repos.
   - How to sign up: Fill out the [Form](https://goo.gl/forms/QCH6QEUQLZ47dweT2).
   - Notes: See their [Blog post](https://www.nexmo.com/blog/2018/10/09/join-nextoberfest-tis-the-season-to-be-hacking-dr/)
