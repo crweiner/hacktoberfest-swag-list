@@ -61,8 +61,10 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 
 - **source{d}**
 
-  - Swag: T-shirt
-  - Requirements: Make a pull request to improve the project’s code or documentation
+  - Swag: T-shirt + sticker
+  - Requirements:
+    - Sticker: At least 1 _merged_ pull request
+    - T-shirt: At least 3 _merged_ requests
   - How to sign up: https://go.sourced.tech/hacktoberfest
   - Notes: See their [Blog post](https://medium.com/sourcedtech/celebrating-open-source-with-hacktoberfest-2018-7283cfc6666b)
 
