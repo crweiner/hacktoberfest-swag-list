@@ -97,3 +97,13 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   - How to sign up: No sign-up link. Contribute to Aras Community Projects 
   - Notes: See [Aras Labs Blog Post](http://community.aras.com/en/join-aras-labs-hacktoberfest-2018/)
 
+- **LBRY**
+
+  - Swag: T-shirt and LBC
+  - Requirements: 
+    - 500 LBC for each merged pull request
+    - T-shirt: 3 pull requests
+    - Lamborghini Aventador S: 800,000 merged pull requests
+  - How to sign up: Contribute to any LBRY [repositories](https://github.com/lbryio)
+  - Notes: See their [Blog post](https://lbry.io/news/hacktoberfest)for more information
+
