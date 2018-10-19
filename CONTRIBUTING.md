@@ -32,3 +32,4 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [kylemh](https://github.com/kylemh/)
 - [Jonathan Yee](https://github.com/jonyeezs)
 - [Matt Ackard](https://github.com/mattackard)
+- [Adrienne Tacke](https://github.com/adriennetacke)
