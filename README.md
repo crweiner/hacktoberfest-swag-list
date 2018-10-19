@@ -69,6 +69,7 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   - Notes: See their [Blog post](https://medium.com/sourcedtech/celebrating-open-source-with-hacktoberfest-2018-7283cfc6666b)
 
 - **Operation Code**
+  
   - Swag: T-shirt + handwritten note and stickers
   - Requirements:
     - Stickers and handwritten note: Simply get a pull request merged!
@@ -84,13 +85,15 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   - Notes: See [pinned forum post](https://discuss.konghq.com/t/contribute-to-kong-for-hacktoberfest/2029)
 
 - **Nexmo**
+  
   - Swag: T-shirt
   - Requirements: Create at least one or more _merged_ pull request on one of their [Nexmo](https://github.com/nexmo) or [Nexmo Community](https://github.com/nexmo-community) repos.
   - How to sign up: Fill out the [Form](https://goo.gl/forms/QCH6QEUQLZ47dweT2).
   - Notes: See their [Blog post](https://www.nexmo.com/blog/2018/10/09/join-nextoberfest-tis-the-season-to-be-hacking-dr/)
   
 - **Aras**
-  - Swag: T-Shirt + Sticker Pack
+ 
+ - Swag: T-Shirt + Sticker Pack
   - Requirements: 
     - Sticker: 1 pull request
     - T-shirt: 5 pull requests
@@ -98,19 +101,17 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   - Notes: See [Aras Labs Blog Post](http://community.aras.com/en/join-aras-labs-hacktoberfest-2018/)
   
 - **Magento**
-  - Swag: T-Shirt
-  - Requirements: Five+ (merged) pull requests or validate 10+ issues
-  - How to sign up: No sign-up link. `Contribute to any pull request or issue validation during October, and your work will count towards some swag.` See notes.
+ 
+ - Swag: T-Shirt
+  - Requirements: Five+ _merged_ pull requests or validate 10+ issues
+  - How to sign up: No sign-up link. `Contribute to any pull request or issue validation during October, and your work will count towards some swag.` See Notes.
   -Notes: Refer to [magento2](https://github.com/magento/magento2/wiki/SQUASHTOBERFEST-2018) on GitHub  
 
   
 - **LBRY**
 
-  - Swag: T-shirt and LBC
-  - Requirements: 
-    - 500 LBC for each merged pull request
-    - T-shirt: 3 pull requests
-    - Lamborghini Aventador S: 800,000 merged pull requests
+  - Swag: T-shirt
+  - Requirements: Create at least three pull requests to get the t-shirt
   - How to sign up: Contribute to any LBRY [repositories](https://github.com/lbryio)
   - Notes: See their [Blog post](https://lbry.io/news/hacktoberfest) for more information
 
