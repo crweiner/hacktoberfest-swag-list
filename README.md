@@ -93,7 +93,7 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   
 - **Aras**
  
- - Swag: T-Shirt + Sticker Pack
+  - Swag: T-Shirt + Sticker Pack
   - Requirements: 
     - Sticker: 1 pull request
     - T-shirt: 5 pull requests
@@ -102,7 +102,7 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   
 - **Magento**
  
- - Swag: T-Shirt
+  - Swag: T-Shirt
   - Requirements: Five+ _merged_ pull requests or validate 10+ issues
   - How to sign up: No sign-up link. `Contribute to any pull request or issue validation during October, and your work will count towards some swag.` See Notes.
   -Notes: Refer to [magento2](https://github.com/magento/magento2/wiki/SQUASHTOBERFEST-2018) on GitHub  
