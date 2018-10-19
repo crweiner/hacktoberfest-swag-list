@@ -82,6 +82,12 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
   - Requirements: Make a PR on the [code base](https://github.com/Kong/kong) or [documentation](https://github.com/Kong/docs.konghq.com)
   - How to sign up: See the CONTRIBUTING.md file in the repo you submit your PR in for a Google Forms link.
   - Notes: See [pinned forum post](https://discuss.konghq.com/t/contribute-to-kong-for-hacktoberfest/2029)
+
+- **Nexmo**
+  - Swag: T-shirt
+  - Requirements: Create at least one or more _merged_ pull request on one of their [Nexmo](https://github.com/nexmo) or [Nexmo Community](https://github.com/nexmo-community) repos.
+  - How to sign up: Fill out the [Form](https://goo.gl/forms/QCH6QEUQLZ47dweT2).
+  - Notes: See their [Blog post](https://www.nexmo.com/blog/2018/10/09/join-nextoberfest-tis-the-season-to-be-hacking-dr/)
   
 - **Aras**
   - Swag: T-Shirt + Sticker Pack
@@ -90,3 +96,4 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
     - T-shirt: 5 pull requests
   - How to sign up: No sign-up link. Contribute to Aras Community Projects 
   - Notes: See [Aras Labs Blog Post](http://community.aras.com/en/join-aras-labs-hacktoberfest-2018/)
+
