@@ -105,5 +105,5 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
     - T-shirt: 3 pull requests
     - Lamborghini Aventador S: 800,000 merged pull requests
   - How to sign up: Contribute to any LBRY [repositories](https://github.com/lbryio)
-  - Notes: See their [Blog post](https://lbry.io/news/hacktoberfest)for more information
+  - Notes: See their [Blog post](https://lbry.io/news/hacktoberfest) for more information
 
