@@ -90,3 +90,9 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
     - T-shirt: 5 pull requests
   - How to sign up: No sign-up link. Contribute to Aras Community Projects 
   - Notes: See [Aras Labs Blog Post](http://community.aras.com/en/join-aras-labs-hacktoberfest-2018/)
+  
+  - **Magento**
+  - Swag: T-Shirt
+  - Requirements: Five+ (merged) pull requests or validate 10+ issues
+  - How to sign up: No sign-up link. `Contribute to any pull request or issue validation during October, and your work will count towards some swag.` See notes.
+  -Notes: Refer to [magento2](https://github.com/magento/magento2/wiki/SQUASHTOBERFEST-2018) on GitHub  
