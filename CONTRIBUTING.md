@@ -10,10 +10,10 @@ Find the first letter of your company within the list, then add your information
 
 ```
 #### **Company Name**
-  - **Swag**: (T-shirt, stickers, etc)
-  - **Requirements**: (What do I have to complete? Are there different requirements per swag item? Are the PRs merged or just submitted?)
-  - **How to sign up**: (Link to signup page using inline formatting of [text](URL))
-  - **Notes**: (If needed, otherwise write N/A)
+- **Swag**: (T-shirt, stickers, etc)
+- **Requirements**: (What do I have to complete? Are there different requirements per swag item? Are the PRs merged or just submitted?)
+- **How to sign up**: (Link to signup page using inline formatting of [text](URL))
+- **Notes**: (If needed, otherwise write N/A)
 ```
 
 💡 If you don't see a letter heading for your company, please add it! Use the Markdown formatting to do so:
@@ -43,30 +43,30 @@ Depending on your involvement requirements, place your company within the approp
 💡 If you have multiple types of swag for different involvement levels, be sure to add two separate entries for each individual piece of swag earned! For example, Operation Code has two types of swag earned at different levels:
 
 #### **Operation Code**
-  - **Requirements**:
-    - Stickers and handwritten note: Simply get a pull request merged!
-    - T-Shirt: Resolve 3 issues.
+- **Requirements**:
+  - Stickers and handwritten note: Simply get a pull request merged!
+  - T-Shirt: Resolve 3 issues.
 
 For each piece of swag, a separate entry was added at the appropriate involvement levels:
 
 _1. For the Stickers and Handwritten note only (placed at 1 Merged PR level):_
 ```
 #### **Operation Code** (Stickers and Handwritten Note)
-  - **Requirements**:
-    - Stickers and handwritten note: Simply get a pull request merged!
-  - **Swag**: T-shirt + handwritten note and stickers
-  - **How to sign up**: We're tracking it manually and will comment you a Google form.
-  - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
+- **Requirements**:
+  - Stickers and handwritten note: Simply get a pull request merged!
+- **Swag**: T-shirt + handwritten note and stickers
+- **How to sign up**: We're tracking it manually and will comment you a Google form.
+- **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
 ```
 
 _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
 ```
 #### **Operation Code** (T-Shirt)
-  - **Requirements**:
-    - T-Shirt: Resolve 3 issues.
-  - **Swag**: T-shirt + handwritten note and stickers
-  - **How to sign up**: We're tracking it manually and will comment you a Google form.
-  - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
+- **Requirements**:
+  - T-Shirt: Resolve 3 issues.
+- **Swag**: T-shirt + handwritten note and stickers
+- **How to sign up**: We're tracking it manually and will comment you a Google form.
+- **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
 ```
 Note that the requirements have been edited for clarity, only showing the requirements for that type of swag and moved to the first bullet point. Also, the swag type is placed in parentheses after the company name to understand what is being earned at each level. 😊
 
@@ -77,7 +77,7 @@ Did you help contribute to the Hacktoberfest Swag list? Add your name to the lis
 Contribution formatting will follow these guidelines in Markdown.
 
 ```
-+ [Bob Smith](https://github.com/bobsmith)
+- [Bob Smith](https://github.com/bobsmith)
 ```
 
 If your contribution or PR is not formatted correctly, I'll let you know and give you a chance to fix it. :smiley:
