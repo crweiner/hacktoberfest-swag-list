@@ -113,11 +113,11 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
 
 #### **OpenBazaar**
-- **Swag**: T-shirt 
+
+- **Swag**: T-shirt
 - **Requirements**: Get at least one PR!
 - **How to sign up**: Join the [Slack](https://openbazaar.org/slack). Mention "Hacktoberfest swag" when you contact
 - **Notes**: See the full blog post [here](https://openbazaar.org/blog/Hacktoberfest-with-OpenBazaar-Help-Make-Trade-Free-Get-Rewards/). The repo is [here](https://github.com/OpenBazaar/openbazaar-go).
-
 
 ### S
 
@@ -182,8 +182,9 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 - **Notes**: See their [Blog post](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/)
 
 #### **OpenBazaar**
-- **Swag**: T-shirt 
-- **Requirements**: Get at least one PR!
+
+- **Swag**: T-shirt
+- **Requirements**: Get at least one PR in a OpenBazaar repository.
 - **How to sign up**: Join the [Slack](https://openbazaar.org/slack). Mention "Hacktoberfest swag" when you contact
 - **Notes**: See the full blog post [here](https://openbazaar.org/blog/Hacktoberfest-with-OpenBazaar-Help-Make-Trade-Free-Get-Rewards/). The repo is [here](https://github.com/OpenBazaar/openbazaar-go).
 
