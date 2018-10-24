@@ -112,6 +112,14 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 - **How to sign up**: We're tracking it manually and will comment you a Google form.
 - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
 
+#### **Open Bazaar**
+- **Swag**: T-shirt 
+- **Requirements**:
+  - Get Atleast one PR merged!
+- **How to sign up**: Join the [Slack](https://openbazaar.org/slack).
+- **Notes**: See the full blog post [here](https://openbazaar.org/blog/Hacktoberfest-with-OpenBazaar-Help-Make-Trade-Free-Get-Rewards/).
+
+
 ### S
 
 #### **SendGrid**
