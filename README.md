@@ -112,12 +112,11 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 - **How to sign up**: We're tracking it manually and will comment you a Google form.
 - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
 
-#### **Open Bazaar**
+#### **OpenBazaar**
 - **Swag**: T-shirt 
-- **Requirements**:
-  - Get Atleast one PR merged!
-- **How to sign up**: Join the [Slack](https://openbazaar.org/slack).
-- **Notes**: See the full blog post [here](https://openbazaar.org/blog/Hacktoberfest-with-OpenBazaar-Help-Make-Trade-Free-Get-Rewards/).
+- **Requirements**: Get at least one PR!
+- **How to sign up**: Join the [Slack](https://openbazaar.org/slack). Mention "Hacktoberfest swag" when you contact
+- **Notes**: See the full blog post [here](https://openbazaar.org/blog/Hacktoberfest-with-OpenBazaar-Help-Make-Trade-Free-Get-Rewards/). The repo is [here](https://github.com/OpenBazaar/openbazaar-go).
 
 
 ### S
@@ -181,6 +180,12 @@ Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format
 - **Swag**: T-shirt
 - **How to sign up**: Must complete [this form](https://aka.ms/hacktoberfestshirt) and be in a repository found [here](https://opensource.microsoft.com/).
 - **Notes**: See their [Blog post](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/)
+
+#### **OpenBazaar**
+- **Swag**: T-shirt 
+- **Requirements**: Get at least one PR!
+- **How to sign up**: Join the [Slack](https://openbazaar.org/slack). Mention "Hacktoberfest swag" when you contact
+- **Notes**: See the full blog post [here](https://openbazaar.org/blog/Hacktoberfest-with-OpenBazaar-Help-Make-Trade-Free-Get-Rewards/). The repo is [here](https://github.com/OpenBazaar/openbazaar-go).
 
 ### 1 Merged PR
 
