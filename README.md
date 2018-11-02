@@ -1,3 +1,14 @@
+# HACKTOBERFEST IS OVER!
+
+## Thank you all for participating in this marvelous celebration of open source software and swag! This list was made better by you, the people! Please go ahead and Star this repo so you can check out the great swag for next Hacktoberfest!
+
+## This `README.md` file will eventually be replaced by a new set of swag for Hacktoberfest 2019. To look back at Hacktoberfest 2018, use the [*2018* branch](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018) and/or the [*v2018*](https://github.com/crweiner/hacktoberfest-swag-list/tree/v2018) release and tag.
+
+## If you wish to contribute to this repo in order to help set things up for Hacktoberfest 2019, please send your pull requests to the `develop` branch, and thank you so much!
+
+---
+
+
 # Hacktoberfest Swag List
 
 It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
