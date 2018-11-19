@@ -6,6 +6,9 @@
 
 ## If you wish to contribute to this repo in order to help set things up for Hacktoberfest 2019, please send your pull requests to the `develop` branch, and thank you so much!
 
+---
+
+
 # Hacktoberfest Swag List
 
 It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
@@ -120,6 +123,13 @@ This repo seeks to document all of the companies giving away swag for Hacktoberf
 - **How to sign up**: We're tracking it manually and will comment you a Google form.
 - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
 
+#### **OpenBazaar**
+
+- **Swag**: T-shirt
+- **Requirements**: Get at least one PR!
+- **How to sign up**: Join the [Slack](https://openbazaar.org/slack). Mention "Hacktoberfest swag" when you contact
+- **Notes**: See the full blog post [here](https://openbazaar.org/blog/Hacktoberfest-with-OpenBazaar-Help-Make-Trade-Free-Get-Rewards/). The repo is [here](https://github.com/OpenBazaar/openbazaar-go).
+
 ### S
 
 #### **SendGrid**
@@ -181,6 +191,13 @@ This repo seeks to document all of the companies giving away swag for Hacktoberf
 - **Swag**: T-shirt
 - **How to sign up**: Must complete [this form](https://aka.ms/hacktoberfestshirt) and be in a repository found [here](https://opensource.microsoft.com/).
 - **Notes**: See their [Blog post](https://open.microsoft.com/2018/09/30/join-hacktoberfest-2018-celebration-microsoft/)
+
+#### **OpenBazaar**
+
+- **Swag**: T-shirt
+- **Requirements**: Get at least one PR in a OpenBazaar repository.
+- **How to sign up**: Join the [Slack](https://openbazaar.org/slack). Mention "Hacktoberfest swag" when you contact
+- **Notes**: See the full blog post [here](https://openbazaar.org/blog/Hacktoberfest-with-OpenBazaar-Help-Make-Trade-Free-Get-Rewards/). The repo is [here](https://github.com/OpenBazaar/openbazaar-go).
 
 ### 1 Merged PR
 
