@@ -8,6 +8,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
+include:
+  - CONTRIBUTING.md
 exclude:
   - Gemfile
   - Gemfile.lock
