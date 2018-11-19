@@ -1,1 +1,18 @@
-theme: jekyll-theme-minimal
+title: Hacktoberfest Swag List
+logo: /img/Hacktoberfest_2018_banner4.png
+description: There are many companies giving out free swag for Hacktoberfest and this list seeks to find them all!
+show_downloads: false
+google_analytics:
+remote_theme: "pages-themes/minimal"
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-remote-theme
+include:
+  - CONTRIBUTING.md
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CNAME
+repository: "crweiner/hacktoberfest-swag-list"
