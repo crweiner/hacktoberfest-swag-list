@@ -3,8 +3,8 @@ logo: /img/Hacktoberfest_2018_banner4.png
 description: There are many companies giving out free swag for Hacktoberfest and this list seeks to find them all!
 show_downloads: true
 google_analytics:
-remote_theme: "orderedlist/minimal"
-gems:
+remote_theme: "pages-themes/minimal"
+plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
