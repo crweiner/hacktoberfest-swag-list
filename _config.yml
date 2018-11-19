@@ -2,6 +2,7 @@ title: Hacktoberfest Swag List
 logo: /img/Hacktoberfest_2018_banner4.png
 description: There are many companies giving out free swag for Hacktoberfest and this list seeks to find them all!
 show_downloads: false
+url: "https://hacktoberfestswaglist.com"
 google_analytics: "UA-129265975-1"
 remote_theme: "pages-themes/minimal"
 plugins:
