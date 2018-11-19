@@ -16,8 +16,9 @@ This repo seeks to document all of the companies giving away swag for Hacktoberf
 
 - [A to Z Order of Companies](#a-to-z-order-of-companies)
 - [Least Involvement to Most Involvement Needed for Swag](#least-involvement-to-most-involvement)
+- [How to contrinute to this list](./contributing.html)
 
-Please see [**Contributing.md**](../master/CONTRIBUTING.md) to see how to format your pull request to add your name to the list.
+If viewing this on GitHub.com, see [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add your name to the list.
 
 ---
 
