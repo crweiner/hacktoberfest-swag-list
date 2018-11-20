@@ -12,7 +12,7 @@
 
 ## How to format your contribution
 
-Make a fork of this repo and add the details for what company and swag you find in the [Readme.md](./README.md). If you are adding a new company, be sure to add your company in two places:
+Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [Readme.md](./README.md). If you are adding a new company, be sure to add your company in two places:
 
 ### A to Z Order of Companies
 
