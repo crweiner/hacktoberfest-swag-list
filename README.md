@@ -15,6 +15,8 @@ It's that time of year again! Time to get rewarded for contributing to the Open 
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2018 and how you can get your hands on some free gifts for your time and help.
 
+**Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com) or any company offering swag. Hacktoberfest is a trademark of DigitialOcean, LLC.**
+
 ## Quick Jump To
 
 - [A to Z Order of Companies](#a-to-z-order-of-companies)
