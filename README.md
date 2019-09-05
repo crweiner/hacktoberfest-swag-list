@@ -6,9 +6,6 @@
 
 ## If you wish to contribute to this repo in order to help set things up for Hacktoberfest 2019, please send your pull requests to the `develop` branch, and thank you so much!
 
----
-
-
 # Hacktoberfest Swag List
 
 It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
