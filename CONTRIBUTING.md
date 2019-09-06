@@ -1,10 +1,6 @@
-# HACKTOBERFEST IS OVER!
+# Hacktoberfest 2019 is about to start!
 
-## Thank you all for participating in this marvelous celebration of open source software and swag! This list was made better by you, the people! Please go ahead and Star this repo so you can check out the great swag for next Hacktoberfest!
-
-## This `CONTRIBUTING.md` file will eventually be replaced by a new one for Hacktoberfest 2019. To look back at Hacktoberfest 2018, use the [*2018* branch](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018) and/or the [*v2018*](https://github.com/crweiner/hacktoberfest-swag-list/tree/v2018) release and tag.
-
-## If you wish to contribute to this repo in order to help set things up for Hacktoberfest 2019, please send your pull requests to the `develop` branch, and thank you so much!
+## Please read this [Contributing](./CONTRIBUTING.md) list to see how to add a new company to the swag list.
 
 ---
 
@@ -97,7 +93,3 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 ## Contributors
 
 - [crweiner](https://github.com/crweiner/)
-- [kylemh](https://github.com/kylemh/)
-- [Jonathan Yee](https://github.com/jonyeezs)
-- [Matt Ackard](https://github.com/mattackard)
-- [Adrienne Tacke](https://github.com/adriennetacke)
