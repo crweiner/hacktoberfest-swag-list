@@ -93,3 +93,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 ## Contributors
 
 - [crweiner](https://github.com/crweiner/)
+
+
+Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.

@@ -48,6 +48,7 @@ echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
 echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
 echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
+
 ```
 Above source taken from the [Jekyll install guidelines](https://jekyllrb.com/docs/installation/ubuntu/)
 
@@ -62,3 +63,8 @@ gem install jekyll bundler
 
 - Go back to GitHub and make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) if you haven't already.
 
+- Click on the big green "Download or Clone" button and copy the full URL.
+
+- Go back to your terminal window and type 
+
+Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
