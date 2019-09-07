@@ -17,11 +17,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## Swag List 2019
 
-## The Original - **DigitalOcean/Dev**
+## The Original - **DigitalOcean/Dev.to**
 
 - **Swag**: T-shirt and Stickers
 - **Requirements**: 5 pull requests in any repository
-- **How to sign up**: https://hacktoberfest.digitalocean.com
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: N/A
 
 ## A to Z Order of Companies
