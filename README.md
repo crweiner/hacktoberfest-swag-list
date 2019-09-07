@@ -40,3 +40,5 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 2 or more Merged PRs
 
 ### 5 Merged PRs
+
+Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
