@@ -26,27 +26,28 @@ Follow these steps:
 
 - You will get an email address with the droplet's IP address, username "(will be 'root')", and the password.
 
-- If you're on a Mac, open up **Terminal** and type 
+- If you're on a Mac, open up **Terminal** and type
 
 ```bash
 ssh root@IP_ADDRESS
 
 ```
+
 Then enter your password.
 
 If using Windows, follow [this guide on using PuTTY to connect to your droplet](https://www.digitalocean.com/docs/droplets/how-to/connect-with-ssh/putty/)
 
 - You'll be asked to change your password, so do so and be sure to pick something very long and secure! Using SSH Keys is beyond the scope of this very limited tutorial.
 
-- Run 
+- Run
 
-```apt-get update``` 
+```apt-get update```
 
 to tell the server to update the list of programs that we can install on this version of Ubuntu.
 
-- Then run 
+- Then run
 
-```apt-get install ruby-full build-essential zlib1g-dev nano -y``` 
+```apt-get install ruby-full build-essential zlib1g-dev nano -y```
 
 to install the needed dependencies and programs.
 
@@ -59,6 +60,7 @@ echo 'export PATH="$HOME/gems/bin:$PATH"' >> ~/.bashrc
 source ~/.bashrc
 
 ```
+
 Above source taken from the [Jekyll install guidelines](https://jekyllrb.com/docs/installation/ubuntu/)
 
 - Then run the following command to install Bundler which will help install and configire Jekyll later.
@@ -68,14 +70,13 @@ gem install bundler
 
 ```
 
-
 ## Using Git, GitHub, and Jekyll to clone this repo
 
 - Go back to GitHub and make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) if you haven't already.
 
 - Click on the big green "Download or Clone" button and copy the full URL of your cloned repo.
 
-- Go back to your terminal window and type 
+- Go back to your terminal window and type
 
 ```bash
 git clone HTTP-URL-to-your-fork
@@ -88,7 +89,5 @@ git clone HTTP-URL-to-your-fork
 cd ./hacktoberfest-swag-list/
 
 ```
-
-
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.

@@ -14,7 +14,7 @@ Please follow these rules regarding how to add a new company to the List:
 
 ## How to format your contribution
 
-Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [Readme.md](./README.md). 
+Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [Readme.md](./README.md).
 
 We are using a very simple langage called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familarize yourself with Markdown [using this handly cheat sheet provided by GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
