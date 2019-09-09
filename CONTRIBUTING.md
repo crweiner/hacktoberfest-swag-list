@@ -104,3 +104,5 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 - [Chandler Weiner](https://github.com/crweiner/)
 - [Adrienne Tacke](https://github.com/adriennetacke)
+
+Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.

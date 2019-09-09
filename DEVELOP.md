@@ -10,7 +10,7 @@ Follow these steps:
 
 ## Setup an Ubuntu server
 
-- Want a Cloud VPS? Well, [DigitalOcean](digitalocean.com) is the main sponsor of Hacktoberfest after all, so let's spin up a server with them. They call their servers "droplets". Yay marketing!
+- Want a Cloud VPS? Well, [DigitalOcean](https://digitalocean.com) is the main sponsor of Hacktoberfest after all, so let's spin up a server with them. They call their servers "droplets". Yay marketing!
 
 - Don't have an account? [Signup by clicking here](https://m.do.co/c/8754f9ede747) **Affiliate link** You'll get a $50 credit which is enough to run your droplet free for 10 months!
 
