@@ -6,12 +6,14 @@ It's that time of year again! Time to get rewarded for contributing to the Open 
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2019 and how you can get your hands on some free gifts for your time and help.
 
+See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the list!
+
+
 ## Quick Jump To
 
 - [A to Z Order of Companies](#a-to-z-order-of-companies)
 - [Least Involvement to Most Involvement Needed for Swag](#least-involvement-to-most-involvement)
 
-See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add your name to the list.
 
 ---
 
@@ -26,6 +28,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## A to Z Order of Companies
 
+### A
+
+### B
+
+### C
+
+### D
 
 ---
 
@@ -40,3 +49,5 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 2 or more Merged PRs
 
 ### 5 Merged PRs
+
+Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.

@@ -6,9 +6,19 @@
 
 # Contributing
 
+We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!
+
+By opening up a pull request to add a new company offering swag or to fix something, you'll also be banking towards earning your official Hacktoberfest t-shirt!
+
+Please follow these rules regarding how to add a new company to the List:
+
 ## How to format your contribution
 
-Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [Readme.md](./README.md). If you are adding a new company, be sure to add your company in two places:
+Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [Readme.md](./README.md).
+
+We are using a very simple langage called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familarize yourself with Markdown [using this handly cheat sheet provided by GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+If you are adding a new company, be sure to add your company in two places:
 
 ### A to Z Order of Companies
 
@@ -22,7 +32,7 @@ Find the first letter of your company within the list, then add your information
 - **Notes**: (If needed, otherwise write N/A)
 ```
 
-💡 If you don't see a letter heading for your company, please add it! Use the Markdown formatting to do so:
+ If you don't see a letter heading for your company, please add it! Use the Markdown formatting to do so:
 
 ```
 ### A
@@ -46,7 +56,7 @@ If your involvement requirements are a bit different or do not fit into this sca
 
 Depending on your involvement requirements, place your company within the appropriate section.
 
-💡 If you have multiple types of swag for different involvement levels, be sure to add two separate entries for each individual piece of swag earned! For example, Operation Code has two types of swag earned at different levels:
+If you have multiple types of swag for different involvement levels, be sure to add two separate entries for each individual piece of swag earned! For example, Operation Code has two types of swag earned at different levels:
 
 #### **Operation Code**
 - **Requirements**:
@@ -86,10 +96,13 @@ Contribution formatting will follow these guidelines in Markdown.
 - [Bob Smith](https://github.com/bobsmith)
 ```
 
-If your contribution or PR is not formatted correctly, I'll let you know and give you a chance to fix it. :smiley:
+If your contribution or PR is not formatted correctly, I'll let you know and give you a chance to fix it.
 
 ---
 
 ## Contributors
 
-- [crweiner](https://github.com/crweiner/)
+- [Chandler Weiner](https://github.com/crweiner/)
+- [Adrienne Tacke](https://github.com/adriennetacke)
+
+Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
