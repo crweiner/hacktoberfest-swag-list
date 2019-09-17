@@ -16,7 +16,7 @@ Please follow these rules regarding how to add a new company to the List:
 
 Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [Readme.md](./README.md).
 
-We are using a very simple langage called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familarize yourself with Markdown [using this handly cheat sheet provided by GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+We are using a very simple language called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familiarize yourself with Markdown [using this handy cheat sheet provided by GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 If you are adding a new company, be sure to add your company in two places:
 
@@ -65,11 +65,11 @@ If you have multiple types of swag for different involvement levels, be sure to 
 
 For each piece of swag, a separate entry was added at the appropriate involvement levels:
 
-_1. For the Stickers and Handwritten note only (placed at 1 Merged PR level):_
+_1. For the Stickers and a handwritten note only (placed at 1 Merged PR level):_
 ```
 #### **Operation Code** (Stickers and Handwritten Note)
 - **Requirements**:
-  - Stickers and handwritten note: Simply get a pull request merged!
+  - Stickers and a handwritten note: Simply get a pull request merged!
 - **Swag**: T-shirt + handwritten note and stickers
 - **How to sign up**: We're tracking it manually and will comment you a Google form.
 - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
