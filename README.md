@@ -31,6 +31,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### A
 
 #### **Appwrite**
+
 - **Swag**: Stickers, Magnets and Buttons
 - **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
@@ -66,6 +67,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 1 Merged PR
 
 #### **Appwrite**
+
 - **Swag**: Stickers, Magnets and Buttons
 - **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
