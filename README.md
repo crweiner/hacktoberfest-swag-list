@@ -53,7 +53,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt
 - **Requirements**: Create at least one or more merged pull requests on any of [Uno Platform repos](https://github.com/unoplatform).
-- **How to sign up**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information
+- **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u). 
+- **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
 ---
 
@@ -81,7 +82,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt
 - **Requirements**: Create at least one or more merged pull requests on any of [Uno Platform repos](https://github.com/unoplatform).
-- **How to sign up**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information
+- **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u).
+- **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
 ### 2 or more PRs
 
