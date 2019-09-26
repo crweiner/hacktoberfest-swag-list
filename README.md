@@ -39,6 +39,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### C
 
 #### **CircleCI**
+
 - **Swag**: T-shirt and Stickers
 - **Requirements**:
     - 1 - 3 pull requests: Limited-Edition Stickers
@@ -46,6 +47,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+### U
+
+#### **Uno Platform**
+
+- **Swag**: T-shirt
+- **Requirements**: Create at least one or more merged pull requests on any of [Uno Platform repos](https://github.com/unoplatform).
+- **How to sign up**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information
 
 ---
 
@@ -68,6 +76,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
+
+#### **Uno Platform**
+
+- **Swag**: T-shirt
+- **Requirements**: Create at least one or more merged pull requests on any of [Uno Platform repos](https://github.com/unoplatform).
+- **How to sign up**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information
 
 ### 2 or more PRs
 
