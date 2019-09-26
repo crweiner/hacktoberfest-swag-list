@@ -28,6 +28,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **AccordProject**
+ - **Swag** T-Shirt and Stickers
+ - **Requirements**:
+    - 2 pull requests: Stickers
+    - 1 "Difficulty: Challenging" pull request: Shirt
+    - 2 "Difficulty: Medium" pull requests: Shirt
+    - 5 "Difficulty: Starter" pull requests: Shirt
+ - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+ - **Notes**: AccordProject [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/) only!
+
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
@@ -62,6 +72,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 1 Merged PR
 
+#### **Accord Project** (Shirt)
+ - **Requirements**: Shirt
+    - 1 "Difficulty: Challenging" pull request
+ - **Swag**: Shirt
+ - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+ - **Notes**: AccordProject [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/) only!
+ 
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
@@ -87,10 +104,21 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more Merged PRs
 
-Nothing here yet!
+#### **Accord Project** (Stickers)
+ - **Requirements**:
+    - 2 pull requests: Stickers
+    - 2 "Difficulty: Medium" pull requests: Shirt
+ - **Swag**: Shirt
+ - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+ - **Notes**: AccordProject [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/) only!
 
 ### 5 Merged PRs
 
-Nothing here yet!
+#### **Accord Project** (Shirt)
+ - **Requirements**:
+    - 5 "Difficulty: Starter" pull requests: Shirt
+ - **Swag**: Shirt
+ - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+ - **Notes**: AccordProject [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/) only!
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
