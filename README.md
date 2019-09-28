@@ -62,7 +62,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
-#### **CircleCI** (Limted-Edition Stickers)
+#### **CircleCI** (Limited-Edition Stickers)
 - **Requirements**:
   - 1 - 3 pull requests (to "orbs").
 - **Swag**: Limited-Edition Stickers.
