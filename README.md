@@ -109,4 +109,11 @@ Nothing here yet!
 
 Nothing here yet!
 
+### 5 or more Merged PRs
+
+- **Swag**: T-shirt and Stickers
+- **Requirements**: 5 or more pull requests in any repository
+- **How to sign up**: [Gatsbyjs website](https://www.gatsbyjs.org)
+- **Notes**: If you contribute to the Gatsby org on GitHub, you can claim your swag by logging into the Gatsby Store and requesting a discount code. With five or more contributions, you can claim your Level 2 swag.
+
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
