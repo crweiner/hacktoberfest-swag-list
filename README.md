@@ -62,7 +62,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Create logo variations and banners for promotion
     - Contribute to opsdroid desktop (electron and react app)
     - Promote opsdroid in a meaningful way
-- **How to sign up**: ([Link] to claim swag.(https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform))
+- **How to sign up**: ([Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.)
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
 
 ### U
