@@ -52,7 +52,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Opsdroid**
 
 - **Swag**: Stickers, Limited-Edition Stickers
-- **Requirements**: (Any one)
+- **Requirements** (Any one):
     - Write code to solve issues in the opsdroid core repository
     - Improve the documentation to help others get started
     - Write skills, connectors or database modules
@@ -102,7 +102,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Opsdroid**
 
 - **Swag**: Stickers, Limited-Edition Stickers
-- **Requirements**: (Any one)
+- **Requirements** (Any one):
     - Write code to solve issues in the opsdroid core repository
     - Improve the documentation to help others get started
     - Write skills, connectors or database modules
