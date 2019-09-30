@@ -53,12 +53,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt and/or Stickers
 - **Requirements**:
-  - Open pull request for any of Haruna open source projects: Sticker Pack
-  - One or more pull requests with Hacktoberfest label gets merged: Limited-Edition T-shirt and Sticker Pack
+    - Open pull request for any of Haruna open source projects: Sticker Pack
+    - One or more pull requests with Hacktoberfest label gets merged: Limited-Edition T-shirt and Sticker Pack
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**:
-  - See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information
-  - Keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+    - See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information
+    - Keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
 ### U
 
@@ -85,12 +85,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Hasura** (Sticker Pack)
 
 - **Requirements**:
-  - Open pull request for any of Haruna open source projects: Sticker Pack
+    - Open pull request for any of Haruna open source projects: Sticker Pack
 - **Swag**: Sticker Pack
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**:
-  - See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information
-  - Keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+    - See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information
+    - Keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
 ### 1 Merged PR
 
@@ -107,8 +107,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt and Stickers
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**:
-  - See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information
-  - Keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+    - See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information
+    - Keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
 #### **Uno Platform**
 
