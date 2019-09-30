@@ -52,17 +52,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Opsdroid**
 
 - **Swag**: Stickers, Limited-Edition Stickers
-- **Requirements** (Any one):
-    - Write code to solve issues in the opsdroid core repository
-    - Improve the documentation to help others get started
-    - Write skills, connectors or database modules
-    - Contribute to the opsdroid home page (it’s a Jekyll website)
-    - Post about your experience using opsdroid on your own blog
-    - Contribute to opsdroid audio (python voice client for opsdroid)
-    - Submit lots of useful issues (5–10 good ones is probably sticker worthy)
-    - Create logo variations and banners for promotion
-    - Contribute to opsdroid desktop (electron and react app)
-    - Promote opsdroid in a meaningful way
+- **Requirements**: Perform atleast one of the actions mentioned in the blog post
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
 
@@ -102,17 +92,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Opsdroid**
 
 - **Swag**: Stickers, Limited-Edition Stickers
-- **Requirements** (Any one):
-    - Write code to solve issues in the opsdroid core repository
-    - Improve the documentation to help others get started
-    - Write skills, connectors or database modules
-    - Contribute to the opsdroid home page (it’s a Jekyll website)
-    - Post about your experience using opsdroid on your own blog
-    - Contribute to opsdroid audio (python voice client for opsdroid)
-    - Submit lots of useful issues (5–10 good ones is probably sticker worthy)
-    - Create logo variations and banners for promotion
-    - Contribute to opsdroid desktop (electron and react app)
-    - Promote opsdroid in a meaningful way
+- **Requirements**: Perform atleast one of the actions mentioned in the blog post
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
 
