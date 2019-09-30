@@ -47,6 +47,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+
 ### O
 
 #### **Opsdroid**
@@ -55,6 +56,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Perform at least one of the actions mentioned in the blog post
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
+
+### P
+
+#### **Parity**
+
+- **Swag**: Limited Edition Parity Gym Bag
+- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
+- **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
+
 
 ### U
 
@@ -120,6 +131,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 2 or more Merged PRs
 
 Nothing here yet!
+
+### 4 Merged PRs
+
+#### **Parity** (Limited Edition Parity Gym Bag)
+
+- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **Swag**: (Limited Edition Parity Gym Bag)
+- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
+- **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
 ### 5 Merged PRs
 
