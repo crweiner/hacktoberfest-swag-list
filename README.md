@@ -42,8 +42,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt and Stickers
 - **Requirements**:
-    - 1 - 3 pull requests: Limited-Edition Stickers
-    - 4+ pull requests: Limited-Edition T-shirt
+  - 1 - 3 pull requests: Limited-Edition Stickers
+  - 4+ pull requests: Limited-Edition T-shirt
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
