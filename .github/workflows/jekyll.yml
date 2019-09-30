@@ -1,6 +1,9 @@
 name: Jekyll site CI
 
-on: [push]
+on: [push, pull_request]
+  branches:
+  - gh-actions
+  - develop
 
 jobs:
   build:
