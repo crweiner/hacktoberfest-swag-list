@@ -47,6 +47,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+### P
+
+#### **Parity**
+
+- **Swag**: Limited Edition Parity Gym Bag
+- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
+- **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
+
 ### U
 
 #### **Uno Platform**
@@ -104,6 +113,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 2 or more Merged PRs
 
 Nothing here yet!
+
+### 4 Merged PRs
+
+#### **Parity** (Limited Edition Parity Gym Bag)
+
+- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **Swag**: (Limited Edition Parity Gym Bag)
+- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
+- **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
 ### 5 Merged PRs
 
