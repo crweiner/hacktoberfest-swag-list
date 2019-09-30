@@ -56,6 +56,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u). 
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
+### G
+
+### **Gatsbyjs**
+ 
+- **Swag**: T-shirt and Stickers
+- **Requirements**: 5 or more pull requests in any repository
+- **How to sign up**: [Gatsbyjs website](https://www.gatsbyjs.org)
+- **Notes**: If you contribute to the Gatsby org on GitHub, you can claim your swag by logging into the Gatsby Store and requesting a discount code. With five or more contributions, you can claim your Level 2 swag.
 ---
 
 ## Least Involvement to Most Involvement
