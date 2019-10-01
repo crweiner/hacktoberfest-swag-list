@@ -114,5 +114,5 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Kyle Tryon](https://github.com/KyleTryon)
 - [Eldad A. Fux](https://github.com/eldadfux)
 - [Dean Mckenzie](https://github.com/tuxhedoh)
-
+- [MasterKN48](https://github.com/masterkn48)
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
