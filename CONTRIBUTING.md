@@ -117,5 +117,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Dean Mckenzie](https://github.com/tuxhedoh)
 - [Willy Nzesseu](https://github.com/WilChrist)
 - [Robin Collet](https://github.com/taminoful)
+- [Nikhil](https://github.com/usernique)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
