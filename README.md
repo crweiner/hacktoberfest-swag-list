@@ -50,12 +50,21 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### O
 
+#### **OperationCode**
+- **Swag**: Stickers, T-Shirts
+- **Requirements**: 
+    - Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!
+    - Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!
+- **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform) to claim swag.
+- **Notes**: See the [blog post](https://github.com/OperationCode/START_HERE) for more information.
+
 #### **Opsdroid**
 
 - **Swag**: Stickers, Limited-Edition Stickers
 - **Requirements**: Perform at least one of the actions mentioned in the blog post
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
+
 
 ### P
 
@@ -128,6 +137,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: N/A
 
 ### 2 or more Merged PRs
+#### **OperationCode**
+- **Swag**: Stickers, T-Shirts
+- **Requirements**: 
+    - Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!
+    - Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!
+- **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform) to claim swag.
+- **Notes**: See the [blog post](https://github.com/OperationCode/START_HERE) for more information.
 
 #### **Parity** (Limited Edition Parity Gym Bag)
 
