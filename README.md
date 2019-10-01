@@ -63,7 +63,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### L
 
 #### **Les-Tilleuls.coop**
-- **Swag**: An API Platform surprise gift 
+
+- **Swag**: An API Platform surprise gift
 - **Requirements**: Create at least 4 PRs to [API Platform repositories](https://github.com/api-platform) during October.
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this [announcement from @dunglas on Twitter](https://twitter.com/dunglas/status/1178931354022694912).
@@ -168,7 +169,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: N/A
 
 #### **Les-Tilleuls.coop**
-- **Swag**: An API Platform surprise gift 
+
+- **Swag**: An API Platform surprise gift
 - **Requirements**: Create at least 4 PRs to [API Platform repositories](https://github.com/api-platform) during October.
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this [announcement from @dunglas on Twitter](https://twitter.com/dunglas/status/1178931354022694912).
