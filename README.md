@@ -42,10 +42,43 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt and Stickers
 - **Requirements**:
-    - 1 - 3 pull requests: Limited-Edition Stickers
-    - 4+ pull requests: Limited-Edition T-shirt
+  - 1 - 3 pull requests: Limited-Edition Stickers
+  - 4+ pull requests: Limited-Edition T-shirt
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
+
+
+### H
+
+#### **Hasura**
+
+- **Swag**: T-shirt and/or Stickers
+- **Requirements**:
+  - Open pull request for any of Haruna open source projects: Sticker Pack
+  - One or more pull requests with Hacktoberfest label gets merged: Limited-Edition T-shirt and Sticker Pack
+- **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
+- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
+
+### O
+
+#### **Opsdroid**
+
+- **Swag**: Stickers, Limited-Edition Stickers
+- **Requirements**: Perform at least one of the actions mentioned in the blog post
+- **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
+- **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
+
+
+### P
+
+#### **Parity**
+
+- **Swag**: Limited Edition Parity Gym Bag
+- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
+- **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
+
 
 ### U
 
@@ -77,6 +110,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+#### **Hasura** (Sticker Pack)
+
+- **Requirements**: Open pull request for any of Haruna open source projects: Sticker Pack
+- **Swag**: Sticker Pack
+- **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
+- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
 ### 1 Merged PR
 
 #### **Appwrite**
@@ -85,6 +125,23 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
+
+
+#### **Hasura** (Limited-Edition T-shirt and Sticker Pack)
+
+- **Requirements**: Create one or more pull requests with Hacktoberfest label gets merged.
+- **Swag**: T-shirt and Stickers
+- **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
+- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
+
+#### **Opsdroid**
+
+- **Swag**: Stickers, Limited-Edition Stickers
+- **Requirements**: Perform at least one of the actions mentioned in the blog post
+- **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
+- **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
+
 
 #### **Uno Platform**
 
@@ -112,6 +169,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 2 or more Merged PRs
 
 Nothing here yet!
+
+### 4 Merged PRs
+
+#### **Parity** (Limited Edition Parity Gym Bag)
+
+- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **Swag**: (Limited Edition Parity Gym Bag)
+- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
+- **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
 ### 5 Merged PRs
 

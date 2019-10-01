@@ -11,7 +11,6 @@ plugins:
   - jekyll-remote-theme
 include:
   - CONTRIBUTING.md
-  - DEVELOP.md
 exclude:
   - Gemfile
   - Gemfile.lock
