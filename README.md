@@ -212,6 +212,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
+#### **Operation Code**
+- **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
+- **Swag**: Stickers.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 #### **Valor Software** (Notepad or Wooden phone stand)
 
 - **Requirements**:
@@ -222,6 +228,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 
 ### 2 or more Merged PRs
+
+#### **Operation Code**
+- **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
+- **Swag**: T-shirt.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
 #### **Parity** (Limited Edition Parity Gym Bag)
 
