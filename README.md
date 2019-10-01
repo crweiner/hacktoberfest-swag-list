@@ -28,12 +28,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **Accord**
+
+- **Swag**: T-Shirt, Stickers
+- **Requirements**: Create at least one or more merged pull requests on any of [Accord Project repos](https://github.com/accordproject).
+- **How to sign up**: Make a PR on [Accord Project repos](https://github.com/accordproject) and we'll send you a link.
+- **Notes**: See the [blog post](https://www.accordproject.org/events/hacktoberfest-2019/) for more information
+
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
 - **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
+
 
 
 ### C
