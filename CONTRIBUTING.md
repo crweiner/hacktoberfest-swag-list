@@ -104,5 +104,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Eldad A. Fux](https://github.com/eldadfux)
 - [Cendekia P. Putra](https://github.com/cendekia)
 - [Dean Mckenzie](https://github.com/tuxhedoh)
+-[Shubham Verma](https://github.com/shubhamvrm)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
