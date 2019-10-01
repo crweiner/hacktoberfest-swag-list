@@ -60,6 +60,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
 
+### L
+
+#### **Les-Tilleuls.coop**
+
+- **Swag**: An API Platform surprise gift
+- **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
+
+
 ### O
 
 #### **Opsdroid**
@@ -157,6 +167,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: 4 pull requests in any repository
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: N/A
+
+#### **Les-Tilleuls.coop**
+
+- **Swag**: An API Platform surprise gift
+- **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
+
 
 ### 2 or more Merged PRs
 
