@@ -1,14 +1,10 @@
-# Hacktoberfest 2019 is about to start!
-
-## Please read this [Contributing](./CONTRIBUTING.md) list to see how to add a new company to the swag list.
-
----
-
 # Contributing
 
 We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!
 
 By opening up a pull request to add a new company offering swag or to fix something, you'll also be banking towards earning your official Hacktoberfest t-shirt!
+
+Check [Issues](https://github.com/crweiner/hacktoberfest-swag-list/issues) and current [Pull Requests](https://github.com/crweiner/hacktoberfest-swag-list/pulls) before contributing to avoid adding duplicates.
 
 Please follow these rules regarding how to add a new company to the List:
 
@@ -106,6 +102,8 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Adrienne Tacke](https://github.com/adriennetacke)
 - [Kyle Tryon](https://github.com/KyleTryon)
 - [Eldad A. Fux](https://github.com/eldadfux)
+- [Cendekia P. Putra](https://github.com/cendekia)
+- [Dean Mckenzie](https://github.com/tuxhedoh)
 - [Willy Nzesseu](https://github.com/WilChrist)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
