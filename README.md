@@ -44,6 +44,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+### G
+
+#### **Globo**
+
+- **Swag**: T-shirt
+- **Requirements**:
+  - Open two pull requests for any of Globo open source projects: Sticker Pack
+  - One or more pull requests needs to be approved
+- **How to sign up**: Make a PR on any of these: [Globo Issues](https://bit.ly/2nsxmgX)
+
 ### H
 
 #### **Hasura**
