@@ -96,6 +96,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join the Discord](https://discord.gg/python).
 - **Notes**:  See this page for their [post](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/).
 
+### T
+
+#### **Twilio**
+
+- **Swag**: Stickers, Twilio Socks
+- **Requirements**: Get one pull request merged into any project on [twilio-labs](github.com/twilio-labs) and   fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th to win a collection of stickers or contribute to two or more pull requests to earn a pair of twilio socks.
+- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Twilio.
+- **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
+
 ### U
 
 #### **Uno Platform**
@@ -205,6 +214,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
+
+#### **Twilio**
+
+- **Swag**: Stickers, Twilio Socks
+- **Requirements**: two or more pull request merged into any project on [twilio-labs](github.com/twilio-labs) and fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th.
+- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Twilio.
+- **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 #### **Valor Software** (Notepad or Wooden phone stand)
 
