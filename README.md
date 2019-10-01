@@ -82,6 +82,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
+#### **Python Discord**
+
+- **Swag**: Hacktoberfest PyDis t-shirts and 1 year JetBrains Licenses
+- **Requirements**:Two top contributors to their [repos](https://github.com/python-discord) will win a PyDis t-shirts, and three runners up will walk away with 1 year licenses for any JetBrains product of their choosing.
+- **How to sign up**: [Join the Discord](https://discord.gg/python).
+- **Notes**:  See this page for their [post](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/).
+
 ### U
 
 #### **Uno Platform**
@@ -213,5 +220,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Pen, Sticker, Notepad and Wooden phone stand
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentionned above, Wait for your special edition Hacktoberfest swag from Valor Software.
 - **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
+
+### Top Contributors
+
+#### **Python Discord**
+
+- **Swag**: Hacktoberfest PyDis t-shirts and 1 year JetBrains Licenses
+- **Requirements**:Two top contributors to their [repos](https://github.com/python-discord) will win a PyDis t-shirts, and three runners up will walk away with 1 year licenses for any JetBrains product of their choosing.
+- **How to sign up**: [Join the Discord](https://discord.gg/python).
+- **Notes**:  See this page for their [post](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/).
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
