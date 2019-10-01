@@ -76,15 +76,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
 
-### U
-
-#### **Umbraco**
-
-- **Swag**: T-shirt,Sickers
-- **Requirements**: Create at least one or more merged pull requests on any of [Umbraco](https://github.com/umbraco/Umbraco-CMS/blob/v8/dev/.github/CONTRIBUTING.md).
-- **How to sign up**: NA
-- **Notes**: See the [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
-
 #### **Uno Platform**
 
 - **Swag**: T-shirt
@@ -121,12 +112,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
 
-#### **Umbraco**
-
-- **Swag**: T-shirt,Sickers
-- **Requirements**: Create at least one or more merged pull requests on any of [Umbraco](https://github.com/umbraco/Umbraco-CMS/blob/v8/dev/.github/CONTRIBUTING.md).
-- **How to sign up**: NA
-- **Notes**: See the [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
 
 #### **Uno Platform**
 
@@ -151,6 +136,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: N/A
 
 ### 2 or more Merged PRs
+
 #### **OperationCode**
 - **Swag**: Stickers, T-Shirts
 - **Requirements**: 
