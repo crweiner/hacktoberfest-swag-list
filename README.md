@@ -76,6 +76,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u). 
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
+### V
+
+#### **Valor Software**
+
+- **Swag**: pen & sticker, notepad or wooden phone stand, or all of the above
+- **Requirements**: Create at least one or more pull requests (does not have to be accepted) on any issue tagged with the #Hacktoberfest label in the [ngx-bootstrap repo](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) during October.
+- **How to sign up**: Sign up to [GitHub](https://github.com/) and [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (No special sign-up for Valor Software required).
+- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
+
 ---
 
 ## Least Involvement to Most Involvement
@@ -88,6 +97,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Limited-Edition Stickers.
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
+
+#### **Valor Software**
+
+- **Swag**: pen & sticker
+- **Requirements**: Create one pull request on any issue tagged with the #Hacktoberfest label in the [ngx-bootstrap repo](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) during October.
+- **How to sign up**: Sign up to [GitHub](https://github.com/) and [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (No special sign-up for Valor Software required).
+- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
 
 ### 1 Merged PR
 
@@ -128,6 +144,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: N/A
 
+#### **Valor Software**
+
+- **Swag**: notepad or wooden phone stand
+- **Requirements**: Create three pull request on any issue tagged with the #Hacktoberfest label in the [ngx-bootstrap repo](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) during October.
+- **How to sign up**: Sign up to [GitHub](https://github.com/) and [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (No special sign-up for Valor Software required).
+- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
+
 ### 2 or more Merged PRs
 
 Nothing here yet!
@@ -140,6 +163,15 @@ Nothing here yet!
 - **Swag**: (Limited Edition Parity Gym Bag)
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
+
+### 5 or more PRs
+
+#### **Valor Software**
+
+- **Swag**: pen, sticker, notepad, & wooden phone stand
+- **Requirements**: Create five pull request on any issue tagged with the #Hacktoberfest label in the [ngx-bootstrap repo](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) during October.
+- **How to sign up**: Sign up to [GitHub](https://github.com/) and [Hacktoberfest](https://hacktoberfest.digitalocean.com/) (No special sign-up for Valor Software required).
+- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
 
 ### 5 Merged PRs
 
