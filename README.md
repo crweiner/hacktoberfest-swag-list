@@ -47,6 +47,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+### H
+
+#### **Hasura**
+
+- **Swag**: T-shirt
+- **Requirements**: Create and get merged at least 2 pull request for 
+   tagged Hasura repositories mentioned 
+   [here](https://blog.hasura.io/hasura-joins-hacktoberfest-2019#our-open-source-projects).
+- **How to sign up**: Sign up via offical [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+  and grap an [issue](https://github.com/hasura/graphql-engine/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22hacktoberfest%22+)
+  at one of the tagged repositories.
+- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information.
+
 ### U
 
 #### **Uno Platform**
@@ -86,6 +99,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
 ### 2 or more PRs
+
+#### **Hasura**
+
+- **Swag**: T-shirt
+- **Requirements**: Create and get merged at least 2 pull request for 
+   tagged Hasura repositories mentioned 
+   [here](https://blog.hasura.io/hasura-joins-hacktoberfest-2019#our-open-source-projects).
+- **How to sign up**: Sign up via offical [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+  and grap an [issue](https://github.com/hasura/graphql-engine/issues?utf8=%E2%9C%93&q=is%3Aopen+is%3Aissue+label%3A%22hacktoberfest%22+)
+  at one of the tagged repositories.
+- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information.
 
 #### **CircleCI** (Limited-Edition T-shirt)
 - **Requirements**:
