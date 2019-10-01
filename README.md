@@ -65,9 +65,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Les-Tilleuls.coop**
 
 - **Swag**: An API Platform surprise gift
-- **Requirements**: Create at least 4 PRs to [API Platform repositories](https://github.com/api-platform) during October.
+- **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
 - **How to sign up**: Not clarified by now.
-- **Notes**: See this [announcement from @dunglas on Twitter](https://twitter.com/dunglas/status/1178931354022694912).
+- **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
 
 ### O
@@ -171,9 +171,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Les-Tilleuls.coop**
 
 - **Swag**: An API Platform surprise gift
-- **Requirements**: Create at least 4 PRs to [API Platform repositories](https://github.com/api-platform) during October.
+- **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
 - **How to sign up**: Not clarified by now.
-- **Notes**: See this [announcement from @dunglas on Twitter](https://twitter.com/dunglas/status/1178931354022694912).
+- **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
 
 ### 2 or more Merged PRs
