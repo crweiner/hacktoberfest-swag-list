@@ -47,6 +47,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+
+### H
+
+#### **Hasura**
+
+- **Swag**: T-shirt and Stickers
+- **Requirements**:
+    - 1 Open Pull Request: Stickers
+    - 1 Merged Pull Request: T-shirt
+- **How to sign up**: Make a PR either on the [graphql-engine](https://github.com/hasura/graphql-engine) or [learn-graphql](https://github.com/hasura/learn-graphql) repos and you'll be contacted.
+- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information.
+
+
 ### P
 
 #### **Parity**
@@ -78,6 +91,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+#### **Hasura** (Stickers)
+
+- **Swag**: Stickers
+- **Requirements**:
+    - 1 Open Pull Request: Stickers
+- **How to sign up**: Make a PR either on the [graphql-engine](https://github.com/hasura/graphql-engine) or [learn-graphql](https://github.com/hasura/learn-graphql) repos and you'll be contacted.
+- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information.
+
 ### 1 Merged PR
 
 #### **Appwrite**
@@ -86,6 +107,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
+
+#### **Hasura** (T-shirt)
+
+- **Swag**: T-shirt
+- **Requirements**:
+    - 1 Merged Pull Request: T-shirt
+- **How to sign up**: Make a PR either on the [graphql-engine](https://github.com/hasura/graphql-engine) or [learn-graphql](https://github.com/hasura/learn-graphql) repos and you'll be contacted.
+- **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information.
 
 #### **Uno Platform**
 
