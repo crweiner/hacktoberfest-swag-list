@@ -102,5 +102,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Adrienne Tacke](https://github.com/adriennetacke)
 - [Kyle Tryon](https://github.com/KyleTryon)
 - [Eldad A. Fux](https://github.com/eldadfux)
+- [Dean Mckenzie](https://github.com/tuxhedoh)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
