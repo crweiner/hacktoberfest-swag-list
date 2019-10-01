@@ -60,6 +60,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
 
+### L
+
+#### **Les-Tilleuls.coop**
+- **Swag**: An API Platform surprise gift 
+- **Requirements**: Create at least 4 PRs to [API Platform repositories](https://github.com/api-platform) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: See this [announcement from @dunglas on Twitter](https://twitter.com/dunglas/status/1178931354022694912).
+
+
 ### O
 
 #### **Opsdroid**
@@ -157,6 +166,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: 4 pull requests in any repository
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: N/A
+
+#### **Les-Tilleuls.coop**
+- **Swag**: An API Platform surprise gift 
+- **Requirements**: Create at least 4 PRs to [API Platform repositories](https://github.com/api-platform) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: See this [announcement from @dunglas on Twitter](https://twitter.com/dunglas/status/1178931354022694912).
+
 
 ### 2 or more Merged PRs
 
