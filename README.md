@@ -22,7 +22,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt and Stickers
 - **Requirements**: 4 pull requests in any repository
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: N/A
+- **Notes**: All PRs count unless the repo has been marked spam, or the PR is marked as spam or invalid.
 
 ## A to Z Order of Companies
 
