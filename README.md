@@ -26,6 +26,26 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **Accord Project**
+
+- **Swag**: T-shirt and Stickers
+- **Requirements**: Create pull requests on [Accord Project's](https://accordproject.org) participating repositories.
+
+  *Participating repositories*
+  * [Ergo](https://github.com/accordproject/ergo)
+  * [Cicero](https://github.com/accordproject/cicero)
+  * [Concerto](https://github.com/accordproject/concerto)
+  * [Editor](https://github.com/accordproject/markdown-editor)
+  * [Transform](https://github.com/accordproject/markdown-transform)
+  * [Cicero UI](https://github.com/accordproject/cicero-ui)
+  * [Template Studio](https://github.com/accordproject/template-studio-v2)
+  * [Template Library](https://github.com/accordproject/cicero-template-library)
+  * [VSCode Extension](https://github.com/accordproject/cicero-vscode-extension)
+  * [Tech Docs](https://github.com/accordproject/techdocs)
+  
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
