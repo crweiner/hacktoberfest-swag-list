@@ -29,19 +29,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Accord Project**
 
 - **Swag**: T-shirt and Stickers
-- **Requirements**: Create pull requests on [Accord Project's](https://accordproject.org) participating repositories.
+- **Requirements**: Create pull requests on [Accord Project's](https://accordproject.org) participating repositories which needn't necessarily be merged in October.
 
-  *Participating repositories*
-  * [Ergo](https://github.com/accordproject/ergo)
-  * [Cicero](https://github.com/accordproject/cicero)
-  * [Concerto](https://github.com/accordproject/concerto)
-  * [Editor](https://github.com/accordproject/markdown-editor)
-  * [Transform](https://github.com/accordproject/markdown-transform)
-  * [Cicero UI](https://github.com/accordproject/cicero-ui)
-  * [Template Studio](https://github.com/accordproject/template-studio-v2)
-  * [Template Library](https://github.com/accordproject/cicero-template-library)
-  * [VSCode Extension](https://github.com/accordproject/cicero-vscode-extension)
-  * [Tech Docs](https://github.com/accordproject/techdocs)
+    * 1 `Difficulty: Challenging` PR or 2 `Difficulty: Medium` PRs or 5 `Difficulty: Starter` PRs: limited edition t-shirt and stickers
+    * 2 PRs across any difficulty level: limited edition stickers
+
+    View the participating repositories [here](https://www.accordproject.org/events/hacktoberfest-2019/).
 
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
@@ -218,6 +211,23 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
 ### 2 or more PRs
+
+#### **Accord Project** (stickers)
+
+- **Requirements**: 2 pull requests across any difficulty
+- **Swag**: limited edition stickers
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
+#### **Accord Project** (limited edition t-shirt and stickers)
+
+- **Requirements**: either of the three
+    * 1 valid `Difficulty: Challenging` PR
+    * 2 valid `Difficulty: Medium` PR
+    * 5 valid `Difficulty: Starter` PR
+- **Swag**: limited edition stickers and t-shirt
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
 #### **CircleCI** (Limited-Edition T-shirt)
 
