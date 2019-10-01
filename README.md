@@ -106,9 +106,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### Any - 1 PR
 
 #### **CircleCI** (Limited-Edition Stickers)
-- **Requirements**:
-  - 1 - 3 pull requests (to "orbs").
+
 - **Swag**: Limited-Edition Stickers.
+- **Requirements**: 1 - 3 pull requests (to "orbs").
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
@@ -155,9 +155,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 2 or more PRs
 
 #### **CircleCI** (Limited-Edition T-shirt)
-- **Requirements**:
-  - 4+ pull requests (to "orbs").
 - **Swag**: Limited-Edition T-shirt.
+- **Requirements**: 4+ pull requests (to "orbs").
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
@@ -177,10 +176,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 
 ### 2 or more Merged PRs
-
-Nothing here yet!
-
-### 4 Merged PRs
 
 #### **Parity** (Limited Edition Parity Gym Bag)
 
