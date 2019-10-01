@@ -73,6 +73,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) for more information.
 
+#### **Operation Code**
+- **Swag**: Stickers, T-shirt.
+- **Requirements**: Resolve 3 issues (for the t-shirt) or merge 2 pull requests (for the stickers) in any one of the Operation Code repositories.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 #### **Opsdroid**
 
 - **Swag**: Stickers, Limited-Edition Stickers
