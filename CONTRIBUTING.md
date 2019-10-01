@@ -52,17 +52,6 @@ If your involvement requirements are a bit different or do not fit into this sca
 
 Depending on your involvement requirements, place your company within the appropriate section.
 
-This section of the list will follow a slightly different set of formatting in order to make the requirements more prominant: 
-
-```
-#### **Company Name** (swag earned at this level)
-- **Requirements**: If the company only offers one type of swag, then state the requirements here
-  - If they offer multiple levels of swag, then record this particular swag item here as an indented bullet point
-- **Swag**: (T-shirt, stickers, etc)
-- **How to sign up**: (Link to signup page using inline formatting of [text](URL))
-- **Notes**: (If needed, otherwise write N/A)
-```
-
 If you have multiple types of swag for different involvement levels, be sure to add two separate entries for each individual piece of swag earned! For example, Operation Code has two types of swag earned at different levels:
 
 #### **Operation Code**
@@ -113,6 +102,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Adrienne Tacke](https://github.com/adriennetacke)
 - [Kyle Tryon](https://github.com/KyleTryon)
 - [Eldad A. Fux](https://github.com/eldadfux)
+- [Cendekia P. Putra](https://github.com/cendekia)
 - [Dean Mckenzie](https://github.com/tuxhedoh)
 - [MasterKN48](https://github.com/masterkn48)
 
