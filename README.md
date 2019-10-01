@@ -159,6 +159,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform) to claim swag.
 - **Notes**: See the [blog post](https://github.com/OperationCode/START_HERE) for more information.
 
+### 4 Merged PRs
+
+#### **Parity** (Limited Edition Parity Gym Bag)
+
+- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **Swag**: (Limited Edition Parity Gym Bag)
+- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
+- **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
 ### 5 Merged PRs
 
