@@ -55,6 +55,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
+### L
+
+#### **Les-Tilleuls.coop**
+
+- **Swag**: An API Platform surprise gift
+- **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
+
 ### O
 
 #### **Opsdroid**
@@ -102,6 +111,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 1 - 3 pull requests (to "orbs").
 - **Swag**: Limited-Edition Stickers.
+- **Requirements**: 1 - 3 pull requests (to "orbs").
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
@@ -157,6 +167,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 4+ pull requests (to "orbs").
 - **Swag**: Limited-Edition T-shirt.
+- **Requirements**: 4+ pull requests (to "orbs").
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
@@ -167,11 +178,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: N/A
 
-### 2 or more Merged PRs
+#### **Les-Tilleuls.coop**
 
-Nothing here yet!
-
-### 3 or more PRs
+- **Swag**: An API Platform surprise gift
+- **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
 #### **Valor Software** (Notepad or Wooden phone stand)
 
@@ -181,7 +193,8 @@ Nothing here yet!
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentionned above, Wait for your special edition Hacktoberfest swag from Valor Software.
 - **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
 
-### 4 Merged PRs
+
+### 2 or more Merged PRs
 
 #### **Parity** (Limited Edition Parity Gym Bag)
 
@@ -190,7 +203,8 @@ Nothing here yet!
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
-### 5 or more PRs
+
+### 5 Merged PRs
 
 #### **Valor Software** (Pen, Sticker, Notepad and Wooden phone stand)
 
@@ -199,9 +213,5 @@ Nothing here yet!
 - **Swag**: Pen, Sticker, Notepad and Wooden phone stand
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentionned above, Wait for your special edition Hacktoberfest swag from Valor Software.
 - **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
-
-### 5 Merged PRs
-
-Nothing here yet!
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
