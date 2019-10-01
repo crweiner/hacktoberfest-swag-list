@@ -56,6 +56,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u). 
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
+### V
+
+#### **Valor Software**
+
+- **Swag**: Pen, Sticker, Notepad, and a Wooden phone stand
+- **Requirements**: Create at least one (for a pen and a sticker), three (for a notepad or a wooden phone stand) or five (for the full kit : A pen, a sticker. a notepad, and a wooden phone stand) pull requests to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentionned above, Wait for your special edition Hacktoberfest swag from Valor Software. 
+- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
+
 ---
 
 ## Least Involvement to Most Involvement
@@ -68,6 +77,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Limited-Edition Stickers.
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
+
+#### **Valor Software**
+
+- **Swag**: Pen, Sticker, Notepad, and a Wooden phone stand
+- **Requirements**: Create at least one (for a pen and a sticker), three (for a notepad or a wooden phone stand) or five (for the full kit : A pen, a sticker. a notepad, and a wooden phone stand) pull requests to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentionned above, Wait for your special edition Hacktoberfest swag from Valor Software. 
+- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
 
 ### 1 Merged PR
 
