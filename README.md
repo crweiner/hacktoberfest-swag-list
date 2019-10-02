@@ -30,9 +30,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-Shirt, Swags
 - **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
-- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November, listing out qualifiying contributors' handles in the file and further instructions to get the swags.
-- **Notes**: In November, Magento folks will file an issue along with a list of qualifiying contributors (those who submitted five PRs during October) with further instructions/steps regarding how to get the swags.
-- **Official blog post announcement:** See more on [official blog](https://opensource.adobe.com/squashtoberfest/)
+- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
+- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
 
 #### **Appwrite**
 
@@ -245,11 +244,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Adobe** (T-Shirt and other swags)
 
-- **Requirements**:
-  - Create five one or more Pull Requests on any of Adobe or Magento repositories.
-- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November, listing out qualifiying contributors' handles in the file and further instructions to get the swags.
-- **Notes**: In November, Magento folks will file an issue along with a list of qualifiying contributors (those who submitted five PRs during October) with further instructions/steps regarding how to get the swags.
-- **Official blog post announcement:** See more on [official blog](https://opensource.adobe.com/squashtoberfest/)
+- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **Swag**: T-Shirt, Swags
+- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
+- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
 
 ### Top Contributors
 
