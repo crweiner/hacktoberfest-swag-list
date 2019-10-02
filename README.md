@@ -64,11 +64,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### **Gatsby**
 
-- **Swag**: T-shirt, Stickers, Socks, Hats, Pants
+- **Swag**: T-shirt, Stickers, Socks, Hats, Pants, Hoodies
 - **Requirements**:
   - 1 merged pull requests: Level 1 swag
   - 5 merged pull requests: Level 2 swag
-- **How to sign up**: Just submit your PRs to [Gatsby] (https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
+- **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
 - **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
 
 ### H
@@ -208,10 +208,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Gatsby** (Level 1 swag)
 
-- **Swag**: Stickers, T-shirt, Hat
+- **Swag**: Stickers, T-shirt, Socks, Hat
 - **Requirements**:
   - 1 merged pull requests: Level 1 swag  
-- **How to sign up**: Just submit your PRs to [Gatsby] (https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
+- **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
 - **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
 
 #### **Hasura** (Limited-Edition T-shirt and Sticker Pack)
@@ -341,10 +341,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Gatsby** (Level 2 swag)
 
-- **Swag**: Pants
+- **Swag**: Pants, Hoodies and Coffee tumblers.
 - **Requirements**:
   - 5 merged pull requests: Level 2 swag  
-- **How to sign up**: Just submit your PRs to [Gatsby] (https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
+- **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
 - **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
 
 #### **Valor Software** (Pen, Sticker, Notepad and Wooden phone stand)
