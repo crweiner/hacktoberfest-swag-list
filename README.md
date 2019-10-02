@@ -117,7 +117,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Twilio**
 
 - **Swag**: Stickers, Twilio Socks
-- **Requirements**: Get one pull request merged into any project on [twilio-labs](github.com/twilio-labs) to win a collection of stickers or contribute to two or more pull requests to earn a pair of Twilio socks.
+- **Requirements**: Get one pull request merged into any project on [twilio-labs](https://github.com/twilio-labs) to win a collection of stickers or contribute to two or more pull requests to earn a pair of Twilio socks.
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
 - **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
@@ -209,7 +209,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Twilio (Stickers)**
 
 - **Swag**: Stickers
-- **Requirements**: one pull requests merged into any project on [twilio-labs](github.com/twilio-labs) .
+- **Requirements**: one pull requests merged into any project on [twilio-labs](https://github.com/twilio-labs) .
 - **How to sign up**: Sign up to GitHub, Make pull request as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
 - **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
@@ -248,7 +248,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Twilio (Stickers and Socks)**
 
 - **Swag**: Stickers, Twilio Socks
-- **Requirements**: Two or more pull requests into any project on [twilio-labs](github.com/twilio-labs) .
+- **Requirements**: Two or more pull requests into any project on [twilio-labs](https://github.com/twilio-labs) .
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
 - **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
