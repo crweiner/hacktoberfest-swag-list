@@ -339,7 +339,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
 
-#### **Gatsby** (Level 1 swag)
+#### **Gatsby** (Level 2 swag)
 
 - **Swag**: Pants
 - **Requirements**:
