@@ -101,8 +101,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Twilio**
 
 - **Swag**: Stickers, Twilio Socks
-- **Requirements**: Get one pull request merged into any project on [twilio-labs](github.com/twilio-labs) and   fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th to win a collection of stickers or contribute to two or more pull requests to earn a pair of twilio socks.
-- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Twilio.
+- **Requirements**: Get one pull request merged into any project on [twilio-labs](github.com/twilio-labs) to win a collection of stickers or contribute to two or more pull requests to earn a pair of twilio socks.
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
 - **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 ### U
@@ -183,6 +183,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
 
+#### **Twilio**
+
+- **Swag**: Stickers
+- **Requirements**: one pull requests merged into any project on [twilio-labs](github.com/twilio-labs) .
+- **How to sign up**: Sign up to GitHub, Make pull request as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
+- **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
+
 #### **Uno Platform**
 
 - **Swag**: T-shirt
@@ -218,8 +225,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Twilio**
 
 - **Swag**: Stickers, Twilio Socks
-- **Requirements**: two or more pull request merged into any project on [twilio-labs](github.com/twilio-labs) and fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th.
-- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Twilio.
+- **Requirements**: two or more pull requests into any project on [twilio-labs](github.com/twilio-labs) .
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
 - **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 #### **Valor Software** (Notepad or Wooden phone stand)
