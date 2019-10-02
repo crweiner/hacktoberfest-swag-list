@@ -121,6 +121,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
 
+#### **SenseNet**
+
+- **Swag**: SenseNet Limited edition T-shirt
+- **Requirements**: The first 100 participants who makes a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
+- **How to sign up**: Sign up to the Hacktoberfest site, share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
+- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here)
+
 ### T
 
 #### **Twilio**
@@ -169,6 +176,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker Pack
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
+#### **SenseNet** (Limited edition T-shirt)
+
+- **Swag**: SenseNet Limited edition T-shirt
+- **Requirements**: The first 100 participants who makes a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
+- **How to sign up**: Sign up to the Hacktoberfest site, share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
+- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here)
 
 #### **Valor Software** (Pen and Sticker)
 
