@@ -313,6 +313,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
+#### **Adobe** (T-Shirt and other swags)
+
+- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **Swag**: T-Shirt, Swags
+- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
+- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
+
 #### **Valor Software** (Pen, Sticker, Notepad and Wooden phone stand)
 
 - **Requirements**:
@@ -321,12 +328,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
 - **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
 
-#### **Adobe** (T-Shirt and other swags)
-
-- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
-- **Swag**: T-Shirt, Swags
-- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
-- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
 
 ### Top Contributors
 
