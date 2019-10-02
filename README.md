@@ -26,6 +26,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **Adobe**
+
+- **Swag**: T-Shirt, Swags
+- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November, listing out qualifiying contributors' handles in the file and further instructions to get the swags.  
+- **Notes**: In November, Magento folks will file an issue along with a list of qualifiying contributors (those who submitted five PRs during October) with further instructions/steps regarding how to get the swags.
+- **Official blog post announcement:** See more on [official blog](https://opensource.adobe.com/squashtoberfest/)
+
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
@@ -234,6 +242,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Pen, Sticker, Notepad and Wooden phone stand
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
 - **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
+
+#### **Adobe** (T-Shirt and other swags)
+
+- **Requirements**:
+  - Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November, listing out qualifiying contributors' handles in the file and further instructions to get the swags. 
+- **Notes**: In November, Magento folks will file an issue along with a list of qualifiying contributors (those who submitted five PRs during October) with further instructions/steps regarding how to get the swags.
+- **Official blog post announcement:** See more on [official blog](https://opensource.adobe.com/squashtoberfest/)
 
 ### Top Contributors
 
