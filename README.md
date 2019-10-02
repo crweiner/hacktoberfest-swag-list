@@ -60,6 +60,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+### G
+
+### **Gatsby**
+
+- **Swag**: T-shirt, Stickers, Socks, Hats, Pants
+- **Requirements**:
+  - 1 merged pull requests: Level 1 swag
+  - 5 merged pull requests: Level 2 swag
+- **How to sign up**: Just submit your PRs to [Gatsby] (https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
+- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
+
 ### H
 
 #### **Hasura**
@@ -195,6 +206,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
+#### **Gatsby** (Level 1 swag)
+
+- **Swag**: Stickers, T-shirt, Hat
+- **Requirements**:
+  - 1 merged pull requests: Level 1 swag  
+- **How to sign up**: Just submit your PRs to [Gatsby] (https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
+- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
+
 #### **Hasura** (Limited-Edition T-shirt and Sticker Pack)
 
 - **Requirements**: Create one or more pull requests with Hacktoberfest label gets merged.
@@ -319,6 +338,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, Swags
 - **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
+
+#### **Gatsby** (Level 1 swag)
+
+- **Swag**: Pants
+- **Requirements**:
+  - 5 merged pull requests: Level 2 swag  
+- **How to sign up**: Just submit your PRs to [Gatsby] (https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
+- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
 
 #### **Valor Software** (Pen, Sticker, Notepad and Wooden phone stand)
 
