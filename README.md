@@ -63,8 +63,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - Contribution anything at all will receive a LBRY sticker.
   - Contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
-- **How to sign up**: PR to LBRY repos. 
-- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019). https://lbry.tech/contribute
+- **How to sign up**: PR to LBRY repos.
+- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
 
 #### **Les-Tilleuls.coop**
 
@@ -151,7 +151,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Contribution anything at all will receive a LBRY sticker.
   - Contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
 - **How to sign up**: PR to LBRY repos.
-- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019). https://lbry.tech/contribute
+- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
 
 #### **Valor Software** (Pen and Sticker)
 
