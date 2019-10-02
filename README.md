@@ -81,6 +81,15 @@ Go ahead and fill out the [Contributors Submissions form](https://docs.google.co
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) for more information.
 
+#### **Operationcode**
+
+- **Swag**: 
+* Resolve 3 issues in any one of our repositories and receive a white or black Operation Code t-shirt!
+* Merge 2 pull requests in any one of our repositories and receive a small pack of Operation Code stickers!
+- **Requirements**: Perform at least one of the actions mentioned in the blog post
+- **How to sign up**: [Repo](https://github.com/OperationCode/START_HERE) 
+   [Swag link](https://forms.gle/KLNUkrJdPgqAEDkd9) 
+
 #### **Opsdroid**
 
 - **Swag**: Stickers, Limited-Edition Stickers
