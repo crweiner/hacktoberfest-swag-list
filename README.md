@@ -291,7 +291,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**: There are several ways to earn a shirt, including:
   - 2 valid _Difficulty: Medium_ PR
-  - 5 valid _Difficulty: Starter_ PR
 - **Swag**: limited edition stickers and t-shirt
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
@@ -305,6 +304,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 
 ### 5 Merged PRs
+
+#### **Accord Project** (limited edition t-shirt and stickers)
+
+- **Requirements**: There are several ways to earn a shirt, including:
+  - 5 valid _Difficulty: Starter_ PR
+- **Swag**: limited edition stickers and t-shirt
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
 #### **Valor Software** (Pen, Sticker, Notepad and Wooden phone stand)
 
