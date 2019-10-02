@@ -43,6 +43,7 @@ Also add your company information to the correct section for this list. So far, 
 - 2 or more PRs
 - 2 or more Merged PRs
 - 5 Merged PRs
+- Top Contributors
 
 If your involvement requirements are a bit different or do not fit into this scale, feel free to create another level in the scale! Use the same Markdown formatting as a letter heading:
 
