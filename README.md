@@ -64,6 +64,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
+### M
+
+#### **Magneto/Adobe**
+- **Swag**: Tshirts and other cool swag.
+- **Requirements**: To qualify, submit 5 or more pull requests during October 2019 to any open repositories under github.com/adobe or github.com/magento
+- **How to sign up**: Once you’ve identified an issue you think you can help out with, comment on the issue and mention you’d like to tackle it. Work with the project maintainers to get the issue assigned to you. No website for sign-up mentioned as of yet. 
+- **Notes**: Check out this website for [more details and FAQs](https://opensource.adobe.com/squashtoberfest/) 
+
 ### O
 
 #### **OpenEBS**
