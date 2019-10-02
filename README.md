@@ -26,6 +26,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **Accord Project**
+
+- **Swag**: T-shirt and Stickers
+- **Requirements**: Create pull requests on Accord Project's [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/) which needn't necessarily be merged in October.
+  - 1 _Difficulty: Challenging PR_ or _2 Difficulty: Medium PRs_ or _5 Difficulty: Starter PRs:_ limited edition t-shirt and stickers
+  - 2 PRs across any difficulty level: limited edition stickers
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
+#### **Adobe**
+
+- **Swag**: T-Shirt, Swags
+- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
+- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
+
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
@@ -69,11 +85,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **OpenEBS**
 
 - **Swag**: Stickers, T-shirt, Laptop.
-- **Requirements**: Perform at least one of the actions mentioned in the blog post
+- **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **How to sign up**: Not clarified by now.
-- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) for more information.
+- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
 
 #### **Operation Code**
+
 - **Swag**: Stickers, T-shirt.
 - **Requirements**: Resolve 3 issues (for the t-shirt) or merge 2 pull requests (for the stickers) in any one of the Operation Code repositories.
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
@@ -101,6 +118,24 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:Two top contributors to their [repos](https://github.com/python-discord) will win a PyDis t-shirts, and three runners up will walk away with 1 year licenses for any JetBrains product of their choosing.
 - **How to sign up**: [Join the Discord](https://discord.gg/python).
 - **Notes**:  See this page for their [post](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/).
+
+### S
+
+#### **SalesAgility**
+
+- **Swag**: SuiteCRM contributor mug
+- **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/salesagility/) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
+
+### T
+
+#### **Twilio**
+
+- **Swag**: Stickers, Twilio Socks
+- **Requirements**: Get one pull request merged into any project on [twilio-labs](https://github.com/twilio-labs) to win a collection of stickers or contribute to two or more pull requests to earn a pair of Twilio socks.
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
+- **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 ### U
 
@@ -152,6 +187,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 1 Merged PR
 
+#### **Accord Project** (limited edition t-shirt and stickers)
+
+- **Requirements**: There are several ways to earn a shirt, including:
+  - 1 valid _Difficulty: Challenging_ PR
+- **Swag**: limited edition stickers and t-shirt
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
@@ -169,9 +212,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **OpenEBS**
 
 - **Swag**: Stickers, T-shirt, Laptop.
-- **Requirements**: Perform at least one of the actions mentioned in the blog post
+- **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **How to sign up**: Not clarified by now.
-- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) for more information.
+- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
 
 #### **Opsdroid**
 
@@ -179,6 +222,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Perform at least one of the actions mentioned in the blog post
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
+
+#### **SalesAgility**
+
+- **Swag**: SuiteCRM contributor mug
+- **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/salesagility/) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
+
+#### **Twilio (Stickers)**
+
+- **Swag**: Stickers
+- **Requirements**: one pull requests merged into any project on [twilio-labs](https://github.com/twilio-labs) .
+- **How to sign up**: Sign up to GitHub, Make pull request as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
+- **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 #### **Uno Platform**
 
@@ -213,10 +270,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
 #### **Operation Code**
+
 - **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
 - **Swag**: Stickers.
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
+#### **Twilio (Stickers and Socks)**
+
+- **Swag**: Stickers, Twilio Socks
+- **Requirements**: Two or more pull requests into any project on [twilio-labs](https://github.com/twilio-labs) .
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
+- **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 #### **Valor Software** (Notepad or Wooden phone stand)
 
@@ -230,10 +295,26 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 2 or more Merged PRs
 
 #### **Operation Code**
+
 - **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
 - **Swag**: T-shirt.
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
+#### **Accord Project** (stickers)
+
+- **Requirements**: 2 pull requests across any difficulty
+- **Swag**: limited edition stickers
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
+#### **Accord Project** (limited edition t-shirt and stickers)
+
+- **Requirements**: There are several ways to earn a shirt, including:
+  - 2 valid _Difficulty: Medium_ PR
+- **Swag**: limited edition stickers and t-shirt
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
 #### **Parity** (Limited Edition Parity Gym Bag)
 
@@ -245,6 +326,21 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 5 Merged PRs
 
+#### **Accord Project** (limited edition t-shirt and stickers)
+
+- **Requirements**: There are several ways to earn a shirt, including:
+  - 5 valid _Difficulty: Starter_ PR
+- **Swag**: limited edition stickers and t-shirt
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
+#### **Adobe** (T-Shirt and other swags)
+
+- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **Swag**: T-Shirt, Swags
+- **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
+- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
+
 #### **Valor Software** (Pen, Sticker, Notepad and Wooden phone stand)
 
 - **Requirements**:
@@ -252,6 +348,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Pen, Sticker, Notepad and Wooden phone stand
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
 - **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
+
 
 ### Top Contributors
 
