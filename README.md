@@ -1,6 +1,6 @@
 # Hacktoberfest 2019 Swag List
 
-It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
+It's that time of the year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2019 and how you can get your hands on some free gifts for your time and help.
 
@@ -233,14 +233,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Pen, Sticker, Notepad and Wooden phone stand: Create five pull requests to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
 - **Swag**: Pen, Sticker, Notepad and Wooden phone stand
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
-- **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
+- **Notes**: Refer the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
 
 ### Top Contributors
 
 #### **Python Discord**
 
 - **Swag**: Hacktoberfest PyDis t-shirts and 1 year JetBrains Licenses
-- **Requirements**:Two top contributors to their [repos](https://github.com/python-discord) will win a PyDis t-shirts, and three runners up will walk away with 1 year licenses for any JetBrains product of their choosing.
+- **Requirements**:Two top contributors to their [repos](https://github.com/python-discord) will win a PyDis t-shirts, and three runners up will walk away with a 1 year license for any JetBrains product of their choice.
 - **How to sign up**: [Join the Discord](https://discord.gg/python).
 - **Notes**:  See this page for their [post](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/).
 
