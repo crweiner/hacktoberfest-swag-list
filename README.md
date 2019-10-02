@@ -163,9 +163,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **OpenEBS**
 
 - **Swag**: Stickers, T-shirt, Laptop.
-- **Requirements**: Perform at least one of the actions mentioned in the blog post
+- **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **How to sign up**: Not clarified by now.
-- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) for more information.
+- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
 
 #### **Opsdroid**
 
