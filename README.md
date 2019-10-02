@@ -80,6 +80,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
 
+#### **OperationCode**
+
+- **Swag**: Stickers, T-shirts
+- **Requirements**: Resolve three issues for a T-shirt or merge two pull requests for stickers.
+- **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform?usp=send_form) to claim swag.
+- **Notes**: See the [blog post](https://github.com/OperationCode/START_HERE) for more information.
+
+#### **Onebuild (1Build)**
+
+- **Swag**: T-shirts
+- **Requirements**: Contribute to the platform's open issues listed here:https://github.com/gopinath-langote/1build/releases/tag/v1.3.0.
+- **How to sign up**: Not mentioned.
+- **Notes**: See the [blog post](https://twitter.com/GopinathLangote/status/1176436040439148545) for more information.
+
+
+
 ### P
 
 #### **Parity**
@@ -102,8 +118,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt
 - **Requirements**: Create at least one or more merged pull requests on any of [Uno Platform repos](https://github.com/unoplatform).
-- **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u). 
+- **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u).
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
+
+#### **Umbraco**
+
+- **Swag**: Swag
+- **Requirements**: Sends a pull request that is accepted to merge in October.
+- **How to sign up**: They will contact you afterwards.
+- **Notes**: See the [blog post](https://umbraco.com/blog/happy-hacktoberfest/) for more information.
 
 ### V
 
@@ -181,6 +204,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u).
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
+#### **Umbraco**
+
+- **Swag**: Swag
+- **Requirements**: Sends a pull request that is accepted to merge in October.
+- **How to sign up**: They will contact you afterwards.
+- **Notes**: See the [blog post](https://umbraco.com/blog/happy-hacktoberfest/) for more information.
+
+#### **Onebuild (1Build)**
+
+- **Swag**: T-shirts
+- **Requirements**: Contribute to the platform's open issues listed here:https://github.com/gopinath-langote/1build/releases/tag/v1.3.0.
+- **How to sign up**: Not mentioned.
+- **Notes**: See the [blog post](https://twitter.com/GopinathLangote/status/1176436040439148545) for more information.
+
 ### 2 or more PRs
 
 #### **CircleCI** (Limited-Edition T-shirt)
@@ -223,6 +260,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: (Limited Edition Parity Gym Bag)
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
+
+#### **OperationCode**
+
+- **Swag**: Stickers, T-shirts
+- **Requirements**: Resolve three issues for a T-shirt or merge two pull requests for stickers.
+- **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform?usp=send_form) to claim swag.
+- **Notes**: See the [blog post](https://github.com/OperationCode/START_HERE) for more information.
 
 
 ### 5 Merged PRs
