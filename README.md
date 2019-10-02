@@ -26,6 +26,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **Accord**
+
+- **Swag**: T-Shirt, Stickers
+- **Requirements**: Create at least one or more merged pull requests on any of [Accord Project repos](https://github.com/accordproject).
+- **How to sign up**: Make a PR on [Accord Project repos](https://github.com/accordproject) and we'll send you a link.
+- **Notes**: See the [blog post](https://www.accordproject.org/events/hacktoberfest-2019/) for more information
+
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
@@ -98,6 +105,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### U
 
+#### **Umbraco**
+
+- **Swag**: Exclusive and limited Umbraco swag.
+- **Requirements**:  Create at least one or more merged pull requests on any of [Umbraco repository](https://github.com/umbraco/).
+- **How to sign up**: Make a PR on [Umbraco Project repos](https://github.com/umbraco/) and we'll send you a link.
+- **Notes**: See the [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
+
 #### **Uno Platform**
 
 - **Swag**: T-shirt
@@ -146,6 +160,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 1 Merged PR
 
+#### **Accord**
+
+- **Swag**: T-Shirt, Stickers
+- **Requirements**: Create at least one or more merged pull requests on any of [Accord Project repos](https://github.com/accordproject).
+- **How to sign up**: Make a PR on [Accord Project repos](https://github.com/accordproject) and we'll send you a link.
+- **Notes**: See the [blog post](https://www.accordproject.org/events/hacktoberfest-2019/) for more information
+
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
@@ -173,6 +194,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Perform at least one of the actions mentioned in the blog post
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
+
+#### **Umbraco**
+
+- **Swag**: Exclusive and limited Umbraco swag.
+- **Requirements**:  Create at least one or more merged pull requests on any of [Umbraco repository](https://github.com/umbraco/).
+- **How to sign up**: Make a PR on [Umbraco Project repos](https://github.com/umbraco/) and we'll send you a link.
+- **Notes**: See the [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
 
 #### **Uno Platform**
 
