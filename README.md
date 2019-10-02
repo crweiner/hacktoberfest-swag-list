@@ -210,7 +210,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Stickers, T-shirt, Socks, Hat
 - **Requirements**:
-  - 1 merged pull requests: Level 1 swag  
+  - 1 merged pull requests: Level 1 swag
 - **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
 - **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
 
@@ -343,7 +343,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Pants, Hoodies and Coffee tumblers.
 - **Requirements**:
-  - 5 merged pull requests: Level 2 swag  
+  - 5 merged pull requests: Level 2 swag
 - **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
 - **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
 
