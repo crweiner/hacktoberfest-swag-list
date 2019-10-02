@@ -96,6 +96,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join the Discord](https://discord.gg/python).
 - **Notes**:  See this page for their [post](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/).
 
+### S
+
+#### **SalesAgility**
+
+- **Swag**: SuiteCRM contributor mug
+- **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/salesagility/) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
+
 ### U
 
 #### **Uno Platform**
@@ -173,6 +182,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Perform at least one of the actions mentioned in the blog post
 - **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
+
+#### **SalesAgility**
+
+- **Swag**: SuiteCRM contributor mug
+- **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/salesagility/) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
 
 #### **Uno Platform**
 
