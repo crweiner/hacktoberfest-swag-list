@@ -29,12 +29,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Accord Project**
 
 - **Swag**: T-shirt and Stickers
-- **Requirements**: Create pull requests on [Accord Project's](https://accordproject.org) participating repositories which needn't necessarily be merged in October.
-  - 1 Difficulty: Challenging PR or 2 Difficulty: Medium PRs or 5 Difficulty: Starter PRs: limited edition t-shirt and stickers
+- **Requirements**: Create pull requests on Accord Project's [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/) which needn't necessarily be merged in October.
+  - 1 _Difficulty: Challenging PR_ or _2 Difficulty: Medium PRs_ or _5 Difficulty: Starter PRs:_ limited edition t-shirt and stickers
   - 2 PRs across any difficulty level: limited edition stickers
-
-    View the participating repositories [here](https://www.accordproject.org/events/hacktoberfest-2019/).
-
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
@@ -183,6 +180,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 1 Merged PR
 
+#### **Accord Project** (limited edition t-shirt and stickers)
+
+- **Requirements**: There are several ways to earn a shirt, including:
+  - 1 valid _Difficulty: Challenging_ PR
+- **Swag**: limited edition stickers and t-shirt
+- **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
+- **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
@@ -284,10 +289,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Accord Project** (limited edition t-shirt and stickers)
 
-- **Requirements**: either of the three
-  - 1 valid Difficulty: Challenging PR
-  - 2 valid Difficulty: Medium PR
-  - 5 valid Difficulty: Starter PR
+- **Requirements**: There are several ways to earn a shirt, including:
+  - 2 valid _Difficulty: Medium_ PR
+  - 5 valid _Difficulty: Starter_ PR
 - **Swag**: limited edition stickers and t-shirt
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
