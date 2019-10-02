@@ -177,6 +177,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
+#### **Sense/Net**
+
+- **Swag**: The first 100 participants who makes a pull request to any of the repositories under the Sense/Net organization on GitHub between October 1 and October 31 will receive a sensenet #hacktoberfest limited edition T-shirt.
+- **Requirements**: Make at least one pull-request in one of the repositories under the Sense/Net organization. Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
+- **How to sign up**: Use the [form](https://www.sensenet.com/Hacktoberfest2019) on their website
+- **Notes**: See the blog post [here](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here) for further details
+
 #### **Valor Software** (Pen and Sticker)
 
 - **Requirements**:
