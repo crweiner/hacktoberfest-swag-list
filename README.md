@@ -29,7 +29,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Accord Project**
 
 - **Swag**: T-shirt and Stickers
-- **Requirements**: Create pull requests on Accord Project's [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/), issues in those repos will be labeled different difficulty level(_Starter_, _Medium_, _Challenging_).
+- **Requirements**: Create pull requests on Accord Project's [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/), issues in those repos will be labeled different difficulty level (_Starter_, _Medium_, _Challenging_).
   - 1 _Challenging_ or 2 _Medium_ or 5 _Starter_ accepted PRs: limited edition t-shirt and stickers
   - 2 accepted PRs across any difficulty level: limited edition stickers
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
@@ -309,7 +309,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Accord Project** (limited edition t-shirt and stickers)
 
 - **Requirements**: There are several ways to earn a shirt, including:
-  - 2 accepted _Difficulty: Medium_ PR
+  - 2 accepted _Difficulty: Medium_ PRs
 - **Swag**: limited edition stickers and t-shirt
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
@@ -327,7 +327,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Accord Project** (limited edition t-shirt and stickers)
 
 - **Requirements**: There are several ways to earn a shirt, including:
-  - 5 accepted _Difficulty: Starter_ PR
+  - 5 accepted _Difficulty: Starter_ PRs
 - **Swag**: limited edition stickers and t-shirt
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
