@@ -120,5 +120,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Robin Collet](https://github.com/taminoful)
 - [Oorjit Chowdhary](https://github.com/oorjitchowdhary)
 - [Caio Reis](https://github.com/caioreis123)
+- [Aprialdi](https://github.com/aprialdi19)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
