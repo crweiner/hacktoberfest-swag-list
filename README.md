@@ -294,13 +294,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more Merged PRs
 
-#### **Operation Code**
-
-- **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
-- **Swag**: T-shirt.
-- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
-- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
-
 #### **Accord Project** (stickers)
 
 - **Requirements**: 2 pull requests across any difficulty
@@ -315,6 +308,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: limited edition stickers and t-shirt
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
+#### **Operation Code**
+
+- **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
+- **Swag**: T-shirt.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
 #### **Parity** (Limited Edition Parity Gym Bag)
 
