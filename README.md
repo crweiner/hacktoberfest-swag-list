@@ -60,6 +60,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+### D
+
+#### **Devfolio**
+
+- **Swag**: Stickers, Limited Edition T-Shirts
+- **Requirements**: Get atleast four pull request merged into any project [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter) or [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION t-shirts!
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
+- **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
+
 ### H
 
 #### **Hasura**
@@ -301,6 +310,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: (Limited Edition Parity Gym Bag)
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
+
+
+### 4 Merged PRs
+
+#### **Devfolio** (limited edition t-shirts and stickers)
+
+- **Requirements**: Get atleast four pull request merged into any project [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter) or [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION t-shirts!
+- **Swag**: Stickers, Limited Edition T-Shirts
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
+- **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
 
 
 ### 5 Merged PRs
