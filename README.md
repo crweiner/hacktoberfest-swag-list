@@ -38,14 +38,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Adobe**
 
 - **Swag**: T-Shirt, Swags
-- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
 - **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
 
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
-- **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
+- **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
@@ -334,7 +334,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Adobe** (T-Shirt and other swags)
 
-- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
 - **Swag**: T-Shirt, Swags
 - **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
