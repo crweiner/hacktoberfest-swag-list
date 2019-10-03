@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media screen and (max-height: 715px) {
+  footer {
+    position: static;
+    width: 100%;
+  }
+}
