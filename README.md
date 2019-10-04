@@ -335,15 +335,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### **QMK** (Limited edition T-shirt and keyboard)
 
-- **Requirements**: There are several ways to earn a shirt, including:
-  - Review/suggest significant changes on a PR with a Hacktoberfest label
-  - Comment on an issue/PR that contributes to the discussion with the hacktoberfest label
-  - Open a PR that documents any new feature that's consistent with our doc style
-  - Open a PR that translates some documentation
-  - Open a PR that fixes a bug in an issue labelled hacktoberfest
-  - Anything that is deemed to be a significant contribution
+- **Requirements**: Requirements are listed on their Hacktoberfest site.
 **Swag**: Limited edition T-shirt and entry to win a keyboard if it's your first time contributing
-**How to sign up**: No formal sign up announced
+**How to sign up**: [Fill out this form] (https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
 **Notes**: See more on [official blog](https://hacktoberfest.qmk.fm/)
 
 
