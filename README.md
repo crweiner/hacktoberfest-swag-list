@@ -186,6 +186,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### U
 
+#### **Umbraco**
+
+- **Swag**: T-shirt and stickers
+- **Requirements**: In order to get some of this swag, you’ll need to have at least 1 PR approved on any [Umbraco repository](https://github.com/umbraco).
+- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above and hope your PR to be approved.
+- **Notes**: See the [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
+
 #### **Uno Platform**
 
 - **Swag**: T-shirt
@@ -315,6 +322,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: one pull requests merged into any project on [twilio-labs](https://github.com/twilio-labs) .
 - **How to sign up**: Sign up to GitHub, Make pull request as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
 - **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
+
+#### **Umbraco**
+
+- **Swag**: T-shirt and stickers
+- **Requirements**: In order to get some of this swag, you’ll need to have at least 1 PR approved on any [Umbraco repository](https://github.com/umbraco).
+- **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above and hope your PR to be approved.
+- **Notes**: See the [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
 
 #### **Uno Platform**
 
