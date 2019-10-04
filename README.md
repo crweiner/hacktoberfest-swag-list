@@ -333,7 +333,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 4 Interactions
 
-### **QMK** (Limited edition T-shirt and keyboard)
+### **QMK** (Limited edition T-shirt)
 
 - **Requirements**: Requirements are listed on their Hacktoberfest site.
 **Swag**: Limited edition T-shirt and entry to win a keyboard if it's your first time contributing
