@@ -336,9 +336,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### **QMK** (Limited edition T-shirt)
 
 - **Requirements**: Requirements are listed on their Hacktoberfest site.
-**Swag**: Limited edition T-shirt and entry to win a keyboard if it's your first time contributing
-**How to sign up**: [Fill out this form] (https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
-**Notes**: See more on [official blog](https://hacktoberfest.qmk.fm/)
+- **Swag**: Limited edition T-shirt and entry to win a keyboard if it's your first time contributing
+- **How to sign up**: [Fill out this form] (<http:>https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform</http:>)
+- **Notes**: See more on [official blog](https://hacktoberfest.qmk.fm/)
 
 
 ### 5 Merged PRs
