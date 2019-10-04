@@ -173,15 +173,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
 - **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
-### S
-
-#### **SalesAgility**
-
-- **Swag**: SuiteCRM contributor mug
-- **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/api-platform) during October.
-- **How to sign up**: Not clarified by now.
-- **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
-
 ### U
 
 #### **Uno Platform**
