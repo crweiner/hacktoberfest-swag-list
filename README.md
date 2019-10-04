@@ -60,6 +60,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+### G
+
+### **Gatsby**
+
+- **Swag**: T-shirt, Stickers, Socks, Hats, Pants, Hoodies
+- **Requirements**:
+  - 1 merged pull requests: Level 1 swag
+  - 5 merged pull requests: Level 2 swag
+- **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
+- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
+
 ### H
 
 #### **Hasura**
@@ -72,6 +83,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
 ### L
+
+#### **LBRY**
+
+- **Swag**: Sticker, LBRY t-shirt*, and more
+- **Requirements**:
+  - Contribution anything at all will receive a LBRY sticker.
+  - Contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
+- **How to sign up**: PR to LBRY repos.
+- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
 
 #### **Les-Tilleuls.coop**
 
@@ -88,6 +108,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
+
+#### **Operation Code**
+
+- **Swag**: Stickers, T-shirt.
+- **Requirements**: Resolve 3 issues (for the t-shirt) or merge 2 pull requests (for the stickers) in any one of the Operation Code repositories.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
 #### **Opsdroid**
 
@@ -107,10 +134,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Python Discord**
 
-- **Swag**: Hacktoberfest PyDis t-shirts and 1 year JetBrains Licenses
-- **Requirements**:Two top contributors to their [repos](https://github.com/python-discord) will win a PyDis t-shirts, and three runners up will walk away with 1 year licenses for any JetBrains product of their choosing.
-- **How to sign up**: [Join the Discord](https://discord.gg/python).
-- **Notes**:  See this page for their [post](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/).
+- **Swag**: Limited Edition Python Discord Hacktoberfest PyDis t-shirt or a 1 year JetBrains Product License
+- **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest t-shirt each, and three runner-ups will get a 1 year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
+- **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
+- **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
 
 ### S
 
@@ -121,12 +148,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
 
-#### **SenseNet**
 
-- **Swag**: SenseNet Limited edition T-shirt
-- **Requirements**: The first 100 participants who makes a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
-- **How to sign up**: Sign up to the Hacktoberfest site, share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
-- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here)
+#### **Sense/Net**
+
+- **Swag**: SenseNet Limited edition T-shirt (first 100 participants)
+- **Requirements**: The first 100 participants who make a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
+- **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
+- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
+
 
 ### T
 
@@ -177,12 +206,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
-#### **SenseNet** (Limited edition T-shirt)
+#### **LBRY** (Sticker, LBRY t-shirt*, and more)
 
-- **Swag**: SenseNet Limited edition T-shirt
-- **Requirements**: The first 100 participants who makes a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
-- **How to sign up**: Sign up to the Hacktoberfest site, share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
-- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here)
+- **Requirements**:
+  - Contribution anything at all will receive a LBRY sticker.
+  - Contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
+- **How to sign up**: PR to LBRY repos.
+- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
+
+
+#### **Sense/Net** (Limited edition t-shirt)
+
+- **Swag**: SenseNet Limited edition T-shirt (first 100 participants)
+- **Requirements**: The first 100 participants who make a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
+- **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
+- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
+
 
 #### **Valor Software** (Pen and Sticker)
 
@@ -208,6 +247,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
+
+#### **Gatsby** (Level 1 swag)
+
+- **Swag**: Stickers, T-shirt, Socks, Hat
+- **Requirements**:
+  - 1 merged pull requests: Level 1 swag
+- **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
+- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
 
 #### **Hasura** (Limited-Edition T-shirt and Sticker Pack)
 
@@ -276,6 +323,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
+#### **Operation Code**
+
+- **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
+- **Swag**: Stickers.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 #### **Twilio (Stickers and Socks)**
 
 - **Swag**: Stickers, Twilio Socks
@@ -309,6 +363,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
+#### **Operation Code**
+
+- **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
+- **Swag**: T-shirt.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 #### **Parity** (Limited Edition Parity Gym Bag)
 
 - **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
@@ -334,6 +395,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
 
+#### **Gatsby** (Level 2 swag)
+
+- **Swag**: Pants, Hoodies and Coffee tumblers.
+- **Requirements**:
+  - 5 merged pull requests: Level 2 swag
+- **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
+- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
+
 #### **Valor Software** (Pen, Sticker, Notepad and Wooden phone stand)
 
 - **Requirements**:
@@ -347,9 +416,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Python Discord**
 
-- **Swag**: Hacktoberfest PyDis t-shirts and 1 year JetBrains Licenses
-- **Requirements**:Two top contributors to their [repos](https://github.com/python-discord) will win a PyDis t-shirts, and three runners up will walk away with 1 year licenses for any JetBrains product of their choosing.
-- **How to sign up**: [Join the Discord](https://discord.gg/python).
-- **Notes**:  See this page for their [post](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/).
+- **Swag**: Limited Edition Python Discord Hacktoberfest PyDis t-shirt or a 1 year JetBrains Product License
+- **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest t-shirt each, and three runner-ups will get a 1 year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
+- **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
+- **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.

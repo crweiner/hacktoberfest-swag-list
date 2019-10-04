@@ -43,6 +43,7 @@ Also add your company information to the correct section for this list. So far, 
 - 2 or more PRs
 - 2 or more Merged PRs
 - 5 Merged PRs
+- Top Contributors
 
 If your involvement requirements are a bit different or do not fit into this scale, feel free to create another level in the scale! Use the same Markdown formatting as a letter heading:
 
@@ -117,7 +118,9 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Dean Mckenzie](https://github.com/tuxhedoh)
 - [Willy Nzesseu](https://github.com/WilChrist)
 - [Robin Collet](https://github.com/taminoful)
+- [Patrick Passarella](https://github.com/PatrickRNG)
 - [Oorjit Chowdhary](https://github.com/oorjitchowdhary)
 - [Jimmy Nguyen](https://github.com/Stukongeluk)
+- [Caio Reis](https://github.com/caioreis123)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
