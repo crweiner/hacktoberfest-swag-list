@@ -84,6 +84,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### L
 
+#### LadybugTools
+
+- **Swag**: Sticker
+- **Requirements**: Contribute 1 or more PRs to any [hacktoberfest labelled issues](https://github.com/orgs/ladybug-tools/projects/2).
+- **How to sign up**: LadyBug will get in contact with you through your PR.
+- **Notes**: To get more information, see the [LadyBug blog post](https://discourse.ladybug.tools/t/celebrate-hacktoberfest-2019-with-ladybug-tools/7314)
+
 #### **LBRY**
 
 - **Swag**: Sticker, LBRY t-shirt*, and more
@@ -205,6 +212,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker Pack
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
+#### LadybugTools
+
+- **Swag**: Sticker
+- **Requirements**: Contribute 1 or more PRs to any [hacktoberfest labelled issues](https://github.com/orgs/ladybug-tools/projects/2).
+- **How to sign up**: LadyBug will get in contact with you through your PR.
+- **Notes**: To get more information, see the [LadyBug blog post](https://discourse.ladybug.tools/t/celebrate-hacktoberfest-2019-with-ladybug-tools/7314)
 
 #### **LBRY** (Sticker, LBRY t-shirt*, and more)
 
