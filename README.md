@@ -123,6 +123,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
 - **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
 
+### Q
+
+#### **QMK**
+
+- **Swag**: Shirt, Keyboard
+- **Requirements**: Interact 4 times with a QMK repo in any of these ways:
+  - Review/suggest significant changes on a PR that's labelled `hacktoberfest`
+  - Make a comment on an Issue/PR that contributes to the conversation that's labelled `hacktoberfest`
+  - Open a PR that documents any new feature that's consistent with our doc style (check out the `needs doc` label)
+  - Open a PR that translates some documentation
+  - Open a PR that fixes a bug in an issue labelled `hacktoberfest`
+- **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
+- **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
+
 ### S
 
 #### **SalesAgility**
@@ -180,6 +194,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker Pack
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
+#### **QMK**
+
+- **Swag**: Shirt, Keyboard
+- **Requirements**: Interact 4 times with a QMK repo in any of these ways:
+  - Review/suggest significant changes on a PR that's labelled `hacktoberfest`
+  - Make a comment on an Issue/PR that contributes to the conversation that's labelled `hacktoberfest`
+  - Open a PR that documents any new feature that's consistent with our doc style (check out the `needs doc` label)
+  - Open a PR that translates some documentation
+  - Open a PR that fixes a bug in an issue labelled `hacktoberfest`
+- **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
+- **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
 
 #### **Valor Software** (Pen and Sticker)
 
@@ -280,6 +306,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
+
+#### **QMK**
+
+- **Swag**: Shirt, Keyboard
+- **Requirements**: Interact 4 times with a QMK repo in any of these ways:
+  - Review/suggest significant changes on a PR that's labelled `hacktoberfest`
+  - Make a comment on an Issue/PR that contributes to the conversation that's labelled `hacktoberfest`
+  - Open a PR that documents any new feature that's consistent with our doc style (check out the `needs doc` label)
+  - Open a PR that translates some documentation
+  - Open a PR that fixes a bug in an issue labelled `hacktoberfest`
+- **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
+- **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
 
 #### **Twilio (Stickers and Socks)**
 
