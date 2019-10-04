@@ -109,6 +109,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
 
+#### **Operation Code**
+
+- **Swag**: Stickers, T-shirt.
+- **Requirements**: Resolve 3 issues (for the t-shirt) or merge 2 pull requests (for the stickers) in any one of the Operation Code repositories.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 #### **Opsdroid**
 
 - **Swag**: Stickers, Limited-Edition Stickers
@@ -298,6 +305,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
+#### **Operation Code**
+
+- **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
+- **Swag**: Stickers.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 #### **Twilio (Stickers and Socks)**
 
 - **Swag**: Stickers, Twilio Socks
@@ -330,6 +344,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: limited edition stickers and t-shirt
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
+#### **Operation Code**
+
+- **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
+- **Swag**: T-shirt.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
 #### **Parity** (Limited Edition Parity Gym Bag)
 
