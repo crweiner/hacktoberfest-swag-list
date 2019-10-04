@@ -91,6 +91,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
+### **lbry.**
+- **Swag**: LBRY T-Shirt, LBRY sticker and more
+- **Requirements**: Create at least 1 PRs to [LBRY repositories](https://github.com/lbryio) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: See this announcement from [Jeremy Kauffman on his Blog](https://lbry.com/news/hacktoberfest-2019).
+
 ### O
 
 #### **OpenEBS**
