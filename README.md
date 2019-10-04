@@ -123,6 +123,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
 - **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
 
+### Q
+
+### **QMK**
+
+- **Swag**: Limited edition QMK T-Shirt, Keyboard for first-time contributors
+- **Requirements**: Interact 4 times with QMK repositories.
+- **How to sign up**: No formal sign up announced.
+- **Notes**: See more on [official blog](https://hacktoberfest.qmk.fm/)
+
 ### S
 
 #### **SalesAgility**
@@ -322,6 +331,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
 
+### 4 Interactions
+
+### **QMK** (Limited edition T-shirt and keyboard)
+
+- **Requirements**: There are several ways to earn a shirt, including:
+  - Review/suggest significant changes on a PR with a Hacktoberfest label
+  - Comment on an issue/PR that contributes to the discussion with the hacktoberfest label
+  - Open a PR that documents any new feature that's consistent with our doc style
+  - Open a PR that translates some documentation
+  - Open a PR that fixes a bug in an issue labelled hacktoberfest
+  - Anything that is deemed to be a significant contribution
+**Swag**: Limited edition T-shirt and entry to win a keyboard if it's your first time contributing
+**How to sign up**: No formal sign up announced
+**Notes**: See more on [official blog](https://hacktoberfest.qmk.fm/)
 ### 5 Merged PRs
 
 #### **Accord Project** (limited edition t-shirt and stickers)
