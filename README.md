@@ -148,6 +148,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
 
+#### **Sense/Net**
+
+- **Swag**: The first 100 participants who makes a pull request to any of the repositories under the Sense/Net organization on GitHub between October 1 and October 31 will receive a sensenet #hacktoberfest limited edition T-shirt.
+- **Requirements**: Make at least one pull-request in one of the repositories under the Sense/Net organization. Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
+- **How to sign up**: Use the [form](https://www.sensenet.com/Hacktoberfest2019) on their website
+- **Notes**: See the blog post [here](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here) for further details
+
 ### T
 
 #### **Twilio**
@@ -197,6 +204,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
+
 #### **LBRY** (Sticker, LBRY t-shirt*, and more)
 
 - **Requirements**:
@@ -204,6 +212,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
 - **How to sign up**: PR to LBRY repos.
 - **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
+
+
+#### **Sense/Net**
+
+- **Swag**: The first 100 participants who makes a pull request to any of the repositories under the Sense/Net organization on GitHub between October 1 and October 31 will receive a sensenet #hacktoberfest limited edition T-shirt.
+- **Requirements**: Make at least one pull-request in one of the repositories under the Sense/Net organization. Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
+- **How to sign up**: Use the [form](https://www.sensenet.com/Hacktoberfest2019) on their website
+- **Notes**: See the blog post [here](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here) for further details
 
 #### **Valor Software** (Pen and Sticker)
 
