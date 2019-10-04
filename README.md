@@ -60,6 +60,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+
+### D
+
+#### **Devfolio**
+
+- **Swag**: Stickers, Limited Edition T-Shirts
+- **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION t-shirts!
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
+- **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
+
 ### G
 
 ### **Gatsby**
@@ -70,6 +80,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 5 merged pull requests: Level 2 swag
 - **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
 - **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
+
 
 ### H
 
@@ -376,6 +387,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: limited edition stickers and t-shirt
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
+#### **Devfolio** (limited edition t-shirts and stickers)
+
+- **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION t-shirts!
+- **Swag**: Stickers, Limited Edition T-Shirts
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
+- **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
 
 #### **Operation Code**
 
