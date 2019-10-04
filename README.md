@@ -38,14 +38,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Adobe**
 
 - **Swag**: T-Shirt, Swags
-- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
 - **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
 
 #### **Appwrite**
 
 - **Swag**: Stickers, Magnets and Buttons
-- **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
+- **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
@@ -91,6 +91,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: LadyBug will get in contact with you through your PR.
 - **Notes**: To get more information, see the [LadyBug blog post](https://discourse.ladybug.tools/t/celebrate-hacktoberfest-2019-with-ladybug-tools/7314)
 
+#### **LBRY**
+
+- **Swag**: Sticker, LBRY t-shirt*, and more
+- **Requirements**:
+  - Contribution anything at all will receive a LBRY sticker.
+  - Contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
+- **How to sign up**: PR to LBRY repos.
+- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
+
 #### **Les-Tilleuls.coop**
 
 - **Swag**: An API Platform surprise gift
@@ -106,6 +115,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
+
+#### **Operation Code**
+
+- **Swag**: Stickers, T-shirt.
+- **Requirements**: Resolve 3 issues (for the t-shirt) or merge 2 pull requests (for the stickers) in any one of the Operation Code repositories.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
 #### **Opsdroid**
 
@@ -138,6 +154,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/salesagility/) during October.
 - **How to sign up**: Not clarified by now.
 - **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
+
+
+#### **Sense/Net**
+
+- **Swag**: SenseNet Limited edition T-shirt (first 100 participants)
+- **Requirements**: The first 100 participants who make a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
+- **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
+- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
+
 
 ### T
 
@@ -194,6 +219,23 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Contribute 1 or more PRs to any [hacktoberfest labelled issues](https://github.com/orgs/ladybug-tools/projects/2).
 - **How to sign up**: LadyBug will get in contact with you through your PR.
 - **Notes**: To get more information, see the [LadyBug blog post](https://discourse.ladybug.tools/t/celebrate-hacktoberfest-2019-with-ladybug-tools/7314)
+
+#### **LBRY** (Sticker, LBRY t-shirt*, and more)
+
+- **Requirements**:
+  - Contribution anything at all will receive a LBRY sticker.
+  - Contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
+- **How to sign up**: PR to LBRY repos.
+- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
+
+
+#### **Sense/Net** (Limited edition t-shirt)
+
+- **Swag**: SenseNet Limited edition T-shirt (first 100 participants)
+- **Requirements**: The first 100 participants who make a pull request to any of the repositories under the [Sense/Net organization on GitHub](https://github.com/SenseNet/) between October 1 and October 31.
+- **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
+- **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
+
 
 #### **Valor Software** (Pen and Sticker)
 
@@ -295,6 +337,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
+#### **Operation Code**
+
+- **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
+- **Swag**: Stickers.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 #### **Twilio (Stickers and Socks)**
 
 - **Swag**: Stickers, Twilio Socks
@@ -328,6 +377,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
+#### **Operation Code**
+
+- **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
+- **Swag**: T-shirt.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 #### **Parity** (Limited Edition Parity Gym Bag)
 
 - **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
@@ -348,7 +404,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Adobe** (T-Shirt and other swags)
 
-- **Requirements**: Create five one or more Pull Requests on any of Adobe or Magento repositories.
+- **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
 - **Swag**: T-Shirt, Swags
 - **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
