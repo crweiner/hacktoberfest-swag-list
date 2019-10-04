@@ -127,10 +127,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### **QMK**
 
-- **Swag**: Limited edition QMK T-Shirt, Keyboard for first-time contributors
+- **Swag**: Limited edition QMK T-Shirt, entry into a competition to win a keyboard if it's your first time contributing
 - **Requirements**: Interact 4 times with QMK repositories.
-- **How to sign up**: No formal sign up announced.
-- **Notes**: See more on [official blog](https://hacktoberfest.qmk.fm/)
+- **How to sign up**: [Fill out this form] (<http:>https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform</http:>)
+- **Notes**: See more on [official blog](<http:>https://hacktoberfest.qmk.fm/</http:>)
 
 ### S
 
@@ -338,7 +338,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Requirements are listed on their Hacktoberfest site.
 - **Swag**: Limited edition T-shirt and entry to win a keyboard if it's your first time contributing
 - **How to sign up**: [Fill out this form] (<http:>https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform</http:>)
-- **Notes**: See more on [official blog](https://hacktoberfest.qmk.fm/)
+- **Notes**: See more on [official blog](<http:>https://hacktoberfest.qmk.fm/</http:>)
 
 
 ### 5 Merged PRs
