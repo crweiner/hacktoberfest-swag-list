@@ -84,6 +84,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### L
 
+#### **LBRY**
+
+- **Swag**: Sticker, LBRY t-shirt*, and more
+- **Requirements**:
+  - Contribution anything at all will receive a LBRY sticker.
+  - Contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
+- **How to sign up**: PR to LBRY repos.
+- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
+
 #### **Les-Tilleuls.coop**
 
 - **Swag**: An API Platform surprise gift
@@ -180,6 +189,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker Pack
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
+#### **LBRY** (Sticker, LBRY t-shirt*, and more)
+
+- **Requirements**:
+  - Contribution anything at all will receive a LBRY sticker.
+  - Contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
+- **How to sign up**: PR to LBRY repos.
+- **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
 
 #### **Valor Software** (Pen and Sticker)
 
