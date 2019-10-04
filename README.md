@@ -91,6 +91,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
+### N
+
+#### *NativeScript*
+
+- **Swag**: Sticker Pack
+- **Requirements**: Open pull request in any of [NativeScript repos](https://github.com/NativeScript) or any open-source [NativeScript plugin](https://market.nativescript.org/).
+- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSdOvn33r_yj7WAwL_nk4syRuVW-p7SGIsLJ3OAtaQLLYQinUg/viewform).
+- **Notes**: See the [blog post](https://www.nativescript.org/blog/get-involved-in-hacktoberfest-2019-with-nativescript) for more information.
+
 ### O
 
 #### **OpenEBS**
@@ -180,6 +189,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker Pack
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
+#### **NativeScript** (Sticker Pack)
+
+- **Requirements**: Open pull request in any of [NativeScript repos](https://github.com/NativeScript) or any open-source [NativeScript plugin](https://market.nativescript.org/).
+- **Swag**: Sticker Pack
+- **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSdOvn33r_yj7WAwL_nk4syRuVW-p7SGIsLJ3OAtaQLLYQinUg/viewform).
+- **Notes**: See the [blog post](https://www.nativescript.org/blog/get-involved-in-hacktoberfest-2019-with-nativescript) for more information.
 
 #### **Valor Software** (Pen and Sticker)
 
