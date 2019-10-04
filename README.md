@@ -345,6 +345,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 **Swag**: Limited edition T-shirt and entry to win a keyboard if it's your first time contributing
 **How to sign up**: No formal sign up announced
 **Notes**: See more on [official blog](https://hacktoberfest.qmk.fm/)
+
+
 ### 5 Merged PRs
 
 #### **Accord Project** (limited edition t-shirt and stickers)
