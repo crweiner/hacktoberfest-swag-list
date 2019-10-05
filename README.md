@@ -239,6 +239,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: PR to LBRY repos.
 - **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
 
+#### **Opsdroid**
+
+- **Swag**: Stickers, Limited-Edition Sticker
+- **Requirements**: Any contribution to [Opsdroid](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: Automatic sending to everyone who contributes.
+- **Notes**: See the [blog post](https://medium.com/opsdroid/hacktoberfest-2019-ec0e4b4960b9/) for more information.
 
 #### **Sense/Net** (Limited edition t-shirt)
 
@@ -294,13 +300,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
-
-#### **Opsdroid**
-
-- **Swag**: Stickers, Limited-Edition Stickers
-- **Requirements**: Perform at least one of the actions mentioned in the blog post
-- **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
-- **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
 
 #### **SalesAgility**
 
