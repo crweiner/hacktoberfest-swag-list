@@ -138,7 +138,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Stickers, Limited-Edition Sticker
 - **Requirements**: Any contribution to [Opsdroid](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **How to sign up**: Automatic sending to everyone who contributes.
+- **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/hacktoberfest-2019-ec0e4b4960b9/) for more information.
 
 ### P
@@ -243,7 +243,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Stickers, Limited-Edition Sticker
 - **Requirements**: Any contribution to [Opsdroid](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **How to sign up**: Automatic sending to everyone who contributes.
+- **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://medium.com/opsdroid/hacktoberfest-2019-ec0e4b4960b9/) for more information.
 
 #### **Sense/Net** (Limited edition t-shirt)
