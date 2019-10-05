@@ -118,14 +118,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
-### O
+### M
 
-#### **OpenEBS**
+#### **MayaData**
 
 - **Swag**: Stickers, T-shirt, Laptop.
-- **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
+- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
+
+### O
 
 #### **Operation Code**
 
@@ -288,10 +290,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
-#### **OpenEBS**
+#### **MayaData**
 
 - **Swag**: Stickers, T-shirt, Laptop.
-- **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
+- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
 
