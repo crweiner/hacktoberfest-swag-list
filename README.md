@@ -118,8 +118,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
 
-### O
-
+### **QMK**
+**SWAG:** T-shirt
+**Requirements:** Open a PR that documents any new feature that's consistent with our doc style (check out the needs doc label)
+**How to sign up:** Hacktoberfest Website
+**Notes:** All PRs count unless the repo has been marked spam, or the PR is marked as spam or invalid.
 #### **OpenEBS**
 
 - **Swag**: Stickers, T-shirt, Laptop.
