@@ -159,6 +159,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
 - **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
 
+### Q
+
+#### **QMK**
+
+- **Swag**: Shirt, Keyboard
+- **Requirements**: Requirements are listed on their [Hacktoberfest site](https://hacktoberfest.qmk.fm/)
+- **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
+- **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
+
 ### S
 
 #### **SalesAgility**
@@ -356,6 +365,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Stickers.
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
+#### **QMK**
+
+- **Swag**: Shirt, Keyboard
+- **Requirements**: - **Requirements**: Requirements are listed on their [Hacktoberfest site](https://hacktoberfest.qmk.fm/)
+- **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
+- **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
 
 #### **Twilio (Stickers and Socks)**
 
