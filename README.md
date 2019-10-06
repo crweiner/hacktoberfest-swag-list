@@ -170,6 +170,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### S
 
+#### **Saleor**
+
+- **Swag**: Saleor Socks
+- **Requirements**: Participate and solve any issues added during the month of Hacktoberfest.
+- **How to sign up**: See [Saleor-Issues](https://github.com/mirumee/saleor/issues)
+- **Notes**: See [Tweet](https://twitter.com/getsaleor/status/1179370205895634946)
+
 #### **SalesAgility**
 
 - **Swag**: SuiteCRM contributor mug
