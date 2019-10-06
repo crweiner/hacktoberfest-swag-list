@@ -225,7 +225,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
 ### **KONG.**
-- **Swag**: KONG T-Shirtand more
+- **Swag**: KONG T-Shirt and more
 - **Requirements**: Create one or more PRs to [Kong repositories](https://github.com/Kong) during October.
 - **How to sign up**: Not clarified by now.
 - **Notes**: keep updated at Kong website [kong]( https://konghq.com)
