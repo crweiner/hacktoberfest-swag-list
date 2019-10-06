@@ -197,6 +197,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### U
 
+#### **Umbraco**
+
+- **Swag**: Sticker
+- **Requirements**: 1 PR approved on any Umbraco repository.
+- **How to sign up**: [Umbraco repositories](https://github.com/umbraco)
+- **Notes**: See their [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
+
 #### **Uno Platform**
 
 - **Swag**: T-shirt
