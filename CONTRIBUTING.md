@@ -122,5 +122,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Oorjit Chowdhary](https://github.com/oorjitchowdhary)
 - [Jimmy Nguyen](https://github.com/Stukongeluk)
 - [Caio Reis](https://github.com/caioreis123)
+- [Feliciano Manguele](https://github.com/FelicianoManguele)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
