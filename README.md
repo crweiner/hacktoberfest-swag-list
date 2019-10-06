@@ -63,10 +63,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### D
 
 #### **Datenanfragen.de e.&nbsp;V.**
+
 - **Swag**: At least 3 stickers and maybe a t-shirt
 - **Requirements**:
-  - elegible repositories include all repos of the datenanfragen organization and all listed [here](https://www.datarequests.org/open-source)
-  - 1 pull request to get at least 3 stickers (limited to 100 sets)
+  - eligible repositories include all repos of the datenanfragen organization and all listed [here](https://www.datarequests.org/open-source)
+  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
   - t-shirts are given to 10 people drawn from the contributors
 - **How to sign up**: Submit to the repositories and send an [email to hacktoberfest@datenanfragen.de](mailto:hacktoberfest@datenanfragen.de?subject=Registration%20for%20Hacktoberfest%202019&body=I%20want%20to%20participate%20in%20the%20Hacktoberfest%202019%20event%20by%20Datenanfragen.de%20e.%20V.%0A%0AGitHub%20user%20name%3A%20%5Bplease%20fill-in%5D%0A%0AI%20have%20read%20the%20conditions%20of%20participation%20and%20privacy%20policy%20(https%3A%2F%2Fwww.datarequests.org%2Fblog%2Fhacktoberfest-2019)%20and%20accept%20these%20conditions.) with your GitHub username and your acknowledgment of the terms.
 - **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2019/) for more info.
@@ -272,6 +273,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
+
+#### **Datenanfragen.de e.&nbsp;V.**
+
+- **Swag**: At least 3 stickers and maybe a t-shirt
+- **Requirements**:
+  - eligible repositories include all repos of the datenanfragen organization and all listed [here](https://www.datarequests.org/open-source)
+  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
+  - t-shirts are given to 10 people drawn from the contributors
+- **How to sign up**: Submit to the repositories and send an [email to hacktoberfest@datenanfragen.de](mailto:hacktoberfest@datenanfragen.de?subject=Registration%20for%20Hacktoberfest%202019&body=I%20want%20to%20participate%20in%20the%20Hacktoberfest%202019%20event%20by%20Datenanfragen.de%20e.%20V.%0A%0AGitHub%20user%20name%3A%20%5Bplease%20fill-in%5D%0A%0AI%20have%20read%20the%20conditions%20of%20participation%20and%20privacy%20policy%20(https%3A%2F%2Fwww.datarequests.org%2Fblog%2Fhacktoberfest-2019)%20and%20accept%20these%20conditions.) with your GitHub username and your acknowledgment of the terms.
+- **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2019/) for more info.
 
 #### **Gatsby** (Level 1 swag)
 
