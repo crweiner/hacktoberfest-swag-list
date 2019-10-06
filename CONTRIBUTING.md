@@ -94,6 +94,15 @@ _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
 ```
 Note that the requirements have been edited for clarity, only showing the requirements for that type of swag and moved to the first bullet point. Also, the swag type is placed in parentheses after the company name to understand what is being earned at each level. 😊
 
+#### **Valor Software**
+- **Swag**: (Pen, sticker, notepad, wooden phone stand)
+- **Requirements**:
+  - Pen and sticker: Resolve 1 issue.
+  - Notepad or wooden phone stand: Resolve 3 issues.
+  - All of the above : Resolve 5 issues.
+- **How to sign up**: [Valor Software ngx project](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
+- **Notes**: [More info](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html)
+
 ## Add your name
 
 Did you help contribute to the Hacktoberfest Swag list? Add your name to the list of humans.
@@ -124,5 +133,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Caio Reis](https://github.com/caioreis123)
 - [Loris Securo](https://github.com/LorisSecuro)
 - [Max Vogel](https://github.com/mehvix)
+- [Atilla Taner](https://github.com/jambove)  
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
