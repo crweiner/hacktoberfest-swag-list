@@ -118,7 +118,9 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Dean Mckenzie](https://github.com/tuxhedoh)
 - [Willy Nzesseu](https://github.com/WilChrist)
 - [Robin Collet](https://github.com/taminoful)
+- [Patrick Passarella](https://github.com/PatrickRNG)
 - [Oorjit Chowdhary](https://github.com/oorjitchowdhary)
+- [Jimmy Nguyen](https://github.com/Stukongeluk)
 - [Caio Reis](https://github.com/caioreis123)
 - [Max Vogel](https://github.com/mehvix)
 
