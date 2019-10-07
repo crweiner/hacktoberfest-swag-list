@@ -111,6 +111,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 ## Contributors
 
 - [Chandler Weiner](https://github.com/crweiner/)
+- [Andre](https://github.com/andre-lee/)
 - [Adrienne Tacke](https://github.com/adriennetacke)
 - [Kyle Tryon](https://github.com/KyleTryon)
 - [Eldad A. Fux](https://github.com/eldadfux)
