@@ -126,5 +126,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Loris Securo](https://github.com/LorisSecuro)
 - [Max Vogel](https://github.com/mehvix)
 - [Parth Panchal](https://github.com/pqrth)
+- [Chris Hung](https://github.com/hahattan)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
