@@ -134,7 +134,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: An API Platform surprise gift
 - **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
 - **How to sign up**: Complete 3 PRs and [sign up here](https://cooptilleuls.typeform.com/to/CG0pLd).
-- **Notes**: See this announcement from [the companies website](https://les-tilleuls.coop/fr/blog/article/celebrate-hacktoberfest-with-api-platform).
+- **Notes**: See this announcement from [the company's website](https://les-tilleuls.coop/fr/blog/article/celebrate-hacktoberfest-with-api-platform).
 
 ### M
 
@@ -396,7 +396,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: An API Platform surprise gift
 - **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
 - **How to sign up**: Complete 3 PRs and [sign up here](https://cooptilleuls.typeform.com/to/CG0pLd).
-- **Notes**: See this announcement from [the companies website](https://les-tilleuls.coop/fr/blog/article/celebrate-hacktoberfest-with-api-platform).
+- **Notes**: See this announcement from [the company's website](https://les-tilleuls.coop/fr/blog/article/celebrate-hacktoberfest-with-api-platform).
 
 #### **Operation Code**
 
