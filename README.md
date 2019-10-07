@@ -60,6 +60,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+
+### D
+
+#### **Devfolio**
+
+- **Swag**: Stickers, Limited Edition T-Shirts
+- **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION t-shirts!
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
+- **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
+
 ### G
 
 ### **Gatsby**
@@ -69,7 +79,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1 merged pull requests: Level 1 swag
   - 5 merged pull requests: Level 2 swag
 - **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
-- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
+- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) for more information.
+
 
 ### H
 
@@ -104,17 +115,24 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: An API Platform surprise gift
 - **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
-- **How to sign up**: Not clarified by now.
-- **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
+- **How to sign up**: Complete 3 PRs and [sign up here](https://cooptilleuls.typeform.com/to/CG0pLd).
+- **Notes**: See this announcement from [the companies website](https://les-tilleuls.coop/fr/blog/article/celebrate-hacktoberfest-with-api-platform).
 
-### O
+### M
 
-#### **OpenEBS**
+#### **MayaData**
 
+<<<<<<< HEAD
 - **Swag**: Stickers, T-shirt, Laptop.
 - **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
+=======
+- **Swag**: Stickers, T-shirt, Laptop
+- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
+>>>>>>> upstream/master
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
+
+### O
 
 #### **Operation Code**
 
@@ -145,6 +163,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest t-shirt each, and three runner-ups will get a 1 year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
 - **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
 - **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
+
+### Q
+
+#### **QMK**
+
+- **Swag**: Shirt, Keyboard
+- **Requirements**: Requirements are listed on their [Hacktoberfest site](https://hacktoberfest.qmk.fm/)
+- **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
+- **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
 
 ### S
 
@@ -268,7 +295,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 1 merged pull requests: Level 1 swag
 - **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
-- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
+- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) for more information.
 
 #### **Hasura** (Limited-Edition T-shirt and Sticker Pack)
 
@@ -277,10 +304,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
-#### **OpenEBS**
+#### **MayaData**
 
+<<<<<<< HEAD
 - **Swag**: Stickers, T-shirt, Laptop.
 - **Requirements**: Contribute to either [openEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
+=======
+- **Swag**: Stickers, T-shirt
+- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
+>>>>>>> upstream/master
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
 
@@ -312,6 +344,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u).
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
+#### **SalesAgility**
+
+- **Swag**: SuiteCRM contributor mug
+- **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/api-platform) during October.
+- **How to sign up**: Not clarified by now.
+- **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
+
 ### 2 or more PRs
 
 #### **CircleCI** (Limited-Edition T-shirt)
@@ -334,8 +373,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: An API Platform surprise gift
 - **Requirements**: Create at least 3 PRs to [API Platform repositories](https://github.com/api-platform) during October.
-- **How to sign up**: Not clarified by now.
-- **Notes**: See this announcement from [Kévin Dunglas on his Blog](https://dunglas.fr/2019/09/api-platform-2-5-revamped-admin-new-api-testing-tool-next-js-and-quasar-app-generators-patch-and-json-schema-support-improved-openapi-and-graphql-support/).
+- **How to sign up**: Complete 3 PRs and [sign up here](https://cooptilleuls.typeform.com/to/CG0pLd).
+- **Notes**: See this announcement from [the companies website](https://les-tilleuls.coop/fr/blog/article/celebrate-hacktoberfest-with-api-platform).
 
 #### **Operation Code**
 
@@ -343,6 +382,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Stickers.
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
+#### **QMK**
+
+- **Swag**: Shirt, Keyboard
+- **Requirements**: - **Requirements**: Requirements are listed on their [Hacktoberfest site](https://hacktoberfest.qmk.fm/)
+- **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
+- **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
 
 #### **Twilio (Stickers and Socks)**
 
@@ -376,6 +422,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: limited edition stickers and t-shirt
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
+
+#### **Devfolio** (limited edition t-shirts and stickers)
+
+- **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION t-shirts!
+- **Swag**: Stickers, Limited Edition T-Shirts
+- **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
+- **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
 
 #### **Operation Code**
 
@@ -415,7 +468,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 5 merged pull requests: Level 2 swag
 - **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
-- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) form more information.
+- **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) for more information.
 
 #### **Valor Software** (Pen, Sticker, Notepad and Wooden phone stand)
 
@@ -427,6 +480,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 
 ### Top Contributors
+
+#### **MayaData**
+
+- **Swag**: Laptop
+- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
+- **How to sign up**: Not clarified by now.
+- **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
 
 #### **Python Discord**
 
