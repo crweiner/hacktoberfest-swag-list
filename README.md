@@ -90,6 +90,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
 - **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) for more information.
 
+#### **Globo.com**
+
+- **Swag**: T-shirt
+- **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
+- **How to sign up**: Sing up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com Github Repos](https://github.com/globocom).
+- **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
 ### H
 
@@ -310,6 +316,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1 merged pull requests: Level 1 swag
 - **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
 - **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) for more information.
+
+#### **Globo.com (T-shirt)**
+
+- **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
+- **Swag**: T-shirt
+- **How to sign up**: Sing up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com Github Repos](https://github.com/globocom).
+- **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
 #### **Hasura** (Limited-Edition T-shirt and Sticker Pack)
 
