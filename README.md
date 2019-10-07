@@ -83,7 +83,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Devfolio**
 
-- **Swag**: T-shirt, stickers 
+- **Swag**: T-shirt, stickers
 - **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION T-shirts!
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
 - **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
@@ -262,7 +262,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Coding Blocks** (T-shirt, stickers)
 
 - **Requirements**:
-  - 1+ merged pull requests: T-shirt, stickers 
+  - 1+ merged pull requests: T-shirt, stickers
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
 - **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
@@ -286,7 +286,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - Contribution anything at all will receive a LBRY sticker.
   - Contributes anything of any substance* will receive a sticker, LBRY T-shirt, and more.
-- **Swag**: Sticker, LBRY T-shirt*, and more  
+- **Swag**: Sticker, LBRY T-shirt*, and more
 - **How to sign up**: PR to LBRY repos.
 - **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
 
@@ -456,7 +456,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Devfolio** (T-shirt, stickers)
 
 - **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION T-shirts!
-- **Swag**: T-shirt, stickers 
+- **Swag**: T-shirt, stickers
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
 - **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
 
@@ -480,7 +480,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**: There are several ways to earn a shirt, including:
   - 5 accepted _Difficulty: Starter_ PRs
-- **Swag**: T-shirt, stickers 
+- **Swag**: T-shirt, stickers
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
