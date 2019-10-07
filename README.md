@@ -67,7 +67,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1+ merged pull requests: Stickers and T-shirt
   - 5+ merged pull requests: Wildcraft Bag
 - **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
-- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog) Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
+- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
 
 ### D
 
@@ -242,7 +242,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1+ merged pull requests: Stickers and T-shirt
 - **Swag**: T-shirt and Stickers
 - **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
-- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog) Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
+- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
 
 #### **Hasura** (Sticker Pack)
 
@@ -474,7 +474,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 5+ merged pull requests: Bag
 - **Swag**: Wildcraft Bag
 - **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
-- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog) Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
+- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
 
 #### **Gatsby** (Level 2 swag)
 
