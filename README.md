@@ -60,6 +60,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
 
+#### **Coding Blocks**
+
+- **Swag**: T-shirt, Stickers and Bags
+- **Requirements**:
+  - 1+ merged pull requests: Stickers and T-shirt
+  - 5+ merged pull requests: Wildcraft Bag
+- **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
+- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -243,6 +252,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: 1 - 3 pull requests (to "orbs").
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
+
+#### **Coding Blocks** (Stickers and T-shirt)
+
+- **Requirements**:
+  - 1+ merged pull requests: Stickers and T-shirt
+- **Swag**: T-shirt and Stickers
+- **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
+- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
 
 #### **Hasura** (Sticker Pack)
 
@@ -481,6 +498,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, Swags
 - **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
+
+#### **Coding Blocks** (Stickers and Bag)
+
+- **Requirements**:
+  - 5+ merged pull requests: Bag
+- **Swag**: Wildcraft Bag
+- **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
+- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
 
 ### **JabRef (t-shirt)**
 

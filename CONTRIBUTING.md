@@ -128,5 +128,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Parth Panchal](https://github.com/pqrth)
 - [Chris Hung](https://github.com/hahattan)
 - [Barbara Pentoney](https://github.com/flyfishingbarbara)
+- [Rishabh Bansal](https://github.com/rishabh-bansal/)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
