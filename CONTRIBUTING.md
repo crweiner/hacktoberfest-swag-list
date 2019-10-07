@@ -122,6 +122,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Oorjit Chowdhary](https://github.com/oorjitchowdhary)
 - [Jimmy Nguyen](https://github.com/Stukongeluk)
 - [Caio Reis](https://github.com/caioreis123)
+- [Lorenz Sieben](https://github.com/zner0L)
 - [Loris Securo](https://github.com/LorisSecuro)
 - [Max Vogel](https://github.com/mehvix)
 
