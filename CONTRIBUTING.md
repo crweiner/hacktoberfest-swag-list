@@ -110,7 +110,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 ## Contributors
 
-- [Rishabh Bansal](https://github.com/rishabh-bansal/)
 - [Chandler Weiner](https://github.com/crweiner/)
 - [Adrienne Tacke](https://github.com/adriennetacke)
 - [Kyle Tryon](https://github.com/KyleTryon)
@@ -125,5 +124,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Caio Reis](https://github.com/caioreis123)
 - [Loris Securo](https://github.com/LorisSecuro)
 - [Max Vogel](https://github.com/mehvix)
+- [Rishabh Bansal](https://github.com/rishabh-bansal/)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
