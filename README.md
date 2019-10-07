@@ -30,8 +30,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: Create pull requests on Accord Project's [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/), issues in those repos will be labeled different difficulty level (_Starter_, _Medium_, _Challenging_).
-  - 1 _Challenging_ or 2 _Medium_ or 5 _Starter_ accepted PRs: limited-edition T-shirt and stickers
-  - 2 accepted PRs across any difficulty level: limited edition stickers
+  - 1 _Challenging_ or 2 _Medium_ or 5 _Starter_ accepted PRs: T-shirt and stickers
+  - 2 accepted PRs across any difficulty level: stickers
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
@@ -286,6 +286,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - Contribution anything at all will receive a LBRY sticker.
   - Contributes anything of any substance* will receive a sticker, LBRY T-shirt, and more.
+- **Swag**: Sticker, LBRY T-shirt*, and more  
 - **How to sign up**: PR to LBRY repos.
 - **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
 
@@ -318,7 +319,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**: There are several ways to earn a shirt, including:
   - 1 accepted _Difficulty: Challenging_ PR
-- **Swag**: Stickers and T-shirt
+- **Swag**: T-shirt, stickers
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
