@@ -62,12 +62,31 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### D
 
+#### **Datenanfragen.de e. V.**
+
+- **Swag**: At least 3 stickers and maybe a t-shirt
+- **Requirements**:
+  - eligible repositories include all repos of the datenanfragen organization and all listed [here](https://www.datarequests.org/open-source)
+  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
+  - t-shirts are given to 10 people drawn from the contributors
+- **How to sign up**: Submit to the repositories and send an [email to hacktoberfest@datenanfragen.de](mailto:hacktoberfest@datenanfragen.de?subject=Registration%20for%20Hacktoberfest%202019&body=I%20want%20to%20participate%20in%20the%20Hacktoberfest%202019%20event%20by%20Datenanfragen.de%20e.%20V.%0A%0AGitHub%20user%20name%3A%20%5Bplease%20fill-in%5D%0A%0AI%20have%20read%20the%20conditions%20of%20participation%20and%20privacy%20policy%20(https%3A%2F%2Fwww.datarequests.org%2Fblog%2Fhacktoberfest-2019)%20and%20accept%20these%20conditions.) before November 4, 2019 with your GitHub username and your acknowledgment of the terms.
+- **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2019/) for more info.
+
 #### **Devfolio**
 
 - **Swag**: Stickers, Limited Edition T-Shirts
 - **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION t-shirts!
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
 - **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
+
+### G
+
+#### **Globo.com**
+
+- **Swag**: T-shirt
+- **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
+- **How to sign up**: Sing up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com Github Repos](https://github.com/globocom).
+- **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
 ### H
 
@@ -79,6 +98,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - One or more pull requests with Hacktoberfest label gets merged: Limited-Edition T-shirt and Sticker Pack
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
+### J
+
+### **JabRef**
+
+- **Swag**: Limited Edition Sticker or T-shirt
+- **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
+  - 1 merged pull request: Limited edition sticker
+  - 5 merged pull requests: Limited edition T-shirt
+- **How to sign up**: Provide shipping address, it not yet clarified how.
+- **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
+
 
 ### L
 
@@ -125,10 +156,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Opsdroid**
 
-- **Swag**: Stickers, Limited-Edition Stickers
-- **Requirements**: Perform at least one of the actions mentioned in the blog post
-- **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
-- **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
+- **Swag**: Stickers, Limited-Edition Sticker
+- **Requirements**: Any contribution to [Opsdroid](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: Not clarified by now.
+- **Notes**: See the [blog post](https://medium.com/opsdroid/hacktoberfest-2019-ec0e4b4960b9/) for more information.
 
 ### P
 
@@ -235,6 +266,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: PR to LBRY repos.
 - **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
 
+#### **Opsdroid**
+
+- **Swag**: Stickers, Limited-Edition Sticker
+- **Requirements**: Any contribution to [Opsdroid](https://github.com/opsdroid/opsdroid/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: Not clarified by now.
+- **Notes**: See the [blog post](https://medium.com/opsdroid/hacktoberfest-2019-ec0e4b4960b9/) for more information.
 
 #### **Sense/Net** (Limited edition t-shirt)
 
@@ -269,6 +306,24 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on [Appwrite Github Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
+#### **Datenanfragen.de e. V.**
+
+- **Swag**: At least 3 stickers and maybe a t-shirt
+- **Requirements**:
+  - eligible repositories include all repos of the datenanfragen organization and all listed [here](https://www.datarequests.org/open-source)
+  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
+  - t-shirts are given to 10 people drawn from the contributors
+- **How to sign up**: Submit to the repositories and send an [email to hacktoberfest@datenanfragen.de](mailto:hacktoberfest@datenanfragen.de?subject=Registration%20for%20Hacktoberfest%202019&body=I%20want%20to%20participate%20in%20the%20Hacktoberfest%202019%20event%20by%20Datenanfragen.de%20e.%20V.%0A%0AGitHub%20user%20name%3A%20%5Bplease%20fill-in%5D%0A%0AI%20have%20read%20the%20conditions%20of%20participation%20and%20privacy%20policy%20(https%3A%2F%2Fwww.datarequests.org%2Fblog%2Fhacktoberfest-2019)%20and%20accept%20these%20conditions.) before November 4, 2019 with your GitHub username and your acknowledgment of the terms.
+- **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2019/) for more info.
+
+#### **Globo.com (T-shirt)**
+
+- **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
+- **Swag**: T-shirt
+- **How to sign up**: Sing up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com Github Repos](https://github.com/globocom).
+- **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
+
+
 #### **Hasura** (Limited-Edition T-shirt and Sticker Pack)
 
 - **Requirements**: Create one or more pull requests with Hacktoberfest label gets merged.
@@ -276,19 +331,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
+### **JabRef (Limited Edition Sticker)**
+
+- **Swag**: Limited Edition Sticker
+- **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
+- **How to sign up**: Provide shipping address, it not yet clarified how.
+- **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
+
 #### **MayaData**
 
 - **Swag**: Stickers, T-shirt
 - **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
-
-#### **Opsdroid**
-
-- **Swag**: Stickers, Limited-Edition Stickers
-- **Requirements**: Perform at least one of the actions mentioned in the blog post
-- **How to sign up**: [Link](https://docs.google.com/forms/d/e/1FAIpQLSd37TCTxLkM9IRTO7SjRtLG0IlZC10iBUqzsrVZ4HmAR-w6fg/viewform) to claim swag.
-- **Notes**: See the [blog post](https://medium.com/opsdroid/contributor-sticker-packs-738058ceda59/) for more information.
 
 #### **SalesAgility**
 
@@ -426,6 +481,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, Swags
 - **How to sign up**: There is no formal signup required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifiying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
+
+### **JabRef (t-shirt)**
+
+- **Swag**: Limited Edition T-shirt
+- **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
+- **How to sign up**: Provide shipping address, it not yet clarified how.
+- **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
 
 #### **Valor Software** (Pen, Sticker, Notepad and Wooden phone stand)
 
