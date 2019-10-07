@@ -110,6 +110,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 ## Contributors
 
+- [Rishabh Bansal](https://github.com/rishabh-bansal/)
 - [Chandler Weiner](https://github.com/crweiner/)
 - [Adrienne Tacke](https://github.com/adriennetacke)
 - [Kyle Tryon](https://github.com/KyleTryon)
