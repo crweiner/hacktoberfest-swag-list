@@ -122,8 +122,12 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Oorjit Chowdhary](https://github.com/oorjitchowdhary)
 - [Jimmy Nguyen](https://github.com/Stukongeluk)
 - [Caio Reis](https://github.com/caioreis123)
+- [Lorenz Sieben](https://github.com/zner0L)
 - [Loris Securo](https://github.com/LorisSecuro)
 - [Max Vogel](https://github.com/mehvix)
+- [Parth Panchal](https://github.com/pqrth)
+- [Chris Hung](https://github.com/hahattan)
+- [Barbara Pentoney](https://github.com/flyfishingbarbara)
 - [Rishabh Bansal](https://github.com/rishabh-bansal/)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
