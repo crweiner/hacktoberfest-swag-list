@@ -100,7 +100,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Limited Edition Sticker or T-shirt
 - **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
   - 1 merged pull request: Limited edition sticker
-  - 5 merged pull request: Limited edition T-shirt
+  - 5 merged pull requests: Limited edition T-shirt
 - **How to sign up**: Provide shipping address, it not yet clarified how.
 - **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
 
@@ -311,7 +311,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
 
-### **JabRef**
+### **JabRef (Limited Edition Sticker)**
 
 - **Swag**: Limited Edition Sticker
 - **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
@@ -479,7 +479,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Just submit your PRs to [Gatsby](https://github.com/gatsbyjs/store.gatsbyjs.org) and log into their [store](https://store.gatsbyjs.org/) with your GitHub account.
 - **Notes**: Read this blog [post](https://www.gatsbyjs.org/contributing/contributor-swag/#how-to-claim-your-free-swag) for more information.
 
-### **JabRef**
+### **JabRef (t-shirt)**
 
 - **Swag**: Limited Edition T-shirt
 - **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
