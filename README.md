@@ -324,7 +324,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Xamarin (Stickers)**
 
-- **Requirements**: 
+- **Requirements**:
   -Stickers: Submit 1 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
 - **Swag**: Stickers
 - **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
@@ -456,7 +456,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Xamarin (Stickers and T-shirt)**
 
-- **Requirements**: 
+- **Requirements**:
   -Stickers and T-shirt: Submit 4 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
 - **Swag**: Stickers and T-Shirt
 - **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
@@ -566,7 +566,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Xamarin (Stickers, T-shirt, and possibly a trophy)**
 
-- **Requirements**: 
+- **Requirements**:
   - Stickers, T-shirt, and trophy: Submit 10 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
 - **Swag**: Stickers, T-shirt, and eligible to win a trophy (only 10 available)
 - **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
