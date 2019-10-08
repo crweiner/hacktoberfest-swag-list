@@ -249,8 +249,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Xamarin**
 
-- **Swag**: Stickers, T-Shirts, trophies (eligible to win - only 10 available).
-- **Requirements**: 1 pull request for the stickers, 4 pull requests for a t-shirt, 10 pull requests to be eligible to win a trophy.
+- **Swag**: Stickers, T-Shirt, trophy (eligible to win - only 10 trophies available).
+- **Requirements**: 1 pull request for the stickers, 4 pull requests for a T-shirt, 10 pull requests to be eligible to win a trophy.
 - **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
 - **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
 
@@ -322,9 +322,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
 - **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
 
-#### **Xamarin**
+#### **Xamarin (Stickers)**
 
-- **Requirements**: Submit 1 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
+- **Requirements**: 
+  -Stickers: Submit 1 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
 - **Swag**: Stickers
 - **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
 - **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
@@ -453,19 +454,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
 - **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
 
-#### **Xamarin**
+#### **Xamarin (Stickers and T-shirt)**
 
-- **Requirements**: Submit 4 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
-- **Swag**: T-Shirt
-- **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
-- **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
-
-### 10 or more PRs
-
-#### **Xamarin**
-
-- **Requirements**: Submit 10 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
-- **Swag**: Eligible to win a trophy (only 10 available)
+- **Requirements**: 
+  -Stickers and T-shirt: Submit 4 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
+- **Swag**: Stickers and T-Shirt
 - **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
 - **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
 
@@ -570,5 +563,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Book from [SAP Press](https://www.sap-press.com)
 - **How to sign up**: Not yet clarified
 - **Notes**: More details in [their blog post](https://blogs.sap.com/2019/10/04/lets-code-share-and-learn.-calling-abapers-to-next-edition-of-hacktoberfest/).
+
+#### **Xamarin (Stickers, T-shirt, and possibly a trophy)**
+
+- **Requirements**: 
+  - Stickers, T-shirt, and trophy: Submit 10 [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) for [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/)
+- **Swag**: Stickers, T-shirt, and eligible to win a trophy (only 10 available)
+- **How to sign up**: Register [here](https://www.surveymonkey.com/r/G77Z762) to provide your GitHub username.
+- **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
