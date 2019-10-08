@@ -69,26 +69,26 @@ If you have multiple types of swag for different involvement levels, be sure to 
 #### **Operation Code**
 - **Requirements**:
   - Stickers and handwritten note: Simply get a pull request merged!
-  - T-Shirt: Resolve 3 issues.
+  - T-shirt: Resolve 3 issues.
 
 For each piece of swag, a separate entry was added at the appropriate involvement levels:
 
-_1. For the Stickers and a handwritten note only (placed at 1 Merged PR level):_
+_1. For the stickers and a handwritten note only (placed at 1 Merged PR level):_
 ```
-#### **Operation Code** (Stickers and Handwritten Note)
+#### **Operation Code** (Stickers, handwritten note)
 - **Requirements**:
   - Stickers and a handwritten note: Simply get a pull request merged!
-- **Swag**: T-shirt + handwritten note and stickers
+- **Swag**: T-shirt, handwritten note, stickers
 - **How to sign up**: We're tracking it manually and will comment you a Google form.
 - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
 ```
 
 _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
 ```
-#### **Operation Code** (T-Shirt)
+#### **Operation Code** (T-shirt)
 - **Requirements**:
-  - T-Shirt: Resolve 3 issues.
-- **Swag**: T-shirt + handwritten note and stickers
+  - T-shirt: Resolve 3 issues.
+- **Swag**: T-shirt, handwritten note, stickers
 - **How to sign up**: We're tracking it manually and will comment you a Google form.
 - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
 ```
