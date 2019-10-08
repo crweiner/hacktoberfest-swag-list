@@ -218,6 +218,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
 - **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
 
+#### **Saleor**
+
+- **Swag**: Saleor Socks
+- **Requirements**: Participate and solve any issues added during the month of Hacktoberfest.
+- **How to sign up**: See [Saleor-Issues](https://github.com/mirumee/saleor/issues)
+- **Notes**: See [Tweet](https://twitter.com/getsaleor/status/1179370205895634946)
+
 ### T
 
 #### **Twilio**
@@ -304,6 +311,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
 - **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
 
+#### **Saleor**
+
+- **Requirements**: Participate and solve any issues added during the month of Hacktoberfest.
+- **How to sign up**: See [Saleor-Issues](https://github.com/mirumee/saleor/labels/hacktoberfest)
+- **Swag**: Saleor Socks
+- **Notes**: See [Tweet](https://twitter.com/getsaleor/status/1179370205895634946)
 
 #### **Valor Software** (Pen and Sticker)
 
