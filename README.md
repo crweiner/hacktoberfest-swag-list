@@ -443,7 +443,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**:
   - 3 or 5 merged pull requests.
-- **Swag**: 
+- **Swag**:
   - For 3 merged pull requests: OSS superhero sticker pack and Aqua Hacktoberfest t-shirt.
   - For 5 merged pull requests: OSS superhero sticker pack, Aqua Hacktoberfest t-shirt and Kubernetes security book.
 - **How to sign up**: There is no signup required.
