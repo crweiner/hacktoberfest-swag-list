@@ -48,6 +48,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
+- 
+#### **Aqua**
+
+- **Swag**: T-shirt, stickers, other swags
+- **Requirements**: Create one or more Pull Requests on any of Aqua projects repositories.
+- **How to sign up**: There is no formal sign up required. Create one or more PRs on either of the projects available [Aqua repos.](https://github.com/aquasecurity) 
+- **Notes**: See [blog](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest) for more information.
 
 ### C
 
