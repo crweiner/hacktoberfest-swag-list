@@ -48,7 +48,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
-- 
+
 #### **Aqua**
 
 - **Swag**: T-shirt, stickers, other swags
@@ -360,6 +360,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
+#### **Aqua**(Sticker)
+
+- **Requirements**:
+  - 1 merged pull request.
+- **Swag**: OSS superhero sticker pack.
+- **How to sign up**: There is no signup required.
+- **Notes**: View full details above. Make successful pull requests to any of the Aqua projects.
+
+
 #### **Datenanfragen.de e. V.** (Stickers, T-shirt)
 
 - **Requirements**:
@@ -429,6 +438,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
 ### 2 or more PRs
+
+#### **Aqua**(Sticker, T-shirt, Book)
+
+- **Requirements**:
+  - 3 or 5 merged pull requests.
+- **Swag**: 
+    - For 3 merged pull requests: OSS superhero sticker pack and Aqua Hacktoberfest t-shirt.
+    - For 5 merged pull requests: OSS superhero sticker pack, Aqua Hacktoberfest t-shirt and Kubernetes security book.
+- **How to sign up**: There is no signup required.
+- **Notes**: View full details above. Make successful pull requests to any of the Aqua projects.
+
 
 #### **CircleCI** (T-shirt)
 
