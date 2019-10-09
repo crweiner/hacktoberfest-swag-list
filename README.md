@@ -51,9 +51,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Aqua**
 - **Swag**: sticker packs, special Aqua Hacktoberfest t-shirt, book on Kubernetes Security
-- **Requirements**: Review open issues and create merged pull requests on https://github.com/aquasecurity. 1 contribution will receive stickers, 3 contributions receive stickers and t shirt, and 5 contributions receive stickers, tshirt, and book
-- **How to sign up**: Make a PR on https://github.com/aquasecurity but before this make sure to review contribution guidelines
-- **Notes**: see blog post https://blog.aquasec.com/aqua-open-source-security-hacktoberfest
+- **Requirements**: Review open issues and create merged pull requests on [Aqua github](https://github.com/aquasecurity). 1 contribution will receive stickers, 3 contributions receive stickers and t shirt, and 5 contributions receive stickers, tshirt, and book
+- **How to sign up**: Make a PR on [site](https://github.com/aquasecurity) but before this make sure to review contribution guidelines
+- **Notes**: see [blog post](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 ### C
 
