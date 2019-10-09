@@ -119,7 +119,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Provide shipping address, it not yet clarified how.
 - **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
 
-
 ### L
 
 #### **LadybugTools**
@@ -196,6 +195,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See there [blog post](https://hacktoberfest.qmk.fm/) for more information.
 
 ### S
+
+#### **Saleor**
+
+- **Swag**: Saleor Socks
+- **Requirements**: Participate and [solve any issues](https://github.com/mirumee/saleor/issues) added during the month of Hacktoberfest.
+- **How to sign up**: No signup link given at this time.
+- **Notes**: See [Tweet](https://twitter.com/getsaleor/status/1179370205895634946)
 
 #### **SalesAgility**
 
@@ -313,7 +319,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
 - **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
 
-
 #### **Valor Software** (Pen, sticker)
 
 - **Requirements**:
@@ -362,6 +367,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
 - **Swag**: T-shirt
+- **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com Github Repos](https://github.com/globocom).
 - **How to sign up**: Sing up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
 - **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
@@ -386,6 +392,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Stickers, T-shirt
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
+
+#### **Saleor (Socks)**
+
+- **Requirements**: Participate and [solve any issues](https://github.com/mirumee/saleor/issues) added during the month of Hacktoberfest.
+- **Swag**: Saleor Socks
+- **How to sign up**: No signup link given at this time.
+- **Notes**: See [Tweet](https://twitter.com/getsaleor/status/1179370205895634946)
 
 #### **SalesAgility** (Mug)
 
