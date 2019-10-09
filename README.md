@@ -444,8 +444,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 3 or 5 merged pull requests.
 - **Swag**: 
-    - For 3 merged pull requests: OSS superhero sticker pack and Aqua Hacktoberfest t-shirt.
-    - For 5 merged pull requests: OSS superhero sticker pack, Aqua Hacktoberfest t-shirt and Kubernetes security book.
+  - For 3 merged pull requests: OSS superhero sticker pack and Aqua Hacktoberfest t-shirt.
+  - For 5 merged pull requests: OSS superhero sticker pack, Aqua Hacktoberfest t-shirt and Kubernetes security book.
 - **How to sign up**: There is no signup required.
 - **Notes**: View full details above. Make successful pull requests to any of the Aqua projects.
 
