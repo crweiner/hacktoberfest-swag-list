@@ -49,6 +49,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
+#### **Aqua**
+
+- **Swag**: Stickers, Special-edition T-shirts, "Kubernetes Security" book
+- **Requirements**: Create one or more merged pull requests on any of [Aqua repos](https://github.com/aquasecurity/).
+	- 1 eligible contribution: OSS superhero sticker pack
+	- 3 eligible contributions: OSS superhero sticker pack + T-shirt
+	- 5 eligible contributions: OSS superhero sticker pack + T-shirt + "Kubernetes Security" book
+- **How to sign up**: Make a PR on [Aqua GitHub Repositories](https://github.com/aquasecurity/) and we'll send you a link for further details.
+- **Notes**: for more details refer to the blog link [blog post](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
+
 ### C
 
 #### **CircleCI**
