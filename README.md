@@ -119,6 +119,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Provide shipping address, it not yet clarified how.
 - **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
 
+### K
+
+#### **Kong**
+
+- **Swag**: Contributor T-shirt
+- **Requirements**: If your Pull Request to [Kong/kong](https://github.com/Kong/kong) was accepted, and it fixes a bug, adds functionality, or makes it significantly easier to use or understand Kong, congratulations! You are eligible to receive the very special Contributor T-shirt!
+- **How to sign up for the swag**: Go ahead and fill out the [Contributors Submissions form](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform)
+- **Notes**: Form says 2018.
 
 ### L
 
@@ -282,6 +290,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker Pack
 - **How to sign up**: Make a PR on any of these: [The Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) and/or [The GraphQL Tutorial Series](https://github.com/hasura/learn-graphql)
 - **Notes**: See the [blog post](https://blog.hasura.io/hasura-joins-hacktoberfest-2019/) for more information and keep updated at Hasura [twitter](https://twitter.com/hasurahq)
+
+#### **Kong**
+
+- **Swag**: Contributor T-shirt
+- **Requirements**: If your Pull Request to [Kong/kong](https://github.com/Kong/kong) was accepted, and it fixes a bug, adds functionality, or makes it significantly easier to use or understand Kong, congratulations! You are eligible to receive the very special Contributor T-shirt!
+- **How to sign up for the swag**: Go ahead and fill out the [Contributors Submissions form](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform)
+- **Notes**: Form says 2018.
 
 #### **LadybugTools** (Stickers)
 
