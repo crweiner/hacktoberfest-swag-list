@@ -104,7 +104,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
-- **How to sign up**: Sing up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
+- **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
 - **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
 ### H
@@ -184,7 +184,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Parity**
 
 - **Swag**: Gym bag
-- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **Requirements**: Finish any of the projects or submit 4 PRs for issues tagged with hacktoberfest.
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
@@ -396,7 +396,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
 - **Swag**: T-shirt
 - **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com Github Repos](https://github.com/globocom).
-- **How to sign up**: Sing up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
+- **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
 - **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
 
@@ -416,7 +416,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData** (Stickers, T-shirt)
 
-- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
+- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a laptop.
 - **Swag**: Stickers, T-shirt
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
@@ -562,7 +562,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Parity** (Gym bag)
 
-- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **Requirements**: Finish any of the projects or submit 4 PRs for issues tagged with hacktoberfest.
 - **Swag**: Gym bag
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
