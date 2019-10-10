@@ -346,6 +346,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
 #### **Coding Blocks** (T-shirt, stickers)
+
 - **Requirements**:
   - 1+ merged pull requests: T-shirt, stickers
 - **Swag**: T-shirt, stickers
