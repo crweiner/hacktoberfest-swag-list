@@ -224,7 +224,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
 - **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
 
-### **Software Mansion**
+#### **Software Mansion**
 
 - **Swag**: Stickers, socks, entry discount code for [App.js Conf](https://appjs.co), notebook, t-shirt
 - **Requirements**:
@@ -417,6 +417,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
 
+#### **Software Mansion** (Stickers, socks and App.js Conf discount code)
+
+- **Requirements**:
+  - Stickers, socks: Solve an issue labeled "Hacktoberfest" in [React Navigation Repositories](https://github.com/react-navigation).
+  - 30% entry discount code for [App.js Conf](https://appjs.co), Stickers: Solve an issue labeled "Hacktoberfest" and "level: advanced" in [React Navigation Repositories](https://github.com/react-navigation).
+- **Swag**: Stickers, socks, App.js Conf discount code
+- **How to sign up**: PR to [React Navigation Repositories](https://github.com/react-navigation) solving issues labeled "Hacktoberfest"
+- **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
+
 #### **Twilio** (Stickers)
 
 - **Requirements**: One pull requests merged into any project on [twilio-labs](https://github.com/twilio-labs) .
@@ -586,6 +595,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Book from [SAP Press](https://www.sap-press.com)
 - **How to sign up**: Not yet clarified
 - **Notes**: More details in [their blog post](https://blogs.sap.com/2019/10/04/lets-code-share-and-learn.-calling-abapers-to-next-edition-of-hacktoberfest/).
+
+#### **Software Mansion** (Stickers, App.js Conf discount code, notebook, t-shirt)
+
+- **Requirements**: If your contribution to [React Navigation Repositories](https://github.com/react-navigation) is recognised by Software Mansion as important, you will receive three, or all four of these items.
+- **Swag**: Stickers, App.js Conf discount code, notebook, t-shirt
+- **How to sign up**: PR to [React Navigation Repositories](https://github.com/react-navigation)
+- **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
 
 #### **Xamarin (Stickers, T-shirt, and possibly a trophy)**
 
