@@ -52,12 +52,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Aqua**
 
 - **Swag**: Stickers, Special-edition T-shirts, "Kubernetes Security" book
-- **Requirements**: Create one or more merged pull requests on any of [Aqua repos](https://github.com/aquasecurity/).
+- **Requirements**: Create one or more pull requests on any of [Aqua repos](https://github.com/aquasecurity/) with reference to the contribution guidelines for each project for an eligible contribution.
   - 1 eligible PR contribution:stickers
   - 3 eligible PR contributions:stickers + T-shirt
   - 5 eligible PR contributions:stickers + T-shirt + "Kubernetes Security" book
-- **How to sign up**: Make as many PR contributions on [Aqua GitHub Repositories](https://github.com/aquasecurity/) as you like and any further follow up will be informed from the team based on your valuable contributions.
-- **Notes**: For more details refer to the blog link [blog post](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+- **How to sign up**: No additional signup required. Just make as many PR contributions on [Aqua GitHub Repositories](https://github.com/aquasecurity/) as you like and we will publish additional instruction on how to redeem your rewards on the [Aqua blog](https://blog.aquasec.com/).
+- **Notes**: For more details refer to the blog link [blog post](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest).
 
 
 ### C
