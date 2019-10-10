@@ -224,6 +224,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
 - **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
 
+### **Software Mansion**
+
+- **Swag**: Stickers, socks, entry discount code for [App.js Conf](https://appjs.co), notebook, t-shirt
+- **Requirements**:
+  - Stickers and socks: Solve an issue marked "Hacktoberfest" in [React Navigation Repositories](https://github.com/react-navigation).
+  - 30% entry discount code for [App.js Conf](https://appjs.co) and stickers: Solve an issue labeled "Hacktoberfest" and "level: advanced" in [React Navigation Repositories](https://github.com/react-navigation).
+  - Stickers, [App.js Conf](https://appjs.co) discount code, notebook or t-shirt (possibly all four of these): If you do anything else which is recognized as important.
+- **How to sign up**: PR to [React Navigation Repositories](https://github.com/react-navigation) solving issues labeled "Hacktoberfest"
+- **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
+
 ### T
 
 #### **Twilio**
