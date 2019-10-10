@@ -276,6 +276,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
+#### **Aqua Security (Stickers pack)**
+
+- **Requirements**:
+  - 1 pull request: our superhero sticker pack.
+- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
 #### **CircleCI** (Sticker)
 
 - **Requirements**:
@@ -523,6 +530,25 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Gym bag
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
+
+
+### 3 or more PRs
+
+#### **Aqua Security** (Stickers pack, t-shirt)
+
+- **Requirements**:
+  - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
+- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
+### 5 or More PRs
+
+#### **Aqua Security** (stickers pack, t-shirt, book)
+
+- **Requirements**:
+  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirtand, and the “Kubernetes Security” book.
+- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 ### 5 Merged PRs
 
