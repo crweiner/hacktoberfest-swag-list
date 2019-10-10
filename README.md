@@ -55,8 +55,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 1 pull request: our superhero sticker pack.
   - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
-  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirtand, and the “Kubernetes Security” book.
-- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirt, and the “Kubernetes Security” book.
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
 - **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 ### C
@@ -291,7 +291,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 1 pull request: our superhero sticker pack.
 - **Swag**: Stickers pack
-- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
 - **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 #### **CircleCI** (Sticker)
@@ -465,15 +465,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
 - **Swag**: Stickers pack and t-shirt.
-- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
 - **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 #### **Aqua Security** (stickers pack, t-shirt, book)
 
 - **Requirements**:
-  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirtand, and the “Kubernetes Security” book.
+  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirt, and the “Kubernetes Security” book.
 - **Swag**: Stickers pack, t-shirt, and book.
-- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
 - **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 #### **CircleCI** (T-shirt)
