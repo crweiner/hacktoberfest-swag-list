@@ -49,6 +49,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
+#### **Aqua Security**
+
+- **Swag**: Stickers, t-shirts, books
+- **Requirements**:
+  - 1 pull request: our superhero sticker pack.
+  - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
+  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirtand, and the “Kubernetes Security” book.
+- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
 ### C
 
 #### **CircleCI**
@@ -266,6 +276,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
+#### **Aqua Security (Stickers pack)**
+
+- **Requirements**:
+  - 1 pull request: our superhero sticker pack.
+- **Swag**: Stickers pack
+- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
 #### **CircleCI** (Sticker)
 
 - **Requirements**:
@@ -423,6 +441,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more PRs
 
+#### **Aqua Security** (Stickers pack, t-shirt)
+
+- **Requirements**:
+  - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
+- **Swag**: Stickers pack and t-shirt.
+- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
+#### **Aqua Security** (stickers pack, t-shirt, book)
+
+- **Requirements**:
+  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirtand, and the “Kubernetes Security” book.
+- **Swag**: Stickers pack, t-shirt, and book.
+- **How to sign up**: No sign up required. Aqua's team will review eligable contributions and will publish intrcutions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
 #### **CircleCI** (T-shirt)
 
 - **Requirements**:
@@ -437,13 +471,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Complete 3 PRs and [sign up here](https://cooptilleuls.typeform.com/to/CG0pLd).
 - **Notes**: See this announcement from [the company's website](https://les-tilleuls.coop/fr/blog/article/celebrate-hacktoberfest-with-api-platform).
-
-#### **Operation Code** (Stickers)
-
-- **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
-- **Swag**: Stickers.
-- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
-- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
 #### **QMK** (T-shirt, keyboard)
 
@@ -499,6 +526,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
 - **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
+
+#### **Operation Code** (Stickers)
+
+- **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
+- **Swag**: Stickers.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
 #### **Operation Code** (T-shirt)
 
