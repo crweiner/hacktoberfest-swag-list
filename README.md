@@ -178,6 +178,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
+
+#### **Product Hunt**
+
+- **Swag**: Product Hunt Official Tshirts, Trophies, Stickers.
+- **Requirement**: Submit at least 4 PR's for the issues in any one of the repositaries. 
+- **How to sign up**: [Sign up Here]
+(https://www.producthunt.com/)
+- **Notes**: Visit their [Blog for new Launch](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399?gi=21df9f0a8714) and [Repositaries](https://github.com/producthunt) 
+
 #### **Python Discord**
 
 - **Swag**: T-shirt or a 1 year JetBrains product license
@@ -393,6 +402,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
 
+#### **Product Hunt** (Stickers, Tshirts, Trophies)
+
+- **Requirements**: Merge any 2 PRs in one of the Repositories.
+- **Swag**: Tshirt,Stickers.
+- **How to sign up** : It is not yet clarified.
+- **Notes**: See all the [repositories here](https://github.com/producthunt)
+
 #### **Saleor (Socks)**
 
 - **Requirements**: Participate and [solve any issues](https://github.com/mirumee/saleor/issues) added during the month of Hacktoberfest.
@@ -444,6 +460,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Stickers.
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 
 #### **QMK** (T-shirt, keyboard)
 
