@@ -51,10 +51,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Aqua**
 
-- **Swag**: T-shirt, stickers, other swags
-- **Requirements**: Create one or more Pull Requests on any of Aqua projects repositories.
-- **How to sign up**: There is no formal sign up required. Create one or more PRs on either of the projects available [Aqua repos.](https://github.com/aquasecurity) 
-- **Notes**: See [blog](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest) for more information.
+- **Swag**: Stickers, t-shirts, books
+- **Requirements**:
+  - 1 pull request: Superhero sticker pack.
+  - 3 pull requests: Superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
+  - 5 pull requests: Superhero sticker pack, a special edition Aqua Hacktoberfest t-shirt and the “Kubernetes Security” book.
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 ### C
 
@@ -273,6 +276,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
+#### **Aqua** (Sticker)
+
+- **Requirements**:
+  - 1 pull request.
+- **Swag**: OSS superhero sticker pack.
+- **How to sign up**: There is no signup required.
+- **Notes**: View full details above. Make successful pull requests to any of the Aqua projects.
+
 #### **CircleCI** (Sticker)
 
 - **Requirements**:
@@ -360,15 +371,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
-#### **Aqua**(Sticker)
-
-- **Requirements**:
-  - 1 merged pull request.
-- **Swag**: OSS superhero sticker pack.
-- **How to sign up**: There is no signup required.
-- **Notes**: View full details above. Make successful pull requests to any of the Aqua projects.
-
-
 #### **Datenanfragen.de e. V.** (Stickers, T-shirt)
 
 - **Requirements**:
@@ -439,13 +441,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more PRs
 
-#### **Aqua**(Sticker, T-shirt, Book)
+#### **Aqua** (Sticker, T-shirt, Book)
 
 - **Requirements**:
-  - 3 or 5 merged pull requests.
+  - 3 or 5 pull requests.
 - **Swag**:
-  - For 3 merged pull requests: OSS superhero sticker pack and Aqua Hacktoberfest t-shirt.
-  - For 5 merged pull requests: OSS superhero sticker pack, Aqua Hacktoberfest t-shirt and Kubernetes security book.
+  - For 3 pull requests: OSS superhero sticker pack and Aqua Hacktoberfest t-shirt.
+  - For 5 pull requests: OSS superhero sticker pack, Aqua Hacktoberfest t-shirt and Kubernetes security book.
 - **How to sign up**: There is no signup required.
 - **Notes**: View full details above. Make successful pull requests to any of the Aqua projects.
 
