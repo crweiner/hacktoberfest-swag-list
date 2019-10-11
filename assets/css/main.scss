@@ -1,3 +1,17 @@
-document.getElementById('scroll-to-top').style.display = 'block';
-document.getElementById('scroll-to-top').style.opacity = 1;
-document.getElementById('scroll-to-top').style.transform = 'translateY(-30%)'
+div {
+  height: 1000px;
+}
+
+#scroll-to-top {
+  cursor: pointer;
+  display: block;
+  position: fixed;
+  font-size: 20px;
+  bottom: 10%;
+  right: 10%;
+  opacity: 0;
+  z-index: 10;
+  
+  transform: translateY(30%);
+  transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+}
