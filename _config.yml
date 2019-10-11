@@ -9,6 +9,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-compose
+  - jemoji
 include:
   - CONTRIBUTING.md
 exclude:
