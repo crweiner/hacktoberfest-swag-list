@@ -453,8 +453,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Strawberry (Sticker)**
 
-- **Swag**: Strawberry Sticker
 - **Requirements**: Make a successful PR to the [Strawberry organization on GitHub](https://github.com/strawberry-graphql/strawberry) between October 1 and October 31.
+- **Swag**: Strawberry Sticker
 - **How to sign up**: Sign up to the Hacktoberfest site and make a successful PR to Strawberry project.
 - **Notes**:  See their [twitter post](https://twitter.com/patrick91/status/1178952690300272640?s=19). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
 
