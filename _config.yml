@@ -11,6 +11,9 @@ plugins:
   - jekyll-remote-theme
 include:
   - CONTRIBUTING.md
+  
+head_scripts:
+  - /js/scroll_to_up.js
 exclude:
   - Gemfile
   - Gemfile.lock
