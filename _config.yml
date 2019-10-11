@@ -9,6 +9,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
+  
+head_scripts:
+  - /scroll_to_up.js
 include:
   - CONTRIBUTING.md
 exclude:
