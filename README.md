@@ -49,6 +49,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
+#### **Aqua Security**
+
+- **Swag**: Stickers, t-shirts, books
+- **Requirements**:
+  - 1 pull request: our superhero sticker pack.
+  - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
+  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirt, and the “Kubernetes Security” book.
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
 ### C
 
 #### **CircleCI**
@@ -94,7 +104,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
-- **How to sign up**: Sing up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
+- **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
 - **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
 ### H
@@ -174,7 +184,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Parity**
 
 - **Swag**: Gym bag
-- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **Requirements**: Finish any of the projects or submit 4 PRs for issues tagged with hacktoberfest.
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
 
@@ -233,6 +243,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
 - **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
 
+#### **Software Mansion**
+
+- **Swag**: Stickers, socks, entry discount code for [App.js Conf](https://appjs.co), notebook, t-shirt
+- **Requirements**:
+  - Stickers and socks: Solve an issue marked "Hacktoberfest" in [React Navigation Repositories](https://github.com/react-navigation).
+  - 30% entry discount code for [App.js Conf](https://appjs.co), stickers and socks: Solve an issue labeled "Hacktoberfest" and "level: advanced" in [React Navigation Repositories](https://github.com/react-navigation).
+  - Stickers, [App.js Conf](https://appjs.co) discount code, notebook or t-shirt (possibly all four of these): If you do anything else which is recognized as important.
+- **How to sign up**: PR to [React Navigation Repositories](https://github.com/react-navigation) solving issues labeled "Hacktoberfest"
+- **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
+
 ### T
 
 #### **Twilio**
@@ -275,6 +295,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
+#### **Aqua Security (Stickers pack)**
+
+- **Requirements**:
+  - 1 pull request: our superhero sticker pack.
+- **Swag**: Stickers pack
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
 #### **CircleCI** (Sticker)
 
 - **Requirements**:
@@ -282,14 +310,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker.
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
 - **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
-
-#### **Coding Blocks** (T-shirt, stickers)
-
-- **Requirements**:
-  - 1+ merged pull requests: T-shirt, stickers
-- **Swag**: T-shirt, stickers
-- **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
-- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
 
 #### **Hasura** (Sticker Pack)
 
@@ -362,6 +382,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
+#### **Coding Blocks** (T-shirt, stickers)
+
+- **Requirements**:
+  - 1+ merged pull requests: T-shirt, stickers
+- **Swag**: T-shirt, stickers
+- **How to sign up**: Make a Pull Request to [Coding Blocks Repositories](https://github.com/coding-blocks) and submit your PRs to this [Form](https://cb.lk/hacktoberfest/swag).
+- **Notes**: View full details [Here](https://cb.lk/hacktoberfest/blog). Make pull requests to any open-source projects for Coding Blocks. When merged, submit PRs to the form to claim swag.
+
 #### **Datenanfragen.de e. V.** (Stickers, T-shirt)
 
 - **Requirements**:
@@ -377,7 +405,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
 - **Swag**: T-shirt
 - **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com Github Repos](https://github.com/globocom).
-- **How to sign up**: Sing up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
+- **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
 - **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
 
@@ -397,7 +425,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData** (Stickers, T-shirt)
 
-- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
+- **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a laptop.
 - **Swag**: Stickers, T-shirt
 - **How to sign up**: Not clarified by now.
 - **Notes**: See the [blog post](https://blog.mayadata.io/mayadata-celebrates-hacktoberfest-2019) and [official site](https://mayadata.io/hacktoberfest) for more information.
@@ -423,6 +451,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Not clarified by now.
 - **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
 
+#### **Software Mansion** (Stickers, socks and App.js Conf discount code)
+
+- **Requirements**:
+  - Stickers and socks: Solve an issue labeled "Hacktoberfest" in [React Navigation Repositories](https://github.com/react-navigation).
+  - 30% entry discount code for [App.js Conf](https://appjs.co), stickers and socks: Solve an issue labeled "Hacktoberfest" and "level: advanced" in [React Navigation Repositories](https://github.com/react-navigation).
+- **Swag**: Stickers, socks, App.js Conf discount code
+- **How to sign up**: PR to [React Navigation Repositories](https://github.com/react-navigation) solving issues labeled "Hacktoberfest"
+- **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
+
 #### **Twilio** (Stickers)
 
 - **Requirements**: One pull requests merged into any project on [twilio-labs](https://github.com/twilio-labs) .
@@ -438,6 +475,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
 ### 2 or more PRs
+
+#### **Aqua Security** (Stickers pack, t-shirt)
+
+- **Requirements**:
+  - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
+- **Swag**: Stickers pack and t-shirt.
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
+
+#### **Aqua Security** (stickers pack, t-shirt, book)
+
+- **Requirements**:
+  - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirt, and the “Kubernetes Security” book.
+- **Swag**: Stickers pack, t-shirt, and book.
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 #### **CircleCI** (T-shirt)
 
@@ -517,6 +570,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
 - **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
 
+#### **Operation Code** (Stickers)
+
+- **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
+- **Swag**: Stickers.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 #### **Operation Code** (T-shirt)
 
 - **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
@@ -526,7 +586,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Parity** (Gym bag)
 
-- **Requirements**: Finish any of the projects or submit 4 PR's for issues tagged with hacktoberfest.
+- **Requirements**: Finish any of the projects or submit 4 PRs for issues tagged with hacktoberfest.
 - **Swag**: Gym bag
 - **How to sign up**: [Sign up Here](https://docs.google.com/forms/d/e/1FAIpQLSfQFLveEHTF5MECDNT2eP74SM3aSG_jxfufjyXQohKcc0sUyw/viewform)
 - **Notes**:  See this page for their [FAQ's](https://substrate.dev/hacktoberfest/faq/) or this page for their [official announcement](https://www.parity.io/hacktoberfest-2019-parity/).
@@ -593,6 +653,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Book from [SAP Press](https://www.sap-press.com)
 - **How to sign up**: Not yet clarified
 - **Notes**: More details in [their blog post](https://blogs.sap.com/2019/10/04/lets-code-share-and-learn.-calling-abapers-to-next-edition-of-hacktoberfest/).
+
+#### **Software Mansion** (Stickers, App.js Conf discount code, notebook, and/or t-shirt)
+
+- **Requirements**: If your contribution to [React Navigation Repositories](https://github.com/react-navigation) is recognised by Software Mansion as important, you will receive three, or all four of these items.
+- **Swag**: Stickers, App.js Conf discount code, notebook, t-shirt
+- **How to sign up**: PR to [React Navigation Repositories](https://github.com/react-navigation)
+- **Notes**: See their [blog post](https://blog.swmansion.com/software-mansion-3-hactoberfest-40e230715c23) and [announcement tweet](https://twitter.com/swmansion/status/1181221122471317504?s=19) for more details.
 
 #### **Xamarin (Stickers, T-shirt, and possibly a trophy)**
 
