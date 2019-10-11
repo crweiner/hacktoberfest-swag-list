@@ -16,4 +16,5 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - CNAME
+  - vendor
 repository: "crweiner/hacktoberfest-swag-list"
