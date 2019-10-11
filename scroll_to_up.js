@@ -1,3 +1,4 @@
+
 function hasScrollBehavior() {
   return "scrollBehavior" in document.documentElement.style;
 }
