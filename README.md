@@ -129,6 +129,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Provide shipping address, it not yet clarified how.
 - **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
 
+### K
+
+#### **Kong**
+- **Swag**: Kong Contributor T-shirt
+- **Requirements**: ( By making Hacktoberfest qualifying PRs to Kong’s code(https://github.com/Kong/kong) and documentation (https://github.com/Kong/docs.konghq.com))
+- **How to sign up**: (Make PRs [Kong/kong](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt))
+- **Notes**: (Here are more links - If aren’t sure what to work on, please check out the issues labeled good first issue on our Kong (https://github.com/Kong/kong/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+) and Docs (https://github.com/Kong/docs.konghq.com/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) respositories for inspiration!
+https://discuss.konghq.com/t/contribute-to-kong-for-hacktoberfest/2029
+)
+
 ### L
 
 #### **LadybugTools**
