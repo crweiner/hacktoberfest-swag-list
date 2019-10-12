@@ -129,6 +129,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Provide shipping address, it not yet clarified how.
 - **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
 
+### K
+
+### **Kong**
+
+- **Swag**: Kong Contributor T-shirt
+- **Requirements**: Make a PR on the code base or documentation
+- **How to sign up**: See the CONTRIBUTING.md file in the repo you submit your PR in for a Google Forms link.
+- **Notes**: See .[pinned forum post].(https://discuss.konghq.com/t/contribute-to-kong-for-hacktoberfest/2029).
+
 ### L
 
 #### **LadybugTools**
