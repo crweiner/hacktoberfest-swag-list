@@ -131,5 +131,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Rishabh Bansal](https://github.com/rishabh-bansal/)
 - [Mahmoud Ali](https://github.com/akamud/)
 - [Deepak Kumar](https://github.com/deepak2431)
+- [Jahnvi Gupta](https://github.com/jahnvigupta)
+
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
