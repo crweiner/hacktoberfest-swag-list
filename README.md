@@ -46,7 +46,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Stickers, magnets, buttons
 - **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
-- **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
+- **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite), and we'll send you a link.
 - **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
 
 #### **Aqua Security**
@@ -56,7 +56,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1 pull request: our superhero sticker pack.
   - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
   - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirt, and the “Kubernetes Security” book.
-- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how to redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
 - **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 ### C
@@ -123,7 +123,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### **JabRef**
 
 - **Swag**: Sticker, T-shirt
-- **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
+- **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019, and you should not be inactive for seven days or more during code review.
   - 1 merged pull request: sticker
   - 5 merged pull requests: T-shirt
 - **How to sign up**: Provide shipping address, it not yet clarified how.
@@ -266,7 +266,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt
 - **Requirements**: Create at least one or more merged pull requests on any of [Uno Platform repos](https://github.com/unoplatform).
-- **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u). 
+- **How to sign up**: Share your contact details via [this form with the Uno Platform team](https://forms.office.com/Pages/ResponsePage.aspx?id=Ye9TbdG2UEGuC0O5DnXgzai0HkTgxONNjPmzuZ5zgdRUQzFJMVBPSU8xWDBUUlNOTExCWFUwQjNBNy4u).
 - **Notes**: See the [blog post](https://platform.uno/uno-is-joining-hacktoberfest-2019/) for more information.
 
 ### V
@@ -307,7 +307,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1 - 3 pull requests (to "orbs").
 - **Swag**: Sticker.
 - **How to sign up**: [Join #Orbtoberfest](https://circleci-public.github.io/hacktoberfest/#/) and submit your PRs to this [Google Form](https://docs.google.com/forms/d/1-MbzLy0m1eRLjeye9wu76fYkzcX5A3PvgKd09EhVObY/viewform).
-- **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete submit PRs to the Google form to claim swag.
+- **Notes**: View full details above. Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete, submit PRs to the Google form to claim swag.
 
 #### **Hasura** (Sticker Pack)
 
