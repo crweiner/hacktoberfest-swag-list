@@ -30,8 +30,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: Create pull requests on Accord Project's [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/), issues in those repos will be labeled different difficulty level (_Starter_, _Medium_, _Challenging_).
-  - 1 _Challenging_ or 2 _Medium_ or 5 _Starter_ accepted PRs: T-shirt and stickers
-  - 2 accepted PRs across any difficulty level: stickers
+  - 1 _Challenging_ or 2 _Medium_ or 5 _Starter_ accepted PRs: T-shirt and stickers.
+  - 2 accepted PRs across any difficulty level: stickers.
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
 - **Notes**: Check out the [official page](https://www.accordproject.org/events/hacktoberfest-2019/) for more information.
 
@@ -40,14 +40,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt, other swags
 - **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
 - **How to sign up**: There is no formal sign up required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifying contributors' handles in the file with further instructions to get the swags.
-- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
+- **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/).
 
 #### **Appwrite**
 
 - **Swag**: Stickers, magnets, buttons
 - **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
-- **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information
+- **Notes**: See the [blog post](https://medium.com/appwrite-io/hacktoberfest-2019-is-almost-here-lets-celebrate-it-together-24b311236dd?source=friends_link&sk=104527c24e85006a997fa068bfd1760d) for more information.
 
 #### **Aqua Security**
 
