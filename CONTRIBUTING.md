@@ -8,6 +8,17 @@ Check [Issues](https://github.com/crweiner/hacktoberfest-swag-list/issues) and c
 
 Please follow these rules regarding how to add a new company to the List:
 
+## Rules of Contributing
+
+If you wish to add something to the Hacktoberfest Swag List, that's great and we'd love to have you!
+
+Please be sure to follow the simple rules:
+
+1. Be sure you are looking to add something of substance to this project, not just spam PRs. PRs must meet the [Hacktoberfest Quality Standards](https://hacktoberfest.digitalocean.com/details#quality-standards)
+2. Please be available to make changes within 48 hours when requested to do so. If you don't, then your PR may be closed.
+3. Please fix all issues flagged by the bots, including CodeClimate, GH Actions, Netlify, CircleCI or any others as soon as possible, ideally right away.
+4. If adding a new company to the swag list, follow the formatting below:
+
 ## How to format your contribution
 
 Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [Readme.md](./README.md).
