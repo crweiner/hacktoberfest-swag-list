@@ -402,7 +402,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
 - **Swag**: T-shirt
-- **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com Github Repos](https://github.com/globocom).
 - **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
 - **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
