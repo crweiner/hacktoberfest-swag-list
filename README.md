@@ -106,6 +106,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [react-otp-input](https://github.com/devfolioco/react-otp-input/issues), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter/issues), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input/issues), [scrroll-in](https://github.com/devfolioco/scrroll-in/issues)
 - **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
 
+### F
+
+#### **Flutterwave.com**
+
+- **Swag**: T-shirt
+- **Requirements**: Contribute two or more merged PRs to any of [flutterwave.com community libraries](https://developer.flutterwave.com/docs/plugins)
+- **How to sign up**: Fill the [google form here](https://docs.google.com/forms/d/e/1FAIpQLScA4kb53bbkTvTUp7MOnfDNsBzjT2jVfwH0Vkd2XrEqL8r1ZQ/viewform), and create at least two merged pull requests to [flutterwave.com community libraries](https://developer.flutterwave.com/docs/plugins)
+- **Notes**: See this tweet for their [official announcement](https://twitter.com/Ace_KYD/status/1183738026511519745)
+
 ### G
 
 #### **Globo.com**
@@ -588,6 +597,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
 - **Notes**:  See this page for their [official announcement](https://devfolio.co/blog/hacktoberfest-2019-devfolio/).
+
+#### **Flutterwave.com** (T-shirt)
+
+- **Requirements**: Contribute two or more merged PRs to any of [flutterwave.com community libraries](https://developer.flutterwave.com/docs/plugins)
+- **Swag**: T-shirt
+- **How to sign up**: Fill the [google form here](https://docs.google.com/forms/d/e/1FAIpQLScA4kb53bbkTvTUp7MOnfDNsBzjT2jVfwH0Vkd2XrEqL8r1ZQ/viewform), and create at least two merged pull requests to [flutterwave.com community libraries](https://developer.flutterwave.com/docs/plugins)
+- **Notes**: See this tweet for their [official announcement](https://twitter.com/Ace_KYD/status/1183738026511519745)
 
 #### **Operation Code** (Stickers)
 
