@@ -64,7 +64,7 @@ If your involvement requirements are a bit different or do not fit into this sca
 
 Depending on your involvement requirements, place your company within the appropriate section.
 
-This section of the list will follow a slightly different set of formatting in order to make the requirements more prominant: 
+This section of the list will follow a slightly different set of formatting in order to make the requirements more prominant:
 
 ```
 #### **Company Name** (swag earned at this level)
@@ -143,5 +143,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Mahmoud Ali](https://github.com/akamud/)
 - [Deepak Kumar](https://github.com/deepak2431)
 - [Andrew Titmuss](https://github.com/iandrewt)
+- [LordGhostX](https://github.com/LordGhostX)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
