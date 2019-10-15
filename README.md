@@ -229,9 +229,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Saleor**
 
 - **Swag**: Saleor Socks
-- **Requirements**: Participate and [solve any issues](https://github.com/mirumee/saleor/issues) added during the month of Hacktoberfest.
+- **Requirements**: Participate and [solve any issues](https://github.com/mirumee/saleor/labels/hacktoberfest) added during the month of Hacktoberfest.
 - **How to sign up**: No signup link given at this time.
-- **Issues**: [saleor](https://github.com/mirumee/saleor/issues)
+- **Issues**: [saleor](https://github.com/mirumee/saleor/labels/hacktoberfest)
 - **Notes**: See [Tweet](https://twitter.com/getsaleor/status/1179370205895634946)
 
 #### **SalesAgility**
