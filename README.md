@@ -267,6 +267,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [sensenet](https://github.com/search?&q=user%3ASenseNet+type:issue&state=open&type=Issues)
 - **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
 
+#### **Snyk**
+
+- **Swag**: A tree planted on your behalf
+- **Requirements**:
+  - 1+ pull request + run Snyk vulnerability scan on your project
+- **How to sign up**: [Sign up for #Snyk_for_hacktoberfest](https://app.snyk.io/signup/?utm_medium=Partner&utm_source=CircleCI&utm_campaign=Snyk-CircleCI-OneTreePlanted&utm_content=signup).
+- **Issues**: [#orbtoberfest](https://github.com/search?&q=label%3Aorbtoberfest+type:issue&state=open&type=Issues)
+- **Notes**: Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete, sign up for Snyk to run a vulnerability scan to have a tree planted.
+
 #### **Software Mansion**
 
 - **Swag**: Stickers, socks, entry discount code for [App.js Conf](https://appjs.co), notebook, t-shirt
@@ -384,6 +393,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt (first 100 participants)
 - **How to sign up**: Sign up to the Hacktoberfest site and share your contact details via [this form](https://www.sensenet.com/Hacktoberfest2019)
 - **Notes**:  See their [blog post](https://community.sensenet.com/blog/2019/10/01/hacktoberfest-is-here). Note that contributions don’t have to come in the form of code. Improving documentation is also a great place to start.
+
+#### **Snyk** (A tree planted on your behalf)
+
+- **Swag**: A tree planted on your behalf
+- **Requirements**:
+  - 1+ pull request + run Snyk vulnerability scan on your project
+- **How to sign up**: [Sign up for #Snyk_for_hacktoberfest](https://app.snyk.io/signup/?utm_medium=Partner&utm_source=CircleCI&utm_campaign=Snyk-CircleCI-OneTreePlanted&utm_content=signup).
+- **Issues**: [#orbtoberfest](https://github.com/search?&q=label%3Aorbtoberfest+type:issue&state=open&type=Issues)
+- **Notes**: Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete, sign up for Snyk to run a vulnerability scan to have a tree planted.
 
 #### **Valor Software** (Pen, sticker)
 
