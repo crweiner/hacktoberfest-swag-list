@@ -149,6 +149,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [jabref](https://github.com/search?&q=user%3Ajabref+type:issue&state=open&type=Issues)
 - **Notes**: More details in [the blog post](https://www.jabref.org/hacktoberfest/2019.html).
 
+#### **Jenkins**
+
+- **Swag**: limited edition swag
+- **Requirements**: PR to any repositories under [any repo of Jenkins](https://issues.jenkins-ci.org/browse/JENKINS-59817?filter=-4). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
+- **How to sign up**: It not yet clarified how, maybe you can mail them the URLs of PR.
+- **Issues**: [Good first issues on GitHub](https://github.com/search?q=org%3Ajenkinsci+org%3Ajenkins-infra+org%3Ajenkins-zh+is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- **Notes**: More details in [the blog post](https://jenkins.io/blog/2019/10/01/hacktoberfest/).
+
 ### L
 
 #### **LadybugTools**
