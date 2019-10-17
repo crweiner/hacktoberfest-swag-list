@@ -1,0 +1,19 @@
+version: 2.1
+
+workflows:
+  main:
+    jobs:
+      - build
+
+jobs:
+  build:
+    docker:
+      - image: cimg/ruby:2.6.4
+    steps:
+      - checkout
+      - run:
+          name: "Install Gems"
+          command: bundle install
+      - run:
+          name: "Build Website"
+          command: jekyll build
