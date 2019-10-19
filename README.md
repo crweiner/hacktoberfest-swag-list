@@ -298,7 +298,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### U
 
-#### Umbraco
+#### **Umbraco**
 - **Swag**: Stickers
 - **Requirements**: Get at least one PR merged to any Umbraco repository.
 - **How to sign up**: No sign up required.
