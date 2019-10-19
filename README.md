@@ -298,6 +298,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### U
 
+#### Umbraco
+- **Swag**: Stickers
+- **Requirements**: Get at least one PR merged to any Umbraco repository.
+- **How to sign up**: No sign up required.
+- **Issues**": [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/issues) and [Umbraco Documentation](https://github.com/umbraco/UmbracoDocs/issues)
+- **Notes**: Take a look at this [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
+
 #### **Uno Platform**
 
 - **Swag**: T-shirt
@@ -502,6 +509,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Stickers
 - **How to sign up**: Sign up to GitHub, Make pull request as mentioned above, fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSc0MaHgfVhNkZdfv9R4Zcs8nfoQbcbJxRQaHmOctsVA80H1QA/viewform) before November 15th and wait for your special edition Hacktoberfest swag from Twilio.
 - **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
+
+#### **Umbraco** (Stickers)
+- **Requirements**: Get at least one PR merged to any Umbraco repository.
+- **Swag**: Stickers
+- **How to sign up**: No sign up required.
+- **Issues**": [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/issues) and [Umbraco Documentation](https://github.com/umbraco/UmbracoDocs/issues)
+- **Notes**: Take a look at this [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information.
 
 #### **Uno Platform** (T-shirt)
 

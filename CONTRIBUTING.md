@@ -144,5 +144,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Deepak Kumar](https://github.com/deepak2431)
 - [Andrew Titmuss](https://github.com/iandrewt)
 - [LordGhostX](https://github.com/LordGhostX)
+- [Dave Bauman](https://github.com/baumandm)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
