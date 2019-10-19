@@ -299,6 +299,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### U
 
 #### **Umbraco**
+
 - **Swag**: Stickers
 - **Requirements**: Get at least one PR merged to any Umbraco repository.
 - **How to sign up**: No sign up required.
@@ -511,6 +512,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:  See this page for their [official announcement](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 #### **Umbraco** (Stickers)
+
 - **Requirements**: Get at least one PR merged to any Umbraco repository.
 - **Swag**: Stickers
 - **How to sign up**: No sign up required.
