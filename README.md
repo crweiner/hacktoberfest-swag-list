@@ -298,6 +298,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### U
 
+#### **Umbraco**
+- **Swag**: Stickers
+- **Requirements**: Create at least one or more merged pull requests on [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS/blob/v8/dev/.github/CONTRIBUTING.md) or [Umbraco Documentation](https://github.com/umbraco/UmbracoDocs)
+- **How to sign up**: Not clarified by now
+- **Notes**: See [blog post](https://umbraco.com/blog/hacktoberfest-2019/) for more information
+
 #### **Uno Platform**
 
 - **Swag**: T-shirt
