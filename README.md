@@ -13,6 +13,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ---
 
+###Check out all the amazing prizes
+
+
 ## Swag List 2019
 
 ## The Original - **DigitalOcean/Dev.to**
