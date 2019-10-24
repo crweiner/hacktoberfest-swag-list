@@ -274,7 +274,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1+ pull request + run Snyk vulnerability scan on your project
 - **How to sign up**: [Sign up for #Snyk_for_hacktoberfest](https://app.snyk.io/signup/?utm_medium=Partner&utm_source=CircleCI&utm_campaign=Snyk-CircleCI-OneTreePlanted&utm_content=signup).
 - **Issues**: [#orbtoberfest](https://github.com/search?&q=label%3Aorbtoberfest+type:issue&state=open&type=Issues)
-- **Notes**: Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete, sign up for Snyk to run a vulnerability scan to have a tree planted.
+- **Notes**: Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete, sign up for Snyk to run a vulnerability scan to have a tree planted. See their [tweet here](https://twitter.com/snyksec/status/1183378613179240449).
 
 #### **Software Mansion**
 
@@ -400,7 +400,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: A tree planted on your behalf
 - **How to sign up**: [Sign up for #Snyk_for_hacktoberfest](https://app.snyk.io/signup/?utm_medium=Partner&utm_source=CircleCI&utm_campaign=Snyk-CircleCI-OneTreePlanted&utm_content=signup).
 - **Issues**: [#orbtoberfest](https://github.com/search?&q=label%3Aorbtoberfest+type:issue&state=open&type=Issues)
-- **Notes**: Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete, sign up for Snyk to run a vulnerability scan to have a tree planted.
+- **Notes**: Make pull requests to any open-source "orbs" for CircleCI, or create your own. When complete, sign up for Snyk to run a vulnerability scan to have a tree planted. See their [tweet here](https://twitter.com/snyksec/status/1183378613179240449).
 
 #### **Valor Software** (Pen, sticker)
 
