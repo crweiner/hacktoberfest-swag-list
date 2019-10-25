@@ -392,7 +392,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create one or more Pull Requests on any of Legesher listed repositories will do the job.
 - **Swag**: special-edition stickers, a letter
 - **How to sign up**: PR to legesher repos.
-- **Notes**: See the announcement on [this github issue](https://github.com/legesher/legesher-docs/issues/26) 
+- **Notes**: See the announcement on [this github issue](https://github.com/legesher/legesher-docs/issues/26)
 
 #### **Opsdroid** (Limited-edition stickers)
 
