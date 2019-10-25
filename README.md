@@ -169,6 +169,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [lbrycrd](https://github.com/lbryio/lbrycrd/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [lbry-sdk](https://github.com/lbryio/lbry-sdk/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [lbry-desktop](https://github.com/lbryio/lbry-desktop/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [lbry-android](https://github.com/lbryio/lbry-android/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
 - **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
 
+#### **Legesher**
+
+- **Swag**: Special-edition stickers, a letter
+- **Requirements**: Create one or more Pull Requests on any of Legesher listed repositories.
+- **How to sign up**: No formal sign up required. Simply get assigned and create a PR to Legesher repos.
+- **Issues**: [#hacktoberfest](https://github.com/search?p=4&q=user%3Alegesher+label%3Ahacktoberfest+type%3Aissue&type=Issues)
+- **Notes**: See more info on [this GitHub issue](https://github.com/legesher/legesher-docs/issues/26)
+
 #### **Les-Tilleuls.coop**
 
 - **Swag**: T-shirt
@@ -379,6 +387,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker, LBRY T-shirt*, and more
 - **How to sign up**: PR to LBRY repos.
 - **Notes**: See this announcement from [Jeremy Kauffman's blog post](https://lbry.com/news/hacktoberfest-2019) and read [how to contribute](https://lbry.tech/contribute)
+
+#### **Legesher** (Special-edition stickers, a letter)
+
+- **Requirements**: Create one or more Pull Requests on any of Legesher listed repositories will do the job.
+- **Swag**: Special-edition stickers, a letter
+- **How to sign up**: PR to Legesher repos.
+- **Notes**: See the announcement on [this GitHub issue](https://github.com/legesher/legesher-docs/issues/26)
 
 #### **Opsdroid** (Limited-edition stickers)
 
