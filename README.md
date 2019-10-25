@@ -153,8 +153,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: limited edition swag, stickers and t-shirts as well.
 - **Requirements**: PR to any repositories under [featured repositories](https://jenkins.io/events/hacktoberfest/#quick-start). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review. Guaranteed Swag for Top 20 contributors, and rest is to be decided. Check the announcement on the blog.
-- **How to sign up**: It not yet clarified how, maybe you can mail them the URLs of PR.
-- **Quick Start**: [Jenkins/hacktoberfest](https://jenkins.io/events/hacktoberfest/#quick-start)
+- **How to sign up**: It not yet clarified.
 - **Notes**: More details in [the blog post](https://jenkins.io/blog/2019/10/01/hacktoberfest/).
 
 ### L
@@ -676,12 +675,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Top Contributors
 
-#### **Jenkins** (Limited edition swags)
+#### **Jenkins** (Limited edition stickers and t-shirt)
 
 - **Swag**: limited edition swag, stickers and t-shirts as well.
 - **Requirements**: PR to any repositories under [featured repositories](https://jenkins.io/events/hacktoberfest/#quick-start). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review. Guaranteed Swag for Top 20 contributors, and rest is to be decided. Check the announcement on the blog.
-- **How to sign up**: It not yet clarified how, maybe you can mail them the URLs of PR.
-- **Quick Start**: [Jenkins/hacktoberfest](https://jenkins.io/events/hacktoberfest/#quick-start)
+- **How to sign up**: It not yet clarified how.
 - **Notes**: More details in [the blog post](https://jenkins.io/blog/2019/10/01/hacktoberfest/).
 
 #### **MayaData** (Laptop)
