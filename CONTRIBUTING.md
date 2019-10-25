@@ -145,5 +145,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Andrew Titmuss](https://github.com/iandrewt)
 - [LordGhostX](https://github.com/LordGhostX)
 - [Adriaan Vermeire](https://github.com/adriaanvermeire)
+- [Jayesh Mann](https://github.com/jayeshmann)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
