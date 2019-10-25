@@ -712,7 +712,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: limited edition swag, stickers and t-shirts as well.
 - **Requirements**: PR to any repositories under [featured repositories](https://jenkins.io/events/hacktoberfest/#quick-start). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review. Guaranteed Swag for Top 20 contributors, and rest is to be decided. Check the announcement on the blog.
-- **How to sign up**: It not yet clarified how.
+- **How to sign up**: Sign up on their [Gitter channel](https://gitter.im/jenkinsci/hacktoberfest)
 - **Issues**: See [where to contribute](https://jenkins.io/events/hacktoberfest/#where-to-contribute)
 - **Notes**: More details in [the blog post](https://jenkins.io/blog/2019/10/01/hacktoberfest/).
 
