@@ -38,7 +38,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Adobe**
 
-- **Swag**: T-shirt, other swags
+- **Swag**: T-shirt and other swags
 - **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
 - **How to sign up**: There is no formal sign up required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifying contributors' handles in the file with further instructions to get the swags.
 - **Issues**: [adobe](https://github.com/search?q=user%3Aadobe+type:issue&state=open&type=Issues), [magento](https://github.com/search?q=user%3Amagento+type:issue&state=open&type=Issues)
@@ -46,7 +46,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Appwrite**
 
-- **Swag**: Stickers, magnets, buttons
+- **Swag**: Stickers, magnets, and buttons
 - **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
@@ -54,7 +54,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Aqua Security**
 
-- **Swag**: Stickers, t-shirts, books
+- **Swag**: Stickers, t-shirts, and books
 - **Requirements**:
   - 1 pull request: our superhero sticker pack.
   - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
@@ -67,7 +67,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **CircleCI**
 
-- **Swag**: T-shirt, sticker
+- **Swag**: T-shirt and sticker
 - **Requirements**:
   - 1 - 3 pull requests: sticker
   - 4+ pull requests: T-shirt
@@ -77,7 +77,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Coding Blocks**
 
-- **Swag**: T-shirt, stickers, bag
+- **Swag**: T-shirt, stickers, and bag
 - **Requirements**:
   - 1+ merged pull requests: Stickers and T-shirt
   - 5+ merged pull requests: Wildcraft bag
@@ -100,7 +100,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Devfolio**
 
-- **Swag**: T-shirt, stickers
+- **Swag**: T-shirt and stickers
 - **Requirements**: Get at least four pull requests merged into any projects from [react-otp-input](https://github.com/devfolioco/react-otp-input), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input) or [scrroll-in](https://github.com/devfolioco/scrroll-in) to win stickers and for four exceptional pull requests get a chance to earn their LIMITED EDITION T-shirts!
 - **How to sign up**: Sign up to GitHub, Make pull requests as mentioned above, fill out this [form](https://forms.gle/weUyz51JPgVrpGfUA) before October 31st and wait for your Hacktoberfest swag from Devfolio.
 - **Issues**: [react-otp-input](https://github.com/devfolioco/react-otp-input/issues), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter/issues), [react-intl-tel-input](https://github.com/patw0929/react-intl-tel-input/issues), [scrroll-in](https://github.com/devfolioco/scrroll-in/issues)
@@ -129,7 +129,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Hasura**
 
-- **Swag**: T-shirt, stickers
+- **Swag**: T-shirt and stickers
 - **Requirements**:
   - Open pull request for any of Hasura open source projects: Sticker Pack
   - One or more pull requests with Hacktoberfest label gets merged: T-shirt and Sticker Pack
@@ -141,7 +141,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### **JabRef**
 
-- **Swag**: Sticker, T-shirt
+- **Swag**: Sticker and T-shirt
 - **Requirements**: Merged PR to any repositories under [jabref GitHub org](https://github.com/jabref). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review.
   - 1 merged pull request: sticker
   - 5 merged pull requests: T-shirt
@@ -197,7 +197,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData**
 
-- **Swag**: Stickers, T-shirt, laptop
+- **Swag**: Stickers, T-shirt and laptop
 - **Requirements**: Contribute to either [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) or [Litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest), the best PR submission will win a Laptop.
 - **How to sign up**: Not clarified by now.
 - **Issues**: [openebs](https://github.com/openebs/openebs/labels/Hacktoberfest), [litmus](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
@@ -207,7 +207,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Operation Code**
 
-- **Swag**: Stickers, T-shirt.
+- **Swag**: Stickers and T-shirt.
 - **Requirements**: Resolve 3 issues (for the T-shirt) or merge 2 pull requests (for the stickers) in any one of the Operation Code repositories.
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSdZAC98DQS7DW1NJT0FrHYTI-88ST6_v8gMlILankqJG295DA/viewform).
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3AOperationCode+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
@@ -243,7 +243,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **QMK**
 
-- **Swag**: T-shirt, keyboard
+- **Swag**: T-shirt and keyboard
 - **Requirements**: Requirements are listed on their [Hacktoberfest site](https://hacktoberfest.qmk.fm/)
 - **How to sign up**: [Form Link](https://docs.google.com/forms/d/e/1FAIpQLSeFt0mmW2e8tFgTsGGlSUET_8dpGiyuOTZKyS5g2jcIM20d-Q/viewform)
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aqmk+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
