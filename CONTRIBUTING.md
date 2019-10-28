@@ -23,7 +23,7 @@ Please be sure to follow the simple rules:
 
 Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [Readme.md](./README.md).
 
-We are using a very simple language called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familiarize yourself with Markdown [using this handy cheat sheet provided by GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+We are using a very simple language called Markdown to format this list. It's a way to make things look pretty without having to use a rich text editor. Please familiarize yourself with Markdown [using this handy cheat sheet provided by GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 If you are adding a new company, be sure to add your company in two places:
 
@@ -47,7 +47,7 @@ Find the first letter of your company within the list, then add your information
 
 ### Least Involvement to Most Involvement
 
-Also add your company information to the correct section for this list. So far, the involvement scale is the following:
+Also, add your company information to the correct section for this list. So far, the involvement scale is the following:
 
 - Any - 1 PR
 - 1 Merged PR
@@ -64,7 +64,7 @@ If your involvement requirements are a bit different or do not fit into this sca
 
 Depending on your involvement requirements, place your company within the appropriate section.
 
-This section of the list will follow a slightly different set of formatting in order to make the requirements more prominant:
+This section of the list will follow a slightly different set of formatting to make the requirements more prominent:
 
 ```
 #### **Company Name** (swag earned at this level)
@@ -75,11 +75,11 @@ This section of the list will follow a slightly different set of formatting in o
 - **Notes**: (If needed, otherwise write N/A)
 ```
 
-If you have multiple types of swag for different involvement levels, be sure to add two separate entries for each individual piece of swag earned! For example, Operation Code has two types of swag earned at different levels:
+If you have multiple types of swag for different involvement levels, be sure to add two separate entries for each piece of swag earned! For example, Operation Code has two types of swag earned at different levels:
 
 #### **Operation Code**
 - **Requirements**:
-  - Stickers and handwritten note: Simply get a pull request merged!
+  - Stickers and a handwritten note: Simply get a pull request merged!
   - T-shirt: Resolve 3 issues.
 
 For each piece of swag, a separate entry was added at the appropriate involvement levels:

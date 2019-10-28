@@ -1,8 +1,8 @@
 # Hacktoberfest 2019 Swag List
 
-It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
+It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that multiple tech companies participate in Hacktoberfest and give away sweet, sweet swag?
 
-This repo seeks to document all of the companies giving away swag for Hacktoberfest 2019 and how you can get your hands on some free gifts for your time and help.
+This repo seeks to document all of the companies giving away swag for Hacktoberfest 2019 and how you can get your hands on some gifts for your time and help.
 
 See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the list!
 
@@ -29,7 +29,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Accord Project**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: Create pull requests on Accord Project's [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/), issues in those repos will be labeled different difficulty level (_Starter_, _Medium_, _Challenging_).
+- **Requirements**: Create pull requests on Accord Project's [participating repositories](https://www.accordproject.org/events/hacktoberfest-2019/), issues in those repos will be labelled different difficulty level (_Starter_, _Medium_, _Challenging_).
   - 1 _Challenging_ or 2 _Medium_ or 5 _Starter_ accepted PRs: T-shirt and stickers
   - 2 accepted PRs across any difficulty level: stickers
 - **How to sign up**: Make pull requests on the participating repositories and respond to us when asked for shipping details.
@@ -40,7 +40,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt, other swags
 - **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
-- **How to sign up**: There is no formal sign up required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifying contributors' handles in the file with further instructions to get the swags.
+- **How to sign up**: There is no formal sign up required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifying contributors' handles in the file with further instructions to get the swags.
 - **Issues**: [adobe](https://github.com/search?q=user%3Aadobe+type:issue&state=open&type=Issues), [magento](https://github.com/search?q=user%3Amagento+type:issue&state=open&type=Issues)
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
 
@@ -59,7 +59,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1 pull request: our superhero sticker pack.
   - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
   - 5 pull requests: our superhero sticker pack, a special edition Aqua Hacktoberfest t-shirt, and the “Kubernetes Security” book.
-- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how to redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
 - **Issues**: [aquasecurity](https://github.com/search?&q=user%3Aaquasecurity+type:issue&state=open&type=Issues)
 - **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
@@ -152,7 +152,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Jenkins**
 
 - **Swag**: limited edition swag, stickers and t-shirts as well.
-- **Requirements**: PR to any repositories under [featured repositories](https://jenkins.io/events/hacktoberfest/#quick-start). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review. Guaranteed Swag for Top 20 contributors, and rest is to be decided. Check the announcement on the blog.
+- **Requirements**: PR to any repositories under [featured repositories](https://jenkins.io/events/hacktoberfest/#quick-start). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review. Guaranteed Swag for Top 20 contributors and rest is to be decided. Check the announcement on the blog.
 - **How to sign up**: It not yet clarified.
 - **Issues**: See [where to contribute](https://jenkins.io/events/hacktoberfest/#where-to-contribute)
 - **Notes**: More details in [the blog post](https://jenkins.io/blog/2019/10/01/hacktoberfest/).
@@ -234,7 +234,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Python Discord**
 
 - **Swag**: T-shirt or a 1 year JetBrains product license
-- **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest T-shirt each, and three runner-ups will get a 1 year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
+- **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest T-shirt each, and three runner-ups will get a 1-year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
 - **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
 - **Issues**: [python-discord](https://github.com/search?&q=user%3Apython-discord+type:issue&state=open&type=Issues)
 - **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
@@ -336,7 +336,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Valor Software**
 
 - **Swag**: Pen, sticker, notepad, wooden phone stand
-- **Requirements**: Create at least one (for a pen and a sticker), three (for a notepad or a wooden phone stand) or five (for the full kit : A pen, a sticker. a notepad, and a wooden phone stand) pull requests to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **Requirements**: Create at least one (for a pen and a sticker), three (for a notepad or a wooden phone stand) or five (for the full kit: A pen, a sticker. a notepad, and a wooden phone stand) pull requests to [issues tagged with "Hacktoberfest" label in ngx-bootstrap repo during October](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
 - **How to sign up**: Sign up to GitHub, Sign up on the Hacktoberfest site, Make pull requests as mentioned above, Wait for your special edition Hacktoberfest swag from Valor Software.
 - **Issues**: [#hacktoberfest](https://github.com/valor-software/ngx-bootstrap/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest)
 - **Notes**: See the [blog post](https://valor-software.com/articles/hacktoberfest-2019-is-coming-and-ngx-bootstrap-strives-for-your-attention.html) for more information.
@@ -362,7 +362,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 1 pull request: our superhero sticker pack.
 - **Swag**: Stickers pack
-- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
+- **How to sign up**: No sign up required. Aqua's team will review eligible contributions and will publish instructions on how to redeem your rewards on the [Aqua Security blog](https://blog.aquasec.com).
 - **Notes**: View full details on the blog post [Here](https://blog.aquasec.com/aqua-open-source-security-hacktoberfest)
 
 #### **CircleCI** (Sticker)
@@ -390,7 +390,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **LBRY** (Sticker, LBRY T-shirt*, and more)
 
 - **Requirements**:
-  - Contribution anything at all will receive a LBRY sticker.
+  - Contribution anything at all will receive an LBRY sticker.
   - Contributes anything of any substance* will receive a sticker, LBRY T-shirt, and more.
 - **Swag**: Sticker, LBRY T-shirt*, and more
 - **How to sign up**: PR to LBRY repos.
@@ -518,7 +518,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Create at least 1 merged PR to [the SuiteCRM, SuiteDocs or SuitePortal repositories](https://github.com/salesagility/) during October.
 - **Swag**: Mug
 - **How to sign up**: Not clarified by now.
-- **Notes**: PRs are reviewed each Thursday between 8AM - 8PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
+- **Notes**: PRs are reviewed each Thursday between 8 AM - 8 PM BST/GMT. See this announcement in their [GitHub Issue](https://github.com/salesagility/SuiteCRM/issues/7911) or [this blog post](https://suitecrm.com/community-diary-sept-2019-edition/).
 
 #### **Software Mansion** (Stickers, socks and App.js Conf discount code)
 
@@ -680,7 +680,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**: Create five or more Pull Requests on any of Adobe or Magento repositories.
 - **Swag**: T-shirt, other swags
-- **How to sign up**: There is no formal sign up required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during the month of October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifying contributors' handles in the file with further instructions to get the swags.
+- **How to sign up**: There is no formal sign up required. Create five PRs on either [Adobe](https://github.com/adobe) or [Magento](https://github.com/magento) repositories during October. Adobe team will file an issue in November in [this repo](https://github.com/adobe/squashtoberfest) listing out qualifying contributors' handles in the file with further instructions to get the swags.
 - **Notes**: See more on [official blog](https://community.magento.com/t5/Magento-DevBlog/Squashtoberfest-2019/ba-p/143694) and their [Squashtoberfest repo](https://opensource.adobe.com/squashtoberfest/)
 
 #### **Coding Blocks** (Stickers, bag)
@@ -711,7 +711,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Jenkins** (Limited edition stickers and t-shirt)
 
 - **Swag**: limited edition swag, stickers and t-shirts as well.
-- **Requirements**: PR to any repositories under [featured repositories](https://jenkins.io/events/hacktoberfest/#quick-start). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review. Guaranteed Swag for Top 20 contributors, and rest is to be decided. Check the announcement on the blog.
+- **Requirements**: PR to any repositories under [featured repositories](https://jenkins.io/events/hacktoberfest/#quick-start). The PR must be at least raised in October 2019 and you should not be inactive for seven days or more during code review. Guaranteed Swag for Top 20 contributors and rest is to be decided. Check the announcement on the blog.
 - **How to sign up**: It not yet clarified how.
 - **Issues**: See [where to contribute](https://jenkins.io/events/hacktoberfest/#where-to-contribute)
 - **Notes**: More details in [the blog post](https://jenkins.io/blog/2019/10/01/hacktoberfest/).
@@ -725,7 +725,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Python Discord** (T-shirt, 1 year JetBrains product license)
 
-- **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest T-shirt each, and three runner-ups will get a 1 year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
+- **Requirements**: The two top contributors to their [repos](https://github.com/python-discord) will win a PyDis Hacktoberfest T-shirt each, and three runner-ups will get a 1-year license for any JetBrains product of their choosing.  Membership to the Discord server is a requirement.
 - **Swag**: T-shirt or a 1 year JetBrains product license
 - **How to sign up**: [Join the Discord](https://discord.gg/python), post on an unclaimed Issue with your interest and mention your in-server name.
 - **Notes**:  See this page for their [Reddit announcement](https://www.reddit.com/r/Python/comments/dbj0vh/python_discord_hacktoberfest_2019/). [Contributing Guides](https://pythondiscord.com/pages/contributing/) are available on their website.
