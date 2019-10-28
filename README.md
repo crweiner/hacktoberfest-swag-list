@@ -46,7 +46,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Appwrite**
 
-- **Swag**: Stickers, magnets and buttons
+- **Swag**: Stickers, magnets, and buttons
 - **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **How to sign up**: Make a PR on [Appwrite GitHub Repo](https://github.com/appwrite/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
@@ -54,7 +54,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Aqua Security**
 
-- **Swag**: Stickers, t-shirts and books
+- **Swag**: Stickers, t-shirts, and books
 - **Requirements**:
   - 1 pull request: our superhero sticker pack.
   - 3 pull requests: our superhero sticker pack, and a special edition Aqua Hacktoberfest t-shirt.
@@ -77,7 +77,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Coding Blocks**
 
-- **Swag**: T-shirt, stickers and bag
+- **Swag**: T-shirt, stickers, and bag
 - **Requirements**:
   - 1+ merged pull requests: Stickers and T-shirt
   - 5+ merged pull requests: Wildcraft bag
@@ -169,7 +169,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **LBRY**
 
-- **Swag**: Sticker, LBRY T-shirt* and more
+- **Swag**: Sticker, LBRY T-shirt*, and more
 - **Requirements**:
   - Contribution anything at all will receive a LBRY sticker.
   - Contributes anything of any substance* will receive a sticker, LBRY T-shirt, and more.
