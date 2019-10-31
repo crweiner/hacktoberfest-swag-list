@@ -753,3 +753,5 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Only [quality pull requests](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#quality-pull-request) on [items approved of work](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/#approved-item) will count. See the [blog post](https://devblogs.microsoft.com/xamarin/hacktoberfest-2019-xamarin-edition/) for more information.
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
+
+a
