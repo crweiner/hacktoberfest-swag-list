@@ -120,7 +120,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 ---
 
 ## Contributors
-
+ - [Chathura Jayasanka](https://github.com/chathurajay1)
 - [Chandler Weiner](https://github.com/crweiner/)
 - [Adrienne Tacke](https://github.com/adriennetacke)
 - [Kyle Tryon](https://github.com/KyleTryon)
