@@ -8,7 +8,7 @@ workflows:
 jobs:
   build:
     docker:
-      - image: cimg/ruby:2.6.5
+      - image: cimg/ruby:2.7.0
     steps:
       - checkout
       - run:
