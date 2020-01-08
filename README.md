@@ -119,7 +119,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Globo.com**
 
-- **Swag**: T-shirt
+- **Swag**: T-shirt and stickers
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
 - **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
 - **Issues**: [#hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3Aclappr+user%3Afastlane-queue+user%3Agaleb+user%3Aglobocom+user%3Athumbor+user%3Atsuru)
