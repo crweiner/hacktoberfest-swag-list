@@ -119,7 +119,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Globo.com**
 
-- **Swag**: T-shirt
+- **Swag**: T-shirt and stickers
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
 - **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
 - **Issues**: [#hacktoberfest](https://github.com/search?q=label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3Aclappr+user%3Afastlane-queue+user%3Agaleb+user%3Aglobocom+user%3Athumbor+user%3Atsuru)
@@ -477,10 +477,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Submit to the repositories and send an [email to hacktoberfest@datenanfragen.de](mailto:hacktoberfest@datenanfragen.de?subject=Registration%20for%20Hacktoberfest%202019&body=I%20want%20to%20participate%20in%20the%20Hacktoberfest%202019%20event%20by%20Datenanfragen.de%20e.%20V.%0A%0AGitHub%20user%20name%3A%20%5Bplease%20fill-in%5D%0A%0AI%20have%20read%20the%20conditions%20of%20participation%20and%20privacy%20policy%20(https%3A%2F%2Fwww.datarequests.org%2Fblog%2Fhacktoberfest-2019)%20and%20accept%20these%20conditions.) before November 4, 2019 with your GitHub username and your acknowledgment of the terms.
 - **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2019/) for more info.
 
-#### **Globo.com** (T-shirt)
+#### **Globo.com** (T-shirt, stickers)
 
 - **Requirements**: Create at least one or more merged pull requests on any of [globo.com repos](https://github.com/globocom).
-- **Swag**: T-shirt
+- **Swag**: T-shirt, stickers
 - **How to sign up**: Sign up on [globo.com/hacktoberfest](https://opensource.globo.com/hacktoberfest/), and create at least one or more merged pull requests on any of [globo.com GitHub Repos](https://github.com/globocom).
 - **Notes**: Shipped to Brazilian territory only. Guidelines are in Portuguese.
 
