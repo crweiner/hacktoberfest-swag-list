@@ -78,6 +78,7 @@ This section of the list will follow a slightly different set of formatting in o
 If you have multiple types of swag for different involvement levels, be sure to add two separate entries for each individual piece of swag earned! For example, Operation Code has two types of swag earned at different levels:
 
 #### **Operation Code**
+
 - **Requirements**:
   - Stickers and handwritten note: Simply get a pull request merged!
   - T-shirt: Resolve 3 issues.
@@ -85,6 +86,7 @@ If you have multiple types of swag for different involvement levels, be sure to 
 For each piece of swag, a separate entry was added at the appropriate involvement levels:
 
 _1. For the stickers and a handwritten note only (placed at 1 Merged PR level):_
+
 ```
 #### **Operation Code** (Stickers, handwritten note)
 - **Requirements**:
@@ -95,6 +97,7 @@ _1. For the stickers and a handwritten note only (placed at 1 Merged PR level):_
 ```
 
 _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
+
 ```
 #### **Operation Code** (T-shirt)
 - **Requirements**:
@@ -103,6 +106,7 @@ _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
 - **How to sign up**: We're tracking it manually and will comment you a Google form.
 - **Notes**: See the pinned repositories [here](https://github.com/OperationCode). You can find out more information about our all-volunteer, non-profit organization and our social media accounts via [our website](https://operationcode.org/).
 ```
+
 Note that the requirements have been edited for clarity, only showing the requirements for that type of swag and moved to the first bullet point. Also, the swag type is placed in parentheses after the company name to understand what is being earned at each level. 😊
 
 ## Support
