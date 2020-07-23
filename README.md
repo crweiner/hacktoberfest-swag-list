@@ -32,27 +32,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## A to Z Order of Companies
 
-
 ---
 
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
 
-
 ### 1 Merged PR
-
 
 ### 2 or more PRs
 
-
 ### 2 or more Merged PRs
-
 
 ### 5 Merged PRs
 
-
 ### Top Contributors
-
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
