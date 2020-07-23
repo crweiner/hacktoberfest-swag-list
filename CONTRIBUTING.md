@@ -105,6 +105,10 @@ _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
 ```
 Note that the requirements have been edited for clarity, only showing the requirements for that type of swag and moved to the first bullet point. Also, the swag type is placed in parentheses after the company name to understand what is being earned at each level. 😊
 
+## Support
+
+This little project costs ~ $20/year to run between the domain name and Netlify costs. If you want to chip in a dollar for just the month of October, I'll be very greatful! You can Sponsor the project through [GitHub here](https://github.com/sponsors/crweiner). Thank you!
+
 ## Add your name
 
 Did you help contribute to the Hacktoberfest Swag list? Add your name to the list of humans.
