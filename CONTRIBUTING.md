@@ -105,6 +105,10 @@ _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
 ```
 Note that the requirements have been edited for clarity, only showing the requirements for that type of swag and moved to the first bullet point. Also, the swag type is placed in parentheses after the company name to understand what is being earned at each level. 😊
 
+## Support
+
+This little project costs ~ $20/year to run between the domain name and Netlify costs. If you want to chip in a dollar for just the month of October, I'll be very greatful! You can Sponsor the project through [GitHub here](https://github.com/sponsors/crweiner). Thank you!
+
 ## Add your name
 
 Did you help contribute to the Hacktoberfest Swag list? Add your name to the list of humans.
@@ -123,28 +127,5 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 - [Chandler Weiner](https://github.com/crweiner/)
 - [Adrienne Tacke](https://github.com/adriennetacke)
-- [Kyle Tryon](https://github.com/KyleTryon)
-- [Eldad A. Fux](https://github.com/eldadfux)
-- [Cendekia P. Putra](https://github.com/cendekia)
-- [Dean Mckenzie](https://github.com/tuxhedoh)
-- [Willy Nzesseu](https://github.com/WilChrist)
-- [Robin Collet](https://github.com/taminoful)
-- [Patrick Passarella](https://github.com/PatrickRNG)
-- [Oorjit Chowdhary](https://github.com/oorjitchowdhary)
-- [Jimmy Nguyen](https://github.com/Stukongeluk)
-- [Caio Reis](https://github.com/caioreis123)
-- [Lorenz Sieben](https://github.com/zner0L)
-- [Loris Securo](https://github.com/LorisSecuro)
-- [Max Vogel](https://github.com/mehvix)
-- [Parth Panchal](https://github.com/pqrth)
-- [Chris Hung](https://github.com/hahattan)
-- [Barbara Pentoney](https://github.com/flyfishingbarbara)
-- [Rishabh Bansal](https://github.com/rishabh-bansal/)
-- [Mahmoud Ali](https://github.com/akamud/)
-- [Deepak Kumar](https://github.com/deepak2431)
-- [Andrew Titmuss](https://github.com/iandrewt)
-- [LordGhostX](https://github.com/LordGhostX)
-- [Adriaan Vermeire](https://github.com/adriaanvermeire)
-- [Jayesh Mann](https://github.com/jayeshmann)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
