@@ -2,11 +2,13 @@
 
 ## Sign Up For Hacktoberfest 2020 below
 
+Sign up to get more information on Hacktoberfest 2020 by [clicking this link](https://hacktoberfest.digitalocean.com/) and we'll see you in October.
+
+---
+
 It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2020 and how you can get your hands on some free gifts for your time and help.
-
-Sign up to get more information on Hacktoberfest 2020 by [clicking this link](https://hacktoberfest.digitalocean.com/) and we'll see you in October.
 
 If you're looking for the Swag List from 2018 and 2019, [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018) and [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019) branches.
 
