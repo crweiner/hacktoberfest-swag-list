@@ -32,6 +32,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## A to Z Order of Companies
 
+### **Appwrite**
+
+- **Swag**: T-Shirt, Stickers, Magnets, and Buttons
+- **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite). Top contributors will also get an official Appwrite T-Shirt.
+- **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
+- **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
+- **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 ---
 
 ## Least Involvement to Most Involvement
