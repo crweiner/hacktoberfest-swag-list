@@ -47,9 +47,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **lakeFS**
 
 - **Swag**: T-shirt & Stickers
-- **Requirements**: One PR for a collection of stickers, 2 or more gets stickers and a lakeFS t-shirt 
+- **Requirements**: One PR for a collection of stickers, 2 or more gets stickers and a lakeFS t-shirt
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+
 ---
 
 ## Least Involvement to Most Involvement
@@ -68,7 +69,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **lakeFS** (collection of stickers)
 
-- **Requirements**: One PR for a collection of stickers, 2 or more gets stickers and a lakeFS t-shirt 
+- **Requirements**: One PR for a collection of stickers, 2 or more gets stickers and a lakeFS t-shirt
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
@@ -76,7 +77,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **lakeFS** (T-shirt)
 
-- **Requirements**: One PR for a collection of stickers, 2 or more gets stickers and a lakeFS t-shirt 
+- **Requirements**: One PR for a collection of stickers, 2 or more gets stickers and a lakeFS t-shirt
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
