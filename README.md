@@ -56,7 +56,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, Stickers
 - **Requirements**: Make one successful pull request in October 2020 to any open source [LoginRadius repository](https://github.com/LoginRadius) and earn a T-shirt and Swags!
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a sucessful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
-- **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/blog) site for more updates.
+- **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
 ---
 
@@ -85,7 +85,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, Stickers
 - **Requirements**: Make one successful pull request in October 2020 to any open source [LoginRadius repository](https://github.com/LoginRadius) and earn a T-shirt and Swags!
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a sucessful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
-- **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/blog) site for more updates.
+- **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
 ### 2 or more PRs
 
