@@ -36,6 +36,7 @@ Find the first letter of your company within the list, then add your information
 - **Swag**: (T-shirt, stickers, etc)
 - **Requirements**: (What do I have to complete? Are there different requirements per swag item? Are the PRs merged or just submitted?)
 - **How to sign up**: (Link to signup page using inline formatting of [text](URL))
+- **Issues**: Optional (link to Hacktoberfest tagged issues)
 - **Notes**: (If needed, otherwise write N/A)
 ```
 
@@ -72,6 +73,7 @@ This section of the list will follow a slightly different set of formatting in o
   - If they offer multiple levels of swag, then record this particular swag item here as an indented bullet point
 - **Swag**: (T-shirt, stickers, etc)
 - **How to sign up**: (Link to signup page using inline formatting of [text](URL))
+ **Issues**: Optional (link to Hacktoberfest tagged issues)
 - **Notes**: (If needed, otherwise write N/A)
 ```
 
@@ -135,3 +137,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
 ![Presented by DigitalOcean, Intel, and Dev.to](img/SponsorsDarkBoxed.svg)
+
+---
+
+If you're looking for the Swag List from 2018 and 2019, [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018) and [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019) branches.

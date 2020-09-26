@@ -1,18 +1,12 @@
 # Hacktoberfest 2020 Swag List
 
-## Sign Up For Hacktoberfest 2020 below
-
-Sign up to get more information on Hacktoberfest 2020 by [clicking this link](https://hacktoberfest.digitalocean.com/) and we'll see you in October.
-
----
-
-It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
+It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in [Hacktoberfest](https://hacktoberfest.digitalocean.com/) and give away sweet, sweet swag?
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2020 and how you can get your hands on some free gifts for your time and help.
 
-If you're looking for the Swag List from 2018 and 2019, [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018) and [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019) branches.
+First, [sign up for Hacktoberfest 2020 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way](https://hacktoberfest.digitalocean.com/details/).
 
-See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the list!
+See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the List!
 
 ## Quick Jump To
 
@@ -23,7 +17,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## Swag List 2020
 
-## The Original - **DigitalOcean**
+### The Original - **DigitalOcean, Intel, and Dev**
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: 4 pull requests in any repository
@@ -112,3 +106,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
 ![Presented by DigitalOcean, Intel, and Dev.to](img/SponsorsDarkBoxed.svg)
+
+---
+
+If you're looking for the Swag List from 2018 and 2019, [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018) and [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019) branches.
