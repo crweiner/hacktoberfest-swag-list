@@ -51,6 +51,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
+#### **LoginRadius**
+
+- **Swag**: T-Shirt, Stickers
+- **Requirements**: Make one successful pull request in October 2020 to any open source [LoginRadius repository](https://github.com/LoginRadius) and earn a T-shirt and Swags!
+- **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a sucessful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
+- **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
+
 ---
 
 ## Least Involvement to Most Involvement
@@ -72,6 +79,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: One PR for a collection of stickers, 2 or more gets stickers and a lakeFS t-shirt
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+
+#### **LoginRadius** (T-shirt, Stickers)
+
+- **Swag**: T-Shirt, Stickers
+- **Requirements**: Make one successful pull request in October 2020 to any open source [LoginRadius repository](https://github.com/LoginRadius) and earn a T-shirt and Swags!
+- **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a sucessful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
+- **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
 ### 2 or more PRs
 
