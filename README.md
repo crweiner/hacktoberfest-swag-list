@@ -97,6 +97,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
+#### **CAMUNDA** (T-shirt)
+- **Requirements**: 2 or more merged pull requests
+- **Swag**: T-shirt, stickers
+- **How to sign up**: You’re welcome and encouraged to submit pull requests to any one of our repositories but here’s a list of some of our more popular repos:  [Camunda BPM](https://github.com/camunda/camunda-bpm-platform), [Camunda modeler](https://github.com/camunda/camunda-modeler),[bpmn.io](https://github.com/bpmn-io/bpmn-js),[bpmn.io dmn-js](https://github.com/bpmn-io/dmn-js), [Zeebe](https://github.com/zeebe-io/zeebe),[Zeebe-modeler](https://github.com/zeebe-io/zeebe-modeler).
+- **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
+
+
 ### 5 Merged PRs
 
 ### Top Contributors
