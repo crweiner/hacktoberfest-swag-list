@@ -126,13 +126,6 @@ None right now.
 
 ### 2 or more Merged PRs
 
-#### **lakeFS** (T-shirt)
-
-- **Requirements**: 2 or more merged pull requests
-- **Swag**: T-shirt, stickers
-- **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
-- **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
-
 #### **CAMUNDA (T-shirt, stickers)**
 
 - **Requirements**: 2 or more merged PRs
@@ -140,7 +133,16 @@ None right now.
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
-### 5 Merged PRs
+#### **lakeFS** (T-shirt)
+
+- **Requirements**: 2 or more merged pull requests
+- **Swag**: T-shirt, stickers
+- **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
+- **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+
+### 5 or more Merged PRs
+
+Nothing yet
 
 ### Top Contributors
 
