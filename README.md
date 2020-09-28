@@ -44,10 +44,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: 2 or more merged PRs
-- **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail.
-The repos are: [Camunda BPM](https://github.com/camunda/),
-               [bpmn.io](https://github.com/bpmn-io/),
-               [Zeebe-io](https://github.com/zeebe-io/),
+- **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
 ### I
@@ -59,8 +56,7 @@ The repos are: [Camunda BPM](https://github.com/camunda/),
   - 1+ merged PR: T-shirt and Stickers
   - Top Contributor: Kindle
 - **How to sign up**: Make a PR or more on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube).To deliver the swags, we will reach out to you once PR(s) gets merged.
-- **Notes**:Only the first 50 people will receive the swags.A person with maximum merged PRs will also get a Kindle from our side.
-Check out InfraCloud [official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+- **Notes**:Only the first 50 people will receive the swags.A person with maximum merged PRs will also get a Kindle from our side. Check out InfraCloud [official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
 
 ### L
 
@@ -103,8 +99,7 @@ None right now.
 - **Requirements**: one or more merged PRs on [Fission](https://github.com/fission/fission) or [BotKube](https://github.com/infracloudio/botkube) or both.
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Make a PR or more on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube). To deliver the swags, we will reach out to you once PR(s) gets merged.
-- **Notes**:Only the first 50 people will receive the swags. A person with maximum merged PRs will also get a Kindle from our side.
-Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+- **Notes**:Only the first 50 people will receive the swags. A person with maximum merged PRs will also get a Kindle from our side. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
 
 #### **lakeFS** (collection of stickers)
 
@@ -142,10 +137,7 @@ Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-
 
 - **Requirements**: 2 or more merged PRs
 - **Swag**: T-shirt, stickers
-- **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail.
-The repos are: [Camunda BPM](https://github.com/camunda/),
-               [bpmn.io](https://github.com/bpmn-io/),
-               [Zeebe-io](https://github.com/zeebe-io/),
+- **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
 ### 5 Merged PRs
@@ -165,8 +157,7 @@ The repos are: [Camunda BPM](https://github.com/camunda/),
 - **Requirements**:Be the top contributor with merged pull requests on [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube).
 - **Swag**: T-shirt, stickers, Kindle
 - **How to sign up**: Make the most number of PRs on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube). To deliver the swags, we will reach out to you once PR(s) gets merged.
-- **Notes**: A person with maximum merged PRs will also get a Kindle from our side.
-Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+- **Notes**: A person with maximum merged PRs will also get a Kindle from our side. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
