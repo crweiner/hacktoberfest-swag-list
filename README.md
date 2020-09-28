@@ -50,6 +50,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### D
 
 #### **DX Heroes**
+
 - **Swag**: T-shirt, stickers, notebook, bottle opener
 - **Requirements**: Be the contributor with the most merged PRs
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/76mPo9DoTLXmrHpU6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
@@ -163,6 +164,7 @@ Nothing yet
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
 #### **DX Heroes**
+
 - **Swag**: T-shirt, stickers, notebook, bottle opener
 - **Requirements**: Be the contributor with the most merged PRs
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/76mPo9DoTLXmrHpU6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
