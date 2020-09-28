@@ -65,7 +65,7 @@ If your involvement requirements are a bit different or do not fit into this sca
 
 Depending on your involvement requirements, place your company within the appropriate section.
 
-This section of the list will follow a slightly different set of formatting in order to make the requirements more prominant:
+This section of the list will follow a slightly different set of formatting in order to make the requirements more prominent:
 
 ```
 #### **Company Name** (swag earned at this level)
@@ -113,7 +113,7 @@ Note that the requirements have been edited for clarity, only showing the requir
 
 ## Support
 
-This little project costs ~ $20/year to run between the domain name and Netlify costs. If you want to chip in a dollar for just the month of October, I'll be very greatful! You can Sponsor the project through [GitHub here](https://github.com/sponsors/crweiner). Thank you!
+This little project costs ~ $20/year to run between the domain name and Netlify costs. If you want to chip in a dollar for just the month of October, I'll be very grateful! You can Sponsor the project through [GitHub here](https://github.com/sponsors/crweiner). Thank you!
 
 ## Add your name
 
@@ -133,6 +133,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 - [Chandler Weiner](https://github.com/crweiner/)
 - [Adrienne Tacke](https://github.com/adriennetacke)
+- [Sourav Roy](https://github.com/souravroy-test/)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
