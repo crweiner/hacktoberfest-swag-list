@@ -85,13 +85,27 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+### V
+
+#### **Vonage/Nexmo**
+
+- **Swag**: $5 Open Collective Gift Card, Bamboo Vonage Socks
+- **Requirements**: Make one valid contribution to one of the Vonage/Nexmo repo to choose between either a $5 Open Collective Gift Card or a pair of Bamboo Vonage Socks!
+- **How to sign up**: Make a valid contribution at any repo [Vonage/Nexmo](https://github.com/Vonage) and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
+
 ---
 
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
 
-None right now.
+#### **Vonage/Nexmo** ($5 Open Collective Gift Card, Bamboo Vonage Socks)
+
+- **Requirements**: Make one valid contribution to one of the Vonage/Nexmo repo to choose between either a $5 Open Collective Gift Card or a pair of Bamboo Vonage Socks!
+- **Swag**: $5 Open Collective Gift Card or a pair of Bamboo Vonage Socks
+- **How to sign up**: Make a valid contribution at any repo [Vonage/Nexmo](https://github.com/Vonage) and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
 
 ### 1 Merged PR
 
