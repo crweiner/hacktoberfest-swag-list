@@ -56,6 +56,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
 
+### H
+
+#### **Hasura**
+
+- **Swag**: T-shirt, stickers (Follow [Twitter](https://twitter.com/hasurahq) for swag reveal)
+- **Requirements**:
+  - 1+ PR after review: T-shirt or Masks or Pin
+  - Small Fixes: Stickers
+- **How to sign up**: Make a PR or more on Hasura's open-source projects – [Hasura - GraphQL Engine](https://github.com/hasura/graphql-engine) and [Hasura - Learn GraphQL](https://github.com/hasura/learn-graphql) with the label **hacktoberfest:**
+- **Notes**: Talk to us on the #contrib channel on [Discord](https://discord.com/invite/hasura) or [Twitter](https://twitter.com/hasurahq). To know more visit [blog](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/)
+
+
 ### I
 
 #### **InfraCloud**
