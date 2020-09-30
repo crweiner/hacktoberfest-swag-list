@@ -90,7 +90,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Webiny**
 
 - **Swag**: Special Webiny Swag Pack (T-Shirt)
-- **Requirements**: Make four successful pull requests in October 2020 to any open source project and atleast one pull request to [Webiny](https://github.com/webiny/webiny-js)
+- **Requirements**: Make four successful pull requests in October 2020 to any open source project and at least one pull request to [Webiny](https://github.com/webiny/webiny-js)
 - **How to sign up**: Make a PR on the [Webiny-js Repo](https://github.com/webiny/webiny-js).
 - **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest)
 - **Notes**: Check out our [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md) and join our [slack channel](https://webiny.com/slack) for help and discussions.
