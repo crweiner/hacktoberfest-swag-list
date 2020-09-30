@@ -19,7 +19,7 @@ Please be sure to follow the simple rules:
 3. Please fix all issues flagged by the bots, including CodeClimate, GH Actions, Netlify, CircleCI or any others as soon as possible, ideally right away.
 4. If adding a new company to the swag list, follow the formatting below:
 
-## How to format your contribution
+### How to format your contribution
 
 Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [Readme.md](./README.md).
 
@@ -27,7 +27,7 @@ We are using a very simple language called Markdown to format this list. It's ba
 
 If you are adding a new company, be sure to add your company in two places:
 
-### A to Z Order of Companies
+#### A to Z Order of Companies
 
 Find the first letter of your company within the list, then add your information in the correct alphabetical order by using the following Markdown formatting:
 
@@ -79,11 +79,11 @@ This section of the list will follow a slightly different set of formatting in o
 
 If you have multiple types of swag for different involvement levels, be sure to add two separate entries for each individual piece of swag earned! For example, Operation Code has two types of swag earned at different levels:
 
-#### **Operation Code**
+##### **Operation Code**
 
-- **Requirements**:
-  - Stickers and handwritten note: Simply get a pull request merged!
-  - T-shirt: Resolve 3 issues.
+- **PREREQUISITIES**:
+  - Stickers and handwritten note : Simply get a pull request merged!
+  - T-shirt : Resolve 3 issues.
 
 For each piece of swag, a separate entry was added at the appropriate involvement levels:
 
@@ -122,7 +122,7 @@ Did you help contribute to the Hacktoberfest Swag list? Add your name to the lis
 Contribution formatting will follow these guidelines in Markdown.
 
 ```
-- [Bob Smith](https://github.com/bobsmith)
+- [Virat Kohli](https://github.com/bobsmith)
 ```
 
 If your contribution or PR is not formatted correctly, I'll let you know and give you a chance to fix it.
