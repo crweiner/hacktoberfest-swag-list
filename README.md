@@ -49,9 +49,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Circle CI**
 
-- **Swag**: T-shirt, stickers and Limited Edition Magic Orb Magic Pin
-- **Requirements**: 1-3 PRs to receive a sticker pack, 4PRs to receive stickers and a T-shirt OR Develop one new orb and get all of the stuff plus the magic pin
-- **How to sign up**: Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config, Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers! After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs
+- **Swag**: T-shirt, stickers and Limited Edition Magic Orb Pin
+- **Requirements**: 1-3 PRs to receive a sticker pack, 4 PRs to receive stickers and a T-shirt OR Develop one new Orb and get all of the stuff plus the Magic Pin
+- **How to sign up**: Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config OR Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers! After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
 - **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/) to get all the information on how to get these swags
 
 ### D
