@@ -61,15 +61,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Hasura**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 
+- **Requirements**:
   - Submit a PR with the label hacktoberfest: Swags
   - Submit a PR with a small fix, such as typo: Stickers
 - **How to sign up**: Submit a PR to any of the following repositories:
   - [GraphQL Engine](https://github.com/hasura/graphql-engine)
   - [Learn GraphQL](https://github.com/hasura/learn-graphql)
-- **Notes**: 
+- **Notes**:
   - If you have any questions or need help with anything, available options:
-    - open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions), if the question is not already posted. 
+    - Open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions), if the question is not already posted.
     - #contrib channel on [Discord server](http://hasura.io/discord)
     - [Tweet](https://twitter.com/HasuraHQ)
   - Guidelines available at: [Guidelines](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row)
@@ -124,15 +124,15 @@ None right now.
 #### **Hasura** (Stickers, T-shirt)
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 
+- **Requirements**:
   - Submit a PR with the label hacktoberfest: Swags
   - Submit a PR with a small fix, such as typo: Stickers
 - **How to sign up**: Submit a PR to any of the following repositories:
   - [GraphQL Engine](https://github.com/hasura/graphql-engine)
   - [Learn GraphQL](https://github.com/hasura/learn-graphql)
-- **Notes**: 
+- **Notes**:
   - If you have any questions or need help with anything, available options:
-    - open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions), if the question is not already posted. 
+    - open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions), if the question is not already posted.
     - #contrib channel on [Discord server](http://hasura.io/discord)
     - [Tweet](https://twitter.com/HasuraHQ)
   - Guidelines available at: [Guidelines](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row)
