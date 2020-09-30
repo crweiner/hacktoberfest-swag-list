@@ -47,6 +47,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
+#### **CircleCI**
+
+- **Swags**: Sticker Packs, T-Shirts, Limited Edition Orb Magin Pin
+- **Requirements**: Contribute to the github repository of CircleCI and create 1-4 PRs
+- **How to sign up**: 
+  - Challenge 1 - Complete a merged or accepted PR to include orb usage on an existing CircleCI config
+  - Challenge 2 - Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  Complete one of the challenges above to participate. Once you’ve successfully submitted your pull requests, fill out this [form](https://circleci-community.typeform.com/to/mErGL0nv) to receive your swag.
+- **Notes** - Visit https://hacktoberfest.circleci.com/ for more details. Join the #orbtoberfest discussion on the [community forum](https://discuss.circleci.com/) for ideas, FAQs, and to ask any questions.
+
 ### D
 
 #### **DX Heroes**
