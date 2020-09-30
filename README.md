@@ -85,13 +85,31 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+### V
+
+#### **Vonage**  (Bamboo Socks, Open Collective Gift Card)
+
+- **Swag**: Bamboo Socks, Open Collective Gift Card
+- **Requirements**:
+  - 1+ PR: Vonage Bamboo Socks or $5 Open Collective Gift Card
+- **How to sign up**: Make a PR or more on Vonage's open-source projects. A full list of available repositories is available – [Vonage Hacktoberfest Hub](https://developer.nexmo.com/hacktoberfest?utm_source=github&utm_medium=organic&utm_campaign=social_media). Submit the [Vonage Hacktoberfest Reward Giveaway Form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **Issues**: [Vonage GitHub Issues especially for Hacktoberfest!](https://github.com/search?q=label%3A%22hacktoberfest%22+is%3Aissue+is%3Aopen+org%3Anexmo+org%3Avonage+org%3Anexmo-community+org%3Aopentok+org%3Aopentok-community+org%3Avonage&type=Issues)
+- **Notes**:You can only claim a reward for contributions to one of our repos submitted during the month of October, submissions before October will not be valid. Rewards are limited to one per person. Check out Vonage [Hacktoberfest Hub](https://developer.nexmo.com/hacktoberfest?utm_source=github&utm_medium=organic&utm_campaign=social_media) for more info and join [Vonage Developer Community Slack](https://developer.nexmo.com/community/slack). All Pull Requests must follow Hacktoberfest’s quality guidelines.
+
 ---
 
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
 
-None right now.
+#### **Vonage**  (Bamboo Socks, Open Collective Gift Card)
+
+- **Swag**: Bamboo Socks, Open Collective Gift Card
+- **Requirements**:
+  - 1+ PR: Vonage Bamboo Socks or $5 Open Collective Gift Card
+- **How to sign up**: Make a PR or more on Vonage's open-source projects. A full list of available repositories is available – [Vonage Hacktoberfest Hub](https://developer.nexmo.com/hacktoberfest?utm_source=github&utm_medium=organic&utm_campaign=social_media). Submit the [Vonage Hacktoberfest Reward Giveaway Form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **Issues**: [Vonage GitHub Issues especially for Hacktoberfest!](https://github.com/search?q=label%3A%22hacktoberfest%22+is%3Aissue+is%3Aopen+org%3Anexmo+org%3Avonage+org%3Anexmo-community+org%3Aopentok+org%3Aopentok-community+org%3Avonage&type=Issues)
+- **Notes**:You can only claim a reward for contributions to one of our repos submitted during the month of October, submissions before October will not be valid. Rewards are limited to one per person. Check out Vonage [Hacktoberfest Hub](https://developer.nexmo.com/hacktoberfest?utm_source=github&utm_medium=organic&utm_campaign=social_media) for more info and join [Vonage Developer Community Slack](https://developer.nexmo.com/community/slack). All Pull Requests must follow Hacktoberfest’s quality guidelines.
 
 ### 1 Merged PR
 
