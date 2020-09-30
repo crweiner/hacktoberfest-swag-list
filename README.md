@@ -85,6 +85,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+### W
+
+#### **Webiny**
+
+- **Swag**: Special Webiny Swag Pack (T-Shirt)
+- **Requirements**: Make four successful pull requests in October 2020 to any open source project and atleast one pull request to [Webiny](https://github.com/webiny/webiny-js)
+- **How to sign up**: Make a PR on the [Webiny-js Repo](https://github.com/webiny/webiny-js).
+- **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest)
+- **Notes**: Check out our [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md) and join our [slack channel](https://webiny.com/slack) for help and discussions.
+
 ---
 
 ## Least Involvement to Most Involvement
