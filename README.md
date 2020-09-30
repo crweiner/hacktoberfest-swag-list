@@ -161,7 +161,7 @@ None right now.
 - **Requirements**: 1-3 PRs for stickers,4 PRs for a T-Shirt and All the items with the pin if you develop a new Orb from scratch
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Make the contrbutions accordingly and then use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to submit your PRs
-- **Notes**: Join the #orbtoberfest discussion on our [community forum]()https://discuss.circleci.com/t/official-hacktoberfest-and-orbtoberfest-thread/37510 for ideas, FAQs, and to ask any questions. Also check out the official website (here)[https://hacktoberfest.circleci.com/]
+- **Notes**: Join the #Orbtoberfest discussion on our [community forum](https://discuss.circleci.com/t/official-hacktoberfest-and-orbtoberfest-thread/37510) for ideas, FAQs, and to ask any questions. Also check out the official website (here)[https://hacktoberfest.circleci.com/]
 
 ### 5 or more Merged PRs
 
