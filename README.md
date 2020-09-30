@@ -113,6 +113,17 @@ None right now.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
+#### **CircleCI**
+
+- **Swags**: Sticker Packs, T-Shirts, Limited Edition Orb Magin Pin
+- **Requirements**: Contribute to the github repository of CircleCI and create 1-4 PRs
+- **How to sign up**: 
+  - Challenge 1 - Complete a merged or accepted PR to include orb usage on an existing CircleCI config
+  - Challenge 2 - Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  Complete one of the challenges above to participate. Once you’ve successfully submitted your pull requests, fill out this [form](https://circleci-community.typeform.com/to/mErGL0nv) to receive your swag.
+- **Notes** - Visit https://hacktoberfest.circleci.com/ for more details. Join the #orbtoberfest discussion on the [community forum](https://discuss.circleci.com/) for ideas, FAQs, and to ask any questions.
+
+
 #### **InfraCloud** (Stickers, T-shirt)
 
 - **Requirements**: one or more merged PRs on [Fission](https://github.com/fission/fission) or [BotKube](https://github.com/infracloudio/botkube) or both.
