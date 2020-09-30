@@ -42,7 +42,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **CAMUNDA**
 
-- **Swag**: T-shirt, stickers
+- **Swag**: T-shirt, stickers.
 - **Requirements**: 2 or more merged PRs
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
@@ -51,7 +51,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **DX Heroes**
 
-- **Swag**: T-shirt, stickers, notebook, bottle opener
+- **Swag**: T-shirt, stickers, notebook, bottle opener.
 - **Requirements**: Be the contributor with the most merged PRs
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
@@ -128,7 +128,7 @@ None right now.
 
 ### The Original - **DigitalOcean, Intel, and Dev** (T-shirt, stickers)
 
-- **Requirements**: 4 pull requests in any repository
+- **Requirements**: make 4 pull requests in any repository
 - **Swag**: T-shirt, stickers
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
