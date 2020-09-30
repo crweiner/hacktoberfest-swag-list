@@ -47,6 +47,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
+#### **Circle-CI**
+
+- **Swag**: T-shirt, stickers, Limited edition orb magic pin(special case)
+- **Requirements**: 4+ merged or accpeted PRs
+  - 1-3 PRs: Stickers.
+  - 4+ PRs: T-Shirt
+- **How to sign up**: First you've to submit the PRs as per reuirements and once you've completed your PRs, submit the links using [this form.](https://circleci-community.typeform.com/to/mErGL0nv).
+- **Notes**: Check out the [community forum](https://discuss.circleci.com/)for ideas, FAQs, and to ask any questions. You can read more [here](https://hacktoberfest.circleci.com/).
+
 ### D
 
 #### **DX Heroes**
@@ -103,6 +112,12 @@ None right now.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
+#### **Circle-CI** (stickers)
+
+- **Requirements**: Create 1-3 PRs on any of [Circle-CI Repos](https://github.com/circleci) as well as make sure you fill the form [here](https://circleci-community.typeform.com/to/mErGL0nv) after making them.
+- **Swag**: Sticker pack (if you make 1-3 PR's).
+- **Notes**: Check out the [community forum](https://discuss.circleci.com/)for ideas, FAQs, and to ask any questions. You can read more [here](https://hacktoberfest.circleci.com/).
+
 #### **InfraCloud** (Stickers, T-shirt)
 
 - **Requirements**: one or more merged PRs on [Fission](https://github.com/fission/fission) or [BotKube](https://github.com/infracloudio/botkube) or both.
@@ -141,6 +156,12 @@ None right now.
 - **Swag**: T-shirt, stickers
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
+
+#### **Circle-CI** (T-shirt, stickers, limited edition orb magic pin)
+
+- **Requirements**: Create 4 PRs on any of [Circle-CI Repos](https://github.com/circleci) as well as make sure you fill the form [here](https://circleci-community.typeform.com/to/mErGL0nv) after making them.
+- **Swag**: Sticker pack and t-shirt, limited edition orb magic pin
+- **Notes**: To obtain orb magic pin you've to complete the *Challeneg-2* which is mentioned [here](https://hacktoberfest.circleci.com/). Check out the [community forum](https://discuss.circleci.com/)for ideas, FAQs, and to ask any questions. You can read more [here](https://hacktoberfest.circleci.com/).
 
 #### **lakeFS** (T-shirt)
 
