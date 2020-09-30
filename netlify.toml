@@ -1,4 +1,4 @@
-[build]
+[build]  - An amazing project
   command = "jekyll build"
   publish = "_site"
 
