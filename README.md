@@ -56,6 +56,24 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
 
+### H
+
+#### **Hasura**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**: 
+  - Submit a PR with the label hacktoberfest: Swags
+  - Submit a PR with a small fix, such as typo: Stickers
+- **How to sign up**: Submit a PR to any of the following repositories:
+  - [GraphQL Engine](https://github.com/hasura/graphql-engine)
+  - [Learn GraphQL](https://github.com/hasura/learn-graphql)
+- **Notes**: 
+  - If you have any questions or need help with anything, available options:
+    - open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions), if the question is not already posted. 
+    - #contrib channel on [Discord server](http://hasura.io/discord)
+    - [Tweet](https://twitter.com/HasuraHQ)
+  - Guidelines available at: [Guidelines](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row)
+
 ### I
 
 #### **InfraCloud**
@@ -102,6 +120,22 @@ None right now.
 - **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
+
+#### **Hasura** (Stickers, T-shirt)
+
+- **Swag**: T-shirt, stickers
+- **Requirements**: 
+  - Submit a PR with the label hacktoberfest: Swags
+  - Submit a PR with a small fix, such as typo: Stickers
+- **How to sign up**: Submit a PR to any of the following repositories:
+  - [GraphQL Engine](https://github.com/hasura/graphql-engine)
+  - [Learn GraphQL](https://github.com/hasura/learn-graphql)
+- **Notes**: 
+  - If you have any questions or need help with anything, available options:
+    - open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions), if the question is not already posted. 
+    - #contrib channel on [Discord server](http://hasura.io/discord)
+    - [Tweet](https://twitter.com/HasuraHQ)
+  - Guidelines available at: [Guidelines](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row)
 
 #### **InfraCloud** (Stickers, T-shirt)
 
