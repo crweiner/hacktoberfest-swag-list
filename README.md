@@ -56,6 +56,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
 
+### H
+
+#### **Hasura**
+- **Swag**: Pins, Masks or T-shirt [based on voting](https://twitter.com/HasuraHQ/status/1309149869144190977?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1309149869144190977%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fhasura.io%2Fblog%2Fhasura-joins-hacktoberfest-3rd-year-in-a-row%2F)
+- **Requirements**: Submit a PR for any one of the  issues with the label hacktoberfest. Note the repositories which are considered are [hasura/graphql-engine](https://github.com/hasura/graphql-engine) or [hasura/learn-graphql](https://github.com/hasura/learn-graphql)
+- **How to sign up**: Register for [hacktoberfest](https://hacktoberfest.digitalocean.com/) and submit a PR in above mentioned repositories.
+- **Notes**: If you need help getting started with contributing to Hasura, You can get in touch on your preferred channels:
+[twitter](https://twitter.com/hasurahq)
+[discord](https://discord.com/invite/hasura)
+[more info](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/)
+
 ### I
 
 #### **InfraCloud**
