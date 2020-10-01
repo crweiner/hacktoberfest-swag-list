@@ -85,6 +85,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+#### **MayaData**
+
+- **Swag**: T-shirt, stickers, laptop, mechanical keyboard, NVMe Drive,  wireless earbuds.
+- **Requirements**: Make a merged pull requests on either [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus)
+  - T-shirt and stickers to all contributors. The best PR submission will win a laptop. Can also get mechanical keyboard, NVMe Drive or wireless earbuds.
+  - 1+ merged PR: T-shirt and sticker
+  - Top contributors: Laptop, mechanical keyboard, NVMe Drive or wireless earbuds
+- **How to sign up**: Make a PR on any of either [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest). Once it's merged, you will get a link to a form.
+- **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
+- **Notes**: [OpenEBS Blog](https://openebs.io/blog)
+
 ---
 
 ## Least Involvement to Most Involvement
@@ -123,6 +134,15 @@ None right now.
 - **Swag**: T-Shirt, stickers
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
+
+#### **MayaData**
+
+- **Requirements**: One merged pull requests on either [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus)
+  - T-shirt and stickers
+- **Swag**: T-shirt, stickers, laptop, mechanical keyboard, NVMe Drive,  wireless earbuds.
+- **How to sign up**: Make a PR on any of either [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest). Once it's merged, you will get a link to a form.
+- **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
+- **Notes**: [OpenEBS Blog](https://openebs.io/blog)
 
 ### 2 or more PRs
 
@@ -181,6 +201,13 @@ Disclaimer: This website is a fan and community made creation. It is not affilia
 
 ![Presented by DigitalOcean, Intel, and Dev.to](img/SponsorsDarkBoxed.svg)
 
+#### **MayaData**
+
+- **Requirements**: Be the top contributor to either [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus)
+- **Swag**: T-shirt, stickers and laptop, mechanical keyboard, NVMe Drive or wireless earbuds.
+- **How to sign up**: Make a PR on any of either [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest). Once it's merged, you will get a link to a form.
+- **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest) [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
+- **Notes**: [OpenEBS Blog](https://openebs.io/blog)
 ---
 
 If you're looking for the Swag List from 2018 and 2019, [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018) and [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019) branches.
