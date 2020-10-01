@@ -261,6 +261,7 @@ Nothing yet
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
 ![Presented by DigitalOcean, Intel, and Dev.to](img/SponsorsDarkBoxed.svg)
+
 ---
 
 If you're looking for the Swag List from 2018 and 2019, [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018) and [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019) branches.
