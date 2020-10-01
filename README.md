@@ -176,7 +176,7 @@ None right now.
 - **Requirements**: Contribute to the [github repository of CircleCI](https://github.com/circleci) and get 4 PRs merged or accepted as per Challenge 1
 - **Swags**: Stickers and a T-Shirt
 - **How to sign up**: Complete Challenge 1 as mentioned below to participate. Once you’ve successfully submitted your pull requests, fill out this [form](https://circleci-community.typeform.com/to/mErGL0nv) to receive your swag.
-  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config 
+  - Challenge 1: Complete 4 merged or accepted PRs to include orb usage on an existing CircleCI config 
 - **Notes** - Visit [CircleCI](https://hacktoberfest.circleci.com/) for more details. Join the #orbtoberfest discussion on the [community forum](https://discuss.circleci.com/) for ideas, FAQs, and to ask any questions.
 
 ### Top Contributors
