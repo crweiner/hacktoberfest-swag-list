@@ -60,10 +60,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Earthly**
 
-- **Swag**: Stickers
+- **Swag**: Stickers (limit 40)
 - **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
-- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completetion we will reach out to you to get your mailing address.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
-- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completetion we will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
+- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details. 
 
 ### I
 
@@ -114,10 +114,10 @@ None right now.
 
 #### **Earthly** (Stickers)
 
-- **Swag**: Stickers
+- **Swag**: Stickers (limit 40)
 - **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
-- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completetion we will reach out to you to get your mailing address.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
-- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completetion we will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
+- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details. Reach out to adam@earthly.dev via email to claim your sticker.
 
 #### **InfraCloud** (Stickers, T-shirt)
 
