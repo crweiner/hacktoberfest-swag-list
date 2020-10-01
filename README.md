@@ -142,8 +142,6 @@ None right now.
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
 
-### 4 or more PRs
-
 #### **JetBrains** (Access to all professional tools for 3 months, 20% off after that)
 
 - **Requirements**: 4+ submitted PR's
