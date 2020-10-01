@@ -89,9 +89,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Vonage/Nexmo**
 
-- **Swag**: $5 Open Collective Gift Card, Bamboo Vonage Socks
-- **Requirements**: Make one valid contribution to one of the Vonage/Nexmo repo to choose between either a $5 Open Collective Gift Card or a pair of Bamboo Vonage Socks!
-- **How to sign up**: Make a valid contribution at any repo [Vonage/Nexmo](https://github.com/Vonage) and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **Swag**: $5 Open Collective Gift Card or Bamboo Vonage Socks
+- **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
+- **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
 - **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
 
 ---
@@ -100,11 +100,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
-#### **Vonage/Nexmo** ($5 Open Collective Gift Card, Bamboo Vonage Socks)
+#### **Vonage/Nexmo** ($5 Open Collective Gift Card or Bamboo Vonage Socks)
 
-- **Requirements**: Make one valid contribution to one of the Vonage/Nexmo repo to choose between either a $5 Open Collective Gift Card or a pair of Bamboo Vonage Socks!
+- **Requirements**: Make one valid contribution to one of the Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
 - **Swag**: $5 Open Collective Gift Card or a pair of Bamboo Vonage Socks
-- **How to sign up**: Make a valid contribution at any repo [Vonage/Nexmo](https://github.com/Vonage) and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
 - **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
 
 ### 1 Merged PR
