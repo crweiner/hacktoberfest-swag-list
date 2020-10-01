@@ -56,6 +56,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
 
+### G
+
+#### **Globo**
+
+- **Swag**: T-shirt
+- **Requirements**:
+  - Contribute to two pull requests in any Globo Open Source project during the month of October.
+  - Ensure that at least one pull request is merged.
+- **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
+
 ### I
 
 #### **InfraCloud**
@@ -66,6 +77,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Top Contributor: Kindle
 - **How to sign up**: Make a PR or more on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube).To deliver the swags, we will reach out to you once PR(s) gets merged.
 - **Notes**:Only the first 50 people will receive the swags.A person with maximum merged PRs will also get a Kindle from our side. Check out InfraCloud [official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+
+### J
+
+#### **JetBrains**
+
+- **Swag**: Access to all professional developer tools for 3 months, plus 20% off an annual subscription.
+- **Requirements**: 4+ submitted PR's.
+- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/#get-the-tools) form and then make four quality pull requests to public GitHub repositories. Once you register by filling out the form, you will get a 3 month subscription to their professional tools to use after Hacktoberfest!
+- **Notes**: You can contact them by sending email to marketing@jetbrains.com and by joining [Discord](https://discord.com/invite/hacktoberfest). You can read more about them [here](https://www.jetbrains.com/lp/hacktoberfest-2020/).
 
 ### L
 
@@ -97,13 +117,27 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **Notes**: Check out the [OpenEBS Blog](https://openebs.io/blog).
 
+### V
+
+#### **Vonage/Nexmo**
+
+- **Swag**: $5 Open Collective Gift Card or Bamboo Vonage Socks
+- **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
+- **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
+
 ---
 
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
 
-None right now.
+#### **Vonage/Nexmo** ($5 Open Collective Gift Card or Bamboo Vonage Socks)
+
+- **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
+- **Swag**: $5 Open Collective Gift Card or a pair of Bamboo Vonage Socks
+- **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
 
 ### 1 Merged PR
 
@@ -114,6 +148,15 @@ None right now.
 - **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
+
+#### **Globo (T-shirt, Brazil only)**
+
+- **Requirements**:
+  - Contribute to two pull requests in any Globo Open Source project during the month of October.
+  - Ensure that at least one pull request is merged.
+- **Swag**: T-shirt
+- **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
+- **Notes**: Only the first 100 people, residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
 
 #### **InfraCloud** (Stickers, T-shirt)
 
@@ -153,6 +196,13 @@ None right now.
 - **Swag**: T-shirt, stickers
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
+
+#### **JetBrains** (Access to all professional tools for 3 months, 20% off after that)
+
+- **Requirements**: 4+ submitted PR's
+- **Swag**: Access to all professional developer tools for 3 months, plus 20% off an annual subscription.
+- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/#get-the-tools) form and then make four quality pull requests to public GitHub repositories. Once you register by filling out the form, you will get a 3 month subscription to their professional tools to use after Hacktoberfest!
+- **Notes**: You can contact them by sending email to marketing@jetbrains.com and by joining [Discord](https://discord.com/invite/hacktoberfest). You can read more about them [here](https://www.jetbrains.com/lp/hacktoberfest-2020/).
 
 ### 2 or more Merged PRs
 
