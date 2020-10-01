@@ -125,7 +125,7 @@ None right now.
 
 - **Swag**: T-shirt, stickers
 - **Requirements**:
-  - Submit a PR with the label hacktoberfest: Swags
+  - Submit a PR with the label hacktoberfest: Swag
   - Submit a PR with a small fix, such as typo: Stickers
 - **How to sign up**: Submit a PR to any of the following repositories:
   - [GraphQL Engine](https://github.com/hasura/graphql-engine)
