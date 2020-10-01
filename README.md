@@ -47,6 +47,24 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
+#### **Crata**
+
+
+- **swag**: T-Shirt, stickers
+- **Requirements**: 4 or more PRs
+- **How to sign up**: You havr to submit 4 pull request to the 
+     
+Crate repositories
+Project	Language	Description
+crate	Java	CrateDB - a distributed SQL database
+crate-admin	JavaScript	Admin interface for CrateDB
+crash	Python	CrateDB Shell - CLI for CrateDB
+crate-python	Python	Python client library for CrateDB
+crate_ruby	Ruby	Ruby client library for CrateDB
+activerecord-crate-adapter	Ruby	CrateDB adapter for ActiveRecord
+crate_adapter	Go	CrateDB Prometheus Adapter
+crate-operator	Python	CrateDB Kubernetes Operator
+crate-sample-apps	Various	Sample apps using CrateDB
 ### D
 
 #### **Devfolio**
