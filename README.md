@@ -67,6 +67,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR or more on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube).To deliver the swags, we will reach out to you once PR(s) gets merged.
 - **Notes**:Only the first 50 people will receive the swags.A person with maximum merged PRs will also get a Kindle from our side. Check out InfraCloud [official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
 
+### J
+
+#### **JetBrains**
+
+- **Swag**: Access to all professional developer tools for 3 months, plus 20% off an annual subscription.
+- **Requirements**: 4+ submitted PR's.
+- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/#get-the-tools) form and then make four quality pull requests to public GitHub repositories. Once you register by filling out the form, you will get a 3 month subscription to their professional tools to use after Hacktoberfest!
+- **Notes**: You can contact them by sending email to marketing@jetbrains.com and by joining [Discord](https://discord.com/invite/hacktoberfest). You can read more about them [here](https://www.jetbrains.com/lp/hacktoberfest-2020/).
+
 ### L
 
 #### **lakeFS**
@@ -146,6 +155,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt, stickers
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
+
+#### **JetBrains** (Access to all professional tools for 3 months, 20% off after that)
+
+- **Requirements**: 4+ submitted PR's
+- **Swag**: Access to all professional developer tools for 3 months, plus 20% off an annual subscription.
+- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/#get-the-tools) form and then make four quality pull requests to public GitHub repositories. Once you register by filling out the form, you will get a 3 month subscription to their professional tools to use after Hacktoberfest!
+- **Notes**: You can contact them by sending email to marketing@jetbrains.com and by joining [Discord](https://discord.com/invite/hacktoberfest). You can read more about them [here](https://www.jetbrains.com/lp/hacktoberfest-2020/).
 
 ### 2 or more Merged PRs
 
