@@ -61,12 +61,30 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### D
 
+#### **Devfolio**
+
+- **Swag**: Stickers, t-shirt (limited)
+- **Requirements**: 4+ merged PPs
+- **How to sign up**: Contribute to any of the following GitHub repositories: [react-otp-input](https://github.com/devfolioco/react-otp-input), [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto), [scrroll-in](https://github.com/devfolioco/scrroll-in), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter). Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
+- **Notes**: For more info visit [Devfolio's Hacktoberfest page](https://devfolio.co/blog/devfolio-hacktoberfest-2020). All eligible contributors will be shipped stickers (including a limited edition Devfolio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt.
+
 #### **DX Heroes**
 
 - **Swag**: T-shirt, stickers, notebook, bottle opener
 - **Requirements**: Be the contributor with the most merged PRs
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
+
+### G
+
+#### **Globo**
+
+- **Swag**: T-shirt
+- **Requirements**:
+  - Contribute to two pull requests in any Globo Open Source project during the month of October.
+  - Ensure that at least one pull request is merged.
+- **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
 
 ### I
 
@@ -78,6 +96,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Top Contributor: Kindle
 - **How to sign up**: Make a PR or more on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube).To deliver the swags, we will reach out to you once PR(s) gets merged.
 - **Notes**:Only the first 50 people will receive the swags.A person with maximum merged PRs will also get a Kindle from our side. Check out InfraCloud [official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+
+### J
+
+#### **JetBrains**
+
+- **Swag**: Access to all professional developer tools for 3 months, plus 20% off an annual subscription.
+- **Requirements**: 4+ submitted PR's.
+- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/#get-the-tools) form and then make four quality pull requests to public GitHub repositories. Once you register by filling out the form, you will get a 3 month subscription to their professional tools to use after Hacktoberfest!
+- **Notes**: You can contact them by sending email to marketing@jetbrains.com and by joining [Discord](https://discord.com/invite/hacktoberfest). You can read more about them [here](https://www.jetbrains.com/lp/hacktoberfest-2020/).
 
 ### L
 
@@ -97,13 +124,39 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+### M
+
+#### **MayaData**
+
+- **Swag**: T-shirt, stickers, laptop, mechanical keyboard, NVMe Drive,  wireless earbuds
+- **Requirements**:
+  - 1+ merged PR: T-shirt and sticker
+  - Top contributors: Laptop, mechanical keyboard, NVMe Drive or wireless earbuds
+- **How to sign up**: Fill form from the link you will receive once your PR is merged. PR can be from [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest).
+- **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
+- **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
+
+### V
+
+#### **Vonage/Nexmo**
+
+- **Swag**: $5 Open Collective Gift Card or Bamboo Vonage Socks
+- **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
+- **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
+
 ---
 
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
 
-None right now.
+#### **Vonage/Nexmo** ($5 Open Collective Gift Card or Bamboo Vonage Socks)
+
+- **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
+- **Swag**: $5 Open Collective Gift Card or a pair of Bamboo Vonage Socks
+- **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
+- **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
 
 ### 1 Merged PR
 
@@ -122,6 +175,15 @@ None right now.
 - **How to sign up**: Complete Challenge 1 as mentioned below to participate. Once you’ve successfully submitted your pull requests, fill out this [form](https://circleci-community.typeform.com/to/mErGL0nv) to receive your swag.
   - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config.
 - **Notes** - Visit [CircleCI](https://hacktoberfest.circleci.com/) for more details. Join the #orbtoberfest discussion on the [community forum](https://discuss.circleci.com/) for ideas, FAQs, and to ask any questions.
+
+#### **Globo (T-shirt, Brazil only)**
+
+- **Requirements**:
+  - Contribute to two pull requests in any Globo Open Source project during the month of October.
+  - Ensure that at least one pull request is merged.
+- **Swag**: T-shirt
+- **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
+- **Notes**: Only the first 100 people, residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
 
 #### **InfraCloud** (Stickers, T-shirt)
 
@@ -144,6 +206,15 @@ None right now.
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+#### **MayaData** (T-shirt, stickers)
+
+- **Requirements**:
+  - 1+ merged PR: T-shirt and sticker
+- **Swag**: T-shirt, stickers
+- **How to sign up**: Fill form from the link you will receive once your PR is merged. PR can be from [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest).
+- **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
+- **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
+
 ### 2 or more PRs
 
 ### The Original - **DigitalOcean, Intel, and Dev** (T-shirt, stickers)
@@ -153,6 +224,13 @@ None right now.
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
 
+#### **JetBrains** (Access to all professional tools for 3 months, 20% off after that)
+
+- **Requirements**: 4+ submitted PR's
+- **Swag**: Access to all professional developer tools for 3 months, plus 20% off an annual subscription.
+- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/#get-the-tools) form and then make four quality pull requests to public GitHub repositories. Once you register by filling out the form, you will get a 3 month subscription to their professional tools to use after Hacktoberfest!
+- **Notes**: You can contact them by sending email to marketing@jetbrains.com and by joining [Discord](https://discord.com/invite/hacktoberfest). You can read more about them [here](https://www.jetbrains.com/lp/hacktoberfest-2020/).
+
 ### 2 or more Merged PRs
 
 #### **CAMUNDA (T-shirt, stickers)**
@@ -161,6 +239,13 @@ None right now.
 - **Swag**: T-shirt, stickers
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
+
+#### **Devfolio (T-shirt, stickers)**
+
+- **Requirements**: 4 or more merged pull requests
+- **Swag**: T-shirt (limited), stickers
+- **How to sign up**: Contribute to any of the following GitHub repositories: [react-otp-input](https://github.com/devfolioco/react-otp-input), [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto), [scrroll-in](https://github.com/devfolioco/scrroll-in), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter). Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
+- **Notes**: For more info visit [Devfolio's Hacktoberfest page](https://devfolio.co/blog/devfolio-hacktoberfest-2020/). All eligible contributors will be shipped stickers (including a limited edition Devfolio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt.
 
 #### **lakeFS** (T-shirt)
 
@@ -202,6 +287,16 @@ None right now.
 - **Swag**: T-shirt, stickers, Kindle
 - **How to sign up**: Make the most number of PRs on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube). To deliver the swags, we will reach out to you once PR(s) gets merged.
 - **Notes**: A person with maximum merged PRs will also get a Kindle from our side. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+
+#### **MayaData** (T-shirt, stickers, laptop, mechanical keyboard, NVMe drive, wireless earbuds)
+
+- **Requirements**:
+  - 1+ merged PR: T-shirt and sticker
+  - Top contributors: Laptop, mechanical keyboard, NVMe Drive or wireless earbuds
+- **Swag**: Laptop, mechanical keyboard, NVMe Drive, or wireless earbuds. Also get T-shirt and stickers.
+- **How to sign up**: Fill form from the link you will receive once your PR is merged. PR can be from [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest).
+- **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
+- **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
