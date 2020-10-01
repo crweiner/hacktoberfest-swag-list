@@ -50,12 +50,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **CircleCI**
 
 - **Swags**: Sticker Packs, T-Shirts, Limited Edition Orb Magin Pin
-- **Requirements**: Contribute to the github repository of CircleCI and create 1-4 PRs
-- **How to sign up**: 
-  - Challenge 1 - Complete a merged or accepted PR to include orb usage on an existing CircleCI config
-  - Challenge 2 - Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
-  Complete one of the challenges above to participate. Once you’ve successfully submitted your pull requests, fill out this [form](https://circleci-community.typeform.com/to/mErGL0nv) to receive your swag.
-- **Notes** - Visit https://hacktoberfest.circleci.com/ for more details. Join the #orbtoberfest discussion on the [community forum](https://discuss.circleci.com/) for ideas, FAQs, and to ask any questions.
+- **Requirements**: Contribute to the [github repository of CircleCI](https://github.com/circleci) and get 1-4 PRs merged or accepted
+  - Sticker Packs: 1-3 PRs in Challenge 1
+  - Stickers and a T-Shirt: 4 PRs in Challenge 1
+  - Sticker Pack, T-Shirt and a Limited Edition Orb Magin Pin: Complete Challenge 2
+- **How to sign up**: Complete either of the challenges below to participate. Once you’ve successfully submitted your pull requests, fill out this [form](https://circleci-community.typeform.com/to/mErGL0nv) to receive your swag.
+  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
+  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers! 
+- **Notes** - Visit [CircleCI](https://hacktoberfest.circleci.com/) for more details. Join the #orbtoberfest discussion on the [community forum](https://discuss.circleci.com/) for ideas, FAQs, and to ask any questions.
 
 ### D
 
@@ -115,14 +117,11 @@ None right now.
 
 #### **CircleCI**
 
-- **Swags**: Sticker Packs, T-Shirts, Limited Edition Orb Magin Pin
-- **Requirements**: Contribute to the github repository of CircleCI and create 1-4 PRs
-- **How to sign up**: 
-  - Challenge 1 - Complete a merged or accepted PR to include orb usage on an existing CircleCI config
-  - Challenge 2 - Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
-  Complete one of the challenges above to participate. Once you’ve successfully submitted your pull requests, fill out this [form](https://circleci-community.typeform.com/to/mErGL0nv) to receive your swag.
-- **Notes** - Visit https://hacktoberfest.circleci.com/ for more details. Join the #orbtoberfest discussion on the [community forum](https://discuss.circleci.com/) for ideas, FAQs, and to ask any questions.
-
+- **Requirements**: Contribute to the [github repository of CircleCI](https://github.com/circleci) and get 1-3 PRs merged or accepted as per Challenge 1
+- **Swags**: Sticker Packs
+- **How to sign up**: Complete Challenge 1 as mentioned below to participate. Once you’ve successfully submitted your pull requests, fill out this [form](https://circleci-community.typeform.com/to/mErGL0nv) to receive your swag.
+  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config 
+- **Notes** - Visit [CircleCI](https://hacktoberfest.circleci.com/) for more details. Join the #orbtoberfest discussion on the [community forum](https://discuss.circleci.com/) for ideas, FAQs, and to ask any questions.
 
 #### **InfraCloud** (Stickers, T-shirt)
 
@@ -170,9 +169,15 @@ None right now.
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
-### 5 or more Merged PRs
+### 4 or more Merged PRs
 
-Nothing yet
+#### **CircleCI**
+
+- **Requirements**: Contribute to the [github repository of CircleCI](https://github.com/circleci) and get 4 PRs merged or accepted as per Challenge 1
+- **Swags**: Stickers and a T-Shirt
+- **How to sign up**: Complete Challenge 1 as mentioned below to participate. Once you’ve successfully submitted your pull requests, fill out this [form](https://circleci-community.typeform.com/to/mErGL0nv) to receive your swag.
+  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config 
+- **Notes** - Visit [CircleCI](https://hacktoberfest.circleci.com/) for more details. Join the #orbtoberfest discussion on the [community forum](https://discuss.circleci.com/) for ideas, FAQs, and to ask any questions.
 
 ### Top Contributors
 
