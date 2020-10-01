@@ -54,6 +54,7 @@ Also add your company information to the correct section for this list. So far, 
 - 1 Merged PR
 - 2 or more PRs
 - 2 or more Merged PRs
+- 4 or more Merged PRs
 - 5 Merged PRs
 - Top Contributors
 
@@ -135,6 +136,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Adrienne Tacke](https://github.com/adriennetacke)
 - [Sourav Roy](https://github.com/souravroy-test/)
 - [Khushi](https://github.com/khushijindal/)
+- [Swapnil Jha](https://github.com/swapniljha001)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
