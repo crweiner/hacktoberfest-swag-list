@@ -72,7 +72,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1+ PR after review: T-shirt or Masks or Pin
   - Small Fixes: Stickers
 - **How to sign up**: Make a PR or more on Hasura's open-source projects – [Hasura - GraphQL Engine](https://github.com/hasura/graphql-engine) and [Hasura - Learn GraphQL](https://github.com/hasura/learn-graphql) with the label **hacktoberfest:**
-- **Notes**: Talk to us on the #contrib channel on [Discord](https://discord.com/invite/hasura) or tweet us at [Twitter](https://twitter.com/hasurahq). To know more visit [blog](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/)..
+- **Notes**: Talk to us on the #contrib channel on [Discord](https://discord.com/invite/hasura) or tweet us at [Twitter](https://twitter.com/hasurahq). To know more visit [blog](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/).
 
 ### G
 
