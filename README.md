@@ -1,6 +1,7 @@
 # Hacktoberfest 2020 Swag List
 
 It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
+So why are you waiting for, lets go and enjoy the gifts and perks.
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2020 and how you can get your hands on some free gifts for your time and help.
 
