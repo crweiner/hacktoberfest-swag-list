@@ -101,12 +101,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: IBM Developer Swag, IBM Open Source Contributor Badge
 - **Requirements**:
   - An IBM employee.
-  - Complete annual OSPG training/certification (if not completed already). 
+  - Complete annual OSPG training/certification (if not completed already).
   - Submit four (or more) valid pull requests during the month of October. However, you'll be eligble for the badge upon submitting your first PR.
-- **How to sign up**: Submit your PR links before October 31, 2020 on https://w3.ibm.com/developer/hacktoberfest/ (you'll need to be in IBM VPN).
+- **How to sign up**: Submit your PR links before October 31, 2020 on [IBM Hacktoberfest internal page](https://w3.ibm.com/developer/hacktoberfest/) (you'll need to be in IBM VPN).
 - **Issues**: Any open source issues that may not be considered as conflict of interest.
-- **Notes**: Only first 250 IBMers are eligible for the developer swag. Refer to https://w3.ibm.com/developer/hacktoberfest/ (IBM VPN needed) for complete guidelines/requirements. 
-
+- **Notes**: Only first 250 IBMers are eligible for the developer swag. Refer to [IBM Hacktoberfest internal page](https://w3.ibm.com/developer/hacktoberfest/) (IBM VPN needed) for complete guidelines/requirements.
 
 #### **InfraCloud**
 
@@ -171,13 +170,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
-
 ### **IBM** (IBM Badge)
 
 - **Requirements**: First valid PR.
 - **Swag**: IBM Open Source Contributor badge.
-- **How to sign up**: Submit your PR links before October 31, 2020 on https://w3.ibm.com/developer/hacktoberfest/ (you'll need to be in IBM VPN).
-
+- **How to sign up**: Submit your PR links before October 31, 2020 on [IBM Hacktoberfest internal page](https://w3.ibm.com/developer/hacktoberfest/) (you'll need to be in IBM VPN).
 
 #### **Vonage/Nexmo** ($5 Open Collective Gift Card or Bamboo Vonage Socks)
 
@@ -266,9 +263,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**: 4+ submitted PR's
 - **Swag**: IBM Developer Swag
-- **How to sign up**: Submit your PR links before October 31, 2020 on https://w3.ibm.com/developer/hacktoberfest/ (you'll need to be in IBM VPN).
-- **Notes**: Only first 250 IBMers are eligible for the developer swag. Refer to https://w3.ibm.com/developer/hacktoberfest/ (IBM VPN needed) for complete guidelines/requirements. 
-
+- **How to sign up**: Submit your PR links before October 31, 2020 on [IBM Hacktoberfest internal page](https://w3.ibm.com/developer/hacktoberfest/) (you'll need to be in IBM VPN).
+- **Notes**: Only first 250 IBMers are eligible for the developer swag. Refer to [IBM Hacktoberfest internal page](https://w3.ibm.com/developer/hacktoberfest/) (IBM VPN needed) for complete guidelines/requirements.
 
 #### **JetBrains** (Access to all professional tools for 3 months, 20% off after that)
 
