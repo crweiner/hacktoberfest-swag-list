@@ -137,6 +137,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [David Ma](https://github.com/Taikon/)
 - [Khushi](https://github.com/khushijindal/)
 - [Lorenz Sieben](https://github.com/zner0L)
+- [The HungryCoder](github.com/thehungrycoder)
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
