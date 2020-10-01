@@ -28,6 +28,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **Appsmith**
+
+- **Swag**: T-Shirt, stickers, WASD Keyboard
+- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 1+ PR: Stickers
+  - 3+ PR: T-Shirt
+  - Top contributor Referral: WASD Keyboard.
+- **Participation Details**: [Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
+- **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
+
 #### **Appwrite**
 
 - **Swag**: T-Shirt, stickers, magnets, and buttons
@@ -139,6 +150,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
+#### **Appsmith**
+
+- **Swag**: T-Shirt, stickers, WASD Keyboard
+- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 1+ PR: Stickers
+  - 3+ PR: T-Shirt
+  - Top contributor Referral: WASD Keyboard.
+- **Participation Details**: [Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
+- **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
+
 #### **Vonage/Nexmo** ($5 Open Collective Gift Card or Bamboo Vonage Socks)
 
 - **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
@@ -239,6 +261,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 Nothing yet
 
 ### Top Contributors
+
+#### **Appsmith**
+
+- **Swag**: T-Shirt, stickers, WASD Keyboard
+- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 1+ PR: Stickers
+  - 3+ PR: T-Shirt
+  - Top contributor Referral: WASD Keyboard.
+- **Participation Details**: [Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
+- **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
 
 #### **Appwrite** (T-shirt, Stickers, Magnets, and Buttons)
 
