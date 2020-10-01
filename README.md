@@ -38,6 +38,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
+#### **ArchivesSpace**
+
+- **Swag**: ArchivesSpace swag bag
+- **Requirements**: Be the contributor with the most merged PRs.
+- **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the swag.
+- **Notes**: Check out [ArchivesSpace Hacktoberfest 2020
+ blog](https://archivesspace.org/archives/6563) for more information. For your doubts e-mail at ArchivesSpaceHome@lyrasis.org .
+ 
 ### C
 
 #### **CAMUNDA**
@@ -124,6 +132,31 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
 
+### S
+
+#### **Sensenet**
+
+- **Swag**: socks, 10% discount code for [business plan](https://sensenet.com/pricing)
+- **Requirements**: Make one or more merged PRs only from [Sensenet Github board](https://github.com/orgs/SenseNet/projects/7).
+  - You need to [register to SNaaS](https://profile.sensenet.com/?redirectToLogin) with your GitHub account and get a free repository 
+  - "star" [sensenet repo on GitHub](https://github.com/SenseNet/sensenet) 
+  - 1+ merged PR
+- **How to sign up**: Make one or more merged PRs only from [Sensenet Github board](https://github.com/orgs/SenseNet/projects/7) and we will email to you to getthe swag.
+  - The first 60 contributors (approved PR) get sensenet special edition socks.
+  - every Hacktoberfest participant gets a 10% discount code for [business plan](https://sensenet.com/pricing) (can be used one time for a monthly or yearly subscription till 31.12.2021.)
+- **Notes**: Check out [Sensenet Hacktoberfest 2020 blog post](https://hacktoberfest.sensenet.com/) for more information and read the [contributing guide](https://github.com/SenseNet/sn-client/blob/develop/apps/sensenet/cypress/CONTRIBUTING.md).
+
+
+### T
+
+#### **Tripal**
+
+- **Swag**: T-shirt and sticker
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
+PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards. 
+- **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
+- **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
+
 ### V
 
 #### **Vonage/Nexmo**
@@ -195,6 +228,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
 
+
+#### **Sensenet**
+
+- **Requirements**: Make one or more merged PRs only from [Sensenet Github board](https://github.com/orgs/SenseNet/projects/7).
+  - You need to [register to SNaaS](https://profile.sensenet.com/?redirectToLogin) with your GitHub account and get a free repository 
+  - "star" [sensenet repo on GitHub](https://github.com/SenseNet/sensenet) 
+  - 1+ merged PR
+- **Swag**: socks, 10% discount code for [business plan](https://sensenet.com/pricing)
+
+- **How to sign up**: Make one or more merged PRs only from [Sensenet Github board](https://github.com/orgs/SenseNet/projects/7) and we will email to you to getthe swag.
+  - The first 60 contributors (approved PR) get sensenet special edition socks.
+  - every Hacktoberfest participant gets a 10% discount code for [business plan](https://sensenet.com/pricing) (can be used one time for a monthly or yearly subscription till 31.12.2021.)
+- **Notes**: Check out [Sensenet Hacktoberfest 2020 blog post](https://hacktoberfest.sensenet.com/) for more information and read the [contributing guide](https://github.com/SenseNet/sn-client/blob/develop/apps/sensenet/cypress/CONTRIBUTING.md).
+
 ### 2 or more PRs
 
 ### The Original - **DigitalOcean, Intel, and Dev** (T-shirt, stickers)
@@ -234,6 +281,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
+### 4 or more Merged PRs
+
+#### **Tripal**
+
+- **Swag**: T-shirt and sticker
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
+PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards. 
+- **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
+- **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
+
 ### 5 or more Merged PRs
 
 Nothing yet
@@ -247,6 +304,14 @@ Nothing yet
 - **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
+
+#### **ArchivesSpace**(ArchivesSpace bag)
+
+- **Requirements**: Be the contributor with the most merged PRs.
+- **Swag**: ArchivesSpace swag bag
+- **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the swag.
+- **Notes**: Check out [ArchivesSpace Hacktoberfest 2020
+ blog](https://archivesspace.org/archives/6563) for more information and help.For your doubts e-mail at ArchivesSpaceHome@lyrasis.org .
 
 #### **DX Heroes** (T-shirt, stickers, notebook, bottle opener)
 
