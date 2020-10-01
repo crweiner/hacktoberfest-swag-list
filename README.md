@@ -49,6 +49,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### D
 
+#### **Datenanfragen.de e. V.**
+
+- **Swag**: At least 3 stickers and maybe a T-shirt
+- **Requirements**:
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
+  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
+  - T-shirts are given to 10 people drawn from the contributors
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [webform](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2020.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2020/) for more info.
+
 #### **Devfolio**
 
 - **Swag**: Stickers, t-shirt (limited)
@@ -62,6 +73,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Be the contributor with the most merged PRs
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
+
+### E
+
+#### **Earthly**
+
+- **Swag**: Stickers (limit 40)
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completetion we will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
+- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
 
 ### G
 
@@ -165,6 +185,24 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
+
+#### **Datenanfragen.de e. V.** (Stickers, T-Shirt option)
+
+- **Requirements**:
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
+  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
+  - T-shirts are given to 10 people drawn from the contributors
+- **Swag**: At least 3 stickers and maybe a T-shirt
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [webform](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2020.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2020/) for more info.
+
+#### **Earthly** (Stickers)
+
+- **Swag**: Stickers (limit 40)
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completetion we will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
+- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details. Reach out to adam@earthly.dev via email to claim your sticker.
 
 #### **Globo (T-shirt, Brazil only)**
 
