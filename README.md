@@ -105,6 +105,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+### M
+
+#### **MayaData**
+
+- **Swag**: T-shirt, stickers, laptop, mechanical keyboard, NVMe Drive,  wireless earbuds
+- **Requirements**:
+  - 1+ merged PR: T-shirt and sticker
+  - Top contributors: Laptop, mechanical keyboard, NVMe Drive or wireless earbuds
+- **How to sign up**: Fill form from the link you will receive once your PR is merged. PR can be from [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest).
+- **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
+- **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
+
 ### V
 
 #### **Vonage/Nexmo**
@@ -167,6 +179,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+#### **MayaData** (T-shirt, stickers)
+
+- **Requirements**:
+  - 1+ merged PR: T-shirt and sticker
+- **Swag**: T-shirt, stickers
+- **How to sign up**: Fill form from the link you will receive once your PR is merged. PR can be from [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest).
+- **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
+- **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
+
 ### 2 or more PRs
 
 ### The Original - **DigitalOcean, Intel, and Dev** (T-shirt, stickers)
@@ -226,6 +247,16 @@ Nothing yet
 - **Swag**: T-shirt, stickers, Kindle
 - **How to sign up**: Make the most number of PRs on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube). To deliver the swags, we will reach out to you once PR(s) gets merged.
 - **Notes**: A person with maximum merged PRs will also get a Kindle from our side. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+
+#### **MayaData** (T-shirt, stickers, laptop, mechanical keyboard, NVMe drive, wireless earbuds)
+
+- **Requirements**:
+  - 1+ merged PR: T-shirt and sticker
+  - Top contributors: Laptop, mechanical keyboard, NVMe Drive or wireless earbuds
+- **Swag**: Laptop, mechanical keyboard, NVMe Drive, or wireless earbuds. Also get T-shirt and stickers.
+- **How to sign up**: Fill form from the link you will receive once your PR is merged. PR can be from [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest).
+- **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
+- **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
