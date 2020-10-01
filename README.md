@@ -47,6 +47,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
+#### **CIRCLECI**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**: 4 or more PRs
+- **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://hacktoberfest.circleci.com/) and we will send you a e-mail. The repos are: [CircleCi](https://github.com/circleci).
+- **Notes**: Check out CircleCi [official Hacktoberfest page](https://hacktoberfest.circleci.com/) for more info & how to get the T-shirt.
+
+
 ### D
 
 #### **DX Heroes**
