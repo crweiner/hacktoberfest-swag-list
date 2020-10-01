@@ -71,9 +71,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **JetBrains**
 
-- **Swag**: Access to all professional developer tools for 3 months.
+- **Swag**: Access to all professional developer tools for 3 months, plus 20% off an annual subscription.
 - **Requirements**: 4+ submitted PR's.
-- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/) form and then make four quality pull requests to public GitHub repositories. Once you register by filling the form you will also get one month subscription to the professional tools to use them during Hacktoberfest!
+- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/#get-the-tools) form and then make four quality pull requests to public GitHub repositories. Once you register by filling out the form, you will get a 3 month subscription to their professional tools to use after Hacktoberfest!
 - **Notes**: You can contact them by sending email to marketing@jetbrains.com and by joining [Discord](https://discord.com/invite/hacktoberfest). You can read more about them [here](https://www.jetbrains.com/lp/hacktoberfest-2020/).
 
 ### L
@@ -144,11 +144,11 @@ None right now.
 
 ### 4 or more PRs
 
-#### **JetBrains** (Access to all professional tools)
+#### **JetBrains** (Access to all professional tools for 3 months, 20% off after that)
 
 - **Requirements**: 4+ submitted PR's
-- **Swag**: Access to all professional developer tools for 3 months.
-- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/) form and then make four quality pull requests to public GitHub repositories. Once you register by filling the form you will also get one month subscription to the professional tools to use them during Hacktoberfest!
+- **Swag**: Access to all professional developer tools for 3 months, plus 20% off an annual subscription.
+- **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/#get-the-tools) form and then make four quality pull requests to public GitHub repositories. Once you register by filling out the form, you will get a 3 month subscription to their professional tools to use after Hacktoberfest!
 - **Notes**: You can contact them by sending email to marketing@jetbrains.com and by joining [Discord](https://discord.com/invite/hacktoberfest). You can read more about them [here](https://www.jetbrains.com/lp/hacktoberfest-2020/).
 
 ### 2 or more Merged PRs
