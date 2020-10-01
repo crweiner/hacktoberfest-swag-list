@@ -56,6 +56,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
 
+### G
+
+#### **Globo**
+
+- **Swag**: T-shirt
+- **Requirements**:
+  - Contribute to two pull requests in any Globo Open Source project during the month of October.
+  - Ensure that at least one pull request is merged.
+- **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
+
 ### I
 
 #### **InfraCloud**
@@ -125,6 +136,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
+
+#### **Globo (T-shirt, Brazil only)**
+
+- **Requirements**:
+  - Contribute to two pull requests in any Globo Open Source project during the month of October.
+  - Ensure that at least one pull request is merged.
+- **Swag**: T-shirt
+- **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
+- **Notes**: Only the first 100 people, residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
 
 #### **InfraCloud** (Stickers, T-shirt)
 
