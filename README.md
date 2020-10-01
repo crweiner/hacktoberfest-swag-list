@@ -145,9 +145,6 @@ None right now.
 - **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **Notes**: Check out the [OpenEBS Blog](https://openebs.io/blog).
 
-
-
-
 ### 2 or more PRs
 
 ### The Original - **DigitalOcean, Intel, and Dev** (T-shirt, stickers)
