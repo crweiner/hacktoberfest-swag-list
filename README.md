@@ -65,7 +65,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Contribute to two pull requests in any Globo Open Source project during the month of October.
   - Ensure that at least one pull request is merged.
 - **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
-- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
 
 ### I
 
@@ -121,7 +121,7 @@ None right now.
   - Ensure that at least one pull request is merged.
 - **Swag**: T-shirt
 - **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
-- **Notes**: Only the first 100 people, residing in Brazil will receive the t-shirt.
+- **Notes**: Only the first 100 people, residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
 
 #### **InfraCloud** (Stickers, T-shirt)
 
