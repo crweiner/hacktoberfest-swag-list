@@ -60,9 +60,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Hasura**
 
-- **Swag**: T-shirt, stickers
+- **Swag**: T-shirt, mask, pin
 - **Requirements**:
-  - 1+ merged PR with the label hacktoberfest: T-shirt
+  - 1+ merged PR with the label hacktoberfest: T-shirt/Mask/Pin
   - 1+ merged PR with a small fix, such as typo: Stickers
 - **How to sign up**: Submit a PR to any of the following repositories:
   - [GraphQL Engine](https://github.com/hasura/graphql-engine)
@@ -124,7 +124,7 @@ None right now.
 #### **Hasura** (Stickers, T-shirt)
 
 - **Requirements**:
-  - 1+ merged PR with the label hacktoberfest: T-shirt
+  - 1+ merged PR with the label hacktoberfest: T-shirt/Mask/Pin
   - 1+ merged PR with a small fix, such as typo: Stickers
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Submit a PR to any of the following repositories:
