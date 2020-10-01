@@ -65,7 +65,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Contribute to two pull requests in any Globo Open Source project during the month of October.
   - Ensure that at least one pull request is merged.
 - **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
-- **Notes**: Only the first 100 people, residing in Brazil will receive the t-shirt.
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
 ### I
 
@@ -114,12 +114,12 @@ None right now.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
-#### **Globo**
+#### **Globo (T-shirt, Brazil only)**
 
-- **Swag**: T-shirt
 - **Requirements**:
   - Contribute to two pull requests in any Globo Open Source project during the month of October.
   - Ensure that at least one pull request is merged.
+- **Swag**: T-shirt
 - **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
 - **Notes**: Only the first 100 people, residing in Brazil will receive the t-shirt.
 
