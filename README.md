@@ -156,6 +156,15 @@ None right now.
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
+### 4 or more Merged PRs
+
+#### **Devfolio**
+
+- **Requirements**: 4 or more merged pull requests
+- **Swag**: stickers, t-shirt (limited)
+- **How to sign up**: Contribute to any of the following GitHub repositories: [react-otp-input](https://github.com/devfolioco/react-otp-input), [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto), [scrroll-in](https://github.com/devfolioco/scrroll-in), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter). Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
+- **Notes**: For more info visit [Devfolio's page](https://devfolio.co/blog/devfolio-hacktoberfest-2020/). All eligible contributors will be shipped stickers (including a limited edition Devfolio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt.
+
 ### 5 or more Merged PRs
 
 Nothing yet
