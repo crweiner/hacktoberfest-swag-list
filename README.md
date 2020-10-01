@@ -53,7 +53,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: At least 3 stickers and maybe a T-shirt
 - **Requirements**:
-  - eligible repositories include all repos of the datenanfragen organization and all listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
   - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
   - T-shirts are given to 10 people drawn from the contributors
 - **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [webform](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2020.
@@ -170,7 +170,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Datenanfragen.de e. V.** (Stickers, T-Shirt option)
 
 - **Requirements**:
-  - eligible repositories include all repos of the datenanfragen organization and all listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
   - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
   - T-shirts are given to 10 people drawn from the contributors
 - **Swag**: At least 3 stickers and maybe a T-shirt
