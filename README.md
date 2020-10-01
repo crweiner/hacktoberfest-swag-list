@@ -102,7 +102,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Vonage/Nexmo** ($5 Open Collective Gift Card or Bamboo Vonage Socks)
 
-- **Requirements**: Make one valid contribution to one of the Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
+- **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
 - **Swag**: $5 Open Collective Gift Card or a pair of Bamboo Vonage Socks
 - **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
 - **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
