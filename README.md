@@ -186,6 +186,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3AOperationCode+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
+### S
+
+#### **Sensenet**
+
+- **Swag**: Sensenet special edition socks (limit 60), 10% discount code for their [business plan](https://sensenet.com/pricing).
+- **Requirements**:
+  - 1+ merged PR
+- **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
+- **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
+
 ### V
 
 #### **Vonage/Nexmo**
@@ -303,6 +313,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make one PR or more on any Check's open source services. After the PR(s) gets merged we will reach out to you to get shipping information.
 - **Issues**: [Check issues](https://github.com/meedan/check/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **Notes**: Check out [Meedan's Hacktoberfest page](https://meedan.com/hacktoberfest) for more information.
+
+#### **Sensenet**
+
+- **Requirements**:
+  - 1+ merged PR
+- **Swag**: Sensenet special edition socks (limit 60), 10% discount code for their [business plan](https://sensenet.com/pricing).
+- **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
+- **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
 
 ### 2 or more PRs
 
