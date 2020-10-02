@@ -220,13 +220,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
-#### **Devfolio (T-shirt, stickers)**
-
-- **Requirements**: 4 or more merged pull requests
-- **Swag**: T-shirt (limited to top 50 contributors), stickers
-- **How to sign up**: Contribute to any of the following GitHub repositories: [react-otp-input](https://github.com/devfolioco/react-otp-input), [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto), [scrroll-in](https://github.com/devfolioco/scrroll-in), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter). Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
-- **Notes**: For more info visit [Devfolio's Hacktoberfest page](https://devfolio.co/blog/devfolio-hacktoberfest-2020). Only eligible contributors residing in India will be shipped stickers (including a limited edition Devfolio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
-
 #### **lakeFS** (T-shirt)
 
 - **Requirements**: 2 or more merged pull requests
@@ -247,6 +240,13 @@ Nothing yet
 - **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
+
+#### **Devfolio (T-shirt, stickers)**
+
+- **Requirements**: 4 or more merged pull requests
+- **Swag**: T-shirt (limited to top 50 contributors), stickers
+- **How to sign up**: Contribute to any of the following GitHub repositories: [react-otp-input](https://github.com/devfolioco/react-otp-input), [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto), [scrroll-in](https://github.com/devfolioco/scrroll-in), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter). Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
+- **Notes**: For more info visit [Devfolio's Hacktoberfest page](https://devfolio.co/blog/devfolio-hacktoberfest-2020). Only eligible contributors residing in India will be shipped stickers (including a limited edition Devfolio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
 
 #### **DX Heroes** (T-shirt, stickers, notebook, bottle opener)
 
