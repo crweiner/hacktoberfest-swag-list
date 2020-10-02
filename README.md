@@ -77,7 +77,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Datenanfragen.de e. V.**
 
-- **Swag**: At least 3 stickers and maybe a T-shirt
+- **Swag**: At least 3 stickers and maybe a T-shirt.
 - **Requirements**:
   - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
   - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
@@ -95,7 +95,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **DX Heroes**
 
-- **Swag**: T-shirt, stickers, notebook, bottle opener
+- **Swag**: T-shirt, stickers, notebook, bottle opener!!
 - **Requirements**: Be the contributor with the most merged PRs
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
@@ -113,7 +113,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Globo**
 
-- **Swag**: T-shirt
+- **Swag**: T-shirt!
 - **Requirements**:
   - Contribute to two pull requests in any Globo Open Source project during the month of October.
   - Ensure that at least one pull request is merged.
