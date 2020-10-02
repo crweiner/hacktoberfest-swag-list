@@ -186,7 +186,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3AOperationCode+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
-
 ### V
 
 #### **Vonage/Nexmo**
