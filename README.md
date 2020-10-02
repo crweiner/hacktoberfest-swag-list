@@ -47,6 +47,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
+#### **CircleCI**
+
+- **Swag**: T-shirt, stickers and Limited Edition Magic Orb Pin
+- **Requirements**:
+  - 1-3 PRs to receive a sticker pack
+  - 4 PRs to receive stickers and a T-shirt
+  - Develop one new Orb and get all of the stuff plus a Magic Pin
+- **How to sign up**:
+  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
+  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
+- **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -186,6 +199,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
+#### **CircleCI** (Stickers and Magic Pin)
+
+- **Requirements**:
+  - 1-3 PRs to receive a sticker pack
+  - Develop one new Orb and get all of the stuff plus a Magic Pin
+- **Swag**: T-shirt, stickers and Limited Edition Magic Orb Pin
+- **How to sign up**:
+  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
+  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
+- **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
+
 #### **Datenanfragen.de e. V.** (Stickers, T-Shirt option)
 
 - **Requirements**:
@@ -268,6 +293,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
+#### **CircleCI** (T-shirt, stickers and Magic Pin)
+
+- **Requirements**:
+  - 4 PRs to receive stickers and a T-shirt
+  - Develop one new Orb and get all of the stuff plus a Magic Pin
+- **Swag**: T-shirt, stickers and Limited Edition Magic Orb Pin
+- **How to sign up**:
+  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
+  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
+- **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
+
 #### **Devfolio (T-shirt, stickers)**
 
 - **Requirements**: 4 or more merged pull requests
@@ -281,6 +318,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+
 
 #### **Operation Code** (Stickers)
 
