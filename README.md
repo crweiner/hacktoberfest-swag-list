@@ -156,6 +156,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+### K
+
+#### **Kong/kong**
+
+- **Swag**: T-shirt
+- **Requirements**:
+  - If your Pull Request to Kong/kong was accepted, and it fixes a bug, adds functionality, or makes it significantly easier to use or understand Kong, congratulations! You are eligible to receive the very special Contributor T-shirt!
+- **How to sign up**: Fill out the Contributors Submissions [form](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform).
+- **Notes**: Check out the [Details](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt).
+
 ### M
 
 #### **MayaData**
@@ -286,6 +296,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, stickers
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
+
+#### **Kong/kong**
+
+- **Swag**: T-shirt
+- **Requirements**: If your Pull Request to Kong/kong was accepted, and it fixes a bug, adds functionality, or makes it significantly easier to use or understand Kong, congratulations! You are eligible to receive the very special Contributor T-shirt!
+- **How to sign up**: Fill out the Contributors Submissions [form](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform).
+- **Notes**: Check out the [Details](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt).
 
 #### **MayaData** (T-shirt, stickers)
 
