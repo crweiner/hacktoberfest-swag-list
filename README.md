@@ -47,7 +47,31 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
+#### **CircleCI**
+
+- **Swag**: T-shirt, stickers and Limited Edition Magic Orb Pin
+- **Requirements**:
+  - 1-3 PRs to receive a sticker pack
+  - 4 PRs to receive stickers and a T-shirt
+  - Develop one new Orb and get all of the stuff plus a Magic Pin
+- **How to sign up**:
+  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
+  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
+- **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
+
 ### D
+
+#### **Datenanfragen.de e. V.**
+
+- **Swag**: At least 3 stickers and maybe a T-shirt
+- **Requirements**:
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
+  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
+  - T-shirts are given to 10 people drawn from the contributors
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [webform](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2020.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2020/) for more info.
 
 #### **Devfolio**
 
@@ -62,6 +86,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Be the contributor with the most merged PRs
 - **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
 - **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
+
+### E
+
+#### **Earthly**
+
+- **Swag**: Stickers (limit 40)
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completetion we will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
+- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
 
 ### G
 
@@ -124,6 +157,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
 
+### O
+
+#### **Operation Code**
+
+- **Swag**: Stickers and T-shirt.
+- **Requirements**: Resolve 3 issues (for the T-shirt) or merge 2 pull requests (for the stickers) in any one of the Operation Code repositories.
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
+- **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3AOperationCode+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
 ### V
 
 #### **Vonage/Nexmo**
@@ -155,6 +198,36 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
+
+#### **CircleCI** (Stickers and Magic Pin)
+
+- **Requirements**:
+  - 1-3 PRs to receive a sticker pack
+  - Develop one new Orb and get all of the stuff plus a Magic Pin
+- **Swag**: T-shirt, stickers and Limited Edition Magic Orb Pin
+- **How to sign up**:
+  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
+  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
+- **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
+
+#### **Datenanfragen.de e. V.** (Stickers, T-Shirt option)
+
+- **Requirements**:
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
+  - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
+  - T-shirts are given to 10 people drawn from the contributors
+- **Swag**: At least 3 stickers and maybe a T-shirt
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [webform](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2020.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Take a look at [this blog post](https://www.datarequests.org/blog/hacktoberfest-2020/) for more info.
+
+#### **Earthly** (Stickers)
+
+- **Swag**: Stickers (limit 40)
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completetion we will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
+- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details. Reach out to adam@earthly.dev via email to claim your sticker.
 
 #### **Globo (T-shirt, Brazil only)**
 
@@ -220,12 +293,33 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
+#### **CircleCI** (T-shirt, stickers and Magic Pin)
+
+- **Requirements**:
+  - 4 PRs to receive stickers and a T-shirt
+  - Develop one new Orb and get all of the stuff plus a Magic Pin
+- **Swag**: T-shirt, stickers and Limited Edition Magic Orb Pin
+- **How to sign up**:
+  - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
+  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
+- **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
+
 #### **lakeFS** (T-shirt)
 
 - **Requirements**: 2 or more merged pull requests
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+
+#### **Operation Code** (Stickers)
+
+- **Requirements**:
+  - Merge 2+ PRs in any one of the Operation Code repositoris: Stickers
+  - Resolve 3 issues in any one of the Operation Code repositories: T-shirt
+- **Swag**: Stickers and/or T-shirt
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
 ### 5 or more Merged PRs
 
