@@ -122,6 +122,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### I
 
+#### **Indeed**
+
+- **Swag**: Sweatshirt
+- **Requirements**:
+  - 2+ merged PR: Sweatshirt
+- **How to sign up**: Eligible Indeed repos:
+  - [k8dash](https://github.com/indeedeng/k8dash), [starfish](https://github.com/indeedeng/starfish), [FasterXML/jackson](https://github.com/FasterXML/jackson),
+ [deps.cloud](https://github.com/depscloud/depscloud), [Mariner](https://github.com/indeedeng/mariner)
+  - Create two or more merged PRs and then [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSeUKDE1fdyG3jRBngj0dnAXIEKscO128rrXw3a1BcFwNQ6iHg/viewform) to get your swag. 
+- **Notes**:Shipping only in the US. Check this out [Indeed blog](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/) for more information and help.
+
 #### **InfraCloud**
 
 - **Swag**: T-shirt, stickers, Kindle
@@ -370,6 +381,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
   - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
 - **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
+
+#### **Indeed** (Swearshirt, Shipping US only)
+
+- **Requirements**: 2 or more merged pull requests
+- **Swag**: Sweatshirt
+- **How to sign up**: Eligible Indeed repos:
+  - [k8dash](https://github.com/indeedeng/k8dash), [starfish](https://github.com/indeedeng/starfish), [FasterXML/jackson](https://github.com/FasterXML/jackson),
+ [deps.cloud](https://github.com/depscloud/depscloud), [Mariner](https://github.com/indeedeng/mariner)
+  - Create two or more merged PRs and then [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSeUKDE1fdyG3jRBngj0dnAXIEKscO128rrXw3a1BcFwNQ6iHg/viewform) to get your swag.
+- **Notes**: Check this out [Indeed blog](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/) for more information and help.
 
 #### **lakeFS** (T-shirt)
 
