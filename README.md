@@ -319,18 +319,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
-
 #### **Operation Code** (Stickers)
 
-- **Requirements**: Merge 2 pull requests in any one of the Operation Code repositories.
-- **Swag**: Stickers.
-- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
-- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
-
-#### **Operation Code** (T-shirt)
-
-- **Requirements**: Resolve 3 issues in any one of the Operation Code repositories.
-- **Swag**: T-shirt.
+- **Requirements**:
+  - Merge 2+ PRs in any one of the Operation Code repositoris: Stickers
+  - Resolve 3 issues in any one of the Operation Code repositories: T-shirt
+- **Swag**: Stickers and/or T-shirt
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
