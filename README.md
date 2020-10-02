@@ -32,8 +32,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-Shirt, stickers, WASD Keyboard
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
-  - 1+ PR: Stickers
-  - 3+ PR: T-Shirt
+  - 1+ merged PR: Stickers
+  - 3+ mergedPR: T-Shirt
   - Top contributor Referral: WASD Keyboard.
 - **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
@@ -150,17 +150,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
-#### **Appsmith**
-
-- **Swag**: T-Shirt, stickers, WASD Keyboard
-- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
-  - 1+ PR: Stickers
-  - 3+ PR: T-Shirt
-  - Top contributor Referral: WASD Keyboard.
-- **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
-- **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
-- **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
-
 #### **Vonage/Nexmo** ($5 Open Collective Gift Card or Bamboo Vonage Socks)
 
 - **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
@@ -169,6 +158,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
 
 ### 1 Merged PR
+
+#### **Appsmith** (Stickers)
+
+- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 1+ merged PR: Stickers
+- **Swag**: Stickers
+- **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
+- **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
 
 #### **Appwrite** (Stickers, Magnets, and Buttons)
 
@@ -235,6 +233,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more Merged PRs
 
+### **Appsmith** (T-shirt and stickers)
+
+- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 1+ merged PR: Stickers
+  - 3+ merged PR: T-Shirt
+- **Swag**: T-Shirt, stickers
+- **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
+- **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
+
 #### **CAMUNDA (T-shirt, stickers)**
 
 - **Requirements**: 2 or more merged PRs
@@ -262,13 +270,13 @@ Nothing yet
 
 ### Top Contributors
 
-#### **Appsmith**
+#### **Appsmith** (T-shirt, stickers, and a WSASD Keyboar)
 
-- **Swag**: T-Shirt, stickers, WASD Keyboard
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ PR: Stickers
   - 3+ PR: T-Shirt
   - Top contributor Referral: WASD Keyboard.
+- **Swag**: T-Shirt, stickers, WASD Keyboard
 - **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
 - **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
