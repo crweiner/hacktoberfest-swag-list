@@ -153,6 +153,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
 - **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
 
+### W 
+#### **Webiny**
+- **Swag**:a special Webiny Swag Pack & T-Shirt 
+- **Requirements**:To join Webiny for this hacktoberfest, you have to join our slack community [https://webiny-community.slack.com/join/shared_invite/zt-guwcjc0y-7PUrLCBLvxYFoWm0pdpW4g#/]To get eligible for the Webiny Swag Pack and t-shirt, have 2 [MERGED] PRs .To get your SWAG and Webiny t-shirt register to the Webiny Swag page [https://www.webiny.com/swag/]
+- **How to sign up**: start by searching hacktoberfest within our repositories. Next, submit the pull request. You already have access to resources on contributions in the Get Started with OSS contributions.[https://github.com/webiny/webiny-js/stargazers?utm_source=Dev-to&utm_medium=webiny-github-stargazers&utm_campaign=webiny-hacktoberfest-blog-oct-1&utm_content=webiny-hacktoberfest-2020-stargazers&utm_term=W00098]
+- **Notes**:This is the starting point for joining and contributing to the Webiny community - improving docs, improving code, giving talks, etc.To learn more about the project structure and organization, please refer to the docs on the Getting Started with Webiny here.[http://docs.webiny.com/docs/webiny/introduction/]
+
+
 ---
 
 ## Least Involvement to Most Involvement
