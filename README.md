@@ -171,6 +171,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### M
 
+#### **Mattermost**
+
+- **Swag**: Mug
+- **Requirements**:
+  - 1+ merged PR: Mug
+- **How to sign up**:Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/)  
+If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
+- **Notes**: Check out the [Mattermost Hacktoberfest blog](https://mattermost.com/blog/hacktoberfest-2020/) for more information and read the [contribution guidelines](https://developers.mattermost.com/contribute/getting-started/) about how to contribute.
+
 #### **MayaData**
 
 - **Swag**: T-shirt, stickers, laptop, mechanical keyboard, NVMe Drive,  wireless earbuds
@@ -309,6 +318,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, stickers
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
+
+#### **Mattermost** (Mug)
+
+- **Requirements**:one or more merged PR(s)
+- **Swag**: Mug
+- **How to sign up**:Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/)  
+If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
+- **Notes**: Check out the [Mattermost Hacktoberfest blog](https://mattermost.com/blog/hacktoberfest-2020/) for more information and read the [contribution guidelines](https://developers.mattermost.com/contribute/getting-started/) about how to contribute.
 
 #### **MayaData** (T-shirt, stickers)
 
