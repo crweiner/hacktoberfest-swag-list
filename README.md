@@ -147,7 +147,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Meedan**
 
 - **Swag**: T-shirt, stickers, mask
-- **Requirements**: 1+ merged PR's on any of the services that support the [Check platform](https://github.com/meedan/check)
+- **Requirements**: 1+ merged PRs on any of the services that support the [Check platform](https://github.com/meedan/check)
 - **How to sign up**: Make one PR or more on any Check's open source services. After the PR(s) gets merged we will reach out to you to get shipping information.
 - **Issues**: [Check issues](https://github.com/meedan/check/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **Notes**: Check out [Meedan's Hacktoberfest page](https://meedan.com/hacktoberfest) for more information.
