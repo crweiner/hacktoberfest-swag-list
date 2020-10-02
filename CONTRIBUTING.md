@@ -33,6 +33,7 @@ Find the first letter of your company within the list, then add your information
 
 ```
 #### **Company Name**
+
 - **Swag**: (T-shirt, stickers, etc)
 - **Requirements**: (What do I have to complete? Are there different requirements per swag item? Are the PRs merged or just submitted?)
 - **How to sign up**: (Link to signup page using inline formatting of [text](URL))
@@ -69,6 +70,7 @@ This section of the list will follow a slightly different set of formatting in o
 
 ```
 #### **Company Name** (swag earned at this level)
+
 - **Requirements**: If the company only offers one type of swag, then state the requirements here
   - If they offer multiple levels of swag, then record this particular swag item here as an indented bullet point
 - **Swag**: (T-shirt, stickers, etc)
@@ -91,6 +93,7 @@ _1. For the stickers and a handwritten note only (placed at 1 Merged PR level):_
 
 ```
 #### **Operation Code** (Stickers, handwritten note)
+
 - **Requirements**:
   - Stickers and a handwritten note: Simply get a pull request merged!
 - **Swag**: T-shirt, handwritten note, stickers
@@ -102,6 +105,7 @@ _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
 
 ```
 #### **Operation Code** (T-shirt)
+
 - **Requirements**:
   - T-shirt: Resolve 3 issues.
 - **Swag**: T-shirt, handwritten note, stickers
