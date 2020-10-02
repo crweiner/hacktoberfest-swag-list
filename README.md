@@ -38,7 +38,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
-#### **Aqua Security**
+#### **AquaSecurity**
 
 - **Swag**: T-Shirt, stickers, face mask
 - **Requirements**:
@@ -148,21 +148,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
 
-### S
-
-#### **Sensenet**
-
-- **Swag**: socks, 10% discount code for [business plan](https://sensenet.com/pricing)
-- **Requirements**: Make one or more merged PRs only from [Sensenet Github board](https://github.com/orgs/SenseNet/projects/7).
-  - You need to [register to SNaaS](https://profile.sensenet.com/?redirectToLogin) with your GitHub account and get a free repository 
-  - "star" [sensenet repo on GitHub](https://github.com/SenseNet/sensenet) 
-  - 1+ merged PR
-- **How to sign up**: Make one or more merged PRs only from [Sensenet Github board](https://github.com/orgs/SenseNet/projects/7) and we will email to you to getthe swag.
-  - The first 60 contributors (approved PR) get sensenet special edition socks.
-  - every Hacktoberfest participant gets a 10% discount code for [business plan](https://sensenet.com/pricing) (can be used one time for a monthly or yearly subscription till 31.12.2021.)
-- **Notes**: Check out [Sensenet Hacktoberfest 2020 blog post](https://hacktoberfest.sensenet.com/) for more information and read the [contributing guide](https://github.com/SenseNet/sn-client/blob/develop/apps/sensenet/cypress/CONTRIBUTING.md).
-
-
 ### T
 
 #### **Tripal**
@@ -205,7 +190,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
-#### **Aqua Security** (Stickers, face mask)
+#### **AquaSecurity** (Stickers, face mask)
 
 - **Requirements**:
   - 1+ merged PR: stickers or face mask
@@ -257,19 +242,6 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
 
-#### **Sensenet** (Socks, 10% discount)
-
-- **Requirements**: Make one or more merged PRs only from [Sensenet Github board](https://github.com/orgs/SenseNet/projects/7).
-  - You need to [register to SNaaS](https://profile.sensenet.com/?redirectToLogin) with your GitHub account and get a free repository 
-  - "star" [sensenet repo on GitHub](https://github.com/SenseNet/sensenet) 
-  - 1+ merged PR
-- **Swag**: socks, 10% discount code for [business plan](https://sensenet.com/pricing)
-
-- **How to sign up**: Make one or more merged PRs only from [Sensenet Github board](https://github.com/orgs/SenseNet/projects/7) and we will email to you to getthe swag.
-  - The first 60 contributors (approved PR) get sensenet special edition socks.
-  - every Hacktoberfest participant gets a 10% discount code for [business plan](https://sensenet.com/pricing) (can be used one time for a monthly or yearly subscription till 31.12.2021.)
-- **Notes**: Check out [Sensenet Hacktoberfest 2020 blog post](https://hacktoberfest.sensenet.com/) for more information and read the [contributing guide](https://github.com/SenseNet/sn-client/blob/develop/apps/sensenet/cypress/CONTRIBUTING.md).
-
 ### 2 or more PRs
 
 ### The Original - **DigitalOcean, Intel, and Dev** (T-shirt, stickers)
@@ -311,7 +283,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 ### 3 or more Merged PRs
 
-#### **Aqua Security** (T-shirt, Stickers, face mask)
+#### **AquaSecurity** (T-shirt, Stickers, face mask)
 
 - **Requirements**:
   - 3+ merged PR:  T-shirt, stickers or face mask
@@ -348,7 +320,7 @@ Nothing yet
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
-#### **Aqua Security** (T-shirt, Stickers, face masks, Kubernetes Security Book)
+#### **AquaSecurity** (T-shirt, Stickers, face masks, Kubernetes Security Book)
 
 - **Requirements**:
   - Top 3 Contributors: - [Kubernetes Security Book](https://www.oreilly.com/library/view/kubernetes-security/9781492039075/) signed by [Liz Rice](https://www.lizrice.com/).
