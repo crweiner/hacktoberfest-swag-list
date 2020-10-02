@@ -199,6 +199,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
 
 #### **Switchblade**
+
 - **Swag**: Stickers
 - **Requirements**: 3+ submitted PR's.
 - **How to sign up**: Message a core developer on the [community discord](https://community.switchblade.xyz/) after submitting the Pull Requests.
@@ -397,6 +398,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 3 or more PRs
 
 #### **Switchblade**
+
 - **Swag**: Stickers
 - **Requirements**: 3+ submitted PR's.
 - **How to sign up**: Message a core developer on the [community discord](https://community.switchblade.xyz/) after submitting the Pull Requests.
