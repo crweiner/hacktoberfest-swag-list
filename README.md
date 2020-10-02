@@ -198,6 +198,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
 
+#### **Switchblade**
+- **Swag**: Stickers
+- **Requirements**: 3+ submitted PR's.
+- **How to sign up**: Message a core developer on the [community discord](https://community.switchblade.xyz/) after submitting the Pull Requests.
+- **Issues**: [#hacktoberfest](https://github.com/SwitchbladeBot/switchblade/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Ahacktoberfest)
+- **Notes**: Check [this page](https://github.com/SwitchbladeBot/switchblade/issues/1203) for more information on how to claim the swag.
+
 ### V
 
 #### **Vonage/Nexmo**
@@ -386,6 +393,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Stickers and/or T-shirt
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
+### 3 or more PRs
+
+#### **Switchblade**
+- **Swag**: Stickers
+- **Requirements**: 3+ submitted PR's.
+- **How to sign up**: Message a core developer on the [community discord](https://community.switchblade.xyz/) after submitting the Pull Requests.
+- **Issues**: [#hacktoberfest](https://github.com/SwitchbladeBot/switchblade/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Ahacktoberfest)
+- **Notes**: Check [this page](https://github.com/SwitchbladeBot/switchblade/issues/1203) for more information on how to claim the swag.
 
 ### 5 or more Merged PRs
 
