@@ -393,7 +393,7 @@ Nothing yet
 
 ### Top Contributors
 
-#### **Appsmith** (T-shirt, stickers, and a WSASD Keyboar)
+#### **Appsmith** (T-shirt, stickers, and a WSASD Keyboard)
 
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ PR: Stickers
