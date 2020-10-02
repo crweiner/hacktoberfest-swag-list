@@ -378,7 +378,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
-#### **Operation Code** (Tshirt, Stickers)
+#### **Operation Code** (T-shirt, Stickers)
 
 - **Requirements**:
   - Merge 2+ PRs in any one of the Operation Code repositories: Stickers
