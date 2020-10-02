@@ -19,7 +19,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## Swag List 2020
 
-### The Original - **DigitalOcean, Intel, and Dev**
+### The Original - **DigitalOcean, Intel, and DEV**
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: 4 pull requests in any repository
