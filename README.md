@@ -51,6 +51,30 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
+#### **AquaSecurity**
+
+- **Swag**: T-Shirt, stickers, face mask
+- **Requirements**:
+  - 1+ merged PR: stickers or face mask
+  - 3+ merged PRs: T-shirt plus a choice of stickers or face mask
+  - 5+ merged PRs: T-shirt, stickers, and a face mask
+  - Top 3 Contributors: [Kubernetes Security Book](https://www.oreilly.com/library/view/kubernetes-security/9781492039075/) signed by [Liz Rice](https://www.lizrice.com/).
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u). The projects are:
+  - [kube-bench](https://github.com/aquasecurity/kube-bench)
+  - [Trivy](https://github.com/aquasecurity/Trivy)
+  - [Tracee](https://github.com/aquasecurity/tracee)
+  - [Starboard](https://github.com/aquasecurity/Starboard)
+  - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
+
+#### **ArchivesSpace**
+
+- **Swag**: ArchivesSpace swag bag
+- **Requirements**: Be the contributor with the most merged PRs.
+- **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the bag.
+- **Notes**: Check out [ArchivesSpace Hacktoberfest 2020
+ blog](https://archivesspace.org/archives/6563) for more information.
+
 ### C
 
 #### **CAMUNDA**
@@ -216,6 +240,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
 
+### T
+
+#### **Tripal**
+
+- **Swag**: T-shirt and sticker
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
+PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
+- **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
+- **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
+
 ### V
 
 #### **Vonage/Nexmo**
@@ -256,6 +290,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
+
+#### **AquaSecurity** (Stickers, face mask)
+
+- **Requirements**:
+  - 1+ merged PR: stickers or face mask
+- **Swag**: stickers, face mask
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The .projects are:
+  - [kube-bench](https://github.com/aquasecurity/kube-bench)
+  - [Trivy](https://github.com/aquasecurity/Trivy)
+  - [Tracee](https://github.com/aquasecurity/tracee)
+  - [Starboard](https://github.com/aquasecurity/Starboard)
+  - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
 
 #### **CircleCI** (Stickers and Magic Pin)
 
@@ -350,7 +397,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Check issues](https://github.com/meedan/check/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **Notes**: Check out [Meedan's Hacktoberfest page](https://meedan.com/hacktoberfest) for more information.
 
-#### **Sensenet**
+#### **Sensenet** (Socks and discount code)
 
 - **Requirements**:
   - 1+ merged PR
@@ -385,6 +432,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
 - **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
+
+#### **AquaSecurity** (T-shirt plus stickers or face mask)
+
+- **Requirements**:
+  - 3+ merged PR:  T-shirt, stickers or face mask
+- **Swag**: T-Shirt, stickers, face mask
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The . Projects are:
+  - [kube-bench](https://github.com/aquasecurity/kube-bench)
+  - [Trivy](https://github.com/aquasecurity/Trivy)
+  - [Tracee](https://github.com/aquasecurity/tracee)
+  - [Starboard](https://github.com/aquasecurity/Starboard)
+  - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
 
 #### **CAMUNDA (T-shirt, stickers)**
 
@@ -421,13 +481,32 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
+#### **Tripal** (T-shirt, Sticker)
+
+- **Swag**: T-shirt and sticker
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
+PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
+- **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
+- **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
+
 ### 5 or more Merged PRs
 
-Nothing yet
+#### **AquaSecurity** (T-shirt, stickers and face mask)
+
+- **Requirements**:
+  - 3+ merged PR:  T-shirt, stickers and face mask
+- **Swag**: T-Shirt, stickers, face mask
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The . Projects are:
+  - [kube-bench](https://github.com/aquasecurity/kube-bench)
+  - [Trivy](https://github.com/aquasecurity/Trivy)
+  - [Tracee](https://github.com/aquasecurity/tracee)
+  - [Starboard](https://github.com/aquasecurity/Starboard)
+  - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
 
 ### Top Contributors
 
-#### **Appsmith** (T-shirt, stickers, and a WSASD Keyboar)
+#### **Appsmith** (T-shirt, stickers, and a WSASD Keyboard)
 
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ PR: Stickers
@@ -445,6 +524,26 @@ Nothing yet
 - **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
+
+#### **AquaSecurity** (T-shirt, Stickers, face masks, Kubernetes Security Book)
+
+- **Requirements**:
+  - Top 3 Contributors: - [Kubernetes Security Book](https://www.oreilly.com/library/view/kubernetes-security/9781492039075/) signed by [Liz Rice](https://www.lizrice.com/).
+- **Swag**: T-Shirt, stickers, face mask, book
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The .projects are:
+  - [kube-bench](https://github.com/aquasecurity/kube-bench)
+  - [Trivy](https://github.com/aquasecurity/Trivy)
+  - [Tracee](https://github.com/aquasecurity/tracee)
+  - [Starboard](https://github.com/aquasecurity/Starboard)
+  - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
+
+#### **ArchivesSpace** (ArchivesSpace bag)
+
+- **Requirements**: Be the contributor with the most merged PRs.
+- **Swag**: ArchivesSpace swag bag
+- **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the bag.
+- **Notes**: Check out [ArchivesSpace Hacktoberfest 2020 blog](https://archivesspace.org/archives/6563) for more information and help.
 
 #### **Devfolio (T-shirt, stickers)**
 
