@@ -120,6 +120,24 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
 
+### H
+
+#### **Hasura**
+
+- **Swag**: T-shirt, mask, pin
+- **Requirements**:
+  - 1+ merged PR with the label hacktoberfest: T-shirt/Mask/Pin
+  - 1+ merged PR with a small fix, such as typo: Stickers
+- **How to sign up**: Submit a PR to any of the following repositories:
+  - [GraphQL Engine](https://github.com/hasura/graphql-engine)
+  - [Learn GraphQL](https://github.com/hasura/learn-graphql)
+- **Notes**:
+  - If you have any questions or need help with anything, available options:
+    - Open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions), if the question is not already posted.
+    - #contrib channel on [Discord server](http://hasura.io/discord)
+    - [Tweet](https://twitter.com/HasuraHQ)
+  - Guidelines available at: [Guidelines](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row)
+
 ### I
 
 #### **InfraCloud**
@@ -277,6 +295,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Make two PRs to any of Globo's open-source projects – [Globo Home](https://github.com/globocom)
 - **Notes**: Only the first 100 people, residing in Brazil will receive the t-shirt. Read their [Hacktoberfest page here](https://opensource.globo.com/hacktoberfest/)
+
+#### **Hasura** (Stickers, T-shirt)
+
+- **Requirements**:
+  - 1+ merged PR with the label hacktoberfest: T-shirt/Mask/Pin
+  - 1+ merged PR with a small fix, such as typo: Stickers
+- **Swag**: T-shirt, stickers
+- **How to sign up**: Submit a PR to any of the following repositories:
+  - [GraphQL Engine](https://github.com/hasura/graphql-engine)
+  - [Learn GraphQL](https://github.com/hasura/learn-graphql)
+- **Notes**:
+  - If you have any questions or need help with anything, available options:
+    - Open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions) if the question is not already posted.
+    - #contrib channel on [Discord server](http://hasura.io/discord)
+    - [Tweet](https://twitter.com/HasuraHQ)
+  - Guidelines available at: [Guidelines](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row)
 
 #### **InfraCloud** (Stickers, T-shirt)
 
