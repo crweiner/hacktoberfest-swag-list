@@ -251,6 +251,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
 
+####  **Switchblade**
+
+-**Swag** : receive three fancy Switchblade stickers and a "thank you" letter.
+-**Requirements** : Open three valid pull requests on a Switchblade repository and merge the PR
+-**How to sign up** : https://github.com/SwitchbladeBot/switchblade/issues/1203
+
 ### T
 
 #### **Tripal**
