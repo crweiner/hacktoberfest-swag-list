@@ -433,7 +433,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 ### 2 or more Merged PRs
 
-### **Appsmith** (T-shirt and stickers)
+#### **Appsmith** (T-shirt and stickers)
 
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ merged PR: Stickers
@@ -499,7 +499,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
 
-#### **Webiny**
+#### **Webiny** (Special Webiny Swag Pack, T-Shirt)
 
 - **Swag**: Special Webiny Swag Pack and T-Shirt 
 - **Requirements**: Make four successful pull requests in October 2020 to any open source project and Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
