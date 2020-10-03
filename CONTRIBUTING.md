@@ -31,7 +31,7 @@ If you are adding a new company, be sure to add your company in two places:
 
 Find the first letter of your company within the list, then add your information in the correct alphabetical order by using the following Markdown formatting:
 
-```
+```markdown
 #### **Company Name**
 
 - **Swag**: (T-shirt, stickers, etc)
@@ -43,7 +43,7 @@ Find the first letter of your company within the list, then add your information
 
  If you don't see a letter heading for your company, please add it! Use the Markdown formatting to do so:
 
-```
+```markdown
 ### A
 ```
 
@@ -60,7 +60,7 @@ Also add your company information to the correct section for this list. So far, 
 
 If your involvement requirements are a bit different or do not fit into this scale, feel free to create another level in the scale! Use the same Markdown formatting as a letter heading:
 
-```
+```markdown
 ### Another Involvement Level
 ```
 
@@ -68,7 +68,7 @@ Depending on your involvement requirements, place your company within the approp
 
 This section of the list will follow a slightly different set of formatting in order to make the requirements more prominent:
 
-```
+```markdown
 #### **Company Name** (swag earned at this level)
 
 - **Requirements**: If the company only offers one type of swag, then state the requirements here
@@ -91,7 +91,7 @@ For each piece of swag, a separate entry was added at the appropriate involvemen
 
 _1. For the stickers and a handwritten note only (placed at 1 Merged PR level):_
 
-```
+```markdown
 #### **Operation Code** (Stickers, handwritten note)
 
 - **Requirements**:
@@ -103,7 +103,7 @@ _1. For the stickers and a handwritten note only (placed at 1 Merged PR level):_
 
 _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
 
-```
+```markdown
 #### **Operation Code** (T-shirt)
 
 - **Requirements**:
@@ -125,7 +125,7 @@ Did you help contribute to the Hacktoberfest Swag list? Add your name to the lis
 
 Contribution formatting will follow these guidelines in Markdown.
 
-```
+```markdown
 - [Bob Smith](https://github.com/bobsmith)
 ```
 
@@ -143,7 +143,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Lorenz Sieben](https://github.com/zner0L)
 - [Panagiotis Vasilopoulos](https://github.com/panos)
 - [Rohit Mathew](https://github.com/rohitjmathew)
-
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
