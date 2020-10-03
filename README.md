@@ -217,11 +217,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag** : Hoodie, bag, sticker, wireless charging
 - **Requirements** :
-  -2+ Merged PR : Hoodie, wireless charging
-  -Top contributing : Bag, sticker
+  - 2+ Merged PR : Hoodie, wireless charging
+  - Top contributing : Bag, sticker
 - **How to Sign Up** : Make 1 or 2 PR, register and fill this link[https://hacktoberfest.digitalocean.com/] and make a PR in [ramadh-an repository] (https://github.com/ramadh-an) and we will send you a link.
--**Issues**: Any open source issues that may not be perceived as a conflict of interest, but don't be trivial, try to describe the issue to your best.
--**Notes**: You can contact me and try contribute and check [contribute.md] or [guide.txt] in my repo (https://github.com/ramadh-an).
+- **Issues**: Any open source issues that may not be perceived as a conflict of interest, but don't be trivial, try to describe the issue to your best.
+- **Notes**: You can contact me and try contribute and check [contribute.md] or [guide.txt] in my repo (https://github.com/ramadh-an).
 
 ### M
 
