@@ -278,6 +278,16 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
 - **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
 
+### W
+
+#### **Webiny**
+
+- **Swag**: Special Webiny Swag Pack and T-Shirt
+- **Requirements**: Make four successful pull requests in October 2020 to any open source project and Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
+- **How to sign up**: Join the [community](https://webiny.com/slack), and register [here](https://www.webiny.com/swag)
+- **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
+- **Notes**: Check out the [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md), read the [blog post](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4), and join the [slack channel](https://webiny.com/slack) for help and discussions.
+
 ---
 
 ## Least Involvement to Most Involvement
@@ -455,7 +465,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 ### 2 or more Merged PRs
 
-### **Appsmith** (T-shirt and stickers)
+#### **Appsmith** (T-shirt and stickers)
 
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ merged PR: Stickers
@@ -527,6 +537,14 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Swag**: T-shirt and sticker
 - **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
+
+#### **Webiny** (Special Webiny Swag Pack, T-Shirt)
+
+- **Requirements**: Make four successful pull requests in October 2020 to any open source project and Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
+- **Swag**: Special Webiny Swag Pack and T-Shirt
+- **How to sign up**: Join the [community](https://webiny.com/slack), and register [here](https://www.webiny.com/swag)
+- **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
+- **Notes**: Check out the [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md), read the [blog post](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4) and join the [slack channel](https://webiny.com/slack) for help and discussions.
 
 ### 5 or more Merged PRs
 

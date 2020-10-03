@@ -143,6 +143,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Lorenz Sieben](https://github.com/zner0L)
 - [Panagiotis Vasilopoulos](https://github.com/panos)
 - [Rohit Mathew](https://github.com/rohitjmathew)
+- [Aditya Vats](https://github.com/avats-dev)
 - [Pedro Fracassi](https://github.com/pedrofracassi)
 - [The HungryCoder](github.com/thehungrycoder)
 
