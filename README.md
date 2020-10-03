@@ -642,7 +642,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
 
-#### **InfraCloud** (T-shirt, stickers, Kindle)
+#### **Parabeac-Core** (T-shirt)
 
 - **Requirements**:Be among the top 100 contributors for the month.
 - **Swag**: T-shirt
