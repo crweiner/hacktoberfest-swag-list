@@ -89,10 +89,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Webiny**
 
-- **Swag**: Special Webiny Swag Pack (T-Shirt)
-- **Requirements**: Make four successful pull requests in October 2020 to any open source project and at least one pull request to [Webiny](https://github.com/webiny/webiny-js)
-- **How to sign up**: Make a PR on the [Webiny-js Repo](https://github.com/webiny/webiny-js).
-- **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest)
+- **Swag**: Special Webiny Swag Pack and T-Shirt 
+- **Requirements**: Make four successful pull requests in October 2020 to any open source project and Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
+- **How to sign up**: Join the [community](https://webiny.com/slack), and register [here](https://www.webiny.com/swag)
+- **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
 - **Notes**: Check out our [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md) and join our [slack channel](https://webiny.com/slack) for help and discussions.
 
 ---
@@ -158,6 +158,14 @@ None right now.
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+
+#### **Webiny**
+
+- **Swag**: Special Webiny Swag Pack and T-Shirt 
+- **Requirements**: Make four successful pull requests in October 2020 to any open source project and Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
+- **How to sign up**: Join the [community](https://webiny.com/slack), and register [here](https://www.webiny.com/swag)
+- **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
+- **Notes**: Check out our [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md) and join our [slack channel](https://webiny.com/slack) for help and discussions.
 
 ### 5 or more Merged PRs
 
