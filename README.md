@@ -25,6 +25,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: 4 pull requests in any repository
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
+- **DO's**:Follow a repository's contribution guidelines. Almost every repo looking for help has a CONTRIBUTING.md file in it, read it first!    
+-**Don't**: open pull requests with minor text edits on other people's repositories
 
 ## A to Z Order of Companies
 
