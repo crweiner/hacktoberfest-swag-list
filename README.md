@@ -56,9 +56,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, stickers, face mask
 - **Requirements**:
   - 1+ merged PR: stickers or face mask
-  - 3+ merged PR: T-shirt, stickers or face mask
+  - 3+ merged PRs: T-shirt plus a choice of stickers or face mask
+  - 5+ merged PRs: T-shirt, stickers, and a face mask
   - Top 3 Contributors: [Kubernetes Security Book](https://www.oreilly.com/library/view/kubernetes-security/9781492039075/) signed by [Liz Rice](https://www.lizrice.com/).
-- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u) to get swags.projects are:
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u). The projects are:
   - [kube-bench](https://github.com/aquasecurity/kube-bench)
   - [Trivy](https://github.com/aquasecurity/Trivy)
   - [Tracee](https://github.com/aquasecurity/tracee)
@@ -66,15 +67,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
 
-
 #### **ArchivesSpace**
 
 - **Swag**: ArchivesSpace swag bag
 - **Requirements**: Be the contributor with the most merged PRs.
-- **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the swag.
+- **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the bag.
 - **Notes**: Check out [ArchivesSpace Hacktoberfest 2020
- blog](https://archivesspace.org/archives/6563) for more information. For your doubts e-mail at ArchivesSpaceHome@lyrasis.org .
- 
+ blog](https://archivesspace.org/archives/6563) for more information.
+
 ### C
 
 #### **CAMUNDA**
@@ -228,7 +228,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: T-shirt and sticker
 - **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
-PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards. 
+PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
 - **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
 
@@ -278,7 +278,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**:
   - 1+ merged PR: stickers or face mask
 - **Swag**: stickers, face mask
-- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u) to get swags.projects are:
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The .projects are:
   - [kube-bench](https://github.com/aquasecurity/kube-bench)
   - [Trivy](https://github.com/aquasecurity/Trivy)
   - [Tracee](https://github.com/aquasecurity/tracee)
@@ -315,7 +315,6 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
 - **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completion we will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
 - **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details. Reach out to adam@earthly.dev via email to claim your sticker.
-
 
 #### **Globo (T-shirt, Brazil only)**
 
@@ -364,7 +363,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Issues**: [Check issues](https://github.com/meedan/check/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **Notes**: Check out [Meedan's Hacktoberfest page](https://meedan.com/hacktoberfest) for more information.
 
-#### **Sensenet**
+#### **Sensenet** (Socks and discount code)
 
 - **Requirements**:
   - 1+ merged PR
@@ -400,6 +399,19 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
 - **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
 
+#### **AquaSecurity** (T-shirt plus stickers or face mask)
+
+- **Requirements**:
+  - 3+ merged PR:  T-shirt, stickers or face mask
+- **Swag**: T-Shirt, stickers, face mask
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The . Projects are:
+  - [kube-bench](https://github.com/aquasecurity/kube-bench)
+  - [Trivy](https://github.com/aquasecurity/Trivy)
+  - [Tracee](https://github.com/aquasecurity/tracee)
+  - [Starboard](https://github.com/aquasecurity/Starboard)
+  - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
+- **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
+
 #### **CAMUNDA (T-shirt, stickers)**
 
 - **Requirements**: 2 or more merged PRs
@@ -426,15 +438,31 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
-
-### 3 or more Merged PRs
-
-#### **AquaSecurity** (T-shirt, Stickers, face mask)
+#### **Operation Code** (Stickers)
 
 - **Requirements**:
-  - 3+ merged PR:  T-shirt, stickers or face mask
+  - Merge 2+ PRs in any one of the Operation Code repositories: Stickers
+  - Resolve 3 issues in any one of the Operation Code repositories: T-shirt
+- **Swag**: Stickers and/or T-shirt
+- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
+- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
+
+#### **Tripal** (T-shirt, Sticker)
+
+- **Swag**: T-shirt and sticker
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
+PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
+- **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
+- **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
+
+### 5 or more Merged PRs
+
+#### **AquaSecurity** (T-shirt, stickers and face mask)
+
+- **Requirements**:
+  - 3+ merged PR:  T-shirt, stickers and face mask
 - **Swag**: T-Shirt, stickers, face mask
-- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u) to get swags. Projects are:
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The . Projects are:
   - [kube-bench](https://github.com/aquasecurity/kube-bench)
   - [Trivy](https://github.com/aquasecurity/Trivy)
   - [Tracee](https://github.com/aquasecurity/tracee)
@@ -442,33 +470,9 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
   - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
 
-### 4 or more Merged PRs
-
-#### **Tripal** (T-shirt, Sticker)
-
-- **Swag**: T-shirt and sticker
-- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
-PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards. 
-- **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
-- **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
-
-#### **Operation Code** (Stickers)
-
-- **Requirements**:
-  - Merge 2+ PRs in any one of the Operation Code repositoris: Stickers
-  - Resolve 3 issues in any one of the Operation Code repositories: T-shirt
-- **Swag**: Stickers and/or T-shirt
-- **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
-- **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
-
-
-### 5 or more Merged PRs
-
-Nothing yet
-
 ### Top Contributors
 
-#### **Appsmith** (T-shirt, stickers, and a WSASD Keyboar)
+#### **Appsmith** (T-shirt, stickers, and a WSASD Keyboard)
 
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ PR: Stickers
@@ -491,9 +495,8 @@ Nothing yet
 
 - **Requirements**:
   - Top 3 Contributors: - [Kubernetes Security Book](https://www.oreilly.com/library/view/kubernetes-security/9781492039075/) signed by [Liz Rice](https://www.lizrice.com/).
-                        - T-shirt, Stickers or face mask
-- **Swag**: T-Shirt, stickers, face mask
-- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u) to get swags.projects are:
+- **Swag**: T-Shirt, stickers, face mask, book
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The .projects are:
   - [kube-bench](https://github.com/aquasecurity/kube-bench)
   - [Trivy](https://github.com/aquasecurity/Trivy)
   - [Tracee](https://github.com/aquasecurity/tracee)
@@ -501,13 +504,12 @@ Nothing yet
   - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
 
-#### **ArchivesSpace**(ArchivesSpace bag)
+#### **ArchivesSpace** (ArchivesSpace bag)
 
 - **Requirements**: Be the contributor with the most merged PRs.
 - **Swag**: ArchivesSpace swag bag
-- **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the swag.
-- **Notes**: Check out [ArchivesSpace Hacktoberfest 2020
- blog](https://archivesspace.org/archives/6563) for more information and help.For your doubts e-mail at ArchivesSpaceHome@lyrasis.org .
+- **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the bag.
+- **Notes**: Check out [ArchivesSpace Hacktoberfest 2020 blog](https://archivesspace.org/archives/6563) for more information and help.
 
 #### **Devfolio (T-shirt, stickers)**
 
@@ -515,7 +517,6 @@ Nothing yet
 - **Swag**: T-shirt (limited to top 50 contributors), stickers
 - **How to sign up**: Contribute to any of the following GitHub repositories: [react-otp-input](https://github.com/devfolioco/react-otp-input), [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto), [scrroll-in](https://github.com/devfolioco/scrroll-in), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter). Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
 - **Notes**: For more info visit [Devfolio's Hacktoberfest page](https://devfolio.co/blog/devfolio-hacktoberfest-2020). Only eligible contributors residing in India will be shipped stickers (including a limited edition Devfolio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
-
 
 #### **DX Heroes** (T-shirt, stickers, notebook, bottle opener)
 
