@@ -254,7 +254,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Switchblade**
 
 - **Swag**: Stickers
-- **Requirements**: 3+ submitted PR's.
+- **Requirements**: 3+ valid submitted PR's.
 - **How to sign up**: Message a core developer on the [community discord](https://community.switchblade.xyz/) after submitting the Pull Requests.
 - **Issues**: [#hacktoberfest](https://github.com/SwitchbladeBot/switchblade/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Ahacktoberfest)
 - **Notes**: Check [this page](https://github.com/SwitchbladeBot/switchblade/issues/1203) for more information on how to claim the swag.
@@ -268,7 +268,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
 - **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
-
 
 ### V
 
@@ -514,24 +513,21 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
-### 3 or more PRs
+#### **Switchblade** (Stickers)
 
-#### **Switchblade**
-
+- **Requirements**: 3+ valid submitted PR's.
 - **Swag**: Stickers
-- **Requirements**: 3+ submitted PR's.
 - **How to sign up**: Message a core developer on the [community discord](https://community.switchblade.xyz/) after submitting the Pull Requests.
 - **Issues**: [#hacktoberfest](https://github.com/SwitchbladeBot/switchblade/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Ahacktoberfest)
 - **Notes**: Check [this page](https://github.com/SwitchbladeBot/switchblade/issues/1203) for more information on how to claim the swag.
 
 #### **Tripal** (T-shirt, Sticker)
 
-- **Swag**: T-shirt and sticker
 - **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
 PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
+- **Swag**: T-shirt and sticker
 - **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
-
 
 ### 5 or more Merged PRs
 
