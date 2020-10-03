@@ -644,9 +644,9 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 #### **Parabeac-Core** (T-shirt)
 
-- **Requirements**:Be among the top 100 contributors for the month.
+- **Requirements**:Be among the top 100 contributors for the month on [Parabeac-Core](https://github.com/Parabeac/Parabeac-Core).
 - **Swag**: T-shirt
-- **How to sign up**: You'll be contacted if you're among the top 100 for the month on [Parabeac-Core](https://github.com/Parabeac/Parabeac-Core).
+- **How to sign up**: You'll be contacted if you're among the top 100 for the month.
 - **Notes**: Check their [official post](https://dev.to/parabeac/hacktoberfest-parabeac-open-source-design-to-flutter-code-1jg0) to learn more.
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
