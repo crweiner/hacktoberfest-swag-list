@@ -407,7 +407,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 ### 2 or more PRs
 
-### The Original - **DigitalOcean, Intel, and Dev** (T-shirt, stickers)
+### The Original - **DigitalOcean, Intel, and DEV** (T-shirt, stickers)
 
 - **Requirements**: 4 pull requests in any repository
 - **Swag**: T-shirt, stickers
