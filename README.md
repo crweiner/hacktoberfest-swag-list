@@ -4,7 +4,7 @@ It's that time of year again! Time to get rewarded for contributing to the Open 
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2020 and how you can get your hands on some free gifts for your time and help.
 
-## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a shirt will not be tolerated
+## Hacktoberfest is about making meaningful contributions to open source projects. **SPAM for the sake of a shirt will not be tolerated**
 
 First, [sign up for Hacktoberfest 2020 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way](https://hacktoberfest.digitalocean.com/details/).
 
