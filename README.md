@@ -22,7 +22,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### The Original - **DigitalOcean, Intel, and DEV**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 4 pull requests in any repository
+- **Requirements**: 4 pull requests in any [eligible](https://hacktoberfest.digitalocean.com/details#values) repository
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
 
@@ -35,7 +35,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, stickers, WASD Keyboard
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ merged PR: Stickers
-  - 3+ mergedPR: T-Shirt
+  - 3+ merged PR: T-Shirt
   - Top contributor Referral: WASD Keyboard.
 - **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
