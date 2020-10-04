@@ -22,9 +22,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### The Original - **DigitalOcean, Intel, and DEV**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 4 pull requests in any [eligible](https://hacktoberfest.digitalocean.com/hacktoberfest-update) [repository](https://github.com/topics/hacktoberfest)
+- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
+- **Notes**: Please see [updates for repo eligibiliy and a statent from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update) For your PR to count it must be:
+  - Submitted in a repo labeled ```hacktoberfest``` AND
+  - Merged, OR
+  - Labelled ```hacktoberfest-accepted```  by a maintainer, OR
+  - Approved
 
 ## A to Z Order of Companies
 
@@ -444,10 +448,14 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 ### The Original - **DigitalOcean, Intel, and DEV** (T-shirt, stickers)
 
-- **Requirements**: 4 pull requests in any repository
+- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **Swag**: T-shirt, stickers
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
+- **Notes**: Please see [updates for repo eligibiliy and a statent from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update) For your PR to count it must be:
+  - Submitted in a repo labeled ```hacktoberfest``` AND
+  - Merged, OR
+  - Labelled ```hacktoberfest-accepted```  by a maintainer, OR
+  - Approved
 
 ### **IBM** (Developer Swag)
 
