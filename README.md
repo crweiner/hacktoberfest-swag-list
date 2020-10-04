@@ -166,6 +166,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - [Tweet](https://twitter.com/HasuraHQ)
   - Guidelines available at: [Guidelines](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row)
 
+#### **HackerEarth**
+
+- **Swag**: T-shirt, Stickers, Badges
+- **Requirements**:
+  - Contribution in one of the related repository: T-shirt/Stickers/Badges
+  - Participate in many coding contests as much as possible. 
+- **How to sign up**: Use this link to participate (https://www.hackerearth.com/signup) 
+- **Notes**:
+  - Provides platform for google coding evemts. 
+  - Participate in Hackathons like JetBrains PyChamps, Hackccelerate2020
+  - Perfect platform to compete in competitive coding. 
+
 ### I
 
 #### **IBM**
