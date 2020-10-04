@@ -245,6 +245,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3AOperationCode+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
+### R
+
+### **Recode Company**
+
+- **Swag**: Hoodie and Backpack.
+- **Requirements**: 
+  - 3 pull request(get Hoodie).
+  - 4 Issues and 1 pull request(get Backpack).
+- **How to sign up**: Just fill and submit your profile [this link](https://hacktoberfest.digitalocean.com/).
+- **Issues**: [hacktoberfest](https://hacktoberfest.digitalocean.com/faq).
+- **Notes**: Register and visit now [official website](https://hacktoberfest.digitalocean.com/) and see the [PR](https://hacktoberfest.digitalocean.com/profile).
+
+
 ### S
 
 #### **Sensenet**
