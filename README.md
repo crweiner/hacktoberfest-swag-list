@@ -35,7 +35,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, stickers, WASD Keyboard
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ merged PR: Stickers
-  - 3+ mergedPR: T-Shirt
+  - 3+ merged PRs: T-Shirt
   - Top contributor Referral: WASD Keyboard.
 - **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
