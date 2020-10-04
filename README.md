@@ -22,9 +22,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### The Original - **DigitalOcean, Intel, and DEV**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 4 pull requests in any repository
+- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
+- **Notes**: Please see [updates for repo eligibiliy and a statent from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update) For your PR to count it must be:
+  - Submitted in a repo labeled ```hacktoberfest``` AND
+  - Merged, OR
+  - Labelled ```hacktoberfest-accepted```  by a maintainer, OR
+  - Approved
 
 ## A to Z Order of Companies
 
@@ -35,7 +39,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-Shirt, stickers, WASD Keyboard
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ merged PR: Stickers
-  - 3+ mergedPR: T-Shirt
+  - 3+ merged PR: T-Shirt
   - Top contributor Referral: WASD Keyboard.
 - **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
@@ -271,6 +275,14 @@ If you contribute to Mattermost and it’s your first time contributing, you’l
 - **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
 
+#### **Switchblade**
+
+- **Swag**: Stickers
+- **Requirements**: 3+ valid submitted PR's.
+- **How to sign up**: Message a core developer on the [community discord](https://community.switchblade.xyz/) after submitting the Pull Requests.
+- **Issues**: [#hacktoberfest](https://github.com/SwitchbladeBot/switchblade/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Ahacktoberfest)
+- **Notes**: Check [this page](https://github.com/SwitchbladeBot/switchblade/issues/1203) for more information on how to claim the swag.
+
 ### T
 
 #### **Tripal**
@@ -300,6 +312,16 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
 - **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
 - **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
+
+### W
+
+#### **Webiny**
+
+- **Swag**: Special Webiny Swag Pack and T-Shirt
+- **Requirements**: Make four successful pull requests in October 2020 to any open source project and Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
+- **How to sign up**: Join the [community](https://webiny.com/slack), and register [here](https://www.webiny.com/swag)
+- **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
+- **Notes**: Check out the [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md), read the [blog post](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4), and join the [slack channel](https://webiny.com/slack) for help and discussions.
 
 ## Least Involvement to Most Involvement
 
@@ -472,10 +494,14 @@ If you contribute to Mattermost and it’s your first time contributing, you’l
 
 ### The Original - **DigitalOcean, Intel, and DEV** (T-shirt, stickers)
 
-- **Requirements**: 4 pull requests in any repository
+- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **Swag**: T-shirt, stickers
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
+- **Notes**: Please see [updates for repo eligibiliy and a statent from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update) For your PR to count it must be:
+  - Submitted in a repo labeled ```hacktoberfest``` AND
+  - Merged, OR
+  - Labelled ```hacktoberfest-accepted```  by a maintainer, OR
+  - Approved
 
 ### **IBM** (Developer Swag)
 
@@ -493,7 +519,7 @@ If you contribute to Mattermost and it’s your first time contributing, you’l
 
 ### 2 or more Merged PRs
 
-### **Appsmith** (T-shirt and stickers)
+#### **Appsmith** (T-shirt and stickers)
 
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ merged PR: Stickers
@@ -561,13 +587,28 @@ If you contribute to Mattermost and it’s your first time contributing, you’l
 - **How to sign up**: Submit your details via [this form](https://docs.google.com/forms/d/e/1FAIpQLSedQDzs_8HXhOC1jU7Ww1HDzBXITMBbE7vk3S8qneShduRgyg/viewform).
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
+#### **Switchblade** (Stickers)
+
+- **Requirements**: 3+ valid submitted PR's.
+- **Swag**: Stickers
+- **How to sign up**: Message a core developer on the [community discord](https://community.switchblade.xyz/) after submitting the Pull Requests.
+- **Issues**: [#hacktoberfest](https://github.com/SwitchbladeBot/switchblade/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3Ahacktoberfest)
+- **Notes**: Check [this page](https://github.com/SwitchbladeBot/switchblade/issues/1203) for more information on how to claim the swag.
+
 #### **Tripal** (T-shirt, Sticker)
 
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8). PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
 - **Swag**: T-shirt and sticker
-- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
-PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
 - **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
+
+#### **Webiny** (Special Webiny Swag Pack, T-Shirt)
+
+- **Requirements**: Make four successful pull requests in October 2020 to any open source project and Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
+- **Swag**: Special Webiny Swag Pack and T-Shirt
+- **How to sign up**: Join the [community](https://webiny.com/slack), and register [here](https://www.webiny.com/swag)
+- **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
+- **Notes**: Check out the [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md), read the [blog post](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4) and join the [slack channel](https://webiny.com/slack) for help and discussions.
 
 ### 5 or more Merged PRs
 
