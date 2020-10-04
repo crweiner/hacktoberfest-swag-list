@@ -281,6 +281,17 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
 
+### U
+
+#### **Uno**
+
+- **Swag**: Udemy Course, T-shirt
+- **Requirements**: 
+  - Star [Uno Platform repo](https://github.com/unoplatform/uno/stargazers)(Optional)
+  - 1+ Merged PR: Udemy Course – Introduction to Uno Platform
+- **How to sign up**: Make a valid contribution [#hacktoberfest issues](https://github.com/unoplatform/uno/issues?q=is%3Aopen+is%3Aissue+sort%3Aupdated-desc+label%3Ahacktoberfest) in Uno repo and fill this [form](https://www.surveymonkey.com/r/FNDG269).
+- **Notes**: You need to enter a draw to receive one of 30 Uno Platform T-shirts. Check out [Uno Hacktoberfest blog post](https://platform.uno/blog/hacktoberfest-2020-contribute-to-uno-to-win-online-courses-and-t-shirts/) for more information and read [contributing guide](https://platform.uno/docs/articles/uno-development/contributing-intro.html) for better understanding.
+
 ### V
 
 #### **Vonage/Nexmo**
@@ -289,8 +300,6 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**: Make one valid contribution to one of the [Vonage](https://github.com/Vonage), [Nexmo](https://github.com/nexmo), [Nexmo Community](https://github.com/nexmo-community), [OpenToc](https://github.com/opentok), or [OpenToc Community](https://github.com/opentok-community) repos.
 - **How to sign up**: Make a valid contribution at any of the above repos and fill this [form](https://airtable.com/shrMXMw6Nwd3Rnjn4).
 - **Notes**: Check out [Vonage Hacktoberfest](https://developer.nexmo.com/hacktoberfest) for more information and updates.
-
----
 
 ## Least Involvement to Most Involvement
 
@@ -449,6 +458,15 @@ If you contribute to Mattermost and it’s your first time contributing, you’l
 - **Swag**: Sensenet special edition socks (limit 60), 10% discount code for their [business plan](https://sensenet.com/pricing).
 - **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
+
+#### **Uno** (Udemy Course, Uno Platform)
+
+- **Requirements**: 
+  - Star [Uno Platform repo](https://github.com/unoplatform/uno/stargazers)(Optional)
+  - 1+ Merged PR: Udemy Course – Introduction to Uno Platform
+- **Swag**: Udemy Course, T-shirt
+- **How to sign up**: Make a valid contribution [#hacktoberfest issues](https://github.com/unoplatform/uno/issues?q=is%3Aopen+is%3Aissue+sort%3Aupdated-desc+label%3Ahacktoberfest) in Uno repo and fill this [form](https://www.surveymonkey.com/r/FNDG269).
+- **Notes**: You need to enter a draw to receive one of 30 Uno Platform T-shirts. Check out [Uno Hacktoberfest blog post](https://platform.uno/blog/hacktoberfest-2020-contribute-to-uno-to-win-online-courses-and-t-shirts/) for more information and read [contributing guide](https://platform.uno/docs/articles/uno-development/contributing-intro.html) for better understanding.
 
 ### 2 or more PRs
 
