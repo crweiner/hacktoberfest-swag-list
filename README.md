@@ -22,7 +22,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### The Original - **DigitalOcean, Intel, and DEV**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 4 pull requests in any [eligible](https://hacktoberfest.digitalocean.com/details#values) repository
+- **Requirements**: 4 pull requests in any [eligible](https://hacktoberfest.digitalocean.com/hacktoberfest-update) [repository](https://github.com/topics/hacktoberfest)
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: All PRs count in all public repositories unless the repo has been marked spam, or the PR is marked as spam or invalid.
 
