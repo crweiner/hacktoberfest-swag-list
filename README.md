@@ -161,12 +161,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - [Learn GraphQL](https://github.com/hasura/learn-graphql)
 - **Notes**:
   - If you have any questions or need help with anything, available options:
-    - Open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions), if the question is not already posted.
-    - #contrib channel on [Discord server](http://hasura.io/discord)
-    - [Tweet](https://twitter.com/HasuraHQ)
+  - Open a [Github Discussion](https://github.com/hasura/graphql-engine/discussions), if the question is not already posted.
+  - #contrib channel on [Discord server](http://hasura.io/discord)
+  - [Tweet](https://twitter.com/HasuraHQ)
   - Guidelines available at: [Guidelines](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row)
 
 ### I
+
+#### **Indeed**
+
+- **Swag**: Sweatshirt
+- **Requirements**: 2+ merged PR
+- **How to sign up**: Eligible Indeed repos:
+  - [k8dash](https://github.com/indeedeng/k8dash), [starfish](https://github.com/indeedeng/starfish), [FasterXML/jackson](https://github.com/FasterXML/jackson),
+ [deps.cloud](https://github.com/depscloud/depscloud), [Mariner](https://github.com/indeedeng/mariner)
+  - Create two or more merged PRs and then [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSeUKDE1fdyG3jRBngj0dnAXIEKscO128rrXw3a1BcFwNQ6iHg/viewform) to get your swag.
+- **Notes**: Shipping only in the US. Check this out [Indeed blog](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/) for more information and help.
 
 #### **IBM**
 
@@ -217,6 +227,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### M
 
+#### **Mattermost**
+
+- **Swag**: Mug
+- **Requirements**: 1+ merged PR
+- **How to sign up**: Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/). If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
+- **Notes**: Check out the [Mattermost Hacktoberfest blog](https://mattermost.com/blog/hacktoberfest-2020/) for more information and read the [contribution guidelines](https://developers.mattermost.com/contribute/getting-started/) about how to contribute.
+
 #### **MayaData**
 
 - **Swag**: T-shirt, stickers, laptop, mechanical keyboard, NVMe Drive,  wireless earbuds
@@ -250,10 +267,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Sensenet**
 
 - **Swag**: Sensenet special edition socks (limit 60), 10% discount code for their [business plan](https://sensenet.com/pricing).
-- **Requirements**:
-  - 1+ merged PR
+- **Requirements** - 1+ merged PR
 - **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
+
+#### **Specflow**
+
+- **Swag**: Stickers
+- **Requirements**: 1+ merged PR
+- **How to sign up**: 1+ Merged PR to any [Specflow repo](https://github.com/SpecFlowOSS/SpecFlow/) and then [fill up this form](https://specflow.org/contributer-package/) to get swag.
+- **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only) , [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs).
+- **Notes**: Check out [Specflow Hacktoberfest 2020 blog](https://specflow.org/blog/hacktoberfest-2020-starts-soon/3) for more information and read [the contributing guide](https://github.com/SpecFlowOSS/SpecFlow/blob/master/CONTRIBUTING.md) on how to contribute.
 
 #### **Switchblade**
 
@@ -272,6 +296,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
 - **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
+
+### U
+
+#### **Uno**
+
+- **Swag**: Udemy Course, T-shirt
+- **Requirements**:
+  - Star [Uno Platform repo](https://github.com/unoplatform/uno/stargazers)(Optional)
+  - 1+ Merged PR: Udemy Course – Introduction to Uno Platform
+- **How to sign up**: Make a valid contribution [#hacktoberfest issues](https://github.com/unoplatform/uno/issues?q=is%3Aopen+is%3Aissue+sort%3Aupdated-desc+label%3Ahacktoberfest) in Uno repo and fill this [form](https://www.surveymonkey.com/r/FNDG269).
+- **Notes**: You need to enter a draw to receive one of 30 Uno Platform T-shirts. Check out [Uno Hacktoberfest blog post](https://platform.uno/blog/hacktoberfest-2020-contribute-to-uno-to-win-online-courses-and-t-shirts/) for more information and read [contributing guide](https://platform.uno/docs/articles/uno-development/contributing-intro.html) for better understanding.
 
 ### V
 
@@ -419,6 +454,13 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
 - **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
+#### **Mattermost** (Mug)
+
+- **Requirements**:one or more merged PR(s)
+- **Swag**: Mug
+- **How to sign up**:Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/). If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
+- **Notes**: Check out the [Mattermost Hacktoberfest blog](https://mattermost.com/blog/hacktoberfest-2020/) for more information and read the [contribution guidelines](https://developers.mattermost.com/contribute/getting-started/) about how to contribute.
+
 #### **MayaData** (T-shirt, stickers)
 
 - **Requirements**:
@@ -443,6 +485,23 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Swag**: Sensenet special edition socks (limit 60), 10% discount code for their [business plan](https://sensenet.com/pricing).
 - **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
+
+#### **Specflow** (Stickers)
+
+- **Requirements**: 1+ merged PR
+- **Swag**: Stickers
+- **How to sign up**: 1+ Merged PR to any [Specflow repo](https://github.com/SpecFlowOSS/SpecFlow/) and then [fill up this form](https://specflow.org/contributer-package/) to get swag.
+- **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only) , [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs).
+- **Notes**: Check out [Specflow Hacktoberfest 2020 blog](https://specflow.org/blog/hacktoberfest-2020-starts-soon/3) for more information and read [the contributing guide](https://github.com/SpecFlowOSS/SpecFlow/blob/master/CONTRIBUTING.md) on how to contribute.
+
+#### **Uno** (Udemy Course, Uno Platform)
+
+- **Requirements**:
+  - Star [Uno Platform repo](https://github.com/unoplatform/uno/stargazers)(Optional)
+  - 1+ Merged PR: Udemy Course – Introduction to Uno Platform
+- **Swag**: Udemy Course, T-shirt
+- **How to sign up**: Make a valid contribution [#hacktoberfest issues](https://github.com/unoplatform/uno/issues?q=is%3Aopen+is%3Aissue+sort%3Aupdated-desc+label%3Ahacktoberfest) in Uno repo and fill this [form](https://www.surveymonkey.com/r/FNDG269).
+- **Notes**: You need to enter a draw to receive one of 30 Uno Platform T-shirts. Check out [Uno Hacktoberfest blog post](https://platform.uno/blog/hacktoberfest-2020-contribute-to-uno-to-win-online-courses-and-t-shirts/) for more information and read [contributing guide](https://platform.uno/docs/articles/uno-development/contributing-intro.html) for better understanding.
 
 ### 2 or more PRs
 
@@ -514,6 +573,16 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
   - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
   - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
 - **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
+
+#### **Indeed** (Swearshirt, Shipping US only)
+
+- **Requirements**: 2 or more merged pull requests
+- **Swag**: Sweatshirt
+- **How to sign up**: Eligible Indeed repos:
+  - [k8dash](https://github.com/indeedeng/k8dash), [starfish](https://github.com/indeedeng/starfish), [FasterXML/jackson](https://github.com/FasterXML/jackson),
+ [deps.cloud](https://github.com/depscloud/depscloud), [Mariner](https://github.com/indeedeng/mariner)
+  - Create two or more merged PRs and then [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSeUKDE1fdyG3jRBngj0dnAXIEKscO128rrXw3a1BcFwNQ6iHg/viewform) to get your swag.
+- **Notes**: Check this out [Indeed blog](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/) for more information and help.
 
 #### **lakeFS** (T-shirt)
 
