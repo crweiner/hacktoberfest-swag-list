@@ -379,7 +379,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**:
   - 1+ merged PR: stickers or face mask
 - **Swag**: stickers, face mask
-- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The .projects are:
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u). The projects are:
   - [kube-bench](https://github.com/aquasecurity/kube-bench)
   - [Trivy](https://github.com/aquasecurity/Trivy)
   - [Tracee](https://github.com/aquasecurity/tracee)
