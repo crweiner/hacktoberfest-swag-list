@@ -458,8 +458,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 - **Requirements**:one or more merged PR(s)
 - **Swag**: Mug
-- **How to sign up**:Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/)  
-If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
+- **How to sign up**:Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/). If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
 - **Notes**: Check out the [Mattermost Hacktoberfest blog](https://mattermost.com/blog/hacktoberfest-2020/) for more information and read the [contribution guidelines](https://developers.mattermost.com/contribute/getting-started/) about how to contribute.
 
 #### **MayaData** (T-shirt, stickers)
