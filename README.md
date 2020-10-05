@@ -171,13 +171,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Indeed**
 
 - **Swag**: Sweatshirt
-- **Requirements**:
-  - 2+ merged PR: Sweatshirt
+- **Requirements**: 2+ merged PR
 - **How to sign up**: Eligible Indeed repos:
   - [k8dash](https://github.com/indeedeng/k8dash), [starfish](https://github.com/indeedeng/starfish), [FasterXML/jackson](https://github.com/FasterXML/jackson),
  [deps.cloud](https://github.com/depscloud/depscloud), [Mariner](https://github.com/indeedeng/mariner)
-  - Create two or more merged PRs and then [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSeUKDE1fdyG3jRBngj0dnAXIEKscO128rrXw3a1BcFwNQ6iHg/viewform) to get your swag. 
-- **Notes**:Shipping only in the US. Check this out [Indeed blog](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/) for more information and help.
+  - Create two or more merged PRs and then [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSeUKDE1fdyG3jRBngj0dnAXIEKscO128rrXw3a1BcFwNQ6iHg/viewform) to get your swag.
+- **Notes**: Shipping only in the US. Check this out [Indeed blog](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/) for more information and help.
 
 #### **IBM**
 
@@ -231,10 +230,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Mattermost**
 
 - **Swag**: Mug
-- **Requirements**:
-  - 1+ merged PR: Mug
-- **How to sign up**:Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/)  
-If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
+- **Requirements**: 1+ merged PR
+- **How to sign up**: Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/). If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
 - **Notes**: Check out the [Mattermost Hacktoberfest blog](https://mattermost.com/blog/hacktoberfest-2020/) for more information and read the [contribution guidelines](https://developers.mattermost.com/contribute/getting-started/) about how to contribute.
 
 #### **MayaData**
@@ -270,8 +267,7 @@ If you contribute to Mattermost and it’s your first time contributing, you’l
 #### **Sensenet**
 
 - **Swag**: Sensenet special edition socks (limit 60), 10% discount code for their [business plan](https://sensenet.com/pricing).
-- **Requirements**:
-  - 1+ merged PR
+- **Requirements** - 1+ merged PR
 - **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
 
@@ -280,7 +276,7 @@ If you contribute to Mattermost and it’s your first time contributing, you’l
 - **Swag**: Stickers
 - **Requirements**: 1+ merged PR
 - **How to sign up**: 1+ Merged PR to any [Specflow repo](https://github.com/SpecFlowOSS/SpecFlow/) and then [fill up this form](https://specflow.org/contributer-package/) to get swag.
-- **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only) , [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs). 
+- **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only) , [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs).
 - **Notes**: Check out [Specflow Hacktoberfest 2020 blog](https://specflow.org/blog/hacktoberfest-2020-starts-soon/3) for more information and read [the contributing guide](https://github.com/SpecFlowOSS/SpecFlow/blob/master/CONTRIBUTING.md) on how to contribute.
 
 #### **Switchblade**
@@ -306,7 +302,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 #### **Uno**
 
 - **Swag**: Udemy Course, T-shirt
-- **Requirements**: 
+- **Requirements**:
   - Star [Uno Platform repo](https://github.com/unoplatform/uno/stargazers)(Optional)
   - 1+ Merged PR: Udemy Course – Introduction to Uno Platform
 - **How to sign up**: Make a valid contribution [#hacktoberfest issues](https://github.com/unoplatform/uno/issues?q=is%3Aopen+is%3Aissue+sort%3Aupdated-desc+label%3Ahacktoberfest) in Uno repo and fill this [form](https://www.surveymonkey.com/r/FNDG269).
@@ -496,12 +492,12 @@ If you contribute to Mattermost and it’s your first time contributing, you’l
 - **Requirements**: 1+ merged PR
 - **Swag**: Stickers
 - **How to sign up**: 1+ Merged PR to any [Specflow repo](https://github.com/SpecFlowOSS/SpecFlow/) and then [fill up this form](https://specflow.org/contributer-package/) to get swag.
-- **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only) , [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs). 
+- **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only) , [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs).
 - **Notes**: Check out [Specflow Hacktoberfest 2020 blog](https://specflow.org/blog/hacktoberfest-2020-starts-soon/3) for more information and read [the contributing guide](https://github.com/SpecFlowOSS/SpecFlow/blob/master/CONTRIBUTING.md) on how to contribute.
 
 #### **Uno** (Udemy Course, Uno Platform)
 
-- **Requirements**: 
+- **Requirements**:
   - Star [Uno Platform repo](https://github.com/unoplatform/uno/stargazers)(Optional)
   - 1+ Merged PR: Udemy Course – Introduction to Uno Platform
 - **Swag**: Udemy Course, T-shirt
