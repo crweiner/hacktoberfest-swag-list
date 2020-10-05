@@ -262,6 +262,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3AOperationCode+label%3Ahacktoberfest+type:issue&state=open&type=Issues)
 - **Notes**: Visit their [official post](https://github.com/OperationCode/START_HERE) for more information about how to contribute.
 
+### P
+
+#### **Parabeac-Core**
+
+- **Swag**: T-shirt.
+- **Requirements**: Be among the top 100 contributors on [Parabeac Core](https://github.com/Parabeac/Parabeac-Core).
+- **How to sign up**: You will be contacted if you're among the top 100.
+- **Notes**: Check their [official post](https://dev.to/parabeac/hacktoberfest-parabeac-open-source-design-to-flutter-code-1jg0) to learn more.
+
 ### S
 
 #### **Sensenet**
@@ -709,6 +718,13 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Fill form from the link you will receive once your PR is merged. PR can be from [OpenEBS](https://github.com/openebs/openebs) or [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest).
 - **Issues**: [OpenEBS](https://github.com/openebs/openebs/labels/Hacktoberfest), [LitmusChaos](https://github.com/litmuschaos/litmus/labels/Hacktoberfest)
 - **Notes**: Check out the [MayaData Hacktoberfest blog post](https://blog.mayadata.io/celebrate-hacktoberfest-2020-open-source-with-mayadata).
+
+#### **Parabeac-Core** (T-shirt)
+
+- **Requirements**:Be among the top 100 contributors for the month on [Parabeac-Core](https://github.com/Parabeac/Parabeac-Core).
+- **Swag**: T-shirt
+- **How to sign up**: You'll be contacted if you're among the top 100 for the month.
+- **Notes**: Check their [official post](https://dev.to/parabeac/hacktoberfest-parabeac-open-source-design-to-flutter-code-1jg0) to learn more.
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
