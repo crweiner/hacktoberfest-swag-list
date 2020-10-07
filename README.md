@@ -41,7 +41,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1+ merged PR: Stickers
   - 3+ merged PR: T-Shirt
   - Top contributor Referral: WASD Keyboard.
-- **How to sign up**: Raise a PR and join us on discord. [Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **How to sign up**: Raise a PR and join us on [discord](https://discord.gg/rBTTVJp). [Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
 - **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
 
