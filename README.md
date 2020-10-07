@@ -101,6 +101,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
 - **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
 
+#### **Commerce.js**
+
+- **Swag**: Commerce.js swag bundle
+- **Requirements**: 1 merged PR
+- **How to sign up**: There are many issues with the [#hacktoberfest](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+) tag or view more ways to contribute and fill out the form [here](https://commercejs.com/docs/hacktoberfest/).
+- **Issues**: [Commerce.js](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+)
+- **Notes**: For more details visit our [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -398,6 +406,14 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
   - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
   - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
 - **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
+
+#### **Commerce.js (Swag bundle)**
+
+- **Requirements**: 1 merged PR
+- **Swag**: Commerce.js swag bundle
+- **How to sign up**: There are many issues with the [#hacktoberfest](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+) tag or view more ways to contribute and fill out the form [here](https://commercejs.com/docs/hacktoberfest/).
+- **Issues**: [Commerce.js](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+)
+- **Notes**: For more details visit our [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
 
 #### **Datenanfragen.de e. V.** (Stickers, T-Shirt option)
 
