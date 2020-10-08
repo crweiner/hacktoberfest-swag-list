@@ -665,7 +665,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 ### Top Contributors
 
-#### **Appsmith** (T-shirt, stickers, and a WSASD Keyboard)
+#### **Appsmith** (T-shirt, stickers, and a WASD Keyboard)
 
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ PR: Stickers
