@@ -344,6 +344,8 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
 - **Notes**: Check out the [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md), read the [blog post](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4), and join the [slack channel](https://webiny.com/slack) for help and discussions.
 
+### Z
+
 #### **Zup Innovation**
 
 - **Swag**: T-Shirt
