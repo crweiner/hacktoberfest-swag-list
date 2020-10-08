@@ -346,11 +346,13 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 #### **Zup Innovation**
 
-- **Swag**: T-Shirt (Brazil)
-- **Requirements**: 2 Merged Pull Requests on the [Zup IT Repositories](https://github.com/ZupIT) in October 2020.
-- **How to sign up**: Make two PR on the repos with hacktoberfest issues and we'll send you a link.
-- **Issues**: [Zup IT #hacktoberfest](https://github.com/search?q=org%3AZupIT+label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3AZupIT) or any issue you like to help with.
-- **Notes**: Check the [ZupIT hacktoberfest page](https://insights.zup.com.br/hacktoberfest) for more information and help.
+- **Swag**: T-Shirt
+- **Requirements**: 
+  - Contribute with two or more Pull Requests on the [Zup IT Repositories](https://github.com/ZupIT) in October 2020.
+  - Ensure that at least two Pull Request are accepted.
+- **How to sign up**: Make two PRs to any of [Zup IT Repositories](https://github.com/ZupIT) and we'll send you a link.
+- **Issues**: [Zup IT #hacktoberfest](https://github.com/search?q=org%3AZupIT+label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3AZupIT) or any issue you would like to help with.
+- **Notes**: Only the first 200 people residing in Brazil will receive the T-Shirt. Read the [ZupIT hacktoberfest page](https://insights.zup.com.br/hacktoberfest) for more information and help.
 
 ---
 
@@ -656,13 +658,14 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
 - **Notes**: Check out the [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md), read the [blog post](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4) and join the [slack channel](https://webiny.com/slack) for help and discussions.
 
-#### **Zup Innovation**
+#### **Zup Innovation (T-Shirt)**
 
-- **Requirements**: 2 Merged Pull Requests on the [Zup IT Repositories](https://github.com/ZupIT) in October 2020.
-- **Swag**: T-Shirt (Brazil)
-- **How to sign up**: Make two PR on the repos with hacktoberfest issues and we'll send you a link.
-- **Issues**: [Zup IT #hacktoberfest](https://github.com/search?q=org%3AZupIT+label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3AZupIT) or any issue you like to help with.
-- **Notes**: Check the [ZupIT hacktoberfest page](https://insights.zup.com.br/hacktoberfest) for more information and help.
+- **Requirements**: 
+  - Contribute with two or more Pull Requests on the [Zup IT Repositories](https://github.com/ZupIT) in October 2020.
+  - Ensure that at least two Pull Request are accepted.
+- **How to sign up**: Make two PRs to any of [Zup IT Repositories](https://github.com/ZupIT) and we'll send you a link.
+- **Issues**: [Zup IT #hacktoberfest](https://github.com/search?q=org%3AZupIT+label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3AZupIT) or any issue you would like to help with.
+- **Notes**: Only the first 200 people residing in Brazil will receive the T-Shirt. Read the [ZupIT hacktoberfest page](https://insights.zup.com.br/hacktoberfest) for more information and help.
 
 ### 5 or more Merged PRs
 
