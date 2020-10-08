@@ -285,7 +285,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Sensenet special edition socks (limit 60), 10% discount code for their [business plan](https://sensenet.com/pricing).
 - **Requirements** - 1+ merged PR
-- **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
+- **How to sign up**: Complete the entry challenge by [creating a sensenet content repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's GitHub repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
 
 #### **Specflow**
@@ -508,7 +508,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**:
   - 1+ merged PR
 - **Swag**: Sensenet special edition socks (limit 60), 10% discount code for their [business plan](https://sensenet.com/pricing).
-- **How to sign up**: Complete the entry challenge by [creating a GitHub repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's repository](https://github.com/SenseNet/sensenet).
+- **How to sign up**: Complete the entry challenge by [creating a sensenet content repository](https://profile.sensenet.com/?redirectToLogin) and starring [sensenet's GitHub repository](https://github.com/SenseNet/sensenet).
 - **Notes**: Check out [sensenet's Hacktoberfest page](https://hacktoberfest.sensenet.com/). Pull requests only count if they correspond to an issue found on the [dedicated board](https://github.com/orgs/SenseNet/projects/7).
 
 #### **Specflow** (Stickers)
