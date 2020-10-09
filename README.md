@@ -6,11 +6,10 @@ This repo seeks to document all of the companies giving away swag for Hacktoberf
 
 ## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a shirt will not be tolerated
  
-For more information regarding this click [here](https://hacktoberfest.digitalocean.com/hacktoberfest-update).
-
 First, [sign up for Hacktoberfest 2020 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way](https://hacktoberfest.digitalocean.com/details/).
 
 See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the List!
+For more information regarding this click [here](https://hacktoberfest.digitalocean.com/hacktoberfest-update).
 
 ## Quick Jump To
 
