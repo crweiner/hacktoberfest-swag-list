@@ -349,7 +349,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 #### **Zup Innovation**
 
 - **Swag**: T-Shirt
-- **Requirements**: 
+- **Requirements**:
   - Contribute with two or more Pull Requests on the [Zup IT Repositories](https://github.com/ZupIT) in October 2020.
   - Ensure that at least two Pull Request are accepted.
 - **How to sign up**: Make two PRs to any of [Zup IT Repositories](https://github.com/ZupIT) and we'll send you a link.
@@ -662,7 +662,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 #### **Zup Innovation (T-Shirt)**
 
-- **Requirements**: 
+- **Requirements**:
   - Contribute with two or more Pull Requests on the [Zup IT Repositories](https://github.com/ZupIT) in October 2020.
   - Ensure that at least two Pull Request are accepted.
 - **How to sign up**: Make two PRs to any of [Zup IT Repositories](https://github.com/ZupIT) and we'll send you a link.
