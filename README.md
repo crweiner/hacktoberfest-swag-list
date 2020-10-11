@@ -547,6 +547,21 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Make a valid contribution [#hacktoberfest issues](https://github.com/unoplatform/uno/issues?q=is%3Aopen+is%3Aissue+sort%3Aupdated-desc+label%3Ahacktoberfest) in Uno repo and fill this [form](https://www.surveymonkey.com/r/FNDG269).
 - **Notes**: You need to enter a draw to receive one of 30 Uno Platform T-shirts. Check out [Uno Hacktoberfest blog post](https://platform.uno/blog/hacktoberfest-2020-contribute-to-uno-to-win-online-courses-and-t-shirts/) for more information and read [contributing guide](https://platform.uno/docs/articles/uno-development/contributing-intro.html) for better understanding.
 
+#### **Specflow** (Stickers)
+
+- **Requirements**: 1+ merged PR
+- **Swag**: Stickers
+- **How to sign up**: 1+ Merged PR to any [Specflow repo](https://github.com/SpecFlowOSS/SpecFlow/) and then [fill up this form](https://specflow.org/contributer-package/) to get swag.
+- **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only) , [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs).
+- **Notes**: Check out [Specflow Hacktoberfest 2020 blog](https://specflow.org/blog/hacktoberfest-2020-starts-soon/3) for more information and read [the contributing guide](https://github.com/SpecFlowOSS/SpecFlow/blob/master/CONTRIBUTING.md) on how to contribute.
+
+#### **Platformer**
+
+- **Swag**: Stickers and T-shirt.
+- **Requirements**: Resolve challenges on [Platformer](https://github.com/platformercloud).
+- **How to sign up**: Once you done a challege include your email in a comment.
+- **Notes**: Check their [official tweet](https://twitter.com/platformercloud/status/1314814723800563712) to learn more.
+
 ### 2 or more PRs
 
 ### The Original - **DigitalOcean, Intel, and DEV** (T-shirt, stickers)
