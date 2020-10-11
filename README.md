@@ -279,6 +279,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: You will be contacted if you're among the top 100.
 - **Notes**: Check their [official post](https://dev.to/parabeac/hacktoberfest-parabeac-open-source-design-to-flutter-code-1jg0) to learn more.
 
+#### **Platformer**
+
+- **Swag**: Stickers and T-shirt.
+- **Requirements**: Resolve challenges on [Platformer](https://github.com/platformercloud).
+- **How to sign up**: Once you done a challege include your email in a comment.
+- **Notes**: Check their [official tweet](https://twitter.com/platformercloud/status/1314814723800563712) to learn more.
+
 ### S
 
 #### **Sensenet**
