@@ -110,6 +110,12 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Issues**: [Commerce.js](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+)
 - **Notes**: For more details visit our [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
 
+#### **Crio**
+
+- **Swag**: Crio bag of goodies and T -shirt and upto 50% scholarship .
+- **Requirements**: Top 50 performers
+- **How to sign up**: There are many issues with the [#hacktoberfest](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+) tag or view more ways to contribute and fill out the form [here](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu).
+- **Notes**: For more details visit our [contributing guidelines](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) and dedicated [hacktoberfest page](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) to get involved
 ### D
 
 #### **Datenanfragen.de e. V.**
