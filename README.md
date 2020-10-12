@@ -4,7 +4,7 @@ It's that time of year again! Time to get rewarded for contributing to the Open 
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2020 and how you can get your hands on some free gifts for your time and help.
 
-## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a shirt will not be tolerated
+## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a T-shirt will not be tolerated
 
 First, [sign up for Hacktoberfest 2020 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way](https://hacktoberfest.digitalocean.com/details/).
 
@@ -296,6 +296,13 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **How to sign up**: 1+ Merged PR to any [Specflow repo](https://github.com/SpecFlowOSS/SpecFlow/) and then [fill up this form](https://specflow.org/contributer-package/) to get swag.
 - **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only) , [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs).
 - **Notes**: Check out [Specflow Hacktoberfest 2020 blog](https://specflow.org/blog/hacktoberfest-2020-starts-soon/3) for more information and read [the contributing guide](https://github.com/SpecFlowOSS/SpecFlow/blob/master/CONTRIBUTING.md) on how to contribute.
+
+#### **Stack Builders**
+
+- **Swag**: 9 gift cards
+- **Requirements**: Top contributors.
+- **How to sign up**: Submit PRs to [StackBuilders GitHub](https://github.com/stackbuilders) and [fill up this form](https://docs.google.com/forms/d/e/1FAIpQLSc4QyXBUKf0nGvPdW6RaY2FJnIC45LkUsmoIZgCW6i1Jrliag/viewform). Judges will review PRs and select the PRs depending on project size and relevance in the industry, the complexity of your contribution, the PR number and the quality code.
+- **Notes**: Check [Stackbuilders hacktoberfest blog](https://www.stackbuilders.com/news/join-us-for-our-first-hacktoberfest) for more information. Join [Stackbuilders Discord](https://discord.com/invite/S4QzFe8) to ask your doubts and talk about the event or your progress.
 
 #### **Switchblade**
 
@@ -763,6 +770,13 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Swag**: T-shirt
 - **How to sign up**: You'll be contacted if you're among the top 100 for the month.
 - **Notes**: Check their [official post](https://dev.to/parabeac/hacktoberfest-parabeac-open-source-design-to-flutter-code-1jg0) to learn more.
+
+#### **Stack Builders** (gift cards)
+
+- **Swag**: 9 gift cards
+- **Requirements**: Top contributors
+- **How to sign up**: Submit PRs to [StackBuilders GitHub](https://github.com/stackbuilders) and [fill up this form](https://docs.google.com/forms/d/e/1FAIpQLSc4QyXBUKf0nGvPdW6RaY2FJnIC45LkUsmoIZgCW6i1Jrliag/viewform). Judges will review PRs and select the PRs depending on project size and relevance in the industry, the complexity of your contribution, the PR number and the quality code.
+- **Notes**: Check [Stackbuilders hacktoberfest blog](https://www.stackbuilders.com/news/join-us-for-our-first-hacktoberfest) for more information. Join [Stackbuilders Discord](https://discord.com/invite/S4QzFe8) to ask your doubts and talk about the event or your progress.
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
