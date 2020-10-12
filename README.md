@@ -216,6 +216,15 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **How to sign up**: Please fill out this [Get your Hacktoberfest participant perks from JetBrains](https://www.jetbrains.com/lp/hacktoberfest-2020/#get-the-tools) form and then make four quality pull requests to public GitHub repositories. Once you register by filling out the form, you will get a 3 month subscription to their professional tools to use after Hacktoberfest!
 - **Notes**: You can contact them by sending email to marketing@jetbrains.com and by joining [Discord](https://discord.com/invite/hacktoberfest). You can read more about them [here](https://www.jetbrains.com/lp/hacktoberfest-2020/).
 
+### K
+
+#### **Kong**
+
+- **Swag**: The Kong Contributor t-shirt
+- **Requirements**: 1+ merged PR to [Kong/kong](https://github.com/kong/kong), [Kuma/kuma](https://github.com/Kuma/kuma), or [Kong/insomnia](https://github.com/Kong/insomnia). The merged PR must fix a bug, add functionality, or make it significantly easier to use or understand Kong.
+- **How to sign up**: Please fill out the [Contributors Submissions form](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform) after your PR is accepted.
+- **Notes**: You can see an picture of the t-shirt and read more about the requirements [here](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt).
+
 ### L
 
 #### **lakeFS**
@@ -484,6 +493,13 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Swag**: Stickers
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
 - **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+
+#### **Kong**
+
+- **Requirements**: 1+ merged PR to [Kong/kong](https://github.com/kong/kong), [Kuma/kuma](https://github.com/Kuma/kuma), or [Kong/insomnia](https://github.com/Kong/insomnia). The merged PR must fix a bug, add functionality, or make it significantly easier to use or understand Kong.
+- **Swag**: The Kong Contributor t-shirt
+- **How to sign up**: Please fill out the [Contributors Submissions form](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform) after your PR is accepted.
+- **Notes**: You can see an picture of the t-shirt and read more about the requirements [here](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt).
 
 #### **LoginRadius** (T-shirt, Stickers)
 
