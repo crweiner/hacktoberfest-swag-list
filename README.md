@@ -363,7 +363,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 ### Any - 1 PR
 
-### **IBM** (IBM Badge)
+#### **IBM** (IBM Badge)
 
 - **Requirements**: First valid PR.
 - **Swag**: IBM Open Source Contributor badge.
