@@ -149,7 +149,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Guillaume Falourd](github.com/GuillaumeFalourd)
 - [Sudhanshu Tiwari](github.com/sudhanshutiwari264)
 
-
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
 ![Presented by DigitalOcean, Intel, and Dev.to](img/SponsorsDarkBoxed.svg)
