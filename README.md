@@ -20,12 +20,12 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 ## Swag List 2020
 
-### The Original - **DigitalOcean, Intel, and DEV**
+### **The Original - DigitalOcean, Intel, and DEV**
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: Please see [updates for repo eligibiliy and a statent from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update) For your PR to count it must be:
+- **Notes**: Please see [updates for repo eligibiliy and a statent from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update). For your PR to count it must be:
   - Submitted in a repo labeled ```hacktoberfest``` AND
   - Merged, OR
   - Labelled ```hacktoberfest-accepted```  by a maintainer, OR
@@ -38,21 +38,21 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 #### **Appsmith**
 
 - **Swag**: T-Shirt, stickers, WASD Keyboard
-- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith).
   - 1+ merged PR: Stickers
   - 3+ merged PR: T-Shirt
   - Top contributor Referral: WASD Keyboard.
-- **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **How to sign up**: Raise a PR and join us on discord. [Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
 - **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
 
 #### **Appwrite**
 
-- **Swag**: T-Shirt, stickers, magnets, and buttons
-- **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite)
+- **Swag**: T-Shirt, stickers, magnets, and buttons.
+- **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
   - 1+ merged PR: Stickers, magnets, and buttons
   - Top contributors: Appwrite T-Shirt.
-- **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
+- **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and they'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
@@ -86,7 +86,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: 2 or more merged PRs
-- **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
+- **How to sign up**: Submit two PRs then let them know you’ve completed the challenge by filling out the form on their [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and they will send you an e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
 - **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
 #### **CircleCI**
@@ -98,7 +98,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
   - Develop one new Orb and get all of the stuff plus a Magic Pin
 - **How to sign up**:
   - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
-  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  - Challenge 2: Develop and publish an orb using the [Orb Development Kit](https://circleci.com/docs/2.0/orb-author/#orb-development-kit). Make sure your orb offers value to other developers!
   - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
 - **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
 
@@ -108,7 +108,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Requirements**: 1 merged PR
 - **How to sign up**: There are many issues with the [#hacktoberfest](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+) tag or view more ways to contribute and fill out the form [here](https://commercejs.com/docs/hacktoberfest/).
 - **Issues**: [Commerce.js](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+)
-- **Notes**: For more details visit our [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
+- **Notes**: For more details visit the [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [Hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
 
 #### **Crio** 
 
@@ -123,7 +123,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 - **Swag**: At least 3 stickers and maybe a T-shirt
 - **Requirements**:
-  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
+  - Eligible repositories include most repos of the Datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
   - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
   - T-shirts are given to 10 people drawn from the contributors
 - **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [webform](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2020.
@@ -134,15 +134,20 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 - **Swag**: Stickers, t-shirt (limited to top 50 contributors)
 - **Requirements**: 4+ merged PRs
-- **How to sign up**: Contribute to any of the following GitHub repositories: [react-otp-input](https://github.com/devfolioco/react-otp-input), [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto), [scrroll-in](https://github.com/devfolioco/scrroll-in), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter). Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
+- **How to sign up**: Contribute to any of the following GitHub repositories:
+  - [react-otp-input](https://github.com/devfolioco/react-otp-input)
+  - [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto)
+  - [scrroll-in](https://github.com/devfolioco/scrroll-in)
+  - [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter).
+  - Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
 - **Notes**: For more info visit [Devfolio's Hacktoberfest page](https://devfolio.co/blog/devfolio-hacktoberfest-2020). Only eligible contributors residing in India will be shipped stickers (including a limited edition Devfolio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
 
 #### **DX Heroes**
 
 - **Swag**: T-shirt, stickers, notebook, bottle opener
-- **Requirements**: Be the contributor with the most merged PRs
-- **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
-- **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
+- **Requirements**: Be the contributor with the most merged PRs.
+- **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/o3sBqsjr4sYLQgPh6) first. Then just visit one of the open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
+- **Notes**: If you have any questions or need help with anything, join the [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
 
 ### E
 
@@ -150,8 +155,8 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 - **Swag**: Stickers (limit 40)
 - **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
-- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completion we will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
-- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completion we they reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
+- **Notes**: If you have any questions or need help with anything, join the [Community Gitter Channel]( https://gitter.im/earthly-room/community). They'll will gladly help you. See the [blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
 
 ### G
 
@@ -189,8 +194,11 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Swag**: Sweatshirt
 - **Requirements**: 2+ merged PR
 - **How to sign up**: Eligible Indeed repos:
-  - [k8dash](https://github.com/indeedeng/k8dash), [starfish](https://github.com/indeedeng/starfish), [FasterXML/jackson](https://github.com/FasterXML/jackson),
- [deps.cloud](https://github.com/depscloud/depscloud), [Mariner](https://github.com/indeedeng/mariner)
+  - [k8dash](https://github.com/indeedeng/k8dash)
+  - [starfish](https://github.com/indeedeng/starfish)
+  - [FasterXML/jackson](https://github.com/FasterXML/jackson)
+  - [deps.cloud](https://github.com/depscloud/depscloud)
+  - [Mariner](https://github.com/indeedeng/mariner)
   - Create two or more merged PRs and then [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSeUKDE1fdyG3jRBngj0dnAXIEKscO128rrXw3a1BcFwNQ6iHg/viewform) to get your swag.
 - **Notes**: Shipping only in the US. Check this out [Indeed blog](https://engineering.indeedblog.com/indeed-hacktoberfest-2020/) for more information and help.
 
@@ -211,8 +219,8 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Requirements**:
   - 1+ merged PR: T-shirt and Stickers
   - Top Contributor: Kindle
-- **How to sign up**: Make a PR or more on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube).To deliver the swags, we will reach out to you once PR(s) gets merged.
-- **Notes**:Only the first 50 people will receive the swags.A person with maximum merged PRs will also get a Kindle from our side. Check out InfraCloud [official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+- **How to sign up**: Make a PR or more on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube). To deliver the swags, they will reach out to you once PR(s) gets merged.
+- **Notes**: Only the first 50 people will receive the swags. A person with maximum merged PRs will also get a Kindle. Check out InfraCloud [official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
 
 ### J
 
@@ -231,8 +239,8 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Requirements**:
   - 1+ merged PR: Stickers
   - 2+ merged PRs: Stickers and a lakeFS t-shirt
-- **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
-- **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+- **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and they'll send you a link.
+- **Notes**: Check out the [contributing guide](https://docs.lakefs.io/contributing) and join the [Slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
 #### **LoginRadius**
 
@@ -247,7 +255,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 - **Swag**: Mug
 - **Requirements**: 1+ merged PR
-- **How to sign up**: Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/). If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
+- **How to sign up**: Create one or more PR(s) on [Mattermost featured projects](https://mattermost.com/hacktoberfest/). If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from them!
 - **Notes**: Check out the [Mattermost Hacktoberfest blog](https://mattermost.com/blog/hacktoberfest-2020/) for more information and read the [contribution guidelines](https://developers.mattermost.com/contribute/getting-started/) about how to contribute.
 
 #### **MayaData**
@@ -301,13 +309,13 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Swag**: Stickers
 - **Requirements**: 1+ merged PR
 - **How to sign up**: 1+ Merged PR to any [Specflow repo](https://github.com/SpecFlowOSS/SpecFlow/) and then [fill up this form](https://specflow.org/contributer-package/) to get swag.
-- **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only) , [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs).
+- **Issues**: New to Open source? Look for issues [#first-timers-only](https://github.com/SpecFlowOSS/SpecFlow/labels/first-timers-only), [Up-for-grabs](https://github.com/SpecFlowOSS/SpecFlow/labels/up-for-grabs).
 - **Notes**: Check out [Specflow Hacktoberfest 2020 blog](https://specflow.org/blog/hacktoberfest-2020-starts-soon/3) for more information and read [the contributing guide](https://github.com/SpecFlowOSS/SpecFlow/blob/master/CONTRIBUTING.md) on how to contribute.
 
 #### **Stack Builders**
 
 - **Swag**: 9 gift cards
-- **Requirements**: Top contributors.
+- **Requirements**: Top contributors
 - **How to sign up**: Submit PRs to [StackBuilders GitHub](https://github.com/stackbuilders) and [fill up this form](https://docs.google.com/forms/d/e/1FAIpQLSc4QyXBUKf0nGvPdW6RaY2FJnIC45LkUsmoIZgCW6i1Jrliag/viewform). Judges will review PRs and select the PRs depending on project size and relevance in the industry, the complexity of your contribution, the PR number and the quality code.
 - **Notes**: Check [Stackbuilders hacktoberfest blog](https://www.stackbuilders.com/news/join-us-for-our-first-hacktoberfest) for more information. Join [Stackbuilders Discord](https://discord.com/invite/S4QzFe8) to ask your doubts and talk about the event or your progress.
 
@@ -354,7 +362,9 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 #### **Webiny**
 
 - **Swag**: Special Webiny Swag Pack and T-Shirt
-- **Requirements**: Make four successful pull requests in October 2020 to any open source project and Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
+- **Requirements**:
+  - Make four successful pull requests in October 2020 to any open source project
+  - Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
 - **How to sign up**: Join the [community](https://webiny.com/slack), and register [here](https://www.webiny.com/swag)
 - **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
 - **Notes**: Check out the [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md), read the [blog post](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4), and join the [slack channel](https://webiny.com/slack) for help and discussions.
@@ -367,7 +377,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**:
   - Contribute with two or more Pull Requests on the [Zup IT Repositories](https://github.com/ZupIT) in October 2020.
   - Ensure that at least two Pull Request are accepted.
-- **How to sign up**: Make two PRs to any of [Zup IT Repositories](https://github.com/ZupIT) and we'll send you a link.
+- **How to sign up**: Make two PRs to any of [Zup IT Repositories](https://github.com/ZupIT) and they'll send you a link.
 - **Issues**: [Zup IT #hacktoberfest](https://github.com/search?q=org%3AZupIT+label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3AZupIT) or any issue you would like to help with.
 - **Notes**: Only the first 200 people residing in Brazil will receive the T-Shirt. Read the [ZupIT hacktoberfest page](https://insights.zup.com.br/hacktoberfest) for more information and help.
 
@@ -397,7 +407,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
   - 1+ merged PR: Stickers
 - **Swag**: Stickers
-- **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **How to sign up**: Raise a PR and join them on discord. [Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
 - **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
 
@@ -405,7 +415,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 - **Requirements**: Create one or more merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **Swag**: Stickers, magnets, and buttons
-- **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
+- **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and they'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
@@ -430,22 +440,22 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Swag**: T-shirt, stickers and Limited Edition Magic Orb Pin
 - **How to sign up**:
   - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
-  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  - Challenge 2: Develop and publish an orb using the [Orb Development Kit](https://circleci.com/docs/2.0/orb-author/#orb-development-kit). Make sure your orb offers value to other developers!
   - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
 - **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
 
-#### **Commerce.js (Swag bundle)**
+#### **Commerce.js** (Swag bundle)
 
 - **Requirements**: 1 merged PR
 - **Swag**: Commerce.js swag bundle
 - **How to sign up**: There are many issues with the [#hacktoberfest](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+) tag or view more ways to contribute and fill out the form [here](https://commercejs.com/docs/hacktoberfest/).
 - **Issues**: [Commerce.js](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+)
-- **Notes**: For more details visit our [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
+- **Notes**: For more details visit their [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [Hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
 
 #### **Datenanfragen.de e. V.** (Stickers, T-Shirt option)
 
 - **Requirements**:
-  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
+  - Eligible repositories include most repos of the Datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2020/#repos)
   - 1 merged pull request to get at least 3 stickers (limited to 100 sets)
   - T-shirts are given to 10 people drawn from the contributors
 - **Swag**: At least 3 stickers and maybe a T-shirt
@@ -457,10 +467,10 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 - **Swag**: Stickers (limit 40)
 - **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
-- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completion we will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
-- **Notes**: If you have any questions or need help with anything, join our [Community Gitter Channel]( https://gitter.im/earthly-room/community). We will gladly help you. See our [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details. Reach out to adam@earthly.dev via email to claim your sticker.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completion they will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
+- **Notes**: If you have any questions or need help with anything, join the [Community Gitter Channel]( https://gitter.im/earthly-room/community). They will gladly help you. See the [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details. Reach out to adam@earthly.dev via email to claim your sticker.
 
-#### **Globo (T-shirt, Brazil only)**
+#### **Globo** (T-shirt, Brazil only)
 
 - **Requirements**:
   - Contribute to two pull requests in any Globo Open Source project during the month of October.
@@ -490,27 +500,27 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**: one or more merged PRs on [Fission](https://github.com/fission/fission) or [BotKube](https://github.com/infracloudio/botkube) or both.
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Make a PR or more on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube). To deliver the swags, we will reach out to you once PR(s) gets merged.
-- **Notes**:Only the first 50 people will receive the swags. A person with maximum merged PRs will also get a Kindle from our side. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+- **Notes**:Only the first 50 people will receive the swags. A person with maximum merged PRs will also get a Kindle. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
 
 #### **lakeFS** (collection of stickers)
 
 - **Requirements**: One merged pull request for a collection of stickers
 - **Swag**: Stickers
-- **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
-- **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+- **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and they'll send you a link.
+- **Notes**: Check out the [contributing guide](https://docs.lakefs.io/contributing) and join the [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions.
 
 #### **LoginRadius** (T-shirt, Stickers)
 
 - **Requirements**: Make one successful pull request in October 2020 to any open source [LoginRadius repository](https://github.com/LoginRadius) and earn a T-shirt and Swags!
 - **Swag**: T-Shirt, stickers
 - **How to sign up**: Fill the [form](https://forms.gle/aUYJXoVJVivPgGuM8) and make a successful PR on any of [LoginRadius repository](https://github.com/LoginRadius).
-- **Notes**: Keep in touch from our [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
+- **Notes**: Keep in touch from the [LoginRadius Engineering Blog](https://www.loginradius.com/engineering/page/hacktoberfest2020) site for more updates.
 
 #### **Mattermost** (Mug)
 
-- **Requirements**:one or more merged PR(s)
+- **Requirements**: One or more merged PR(s)
 - **Swag**: Mug
-- **How to sign up**:Create one or more PR(s) on [mattermost featured projects](https://mattermost.com/hacktoberfest/). If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from us!
+- **How to sign up**: Create one or more PR(s) on [Mattermost featured projects](https://mattermost.com/hacktoberfest/). If you contribute to Mattermost and it’s your first time contributing, you’ll also [earn some swag](https://forum.mattermost.org/t/limited-edition-mattermost-mugs/143/6) from them!
 - **Notes**: Check out the [Mattermost Hacktoberfest blog](https://mattermost.com/blog/hacktoberfest-2020/) for more information and read the [contribution guidelines](https://developers.mattermost.com/contribute/getting-started/) about how to contribute.
 
 #### **MayaData** (T-shirt, stickers)
@@ -590,7 +600,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
   - 1+ merged PR: Stickers
   - 3+ merged PR: T-Shirt
 - **Swag**: T-Shirt, stickers
-- **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **How to sign up**: Raise a PR and join them  on discord. [Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
 - **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
 
@@ -599,7 +609,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**:
   - 3+ merged PR:  T-shirt, stickers or face mask
 - **Swag**: T-Shirt, stickers, face mask
-- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The . Projects are:
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u) The projects are:
   - [kube-bench](https://github.com/aquasecurity/kube-bench)
   - [Trivy](https://github.com/aquasecurity/Trivy)
   - [Tracee](https://github.com/aquasecurity/tracee)
@@ -607,12 +617,12 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
   - [Kube-hunter](https://github.com/aquasecurity/kube-hunter)
 - **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
 
-#### **CAMUNDA (T-shirt, stickers)**
+#### **CAMUNDA** (T-shirt, stickers)
 
 - **Requirements**: 2 or more merged PRs
 - **Swag**: T-shirt, stickers
-- **How to sign up**: First you have submit two PRs then let us know you’ve completed the challenge by filling out the form on our [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and we will send you a e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
-- **Notes**: Check out Camunda [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
+- **How to sign up**: You have submit two PRs then let them know you’ve completed the challenge by filling out the form on their [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) and they will send you an e-mail. The repos are: [Camunda BPM](https://github.com/camunda/), [bpmn.io](https://github.com/bpmn-io/), and [Zeebe-io](https://github.com/zeebe-io/).
+- **Notes**: Check out Camunda's [official Hacktoberfest page](https://camunda.com/hacktoberfest2020/) for more info & how to get the T-shirt.
 
 #### **CircleCI** (T-shirt, stickers and Magic Pin)
 
@@ -622,7 +632,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Swag**: T-shirt, stickers and Limited Edition Magic Orb Pin
 - **How to sign up**:
   - Challenge 1: Complete a merged or accepted PR to include orb usage on an existing CircleCI config
-  - Challenge 2: Develop and publish an orb using the Orb Development Kit (COMING SOON). Make sure your orb offers value to other developers!
+  - Challenge 2: Develop and publish an orb using the [Orb Development Kit](https://circleci.com/docs/2.0/orb-author/#orb-development-kit). Make sure your orb offers value to other developers!
   - After you are done with any one of the two challenges use [this](https://circleci-community.typeform.com/to/mErGL0nv) form to enter you PRs.
 - **Notes**: Check out the official website of CircleCI [here](https://hacktoberfest.circleci.com/). PRs must either be merged or tagged with the "Orbtoberfest" label to count.
 
@@ -640,8 +650,8 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 - **Requirements**: 2 or more merged pull requests
 - **Swag**: T-shirt, stickers
-- **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and we'll send you a link.
-- **Notes**: Check out our [contributing guide](https://docs.lakefs.io/contributing) and join our [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+- **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and they'll send you a link.
+- **Notes**: Check out the [contributing guide](https://docs.lakefs.io/contributing) and join the [Slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
 
 #### **Operation Code** (T-shirt, Stickers)
 
@@ -669,18 +679,20 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 #### **Webiny** (Special Webiny Swag Pack, T-Shirt)
 
-- **Requirements**: Make four successful pull requests in October 2020 to any open source project and Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
+- **Requirements**:
+  - Make four successful pull requests in October 2020 to any open source project, and
+  - Make 2 successful pull requests to [Webiny](https://github.com/webiny/webiny-js)
 - **Swag**: Special Webiny Swag Pack and T-Shirt
 - **How to sign up**: Join the [community](https://webiny.com/slack), and register [here](https://www.webiny.com/swag)
 - **Issues**: [#hacktoberfest](https://github.com/search?q=org%3Awebiny+label%3Ahacktoberfest) or [project-board](https://github.com/webiny/webiny-js/projects/12)
 - **Notes**: Check out the [contributing guidelines](https://github.com/webiny/webiny-js/blob/master/docs/CONTRIBUTING.md), read the [blog post](https://dev.to/webiny/webiny-hacktoberfest-2020-49h4) and join the [slack channel](https://webiny.com/slack) for help and discussions.
 
-#### **Zup Innovation (T-Shirt)**
+#### **Zup Innovation** (T-Shirt)
 
 - **Requirements**:
   - Contribute with two or more Pull Requests on the [Zup IT Repositories](https://github.com/ZupIT) in October 2020.
   - Ensure that at least two Pull Request are accepted.
-- **How to sign up**: Make two PRs to any of [Zup IT Repositories](https://github.com/ZupIT) and we'll send you a link.
+- **How to sign up**: Make two PRs to any of [Zup IT Repositories](https://github.com/ZupIT) and they'll send you a link.
 - **Issues**: [Zup IT #hacktoberfest](https://github.com/search?q=org%3AZupIT+label%3Ahacktoberfest+state%3Aopen+type%3Aissue+user%3AZupIT) or any issue you would like to help with.
 - **Notes**: Only the first 200 people residing in Brazil will receive the T-Shirt. Read the [ZupIT hacktoberfest page](https://insights.zup.com.br/hacktoberfest) for more information and help.
 
@@ -691,7 +703,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**:
   - 3+ merged PR:  T-shirt, stickers and face mask
 - **Swag**: T-Shirt, stickers, face mask
-- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The . Projects are:
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u). The projects are:
   - [kube-bench](https://github.com/aquasecurity/kube-bench)
   - [Trivy](https://github.com/aquasecurity/Trivy)
   - [Tracee](https://github.com/aquasecurity/tracee)
@@ -708,7 +720,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
   - 3+ PR: T-Shirt
   - Top contributor Referral: WASD Keyboard.
 - **Swag**: T-Shirt, stickers, WASD Keyboard
-- **How to sign up**: Raise a PR and join us on discord.[Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
+- **How to sign up**: Raise a PR and join them on Discord. [Appsmith Hacktoberfest](https://github.com/appsmithorg/appsmith/discussions/863)
 - **Issues**: [#hacktoberfest](https://github.com/appsmithorg/appsmith/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest) or any issue you like to help with.
 - **Notes**: Join the [Discord community](https://discord.com/invite/rBTTVJp) for more information and help.
 
@@ -716,7 +728,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 - **Requirements**: Be one of the top contributors with merged pull requests on any of [Appwrite repos](https://github.com/appwrite).
 - **Swag**: T-Shirt, Stickers, Magnets, and Buttons
-- **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and we'll send you a link.
+- **How to sign up**: Make a PR on any of [Appwrite GitHub Repos](https://github.com/appwrite) and they'll send you a link.
 - **Issues**: [#hacktoberfest](https://github.com/search?&q=user%3Aappwrite+label%3Ahacktoberfest+type:issue&state=open&type=Issues) or any issue you like to help with.
 - **Notes**: Follow [Appwrite blog](https://medium.com/appwrite-io) and [Discord community](https://appwrite.io/discord) for more information and help.
 
@@ -725,7 +737,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**:
   - Top 3 Contributors: - [Kubernetes Security Book](https://www.oreilly.com/library/view/kubernetes-security/9781492039075/) signed by [Liz Rice](https://www.lizrice.com/).
 - **Swag**: T-Shirt, stickers, face mask, book
-- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The .projects are:
+- **How to sign up**: Create PRs to the following projects by Aqua Security and fill up the [form](https://forms.office.com/Pages/ResponsePage.aspx?id=80wDvGtWykGfJF3ElHSwXoMzxQ44cLZDuLrHx6o4yX1UNklOSjVNOVFCSUtMVkVKR1VEU1haQVpUOS4u)s The projects are:
   - [kube-bench](https://github.com/aquasecurity/kube-bench)
   - [Trivy](https://github.com/aquasecurity/Trivy)
   - [Tracee](https://github.com/aquasecurity/tracee)
@@ -748,25 +760,32 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Notes**: For more details visit our [contributing guidelines](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) and dedicated [hacktoberfest page](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) to get involved.Only eligible contributors residing in India will be shipped stickers (including a limited edition Crio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
 
 #### **Devfolio (T-shirt, stickers)**
+=======
+#### **Devfolio** (T-shirt, stickers, India only)
 
 - **Requirements**: 4 or more merged pull requests
 - **Swag**: T-shirt (limited to top 50 contributors), stickers
-- **How to sign up**: Contribute to any of the following GitHub repositories: [react-otp-input](https://github.com/devfolioco/react-otp-input), [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto), [scrroll-in](https://github.com/devfolioco/scrroll-in), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter). Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
+- **How to sign up**: Contribute to any of the following GitHub repositories:
+  - [react-otp-input](https://github.com/devfolioco/react-otp-input)
+  - [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto)
+  - [scrroll-in](https://github.com/devfolioco/scrroll-in)
+  - [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter).
+  - Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
 - **Notes**: For more info visit [Devfolio's Hacktoberfest page](https://devfolio.co/blog/devfolio-hacktoberfest-2020). Only eligible contributors residing in India will be shipped stickers (including a limited edition Devfolio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
 
 #### **DX Heroes** (T-shirt, stickers, notebook, bottle opener)
 
 - **Requirements**: Be the contributor with the most merged PRs.
 - **Swag**: T-shirt, stickers, notebook, bottle opener
-- **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/76mPo9DoTLXmrHpU6) first. Then just visit one of our open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
-- **Notes**: If you have any questions or need help with anything, join our [Community Slack](https://bit.ly/slack_developer_experience). We will gladly help you. Happy Hacktoberfest 2020!
+- **How to sign up**: Please, fill out this [DX Heroes Hacktoberfest2020 Participant Form](https://forms.gle/76mPo9DoTLXmrHpU6) first. Then just visit one of the open source projects - [DX Knowledge Base](https://github.com/DXHeroes/knowledge-base-content) or [DX Scanner](https://github.com/DXHeroes/dx-scanner), make a pull request and compete with other contributors in the friendly competition to earn your place in the Leaderboard of Contributors.
+- **Notes**: If you have any questions or need help with anything, join the [Community Slack](https://bit.ly/slack_developer_experience). They will gladly help you. Happy Hacktoberfest 2020!
 
 #### **InfraCloud** (T-shirt, stickers, Kindle)
 
-- **Requirements**:Be the top contributor with merged pull requests on [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube).
+- **Requirements**: Be the top contributor with merged pull requests on [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube).
 - **Swag**: T-shirt, stickers, Kindle
 - **How to sign up**: Make the most number of PRs on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube). To deliver the swags, we will reach out to you once PR(s) gets merged.
-- **Notes**: A person with maximum merged PRs will also get a Kindle from our side. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+- **Notes**: A person with maximum merged PRs will also get a Kindle. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
 
 #### **MayaData** (T-shirt, stickers, laptop, mechanical keyboard, NVMe drive, wireless earbuds)
 
