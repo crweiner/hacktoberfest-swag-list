@@ -759,8 +759,6 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Fill out the form [here](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) for participation ! more details will be given by emails !
 - **Notes**: For more details visit our [contributing guidelines](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) and dedicated [hacktoberfest page](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) to get involved.Only eligible contributors residing in India will be shipped stickers (including a limited edition Crio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
 
-#### **Devfolio (T-shirt, stickers)**
-=======
 #### **Devfolio** (T-shirt, stickers, India only)
 
 - **Requirements**: 4 or more merged pull requests
