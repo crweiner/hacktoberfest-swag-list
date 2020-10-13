@@ -325,7 +325,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 #### **Tripal**
 
 - **Swag**: T-shirt and sticker
-- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8). PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8). PRs must be linked to a related issue page (you can create the issue!) and follow Drupal coding standards.
 - **How to sign up**: Make 4 valid contributions at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
 
@@ -664,7 +664,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 #### **Tripal** (T-shirt, Sticker)
 
-- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8). PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8). PRs must be linked to a related issue page (you can create the issue!) and follow Drupal coding standards.
 - **Swag**: T-shirt and sticker
 - **How to sign up**: Make 4 valid contributions at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
