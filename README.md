@@ -110,12 +110,13 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Issues**: [Commerce.js](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+)
 - **Notes**: For more details visit our [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
 
-#### **Crio**
+#### **Crio** 
 
 - **Swag**: Crio bag of goodies and T -shirt and upto 50% scholarship .
 - **Requirements**: Top 50 performers
-- **How to sign up**: There are many issues with the [#hacktoberfest](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+) tag or view more ways to contribute and fill out the form [here](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu).
-- **Notes**: For more details visit our [contributing guidelines](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) and dedicated [hacktoberfest page](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) to get involved
+- **How to sign up**: Fill out the form [here](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) for participation ! more details will be given by emails !
+- **Notes**: For more details visit our [contributing guidelines](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) and dedicated [hacktoberfest page](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) to get involved.Only eligible contributors residing in India will be shipped stickers (including a limited edition Crio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -739,12 +740,20 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the bag.
 - **Notes**: Check out [ArchivesSpace Hacktoberfest 2020 blog](https://archivesspace.org/archives/6563) for more information and help.
 
+#### **Crio** (T-shirts,Crio  bag of goodies,Upto 50% scholarship  )
+
+- **Swag**: Crio bag of goodies and T -shirt and upto 50% scholarship .
+- **Requirements**: Top 50 performers
+- **How to sign up**: Fill out the form [here](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) for participation ! more details will be given by emails !
+- **Notes**: For more details visit our [contributing guidelines](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) and dedicated [hacktoberfest page](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) to get involved
+
+
 #### **Devfolio (T-shirt, stickers)**
 
 - **Requirements**: 4 or more merged pull requests
 - **Swag**: T-shirt (limited to top 50 contributors), stickers
 - **How to sign up**: Contribute to any of the following GitHub repositories: [react-otp-input](https://github.com/devfolioco/react-otp-input), [react-copy-mailto](https://github.com/devfolioco/react-copy-mailto), [scrroll-in](https://github.com/devfolioco/scrroll-in), [devfolio-gatsby-starter](https://github.com/devfolioco/devfolio-gatsby-starter). Fill out the [form](https://forms.gle/cp3EcPWzwyqW8fc68) before November 1st.
-- **Notes**: For more info visit [Devfolio's Hacktoberfest page](https://devfolio.co/blog/devfolio-hacktoberfest-2020). Only eligible contributors residing in India will be shipped stickers (including a limited edition Devfolio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
+- **Notes**: For more info visit [Devfolio's Hacktoberfest page](https://devfolio.co/blog/devfolio-hacktoberfest-2020). Only eligible contributors residing in India will be shipped stickers (including a limited edition Crio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
 
 #### **DX Heroes** (T-shirt, stickers, notebook, bottle opener)
 
