@@ -110,7 +110,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Issues**: [Commerce.js](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+)
 - **Notes**: For more details visit the [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [Hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
 
-#### **Crio** 
+#### **Crio**
 
 - **Swag**: Crio bag of goodies and T -shirt and upto 50% scholarship .
 - **Requirements**: Top 50 performers
@@ -752,7 +752,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the bag.
 - **Notes**: Check out [ArchivesSpace Hacktoberfest 2020 blog](https://archivesspace.org/archives/6563) for more information and help.
 
-#### **Crio** 
+#### **Crio**
 
 - **Swag**: Crio bag of goodies and T -shirt and upto 50% scholarship .
 - **Requirements**: Top 50 performers
