@@ -156,7 +156,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Swag**: Stickers (limit 40)
 - **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
 - **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completion we they reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
-- **Notes**: If you have any questions or need help with anything, join the [Community Gitter Channel]( https://gitter.im/earthly-room/community). They'll will gladly help you. See the [blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
+- **Notes**: If you have any questions or need help with anything, join the [Community Gitter Channel]( https://gitter.im/earthly-room/community). They'll gladly help you. See the [blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
 
 ### G
 
@@ -208,7 +208,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Requirements**:
   - An IBM employee.
   - Complete annual OSPG training/certification (if not completed already).
-  - Submit four (or more) valid pull requests during the month of October. However, you'll be eligble for the badge upon submitting your first PR.
+  - Submit four (or more) valid pull requests during the month of October. However, you'll be eligible for the badge upon submitting your first PR.
 - **How to sign up**: Submit your PR links before October 31, 2020 on [IBM Hacktoberfest internal page](https://w3.ibm.com/developer/hacktoberfest/) (you'll need to be in IBM VPN).
 - **Issues**: Any open source issues that may not be considered as conflict of interest.
 - **Notes**: Only first 250 IBMers are eligible for the developer swag. Refer to [IBM Hacktoberfest internal page](https://w3.ibm.com/developer/hacktoberfest/) (IBM VPN needed) for complete guidelines/requirements.
@@ -332,9 +332,8 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 #### **Tripal**
 
 - **Swag**: T-shirt and sticker
-- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8).
-PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
-- **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8). PRs must be linked to a related issue page (you can create the issue!) and follow Drupal coding standards.
+- **How to sign up**: Make 4 valid contributions at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
 
 ### U
@@ -500,7 +499,7 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Requirements**: one or more merged PRs on [Fission](https://github.com/fission/fission) or [BotKube](https://github.com/infracloudio/botkube) or both.
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Make a PR or more on InfraCloud's open-source projects – [Fission](https://github.com/fission/fission) and [BotKube](https://github.com/infracloudio/botkube). To deliver the swags, we will reach out to you once PR(s) gets merged.
-- **Notes**:Only the first 50 people will receive the swags. A person with maximum merged PRs will also get a Kindle. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
+- **Notes**: Only the first 50 people will receive the swags. A person with maximum merged PRs will also get a Kindle. Check out [InfraCloud official page](https://www.infracloud.io/infracloud-joins-hacktoberfest-2020/) for more info and join [Fission’s Slack](https://join.slack.com/t/fissionio/shared_invite/enQtOTI3NjgyMjE5NzE3LTllODJiODBmYTBiYWUwMWQxZWRhNDhiZDMyN2EyNjAzMTFiYjE2Nzc1NzE0MTU4ZTg2MzVjMDQ1NWY3MGJhZmE) and [BotKube’s Slack](http://join.botkube.io/).
 
 #### **lakeFS** (collection of stickers)
 
@@ -672,9 +671,9 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 
 #### **Tripal** (T-shirt, Sticker)
 
-- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8). PRs must link to a related issue page (you can create the issue!) and follow Drupal coding standards.
+- **Requirements**: Make 4 or more valid PRs to one of two repositories: [Tripal core](https://github.com/tripal/tripal) or [t4d8](https://github.com/tripal/t4d8). PRs must be linked to a related issue page (you can create the issue!) and follow Drupal coding standards.
 - **Swag**: T-shirt and sticker
-- **How to sign up**: Make 4 valid contribution at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
+- **How to sign up**: Make 4 valid contributions at any of the two repos and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSdULq2FunATZrHTvfkk6GbYfPDN2FAJ3Jxv0pt4PDXNByigHw/viewform) to get your swag.
 - **Notes**: Check out [Tripal Hacktoberfest 2020 blog post](https://tripal.info/news/tripal-hacktoberfest-2020) for more information. Join [Tripal slack](https://tripal-project.slack.com/) and ask your doubts in dedicated #codefest channel.
 
 #### **Webiny** (Special Webiny Swag Pack, T-Shirt)
