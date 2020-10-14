@@ -110,6 +110,13 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Issues**: [Commerce.js](https://github.com/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+archived%3Afalse+user%3Achec+)
 - **Notes**: For more details visit the [contributing guidelines](https://commercejs.com/docs/community/contribute) and dedicated [Hacktoberfest page](https://commercejs.com/docs/hacktoberfest/) to get involved.
 
+#### **Crio**
+
+- **Swag**: Crio bag of goodies, t-shirt, and up to 50% scholarship
+- **Requirements**: Top 50 performers
+- **How to sign up**: Fill out the form [here](https://crio.do/IBelieveInDoing/October/).
+- **Notes**: For more details, visit the dedicated [Hacktoberfest page](https://crio.do/IBelieveInDoing/October/) to get involved. Only eligible contributors residing in India will be shipped stickers and those making top 50 contributors will be shipped exclusive goodies, including a t-shirt.
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -744,6 +751,13 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **Swag**: ArchivesSpace swag bag
 - **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the bag.
 - **Notes**: Check out [ArchivesSpace Hacktoberfest 2020 blog](https://archivesspace.org/archives/6563) for more information and help.
+
+#### **Crio** (Goodie bag, t-shirt, and scholarship, India only)
+
+- **Requirements**: Top 50 performers
+- **Swag**: Crio bag of goodies and up to 50% scholarship
+- **How to sign up**: Fill out the form [here](https://crio.do/IBelieveInDoing/October/).
+- **Notes**: For more details visit the dedicated [Hacktoberfest page](https://crio.do/IBelieveInDoing/October/) to get involved. Only eligible contributors residing in India will be shipped stickers and those making top 50 contributors will be shipped exclusive goodies, including a t-shirt.
 
 #### **Devfolio** (T-shirt, stickers, India only)
 
