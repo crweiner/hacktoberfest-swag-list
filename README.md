@@ -112,10 +112,10 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 #### **Crio**
 
-- **Swag**: Crio bag of goodies and T -shirt and upto 50% scholarship .
+- **Swag**: Crio bag of goodies and up to 50% scholarship
 - **Requirements**: Top 50 performers
-- **How to sign up**: Fill out the form [here](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) for participation ! more details will be given by emails !
-- **Notes**: For more details visit our [contributing guidelines](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) and dedicated [hacktoberfest page](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) to get involved.Only eligible contributors residing in India will be shipped stickers (including a limited edition Crio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
+- **How to sign up**: Fill out the form [here](https://crio.do/IBelieveInDoing/October/).
+- **Notes**: For more details, visit the dedicated [Hacktoberfest page](https://crio.do/IBelieveInDoing/October/) to get involved. Only eligible contributors residing in India will be shipped stickers and those making top 50 contributors will be shipped exclusive goodies.
 
 ### D
 
@@ -752,12 +752,12 @@ PRs must link to a related issue page (you can create the issue!) and follow Dru
 - **How to sign up**: Make PRs on [ArchivesSpace Github](https://github.com/archivesspace/archivesspace) and the top contributor will win the bag.
 - **Notes**: Check out [ArchivesSpace Hacktoberfest 2020 blog](https://archivesspace.org/archives/6563) for more information and help.
 
-#### **Crio**
+#### **Crio** (Goodie bag and scholarship, India only)
 
-- **Swag**: Crio bag of goodies and T -shirt and upto 50% scholarship .
 - **Requirements**: Top 50 performers
-- **How to sign up**: Fill out the form [here](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) for participation ! more details will be given by emails !
-- **Notes**: For more details visit our [contributing guidelines](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) and dedicated [hacktoberfest page](https://crio.do/IBelieveInDoing/October/?utm_source=adv&name=Sudhanshu) to get involved.Only eligible contributors residing in India will be shipped stickers (including a limited edition Crio Hacktoberfest ones) and those making top 50 contributors will be shipped an exclusive t-shirt (within India only).
+- **Swag**: Crio bag of goodies and up to 50% scholarship
+- **How to sign up**: Fill out the form [here](https://crio.do/IBelieveInDoing/October/).
+- **Notes**: For more details visit the dedicated [Hacktoberfest page](https://crio.do/IBelieveInDoing/October/) to get involved. Only eligible contributors residing in India will be shipped stickers and those making top 50 contributors will be shipped exclusive goodies.
 
 #### **Devfolio** (T-shirt, stickers, India only)
 
