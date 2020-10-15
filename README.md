@@ -45,7 +45,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
   - Top Contributor Award: SONY WH-CH710 noise-cancelling headphones
 - **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
 - **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
-- **Notes**: Visit [activeloop.ai](http://activeloop.ai/hacktoberbest?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
 
 #### **Appsmith**
 
@@ -420,7 +420,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Swag**: Stickers
 - **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
 - **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
-- **Notes**: Visit [activeloop.ai](http://activeloop.ai/hacktoberbest?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
 
 #### **Appsmith** (Stickers)
 
@@ -621,7 +621,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Swag**: T-Shirt, stickers, face mask
 - **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
 - **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
-- **Notes**: Visit [activeloop.ai](http://activeloop.ai/hacktoberbest?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
 
 #### **Appsmith** (T-shirt and stickers)
 
@@ -734,7 +734,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Swag**: T-Shirt, stickers, face mask
 - **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
 - **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
-- **Notes**: Visit [activeloop.ai](http://activeloop.ai/hacktoberbest?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
 
 #### **AquaSecurity** (T-shirt, stickers and face mask)
 
@@ -758,7 +758,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Swag**: Sony noise-cancelling headphones
 - **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
 - **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
-- **Notes**: Visit [activeloop.ai](http://activeloop.ai/hacktoberbest?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
 
 #### **Appsmith** (T-shirt, stickers, and a WASD Keyboard)
 
