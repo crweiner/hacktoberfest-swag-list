@@ -415,7 +415,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 #### **Activeloop** (Stickers)
 
-- **Requirements**: 
+- **Requirements**:
   - 1 or more merged PR: stickers
 - **Swag**: Stickers
 - **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
@@ -616,7 +616,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 #### **Activeloop** (T-shirt plus stickers or face mask)
 
-- **Requirements**: 
+- **Requirements**:
   - 3 or more merged PRs: T-shirt plus a choice of stickers or face mask
 - **Swag**: T-Shirt, stickers, face mask
 - **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
@@ -753,7 +753,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 #### **Activeloop** (Sony noise-cancelling headphones)
 
-- **Requirements**: 
+- **Requirements**:
   - Make the most merged PRs to win SONY WH-CH710 noise-cancelling headphones
 - **Swag**: Sony noise-cancelling headphones
 - **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
