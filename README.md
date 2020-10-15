@@ -35,6 +35,18 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 ### A
 
+#### **Activeloop**
+
+- **Swag**: Sony noise-cancelling headphones, T-Shirt, stickers and face mask
+- **Requirements**: Create one or more merged pull requests on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub).
+  - 1 or more merged PR: stickers
+  - 3 or more merged PRs: T-shirt plus a choice of stickers or face mask
+  - 5 or more  merged PRs: T-shirt, stickers, and a face mask
+  - Top Contributor Award: SONY WH-CH710 noise-cancelling headphones
+- **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
+- **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
+
 #### **Appsmith**
 
 - **Swag**: T-Shirt, stickers, WASD Keyboard
@@ -401,6 +413,15 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 ### 1 Merged PR
 
+#### **Activeloop** (Stickers)
+
+- **Requirements**:
+  - 1 or more merged PR: stickers
+- **Swag**: Stickers
+- **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
+- **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
+
 #### **Appsmith** (Stickers)
 
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
@@ -593,6 +614,15 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 ### 2 or more Merged PRs
 
+#### **Activeloop** (T-shirt plus stickers or face mask)
+
+- **Requirements**:
+  - 3 or more merged PRs: T-shirt plus a choice of stickers or face mask
+- **Swag**: T-Shirt, stickers, face mask
+- **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
+- **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
+
 #### **Appsmith** (T-shirt and stickers)
 
 - **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
@@ -697,6 +727,15 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 ### 5 or more Merged PRs
 
+#### **Activeloop** (T-shirt, stickers and face mask)
+
+- **Requirements**:
+  - 5 or more merged PRs: T-shirt, stickers, and a face mask
+- **Swag**: T-Shirt, stickers, face mask
+- **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
+- **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
+
 #### **AquaSecurity** (T-shirt, stickers and face mask)
 
 - **Requirements**:
@@ -711,6 +750,15 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Notes**: Check out [AquaSecurity blog](https://blog.aquasec.com/hacktoberfest-2020-aqua-open-source) and [AquaSecurity Hacktoberfest repo](https://github.com/aquasecurity/Hacktoberfest) for more information and contribution guide.
 
 ### Top Contributors
+
+#### **Activeloop** (Sony noise-cancelling headphones)
+
+- **Requirements**:
+  - Make the most merged PRs to win SONY WH-CH710 noise-cancelling headphones
+- **Swag**: Sony noise-cancelling headphones
+- **How to sign up**: Make PRs on the [Activeloop Hub Repo](https://github.com/activeloopai/Hub)
+- **Issues**: [#hacktoberfest](https://github.com/activeloopai/Hub/labels/hacktoberfest) or any issue you like to help with.
+- **Notes**: Visit the [activeloop.ai Hacktoberfest Page](https://www.activeloop.ai/hacktoberfest/?utm_source=hacktoberfestswag&utm_medium=web&utm_campaign=swaglist) and read the [contribution guidelines](https://github.com/activeloopai/Hub/blob/master/CONTRIBUTING.md) before making pull requests.
 
 #### **Appsmith** (T-shirt, stickers, and a WASD Keyboard)
 
