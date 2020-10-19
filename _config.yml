@@ -9,6 +9,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-target-blank
 include:
   - CONTRIBUTING.md
 exclude:
@@ -16,4 +17,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - CNAME
+target-blank:
+   noreferrer: false
 repository: "crweiner/hacktoberfest-swag-list"
