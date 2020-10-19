@@ -13,8 +13,8 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 ## Quick Jump To
 
-- [A to Z Order of Companies](#a-to-z-order-of-companies){:target="_blank"}
-- [Least Involvement to Most Involvement Needed for Swag](#least-involvement-to-most-involvement){:target="_blank"}
+- [A to Z Order of Companies](#a-to-z-order-of-companies)
+- [Least Involvement to Most Involvement Needed for Swag](#least-involvement-to-most-involvement)
 
 ---
 
