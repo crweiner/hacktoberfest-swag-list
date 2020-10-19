@@ -25,11 +25,12 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Swag**: T-shirt, stickers
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: Please see [updates for repo eligibiliy and a statent from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update). For your PR to count it must be:
-  - Submitted in a repo labeled ```hacktoberfest``` AND
-  - Merged, OR
-  - Labelled ```hacktoberfest-accepted```  by a maintainer, OR
-  - Approved
+- **Notes**: Please see [updates for repo eligibility and a statement from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update). For your PR to count it must be:
+  - Submitted in a public repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+  - Submitted in a repo labelled ```hacktoberfest```, AND
+    - Merged, OR
+    - Approved
 
 ## A to Z Order of Companies
 
@@ -592,11 +593,12 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **Swag**: T-shirt, stickers
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: Please see [updates for repo eligibiliy and a statent from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update) For your PR to count it must be:
-  - Submitted in a repo labeled ```hacktoberfest``` AND
-  - Merged, OR
-  - Labelled ```hacktoberfest-accepted```  by a maintainer, OR
-  - Approved
+- **Notes**: Please see [updates for repo eligibility and a statement from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update). For your PR to count it must be:
+  - Submitted in a public repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+  - Submitted in a repo labelled ```hacktoberfest```, AND
+    - Merged, OR
+    - Approved
 
 ### **IBM** (Developer Swag)
 
