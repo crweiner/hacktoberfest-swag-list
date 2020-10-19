@@ -31,7 +31,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
   - Submitted in a repo labelled ```hacktoberfest```, AND (
     - Merged, OR
     - Approved
-  
+
 ## A to Z Order of Companies
 
 ### A
