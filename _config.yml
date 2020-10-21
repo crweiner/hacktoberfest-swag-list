@@ -18,3 +18,5 @@ exclude:
   - LICENSE
   - CNAME
 repository: "crweiner/hacktoberfest-swag-list"
+target-blank:
+   noreferrer: false
