@@ -175,7 +175,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 - **Swag** : TShirts
 - **Requirements**: Contribute code to the [Erxes](https://github.com/erxes/erxes) open source marketing software.
-- **How to sign up**: [Grab an issue](https://github.com/erxes/erxes/issues) fork the repo ,fix the issue and raise the Pull Request. Once pull request is merged fill out the form at https://erxes.io/hubspot-alternative-erxes-swag
+- **How to sign up**: [Grab an issue](https://github.com/erxes/erxes/issues) fork the repo ,fix the issue and raise the Pull Request. Once pull request is merged fill out the form at [Swag Request Form]https://erxes.io/hubspot-alternative-erxes-swag
 - **Notes**: If you have any questions or need help with anything,please read contributing guide[Contributing.md](https://github.com/erxes/erxes/blob/master/CONTRIBUTING.md) or join their channel at [Erxes Community](https://community.erxes.io/register/Gw4WRJnk9fSbyAXTq). They'll gladly help you. See the [blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
 
 ### G
