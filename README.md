@@ -171,6 +171,13 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completion we they reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
 - **Notes**: If you have any questions or need help with anything, join the [Community Gitter Channel]( https://gitter.im/earthly-room/community). They'll gladly help you. See the [blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
 
+#### **Erxes**
+
+- **Swag** : TShirts
+- **Requirements**: Contribute code to the [Erxes](https://github.com/erxes/erxes) open source marketing software.
+- **How to sign up**: [Grab an issue](https://github.com/erxes/erxes/issues) fork the repo ,fix the issue and raise the Pull Request. Once pull request is merged fill out the form at https://erxes.io/hubspot-alternative-erxes-swag
+- **Notes**: If you have any questions or need help with anything,please read contributing guide[Contributing.md](https://github.com/erxes/erxes/blob/master/CONTRIBUTING.md) or join their channel at [Erxes Community](https://community.erxes.io/register/Gw4WRJnk9fSbyAXTq). They'll gladly help you. See the [blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details.
+
 ### G
 
 #### **Globo**
