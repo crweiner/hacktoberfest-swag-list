@@ -149,7 +149,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Guillaume Falourd](https://github.com/GuillaumeFalourd)
 - [Sudhanshu Tiwari](https://github.com/sudhanshutiwari264)
 - [Bharat Raghunathan](https://github.com/Bharat123rox)
-
+- [Tristan Brown](https://github.com/drd3rp)
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
 ![Presented by DigitalOcean, Intel, and Dev.to](img/SponsorsDarkBoxed.svg)
