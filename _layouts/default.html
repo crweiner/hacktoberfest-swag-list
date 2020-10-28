@@ -46,7 +46,7 @@
       </header>
       <section>
 
-      {{ content }}
+      {{ content | replace: '<a href="http', '<a rel="noopener" target="_blank" href="http' }}
 
       </section>
       <footer>
