@@ -173,6 +173,14 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 ### G
 
+#### **Gatsbyjs**
+
+- **Swag**: Sticker
+- **Requirements**: First valid PR
+- **How to sign up**: Make a valid contribution and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSccR2qesIHmOVvNPwa8COEvF33wG0Ibkf0ZFJykKvl7ayn72A/viewform) before October 31, 2020
+- **Issues**: [#haktoberfest](https://github.com/gatsbyjs/gatsby/labels/Hacktoberfest) or any issue you like to help with.
+- **Notes**: Checkout this [issue](https://github.com/gatsbyjs/gatsby/issues/27222) for more information.
+
 #### **Globo**
 
 - **Swag**: T-shirt
@@ -404,6 +412,14 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Requirements**: First valid PR.
 - **Swag**: IBM Open Source Contributor badge.
 - **How to sign up**: Submit your PR links before October 31, 2020 on [IBM Hacktoberfest internal page](https://w3.ibm.com/developer/hacktoberfest/) (you'll need to be in IBM VPN).
+
+#### **Gatsbyjs**
+
+- **Requirements**: First valid PR
+- **Swag**: Sticker
+- **How to sign up**: Make a valid contribution and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSccR2qesIHmOVvNPwa8COEvF33wG0Ibkf0ZFJykKvl7ayn72A/viewform) before October 31, 2020
+- **Issues**: [#haktoberfest](https://github.com/gatsbyjs/gatsby/labels/Hacktoberfest) or any issue you like to help with.
+- **Notes**: Checkout this [issue](https://github.com/gatsbyjs/gatsby/issues/27222) for more information.
 
 #### **Vonage/Nexmo** ($5 Open Collective Gift Card or Bamboo Vonage Socks)
 
