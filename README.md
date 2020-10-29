@@ -173,6 +173,14 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 
 ### G
 
+#### **Gatsby**
+
+- **Swag**: Sticker
+- **Requirements**: First valid PR
+- **How to sign up**: Make a valid contribution and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSccR2qesIHmOVvNPwa8COEvF33wG0Ibkf0ZFJykKvl7ayn72A/viewform) before October 31, 2020
+- **Issues**: [#haktoberfest](https://github.com/gatsbyjs/gatsby/labels/Hacktoberfest) or any issue you like to help with.
+- **Notes**: Checkout this [issue](https://github.com/gatsbyjs/gatsby/issues/27222) and their [blog post](https://www.gatsbyjs.com/blog/hacktoberfest-2020/) for more information.
+
 #### **Globo**
 
 - **Swag**: T-shirt
@@ -490,6 +498,14 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
 - **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and after completion they will reach out to you to get your mailing address or reach out to adam@earthly.dev via email to claim your sticker.  If you aren't sure what to work on, [Let's chat](https://gitter.im/earthly-room/community)
 - **Notes**: If you have any questions or need help with anything, join the [Community Gitter Channel]( https://gitter.im/earthly-room/community). They will gladly help you. See the [Blog post](https://blog.earthly.dev/hacktoberfest-2020/) for more details. Reach out to adam@earthly.dev via email to claim your sticker.
+
+#### **Gatsby** (Sticker)
+
+- **Requirements**: one merged PR
+- **Swag**: Sticker
+- **How to sign up**: Make a valid contribution and fill this [form](https://docs.google.com/forms/d/e/1FAIpQLSccR2qesIHmOVvNPwa8COEvF33wG0Ibkf0ZFJykKvl7ayn72A/viewform) before October 31, 2020
+- **Issues**: [#haktoberfest](https://github.com/gatsbyjs/gatsby/labels/Hacktoberfest) or any issue you like to help with.
+- **Notes**: Checkout this [issue](https://github.com/gatsbyjs/gatsby/issues/27222) and their [blog post](https://www.gatsbyjs.com/blog/hacktoberfest-2020/) for more information.
 
 #### **Globo** (T-shirt, Brazil only)
 
