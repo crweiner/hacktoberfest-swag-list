@@ -544,7 +544,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Requirements**: One merged pull request for a collection of stickers
 - **Swag**: Stickers
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and they'll send you a link.
-- **Notes**: Check out the [contributing guide](https://docs.lakefs.io/contributing) and join the [slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions.
+- **Notes**: Check out the [contributing guide](https://docs.lakefs.io/contributing) and join the [slack channel](https://lakefs.io/slack) for help and discussions.
 
 #### **LoginRadius** (T-shirt, Stickers)
 
@@ -698,7 +698,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
 - **Requirements**: 2 or more merged pull requests
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and they'll send you a link.
-- **Notes**: Check out the [contributing guide](https://docs.lakefs.io/contributing) and join the [Slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+- **Notes**: Check out the [contributing guide](https://docs.lakefs.io/contributing) and join the [Slack channel](https://lakefs.io/slack) for help and discussions
 
 #### **Operation Code** (T-shirt, Stickers)
 
