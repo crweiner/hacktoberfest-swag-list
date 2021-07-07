@@ -261,7 +261,7 @@ For more information regarding this click [here](https://hacktoberfest.digitaloc
   - 1+ merged PR: Stickers
   - 2+ merged PRs: Stickers and a lakeFS t-shirt
 - **How to sign up**: Make a PR on the [lakeFS Repo](https://github.com/treeverse/lakeFS) and they'll send you a link.
-- **Notes**: Check out the [contributing guide](https://docs.lakefs.io/contributing) and join the [Slack channel](https://join.slack.com/t/lakefs/shared_invite/zt-g86mkroy-186GzaxR4xOar1i1Us0bzw) for help and discussions
+- **Notes**: Check out the [contributing guide](https://docs.lakefs.io/contributing) and join the [Slack channel](https://lakefs.io/slack) for help and discussions
 
 #### **LoginRadius**
 
