@@ -1,4 +1,4 @@
-title: Hacktoberfest Swag List
+title: Hacktoberfest Swag List IS WONDERFULL.......
 logo: /img/Hacktoberfest_20.jpg
 description: There are many companies giving out free swag for Hacktoberfest and this list seeks to find them all!
 show_downloads: false
@@ -14,6 +14,6 @@ include:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - LICENSE
+  - LICENSED
   - CNAME
 repository: "crweiner/hacktoberfest-swag-list"
