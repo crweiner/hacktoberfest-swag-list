@@ -2,3 +2,4 @@ _site
 .sass-cache
 .history
 .vscode
+.DS_Store
