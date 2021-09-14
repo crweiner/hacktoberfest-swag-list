@@ -133,28 +133,16 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 ---
 
-## 2020 Contributors
+## 2021 Contributors
 
 - [Chandler Weiner](https://github.com/crweiner/)
-- [Adrienne Tacke](https://github.com/adriennetacke)
-- [Sourav Roy](https://github.com/souravroy-test/)
-- [David Ma](https://github.com/Taikon/)
-- [Khushi](https://github.com/khushijindal/)
-- [Lorenz Sieben](https://github.com/zner0L)
-- [Panagiotis Vasilopoulos](https://github.com/panos)
-- [Rohit Mathew](https://github.com/rohitjmathew)
-- [Aditya Vats](https://github.com/avats-dev)
-- [Pedro Fracassi](https://github.com/pedrofracassi)
-- [The HungryCoder](https://github.com/thehungrycoder)
-- [Guillaume Falourd](https://github.com/GuillaumeFalourd)
-- [Sudhanshu Tiwari](https://github.com/sudhanshutiwari264)
-- [Bharat Raghunathan](https://github.com/Bharat123rox)
-- [Remigio Arenas](https://github.com/remigioamc)
-
-Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
-
-![Presented by DigitalOcean, Intel, and Dev.to](img/SponsorsDarkBoxed.svg)
 
 ---
 
-If you're looking for the Swag List from 2018 and 2019, [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018) and [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019) branches.
+Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
+
+![Presented by DigitalOcean](img/logo-hacktoberfest-full-2021.svg)
+
+---
+
+If you're looking for the Swag List from 2018,  2019, or 2020 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), and [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020) branches.
