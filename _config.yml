@@ -3,6 +3,8 @@ logo: /img/Hacktoberfest_21.jpg
 description: There are many companies giving out free swag for Hacktoberfest and this list seeks to find them all!
 show_downloads: false
 url: "https://hacktoberfestswaglist.com"
+twitter:
+  card: summary
 google_analytics: "UA-129265975-1"
 remote_theme: "pages-themes/minimal"
 plugins:
@@ -17,3 +19,9 @@ exclude:
   - LICENSE
   - CNAME
 repository: "crweiner/hacktoberfest-swag-list"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /img/Hacktoberfest_21.jpg
