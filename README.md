@@ -1,8 +1,8 @@
 # Hacktoberfest 2021 Swag List
 
-It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
+It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that multiple tech companies participate in Hacktoberfest and give away sweet, sweet swag?
 
-This repo seeks to document all of the companies giving away swag for Hacktoberfest 2021 and how you can get your hands on some free gifts for your time and help.
+This repo seeks to document all companies giving away swag for Hacktoberfest 2021 and how you can get your hands on some gifts for your time and help.
 
 Right now, we're getting ready for Hacktoberfest 2021! Let's make this the best Hacktoberfest yet!
 
