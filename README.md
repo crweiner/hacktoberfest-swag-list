@@ -37,6 +37,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **Appsmith**
+
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise package
+- **Requirements**: A list of ideas for contribution include
+  - Engineering: Raise PRs to fix issues or contribute new features
+  - Improve documentation
+  - Write blogs, video tutorials or submit a template 
+- **How to sign up**: [Get started here](https://hacktoberfest.appsmith.com/)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**:
+  - Each Tutorial counts towards 2 PRs
+  - Each How-to Guide counts towards 2 PRs 
+
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
@@ -58,6 +72,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Approved
 
 ### 2 or more Merged PRs
+
+#### **Appsmith** (T-shirt, stickers, water-bottle, hoodie and a surprise package)
+
+- **Requirements**:
+  - For all submitted PRs, contributors are quailifed to get stickers
+  - Contributors who submit 2 merged PRs would get a T-shirt or hoodie
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise package
+- **How to sign up**: [Get started here](https://hacktoberfest.appsmith.com/)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**:
+  - Each Tutorial counts towards 2 PRs
+  - Each How-to Guide counts towards 2 PRs 
 
 ### 5 or more Merged PRs
 
