@@ -43,13 +43,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: A list of ideas for contribution include
   - Engineering: Raise PRs to fix issues or contribute new features
   - Improve documentation
-  - Write blogs, video tutorials or submit a template 
+  - Write blogs, video tutorials or submit a template
 - **How to sign up**: [Get started here](https://hacktoberfest.appsmith.com/)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**:
   - Each Tutorial counts towards 2 PRs
-  - Each How-to Guide counts towards 2 PRs 
-
+  - Each How-to Guide counts towards 2 PRs
 
 ## Least Involvement to Most Involvement
 
@@ -83,7 +82,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**:
   - Each Tutorial counts towards 2 PRs
-  - Each How-to Guide counts towards 2 PRs 
+  - Each How-to Guide counts towards 2 PRs
 
 ### 5 or more Merged PRs
 
