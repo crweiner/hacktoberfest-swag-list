@@ -35,7 +35,23 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## A to Z Order of Companies
 
-### A
+### A  
+
+### C  
+#### **Camunda**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**: 4 pull requests to any Camunda repo
+- **How to sign up**: 
+    - [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+    - [Camunda website](https://camunda.com/hacktoberfest2021/)
+- **Notes**:  
+  - For your PR to count it must be:
+    - Submitted in a Camunda repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer  
+  - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)  
+
+
 
 ## Least Involvement to Most Involvement
 
@@ -43,7 +59,21 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 1 Merged PR
 
-### 2 or more PRs
+### 2 or more PRs  
+
+#### **Camunda**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**: 4 pull requests to any Camunda repo
+- **How to sign up**: 
+    - [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+    - [Camunda website](https://camunda.com/hacktoberfest2021/)
+- **Notes**:  
+  - For your PR to count it must be:
+    - Submitted in a Camunda repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer  
+  - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)  
+
 
 ### The Original - **DigitalOcean, Intel, and DEV** (T-shirt, stickers)
 
