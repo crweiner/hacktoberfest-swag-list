@@ -135,7 +135,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 ## 2021 Contributors
 
-- [Chandler Weiner](https://github.com/crweiner/)  
+- [Chandler Weiner](https://github.com/crweiner/)
 - [Pranjal Mishra](https://github.com/Pranjalmishra30)
 
 ---
