@@ -45,7 +45,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 2 Merged PRs - Appsmith Stickers, Water Bottle
   - 3 Merged PRs - Appsmith Stickers, Water Bottle, Appsmith T-Shirt
   - 4 Merged PRs - Appsmith Stickers, Water Bottle, Appsmith Hoodie
-  - 4 Merged PRs + - Appsmith Surprise Box 
+  - 4 Merged PRs + - Appsmith Surprise Box
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registeration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
