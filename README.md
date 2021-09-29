@@ -103,6 +103,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more Merged PRs
 
+### 4 or more Merged PRs
+
+- **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
+- **Swag**: reusable insulated water bottle
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+- **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
+- **Notes**: For your PR to count it must be:
+  - Submitted in a public repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+  - Submitted in a repo labelled ```hacktoberfest```, AND
+    - Merged, OR
+    - Approved
+
 ### 5 or more Merged PRs
 
 ### Top Contributors
