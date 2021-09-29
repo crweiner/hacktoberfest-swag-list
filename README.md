@@ -37,11 +37,35 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+### D
+
+#### **Datenanfragen.de e. V.**
+
+- **Swag**: At least 3 stickers and a webcam cover; maybe a t-shirt.
+- **Requirements**:
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
+  - 1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets).
+  - T-shirts are given out for the 10 best contributions as chosen by the maintainers.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details.
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
 
 ### 1 Merged PR
+
+#### **Datenanfragen.de e. V.**
+
+- **Swag**: At least 3 stickers and a webcam cover; maybe a t-shirt.
+- **Requirements**:
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
+  - 1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets).
+  - T-shirts are given out for the 10 best contributions as chosen by the maintainers.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details.
 
 ### 2 or more PRs
 
