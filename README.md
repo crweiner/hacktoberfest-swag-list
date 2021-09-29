@@ -69,7 +69,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
-### The Original - **DigitalOcean, Intel, and DEV** (T-shirt, stickers)
+### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **Swag**: T-shirt, stickers
