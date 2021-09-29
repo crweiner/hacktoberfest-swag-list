@@ -136,8 +136,12 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 ## 2021 Contributors
 
 - [Chandler Weiner](https://github.com/crweiner/)
+<<<<<<< HEAD
 - [Benjamin Altpeter](https://github.com/baltpeter/)
 - [Pranjal Mishra](https://github.com/Pranjalmishra30)
+=======
+- [Ferdinand Boas](https://github.com/ferdi05/)
+>>>>>>> 4d381e4 (Update CONTRIBUTING.md with my name)
 
 ---
 
