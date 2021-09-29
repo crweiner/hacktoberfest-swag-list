@@ -8,7 +8,7 @@ Right now, we're getting ready for Hacktoberfest 2021! Let's make this the best 
 
 ## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a T-shirt will not be tolerated
 
-First, [sign up for Hacktoberfest 2021 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way](https://hacktoberfest.digitalocean.com/details/).
+First, [sign up for Hacktoberfest 2021 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.digitalocean.com/faq).
 
 See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the List!
 
@@ -21,12 +21,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## Swag List 2021
 
-### **The Original - DigitalOcean**
+### **The Original - DigitalOcean, Appwrite, Intel, and Deepsource**
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: Please see [updates for repo eligibility and a statement from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update). For your PR to count it must be:
+- **Notes**: For your PR to count it must be:
   - Submitted in a public repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
   - Submitted in a repo labelled ```hacktoberfest```, AND
@@ -45,12 +45,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more PRs
 
-### The Original - **DigitalOcean, Intel, and DEV** (T-shirt, stickers)
+### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **Swag**: T-shirt, stickers
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: Please see [updates for repo eligibility and a statement from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update). For your PR to count it must be:
+- **Notes**: For your PR to count it must be:
   - Submitted in a public repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
   - Submitted in a repo labelled ```hacktoberfest```, AND
