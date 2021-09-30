@@ -94,6 +94,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+### G
+
+#### **Globo**
+
+- **Swag**: T-shirt
+- **Requirements**: 
+  - Contribute to two pull requests in any in any [eligible repo](https://hacktoberfest.globo.com/projetos/) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
@@ -125,6 +136,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+#### **Globo** (T-shirt, Brazil only)
+
+- **Requirements**: 
+  - Contribute to two pull requests in any in any [eligible repo](https://hacktoberfest.globo.com/projetos/) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **Swag**: T-shirt
+- **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
 #### **Datenanfragen.de e. V.** (stickers, webcam cover)
 
