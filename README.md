@@ -44,7 +44,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - **At least 1** accepted pull request in any eligible repository under the [Appwrite](https://github.com/appwrite/) organization with the `hacktoberfest` topic.
   - Swag Tiers
     - **1 accepted PR**   - OG Appwrite Stickers
-    - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier 
+    - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier
     - **3 accepted PRs**  - Limited Edition Coffee Mug + previous tier
     - **4+ accepted PRs** - Limited Edition T-Shirt + previous tier
 - **How to sign up**: Join our [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
@@ -55,8 +55,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is merged by a maintainer
   - A Blog post counts as **2 PRs**
   - A Demo app counts as **2 PRs ( or more based on complexity )**
-  - A Tutorial counts as **2 PRs ( or more based on complexity )**  
-- **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/) 
+  - A Tutorial counts as **2 PRs ( or more based on complexity )** 
+- **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
 ### C
 
@@ -91,7 +91,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - **At least 1** accepted pull request in any eligible repository under the [Appwrite](https://github.com/appwrite/) organization with the `hacktoberfest` topic.
   - Swag Tiers
     - **1 accepted PR**   - OG Appwrite Stickers
-    - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier 
+    - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier
     - **3 accepted PRs**  - Limited Edition Coffee Mug + previous tier
     - **4+ accepted PRs** - Limited Edition T-Shirt + previous tier
 - **How to sign up**: Join our [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
@@ -102,8 +102,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is merged by a maintainer
   - A Blog post counts as **2 PRs**
   - A Demo app counts as **2 PRs ( or more based on complexity )**
-  - A Tutorial counts as **2 PRs ( or more based on complexity )**  
-- **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/) 
+  - A Tutorial counts as **2 PRs ( or more based on complexity )** 
+- **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
 ### 1 Merged PR
 
