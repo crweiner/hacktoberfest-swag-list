@@ -8,7 +8,7 @@ Right now, we're getting ready for Hacktoberfest 2021! Let's make this the best 
 
 ## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a T-shirt will not be tolerated
 
-First, [sign up for Hacktoberfest 2021 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way](https://hacktoberfest.digitalocean.com/details/).
+First, [sign up for Hacktoberfest 2021 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.digitalocean.com/faq).
 
 See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the List!
 
@@ -21,12 +21,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ## Swag List 2021
 
-### **The Original - DigitalOcean**
+### **The Original - DigitalOcean, Appwrite, Intel, and Deepsource**
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: Please see [updates for repo eligibility and a statement from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update). For your PR to count it must be:
+- **Notes**: For your PR to count it must be:
   - Submitted in a public repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
   - Submitted in a repo labelled ```hacktoberfest```, AND
@@ -50,11 +50,31 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
+### D
+
+#### **Datenanfragen.de e. V.**
+
+- **Swag**: At least 3 stickers and a webcam cover. T-shirt for the top contributors.
+- **Requirements**: 1 merged pull request in an [eligible repo](https://www.datarequests.org/blog/hacktoberfest-2021/#repos) to get at least 3 stickers and a webcam cover (limited to 100 sets). The 10 best contributions get a t-shirt in addition to that.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
 
 ### 1 Merged PR
+
+#### **Datenanfragen.de e. V.** (stickers, webcam cover)
+
+- **Requirements**:
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
+  - 1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets).
+- **Swag**: At least 3 stickers and a webcam cover; maybe a t-shirt (see below).
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
 ### 2 or more PRs
 
@@ -74,7 +94,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
 - **Swag**: T-shirt, stickers
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
-- **Notes**: Please see [updates for repo eligibility and a statement from Hacktoberfest](https://hacktoberfest.digitalocean.com/hacktoberfest-update). For your PR to count it must be:
+- **Notes**: For your PR to count it must be:
   - Submitted in a public repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
   - Submitted in a repo labelled ```hacktoberfest```, AND
@@ -86,6 +106,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 5 or more Merged PRs
 
 ### Top Contributors
+
+#### **Datenanfragen.de e. V.** (T-shirt)
+
+- **Requirements**:
+  - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
+  - T-shirts are given out for the 10 best contributions as chosen by the maintainers.
+- **Swag**: At least 3 stickers and a webcam cover (see above);  T-shirt for top contributors.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
+- **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
 ---
 
