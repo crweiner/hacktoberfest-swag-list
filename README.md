@@ -55,7 +55,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is merged by a maintainer
   - A Blog post counts as **2 PRs**
   - A Demo app counts as **2 PRs ( or more based on complexity )**
-  - A Tutorial counts as **2 PRs ( or more based on complexity )** 
+  - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
 ### C
@@ -102,7 +102,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is merged by a maintainer
   - A Blog post counts as **2 PRs**
   - A Demo app counts as **2 PRs ( or more based on complexity )**
-  - A Tutorial counts as **2 PRs ( or more based on complexity )** 
+  - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
 ### 1 Merged PR
