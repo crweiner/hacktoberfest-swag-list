@@ -99,7 +99,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Globo**
 
 - **Swag**: T-shirt
-- **Requirements**: 
+- **Requirements**:
   - Contribute to two pull requests in any in any [eligible repo](https://hacktoberfest.globo.com/projetos/) during the month of October.
   - Ensure that at least one pull request is merged.
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
@@ -139,7 +139,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Globo** (T-shirt, Brazil only)
 
-- **Requirements**: 
+- **Requirements**:
   - Contribute to two pull requests in any in any [eligible repo](https://hacktoberfest.globo.com/projetos/) during the month of October.
   - Ensure that at least one pull request is merged.
 - **Swag**: T-shirt
