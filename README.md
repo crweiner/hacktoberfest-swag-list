@@ -60,6 +60,21 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+### M
+
+### **MeiliSearch**
+
+- **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
+- **Swag**: reusable insulated water bottle
+- **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/)) for more details
+- **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
+- **Notes**: For your PR to count it must be:
+  - Submitted in a public repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+  - Submitted in a repo labelled ```hacktoberfest```, AND
+    - Merged, OR
+    - Approved
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
@@ -107,7 +122,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
 - **Swag**: reusable insulated water bottle
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+- **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/)) for more details
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: For your PR to count it must be:
   - Submitted in a public repo, AND
