@@ -62,18 +62,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### M
 
-### **MeiliSearch**
+#### **MeiliSearch** (water bottle, stickers)
 
 - **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
-- **Swag**: reusable insulated water bottle
+- **Swag**: reusable insulated water bottle, stickers
 - **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/)) for more details
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
-- **Notes**: For your PR to count it must be:
-  - Submitted in a public repo, AND
-    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
-  - Submitted in a repo labelled ```hacktoberfest```, AND
-    - Merged, OR
-    - Approved
+- **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/)) for more details
 
 ## Least Involvement to Most Involvement
 
@@ -120,16 +115,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 4 or more Merged PRs
 
+#### **MeiliSearch** (water bottle, stickers)
+
 - **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
-- **Swag**: reusable insulated water bottle
+- **Swag**: reusable insulated water bottle, stickers
 - **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/)) for more details
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
-- **Notes**: For your PR to count it must be:
-  - Submitted in a public repo, AND
-    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
-  - Submitted in a repo labelled ```hacktoberfest```, AND
-    - Merged, OR
-    - Approved
+- **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/)) for more details
 
 ### 5 or more Merged PRs
 
