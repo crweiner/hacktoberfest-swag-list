@@ -119,6 +119,26 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more PRs
 
+### **APPWRITE** (Limited Edition T-shirts, Stickers & Coffee Mugs!)
+
+- **Requirements**: Contribute to [open hacktoberfest issues](https://hacktoberfest.appwrite.io/), Build a demo app, Write a blog post or Create a tutorial.
+  - **At least 1** accepted pull request in any eligible repository under the [Appwrite](https://github.com/appwrite/) organization with the `hacktoberfest` topic.
+  - Swag Tiers
+    - **1 accepted PR**   - OG Appwrite Stickers
+    - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier
+    - **3 accepted PRs**  - Limited Edition Coffee Mug + previous tier
+    - **4+ accepted PRs** - Limited Edition T-Shirt + previous tier
+- **How to sign up**: Join our [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
+- **Notes**:
+  - For your PR to count it must be submitted to one of the eligible Appwrite repositories, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+    - The PR is approved by a maintainer OR
+    - The PR is merged by a maintainer
+  - A Blog post counts as **2 PRs**
+  - A Demo app counts as **2 PRs ( or more based on complexity )**
+  - A Tutorial counts as **2 PRs ( or more based on complexity )**
+- **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
+
 #### **CAMUNDA** (T-shirt, stickers)
 
 - **Requirements**: 4 pull requests to any of the following repos: [bpm.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
@@ -145,6 +165,26 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 2 or more Merged PRs
 
 ### 5 or more Merged PRs
+
+### **APPWRITE** (Limited Edition T-shirts, Stickers & Coffee Mugs!)
+
+- **Requirements**: Contribute to [open hacktoberfest issues](https://hacktoberfest.appwrite.io/), Build a demo app, Write a blog post or Create a tutorial.
+  - **At least 1** accepted pull request in any eligible repository under the [Appwrite](https://github.com/appwrite/) organization with the `hacktoberfest` topic.
+  - Swag Tiers
+    - **1 accepted PR**   - OG Appwrite Stickers
+    - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier
+    - **3 accepted PRs**  - Limited Edition Coffee Mug + previous tier
+    - **4+ accepted PRs** - Limited Edition T-Shirt + previous tier
+- **How to sign up**: Join our [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
+- **Notes**:
+  - For your PR to count it must be submitted to one of the eligible Appwrite repositories, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+    - The PR is approved by a maintainer OR
+    - The PR is merged by a maintainer
+  - A Blog post counts as **2 PRs**
+  - A Demo app counts as **2 PRs ( or more based on complexity )**
+  - A Tutorial counts as **2 PRs ( or more based on complexity )**
+- **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
 ### Top Contributors
 
