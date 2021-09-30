@@ -37,7 +37,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
-### **APPWRITE**
+#### **Appsmith**
+
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
+- **Requirements**:
+  - 1 Merged PR -  Appsmith Stickers
+  - 2 Merged PRs - Appsmith Stickers, Water Bottle
+  - 3 Merged PRs - Appsmith Stickers, Water Bottle, Appsmith T-Shirt
+  - 4 Merged PRs - Appsmith Stickers, Water Bottle, Appsmith Hoodie
+  - 4 Merged PRs + - Appsmith Surprise Box
+- **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**: Documentation and content contribution is also accepted. More info available on their blog [here](https://hacktoberfest.appsmith.com/)
+
+#### **Appwrite**
 
 - **Swag**: Limited Edition T-shirts, Stickers & Coffee Mugs!
 - **Requirements**: Contribute to [open hacktoberfest issues](https://hacktoberfest.appwrite.io/), Build a demo app, Write a blog post or Create a tutorial.
@@ -85,7 +98,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
-### **APPWRITE** (Stickers)
+#### **Appwrite** (Stickers)
 
 - **Requirements**: Contribute to [open hacktoberfest issues](https://hacktoberfest.appwrite.io/), Build a demo app, Write a blog post or Create a tutorial.
   - **At least 1** accepted pull request in any eligible repository under the [Appwrite](https://github.com/appwrite/) organization with the `hacktoberfest` topic.
@@ -104,6 +117,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 1 Merged PR
 
+#### **Appsmith** (Stickers)
+
+- **Requirements**: Create one or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 1 merged PR: Stickers
+- **Swag**: Stickers
+- **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
 #### **Datenanfragen.de e. V.** (stickers, webcam cover)
 
 - **Requirements**:
@@ -116,7 +138,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more PRs
 
-### **APPWRITE** (Limited Edition T-shirts, Stickers & Coffee Mugs!)
+#### **Appwrite** (Limited Edition T-shirts, Stickers & Coffee Mugs!)
 
 - **Requirements**: Contribute to [open hacktoberfest issues](https://hacktoberfest.appwrite.io/), Build a demo app, Write a blog post or Create a tutorial.
   - **At least 1** accepted pull request in any eligible repository under the [Appwrite](https://github.com/appwrite/) organization with the `hacktoberfest` topic.
@@ -161,7 +183,25 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### 2 or more Merged PRs
 
+#### **Appsmith** (Stickers, Water Bottle, T-Shirt)
+
+- **Requirements**: Create two or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 2+ merged PR: Stickers, Water Bottle, T-Shirt
+- **Swag**: Appsmith Stickers, Water Bottle, Appsmith T-Shirt
+- **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
 ### 5 or more Merged PRs
+
+#### **Appsmith** (Surprise Box)
+
+- **Requirements**: Create five or more merged pull requests on the [Appsmith Repo](https://github.com/appsmithorg/appsmith)
+  - 5+ merged PR: Surprise Box
+- **Swag**: Surprise Box
+- **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
+- **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
+- **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
 
 ### Top Contributors
 
