@@ -50,6 +50,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available on their blog [here](https://hacktoberfest.appsmith.com/)
 
+### C
+
+#### **CAMUNDA**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**: 4 pull requests to any of the following repos: [bpm.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
+- **How to sign up**: Check out the [Camunda website](https://camunda.com/hacktoberfest2021/) for more details
+- **Notes**:
+  - For your PR to count it must be:
+    - Submitted in a Camunda repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
+  - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -86,6 +99,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
 ### 2 or more PRs
+
+#### **CAMUNDA** (T-shirt, stickers)
+
+- **Requirements**: 4 pull requests to any of the following repos: [bpm.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
+- **Swag**: T-shirt, stickers
+- **How to sign up**: Check out the [Camunda website](https://camunda.com/hacktoberfest2021/) for more details
+- **Notes**:
+  - For your PR to count it must be:
+    - Submitted in a Camunda repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
+  - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
