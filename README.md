@@ -48,7 +48,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 4 Merged PRs + - Appsmith Surprise Box
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registeration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
-- **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+- **Notes**: Documentation and content contribution is also accepted. More info available on their blog [here](https://hacktoberfest.appsmith.com/)
 
 ### D
 
