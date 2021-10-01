@@ -93,7 +93,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - **1 accepted PR**   - super ghoul sticker pack
     - **2+ accepted PRs**  - wicked Bridgecrew t-shirt + previous tier
 - **How to sign up**: Check out the [Globo website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
-- **Notes**: 
+- **Notes**:
   - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 
 ### C
@@ -170,6 +170,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
+#### **Bridgecrew** (Stickers)
+
+- **Swag**: T-shirt, stickers
+- **Requirements**:
+  - Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
+  - Swag Tiers
+    - **1 accepted PR**   - super ghoul sticker pack
+    - **2+ accepted PRs** - wicked Bridgecrew t-shirt + previous tier
+- **How to sign up**: Check out the [Globo website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
+- **Notes**:
+  - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
+
 #### **Mattermost** (Stickers)
 
 - **Requirements**: 1+ contributions to the Mattermost community
@@ -228,6 +240,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - A Demo app counts as **2 PRs ( or more based on complexity )**
   - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
+
+#### **Bridgecrew** (T-shirt, stickers)
+
+- **Swag**: T-shirt, stickers
+- **Requirements**:
+  - Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
+  - Swag Tiers
+    - **1 accepted PR**   - super ghoul sticker pack
+    - **2+ accepted PRs** - wicked Bridgecrew t-shirt + previous tier
+- **How to sign up**: Check out the [Globo website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
+- **Notes**:
+  - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 
 #### **CAMUNDA** (T-shirt, stickers)
 
