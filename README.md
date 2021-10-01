@@ -112,7 +112,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Headcap, stickers, and a 50 dollar Amazon Voucher
 - **Requirements**: Contribute proper PRs that follow the Hacktoberfest and Eduhub Community contribution guidelines into one of the [many repos](https://github.com/Eduhub-Community) available. Only the number one contributor will gain the swag listed above.
 - **Issues**: You can view currently active issues [here](https://github.com/search?q=user%3Aeduhub-Community+type%3Aissue+state%3Aopen&type=Issues).
-- **How to sign up**: If you want to be a ***mentor*** for Eduhub during the Hacktoberfest, please [apply here](https://forms.gle/KaH9auwwkDzqYy547). 
+- **How to sign up**: If you want to be a ***mentor*** for Eduhub during the Hacktoberfest, please [apply here](https://forms.gle/KaH9auwwkDzqYy547).
 - **Notes**: As listed before, only the number one contributor shall recieve the swag listed above!
 
 ### G
@@ -306,7 +306,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Headcap, stickers, and a 50 dollar Amazon Voucher
 - **Requirements**: Contribute proper PRs that follow the Hacktoberfest and Eduhub Community contribution guidelines into one of the [many repos](https://github.com/Eduhub-Community) available. Only the number one contributor will gain the swag listed above.
 - **Issues**: You can view currently active issues [here](https://github.com/search?q=user%3Aeduhub-Community+type%3Aissue+state%3Aopen&type=Issues).
-- **How to sign up**: If you want to be a ***mentor*** for Eduhub during the Hacktoberfest, please [apply here](https://forms.gle/KaH9auwwkDzqYy547). 
+- **How to sign up**: If you want to be a ***mentor*** for Eduhub during the Hacktoberfest, please [apply here](https://forms.gle/KaH9auwwkDzqYy547).
 - **Notes**: As listed before, only the number one contributor shall recieve the swag listed above!
 
 #### **Mattermost** (Custom mechanical keyboard)
