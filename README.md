@@ -204,7 +204,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
-#### **LoginRadius**
+#### **LoginRadius** (T-shirt)
 
 - **Swag**: T-shirt
 - **Requirements**:
