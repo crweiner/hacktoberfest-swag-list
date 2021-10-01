@@ -135,6 +135,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
+#### **Milvus**
+
+- **Swag**: Logitech Pro X Keyboard (USD $149 value), DJI Drone (USD $799 value), a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt
+- **Requirements**: Sign up for the event on the [Hacktoberfest website](https://milvus.io/hacktoberfest-2021/)  and just start contributing to any open source project - it’s as simple as that! If you’re new to the open source world, no worries, we’ve got you covered with [Guide](https://discuss.milvus.io/t/join-hacktoberfest-2021-with-us/72). 
+   - By contributing to the Milvus project between October 1 and October 31 you’ll also earn some additional swag and prizes sponsored by Zilliz
+   - Swag tiers
+      - **1 Merged PR** - a sticker pack & a digital Milvus contributor badge (for you to showcase on your LinkedIn profile).
+      - **2+ Merged PRs** - a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants).
+      - **For Top Contributor (Best Quality PR)** - A Logitech Pro X Keyboard (USD $149 value) and a physical Hacktoberfest badge.
+      - **For Grand Prize :trophy: (Most Difficult PR) :trophy:** - A DJI Drone (USD $799 value) if you complete at least 1 PR merged with the issue tagged #advanced .
+- **How to sign up**: 
+    - Sign up to [Hacktober Fest](https://hackathon-tracker.digitalocean.com/users/oauth/github?success_redirect=https://hacktoberfest.digitalocean.com/register/info&error_redirect=https://hacktoberfest.digitalocean.com/register)
+    - Join Discussions by creating [Milvus Forum Account](https://discuss.milvus.io/c/hacktoberfest/9) and interact with community members.
+- **Issues**: Issues are stated at Issues Section of [Hacktoberfest website](https://milvus.io/hacktoberfest-2021/).
+- **Notes**: Check out [Milvus Community Forum](https://discuss.milvus.io/c/hacktoberfest/9)
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
@@ -192,6 +208,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **Milvus**
+
+- **Swag**: a sticker pack, a digital Milvus contributor badge (for you to showcase on your LinkedIn profile).
+- **Requirements**: Sign up for the event on the [Hacktoberfest website](https://milvus.io/hacktoberfest-2021/)  and just start contributing to any open source project - it’s as simple as that! If you’re new to the open source world, no worries, we’ve got you covered with [Guide](https://discuss.milvus.io/t/join-hacktoberfest-2021-with-us/72). 
+   - By contributing to the Milvus project between October 1 and October 31 you’ll also earn some additional swag and prizes sponsored by Zilliz
+- **How to sign up**: 
+   - Sign up to [Hacktober Fest](https://hackathon-tracker.digitalocean.com/users/oauth/github?success_redirect=https://hacktoberfest.digitalocean.com/register/info&error_redirect=https://hacktoberfest.digitalocean.com/register)
+   - Join Discussions by creating [Milvus Forum Account](https://discuss.milvus.io/c/hacktoberfest/9) and interact with community members.
+- **Issues**: Issues are stated at Issues Section of [Hacktoberfest website](https://milvus.io/hacktoberfest-2021/).
+- **Notes**: Check out [Milvus Community Forum](https://discuss.milvus.io/c/hacktoberfest/9)
 
 ### 2 or more PRs
 
@@ -257,6 +284,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
+#### **Milvus**
+
+- **Swag**: a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt
+- **Requirements**: Sign up for the event on the [Hacktoberfest website](https://milvus.io/hacktoberfest-2021/)  and just start contributing to any open source project - it’s as simple as that! If you’re new to the open source world, no worries, we’ve got you covered with [Guide](https://discuss.milvus.io/t/join-hacktoberfest-2021-with-us/72). 
+   - By contributing to the Milvus project between October 1 and October 31 you’ll also earn some additional swag and prizes sponsored by Zilliz
+- **How to sign up**: 
+   - Sign up to [Hacktober Fest](https://hackathon-tracker.digitalocean.com/users/oauth/github?success_redirect=https://hacktoberfest.digitalocean.com/register/info&error_redirect=https://hacktoberfest.digitalocean.com/register)
+   - Join Discussions by creating [Milvus Forum Account](https://discuss.milvus.io/c/hacktoberfest/9) and interact with community members.
+- **Issues**: Issues are stated at Issues Section of [Hacktoberfest website](https://milvus.io/hacktoberfest-2021/).
+- **Notes**: Check out [Milvus Community Forum](https://discuss.milvus.io/c/hacktoberfest/9)
+
+
 ### 5 or more Merged PRs
 
 #### **Appsmith** (Surprise Box)
@@ -297,6 +336,21 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Custom mechanical keyboard
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
+
+#### **Milvus**
+
+- **Swag**: Logitech Pro X Keyboard (USD $149 value), a DJI Drone (USD $799 value), a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (For 2+ PRs)
+- **Requirements**: Sign up for the event on the [Hacktoberfest website](https://milvus.io/hacktoberfest-2021/)  and just start contributing to any open source project - it’s as simple as that! If you’re new to the open source world, no worries, we’ve got you covered with [Guide](https://discuss.milvus.io/t/join-hacktoberfest-2021-with-us/72). 
+   - By contributing to the Milvus project between October 1 and October 31 you’ll also earn some additional swag and prizes sponsored by Zilliz
+   - Swag tiers
+      - **For Top Contributor (Best Quality PR)** - A Logitech Pro X Keyboard (USD $149 value) and a physical Hacktoberfest badge.
+      - **For Grand Prize :trophy: (Most Difficult PR) :trophy:** - A DJI Drone (USD $799 value) if you complete at least 1 PR merged with the issue tagged #advanced .
+- **How to sign up**: 
+    - Sign up to [Hacktober Fest](https://hackathon-tracker.digitalocean.com/users/oauth/github?success_redirect=https://hacktoberfest.digitalocean.com/register/info&error_redirect=https://hacktoberfest.digitalocean.com/register)
+    - Join Discussions by creating [Milvus Forum Account](https://discuss.milvus.io/c/hacktoberfest/9) and interact with community members.
+- **Issues**: Issues are stated at Issues Section of [Hacktoberfest website](https://milvus.io/hacktoberfest-2021/).
+- **Notes**: Check out [Milvus Community Forum](https://discuss.milvus.io/c/hacktoberfest/9)
+
 
 ---
 
