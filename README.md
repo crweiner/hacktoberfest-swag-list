@@ -118,6 +118,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### M
 
+#### **Mattermost**
+
+- **Swag**: Custom mechanical keyboard, Limited edition stickers
+- **Requirements**:
+  - 1+ contributions to the Mattermost community: Limited edition stickers
+  - Top contributors: Custom mechanical keyboard
+- **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
+- **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
+
 #### **MeiliSearch**
 
 - **Swag**: reusable insulated water bottle, stickers
@@ -146,6 +155,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - A Demo app counts as **2 PRs ( or more based on complexity )**
   - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
+
+#### **Mattermost** (Stickers)
+
+- **Requirements**: 1+ contributions to the Mattermost community
+- **Swag**: Limited edition stickers
+- **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
+- **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
 ### 1 Merged PR
 
@@ -274,6 +290,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
+
+#### **Mattermost** (Custom mechanical keyboard)
+
+- **Requirements**: Top contributors will receive a custom mechanical keyboard.
+- **Swag**: Custom mechanical keyboard
+- **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
+- **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
 ---
 
