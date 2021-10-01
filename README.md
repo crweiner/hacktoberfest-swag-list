@@ -187,7 +187,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **PayPal**
 
 - **Swag**: PayPal socks, TimBuk2 Parkside Backpack
-- **Requirements**: 
+- **Requirements**:
   - 1+ contributions to [PayPal open source](https://github.com/paypal) (first 20 contributors): PayPal socks
   - 1 randomly selected contributor will get a backpack
 - **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
