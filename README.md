@@ -191,13 +191,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Bridgecrew** (Stickers)
 
-- **Requirements**:
-  - Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
- - **Swag**: stickers
-    - **1 PR**   - super ghoul sticker pack
+- **Requirements**: Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
+- **Swag**: stickers
+  - **1 PR**   - super ghoul sticker pack
 - **How to sign up**: - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 - **Notes**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
-  
 
 #### **LoginRadius** (T-shirt)
 
@@ -206,7 +204,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
 - **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
 - **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
-
 
 #### **Mattermost** (Stickers)
 
@@ -277,13 +274,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Bridgecrew** (T-shirt, stickers)
 
-- **Requirements**:
-  - Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
+- **Requirements**: Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
 - **Swag**
-    - **2+ accepted PRs** - wicked Bridgecrew t-shirt + previous tier
+  - **2+ accepted PRs** - wicked Bridgecrew t-shirt + previous tier
 - **How to sign up**: Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 - **Notes**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
-
 
 #### **CAMUNDA** (T-shirt, stickers)
 
