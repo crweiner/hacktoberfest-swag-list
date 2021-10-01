@@ -105,6 +105,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+### E
+
+#### **Earthly**
+
+- **Swag**: Stickers (limit 40)
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8).
+- **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
+
 ### G
 
 #### **Globo**
@@ -210,6 +219,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **Earthly** (Stickers)
+
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **Swag**: Stickers
+- **How to sign up**: Complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8). All PRs that are contributing value will get an Earthly sticker!
+- **Issues**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: If you need any assistance, [join thjeir Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
 
 ### 2 or more PRs
 
