@@ -87,7 +87,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **CAMUNDA**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 4 pull requests to any of the following repos: [bpm.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
+- **Requirements**: 4 pull requests to any of the following repos: [bpmn.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
 - **How to sign up**: Check out the [Camunda website](https://camunda.com/hacktoberfest2021/) for more details
 - **Notes**:
   - For your PR to count it must be:
@@ -101,9 +101,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: At least 3 stickers and a webcam cover. T-shirt for the top contributors.
 - **Requirements**: 1 merged pull request in an [eligible repo](https://www.datarequests.org/blog/hacktoberfest-2021/#repos) to get at least 3 stickers and a webcam cover (limited to 100 sets). The 10 best contributions get a t-shirt in addition to that.
-- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
+
+### E
+
+#### **Earthly**
+
+- **Swag**: Stickers (limit 40)
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8).
+- **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
 
 ### F
 
@@ -115,10 +124,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 3 merged/accepted PRs or a video: Flyte T-Shirt
   - 3+ merged/accepted PRs: Flyte T-Shirt + Mug / Voucher
   - Full-fledged integration or a blog: Voucher or "The North Face®" Flyte Jacket
-  - If your contribution adds value to Flyte heavily, we will customize your swag and add you as a Flyte contributor!
+  - If your contribution adds value to Flyte heavily, they will customize your swag and add you as a Flyte contributor!
 - **How to sign up**: Fill out [this](https://tally.so/r/3qPO7m) form after you are done with either of the challenges, on or before October 31st, 2021. Join Flyte's [Slack](https://docs.google.com/forms/d/e/1FAIpQLScWPJZncyL-bBCWbuQ9HWuMzA8-r2RJc__CSWJoAYUQADN-BQ/viewform) `#hacktoberfest2021` channel if you have any questions.
 - **Issues**: [Hacktoberfest-tagged Flyte issues](https://github.com/flyteorg/flyte/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest+)
-- **Notes**: Check out [our blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info. The first 15 contributors will get a mug irrespective of the number of merged pull requests.
+- **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info. The first 15 contributors will get a mug irrespective of the number of merged pull requests.
 
 ### G
 
@@ -130,6 +139,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Ensure that at least one pull request is merged.
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+### L
+
+#### **LoginRadius**
+
+- **Swag**: T-shirt
+- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
+- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
+- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
+- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
 
 ### M
 
@@ -171,6 +190,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
+#### **LoginRadius** (T-shirt)
+
+- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
+- **Swag**: T-shirt
+- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
+- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
+- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
+
 #### **Mattermost** (Stickers)
 
 - **Requirements**: 1+ contributions to the Mattermost community
@@ -195,7 +222,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
   - 1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets).
 - **Swag**: At least 3 stickers and a webcam cover; maybe a t-shirt (see below).
-- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
@@ -207,6 +234,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **Earthly** (Stickers)
+
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **Swag**: Stickers
+- **How to sign up**: Complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8). All PRs that are contributing value will get an Earthly sticker!
+- **Issues**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
 
 ### 2 or more PRs
 
@@ -232,7 +267,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **CAMUNDA** (T-shirt, stickers)
 
-- **Requirements**: 4 pull requests to any of the following repos: [bpm.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
+- **Requirements**: 4 pull requests to any of the following repos: [bpmn.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Check out the [Camunda website](https://camunda.com/hacktoberfest2021/) for more details
 - **Notes**:
@@ -271,7 +306,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 2+ merged/accepted PRs or a blog/video: Flyte T-Shirt, Flyte Mug, Voucher
 - **How to sign up**: Fill out [this](https://tally.so/r/3qPO7m) form after you are done with either of the challenges, on or before October 31st, 2021. Join Flyte's [Slack](https://docs.google.com/forms/d/e/1FAIpQLScWPJZncyL-bBCWbuQ9HWuMzA8-r2RJc__CSWJoAYUQADN-BQ/viewform) `#hacktoberfest2021` channel if you have any questions.
 - **Issues**: [Hacktoberfest-tagged Flyte issues](https://github.com/flyteorg/flyte/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest+)
-- **Notes**: Check out [our blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info.
+- **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info.
 
 #### **MeiliSearch** (water bottle, stickers)
 
@@ -311,7 +346,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
   - T-shirts are given out for the 10 best contributions as chosen by the maintainers.
 - **Swag**: At least 3 stickers and a webcam cover (see above);  T-shirt for top contributors.
-- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
