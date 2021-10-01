@@ -110,7 +110,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Flyte**
 
 - **Swag**: T-Shirts, Mugs, Limited Edition "The North Face" Jackets!
-- **Requirements**: 
+- **Requirements**:
   - 2 merged/accepted PRs: Flyte Mug
   - 3 merged/accepted PRs or a video: Flyte T-Shirt
   - 3+ merged/accepted PRs: Flyte T-Shirt + Mug / Voucher
@@ -118,7 +118,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - If your contribution adds value to Flyte heavily, we will customize your swag and add you as a Flyte contributor!
 - **How to sign up**: Fill out [this](https://tally.so/r/3qPO7m) form after you are done with either of the challenges, on or before October 31st, 2021.
 - **Issues**: [Hacktoberfest-tagged Flyte issues](https://github.com/flyteorg/flyte/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest+)
-- **Notes**: Check out [our blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info. The first 15 contributors will get a mug irrespective of the number of merged pull requests. 
+- **Notes**: Check out [our blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info. The first 15 contributors will get a mug irrespective of the number of merged pull requests.
 
 ### G
 
