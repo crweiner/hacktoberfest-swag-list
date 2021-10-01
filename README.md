@@ -135,7 +135,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
-
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
