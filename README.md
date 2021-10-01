@@ -116,6 +116,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
+### L
+
+#### **LoginRadius**
+
+- **Swag**: T-shirt
+- **Requirements**:
+  - Contribute to pull requests in any in any [issue list](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **How to sign up**: Check out the [LoginRadius Blog Post](https://www.loginradius.com/blog/async/hacktoberfest-2021/) for more details.
+- **Notes**: The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
+
 ### M
 
 #### **Mattermost**
@@ -192,6 +203,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **LoginRadius**
+
+- **Swag**: T-shirt
+- **Requirements**:
+  - Contribute to pull requests in any in any [issue list](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **How to sign up**: Check out the [LoginRadius Blog Post](https://www.loginradius.com/blog/async/hacktoberfest-2021/) for more details.
+- **Notes**: The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
 
 ### 2 or more PRs
 

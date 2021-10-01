@@ -142,6 +142,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Christy Jacob](https://github.com/christyjacob4)
 - [Mcvean Soans](https://github.com/McTechie)
 - [Rohit Mathew](https://github.com/rohitjmathew)
+- [Soumik Ghosh](https://github.com/araon)
 
 ---
 
