@@ -71,6 +71,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
+#### **AutoDL**
+
+- **Swag**: T-shirt, stickers, bonus swag
+- **Requirements**: Submit valid Pull Requests to close Issues labelled `hacktoberfest` in [AutoDL respositories](https://github.com/Auto-DL/Auto-DL).
+- **How to sign up**: Join AutoDL's [Slack](https://join.slack.com/t/autodl/shared_invite/zt-qagxiwub-ywRM_oBvvF~F7YNtlBqy_Q) Workspace and start contributing!
+- **Issues**: Check out the Issues at [Auto-DL/Auto-DL](https://github.com/Auto-DL/Auto-DL/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)!
+- **Notes**:
+  - For more details, read [this blog](https://dev.to/mctechie/autodl-celebrates-hacktoberfest-2021-25da)!
+  - Any Issues not addressed on GitHub may be discussed on AutoDL's Slack Workspace.
+  - For details regarding upcoming events and talks, kindly fill this [Form](https://forms.gle/46bVCcRGrYbf3jQe9)!
+
 ### C
 
 #### **CAMUNDA**
@@ -222,6 +233,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
 
 ### Top Contributors
+
+#### **AutoDL** (T-shirt, stickers, bonus swag)
+
+- **Requirements**: Submit valid Pull Requests to close Issues labelled `hacktoberfest` in [AutoDL respositories](https://github.com/Auto-DL/Auto-DL).
+- **Swag**: T-shirt, stickers, bonus swag
+- **How to sign up**: Join AutoDL's [Slack](https://join.slack.com/t/autodl/shared_invite/zt-qagxiwub-ywRM_oBvvF~F7YNtlBqy_Q) Workspace and start contributing!
+- **Issues**: Check out the Issues at [Auto-DL/Auto-DL](https://github.com/Auto-DL/Auto-DL/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)!
+- **Notes**:
+  - For more details, read [this blog](https://dev.to/mctechie/autodl-celebrates-hacktoberfest-2021-25da)!
+  - Any Issues not addressed on GitHub may be discussed on AutoDL's Slack Workspace.
+  - For details regarding upcoming events and talks, kindly fill this [Form](https://forms.gle/46bVCcRGrYbf3jQe9)!
 
 #### **Datenanfragen.de e. V.** (T-shirt)
 
