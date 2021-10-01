@@ -105,6 +105,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+### G
+
+#### **Globo**
+
+- **Swag**: T-shirt
+- **Requirements**:
+  - Contribute to two pull requests in any in any [eligible repo](https://hacktoberfest.globo.com/projetos/) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
 ### M
 
 #### **MeiliSearch**
@@ -156,6 +167,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
+
+#### **Globo** (T-shirt, Brazil only)
+
+- **Requirements**:
+  - Contribute to two pull requests in any in any [eligible repo](https://hacktoberfest.globo.com/projetos/) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **Swag**: T-shirt
+- **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
+- **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
 ### 2 or more PRs
 

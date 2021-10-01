@@ -141,6 +141,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Ferdinand Boas](https://github.com/ferdi05/)
 - [Christy Jacob](https://github.com/christyjacob4)
 - [Mcvean Soans](https://github.com/McTechie)
+- [Rohit Mathew](https://github.com/rohitjmathew)
 
 ---
 
