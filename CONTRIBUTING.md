@@ -143,6 +143,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Mcvean Soans](https://github.com/McTechie)
 - [Rohit Mathew](https://github.com/rohitjmathew)
 - [Biplob Sutradhar](https://github.com/biplobsd)
+- [Sidharth Sethi](https://github.com/TechSpiritSS)
 
 ---
 
