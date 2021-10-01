@@ -87,7 +87,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **CAMUNDA**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 4 pull requests to any of the following repos: [bpm.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
+- **Requirements**: 4 pull requests to any of the following repos: [bpmn.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
 - **How to sign up**: Check out the [Camunda website](https://camunda.com/hacktoberfest2021/) for more details
 - **Notes**:
   - For your PR to count it must be:
@@ -101,7 +101,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: At least 3 stickers and a webcam cover. T-shirt for the top contributors.
 - **Requirements**: 1 merged pull request in an [eligible repo](https://www.datarequests.org/blog/hacktoberfest-2021/#repos) to get at least 3 stickers and a webcam cover (limited to 100 sets). The 10 best contributions get a t-shirt in addition to that.
-- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
@@ -207,7 +207,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
   - 1 merged pull request to get at least 3 stickers and a webcam cover (limited to 100 sets).
 - **Swag**: At least 3 stickers and a webcam cover; maybe a t-shirt (see below).
-- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
@@ -252,7 +252,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **CAMUNDA** (T-shirt, stickers)
 
-- **Requirements**: 4 pull requests to any of the following repos: [bpm.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
+- **Requirements**: 4 pull requests to any of the following repos: [bpmn.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
 - **Swag**: T-shirt, stickers
 - **How to sign up**: Check out the [Camunda website](https://camunda.com/hacktoberfest2021/) for more details
 - **Notes**:
@@ -322,7 +322,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Eligible repositories include most repos of the datenanfragen organization. They are listed [here](https://www.datarequests.org/blog/hacktoberfest-2021/#repos).
   - T-shirts are given out for the 10 best contributions as chosen by the maintainers.
 - **Swag**: At least 3 stickers and a webcam cover (see above);  T-shirt for top contributors.
-- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
+- **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
