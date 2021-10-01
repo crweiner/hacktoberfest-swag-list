@@ -94,6 +94,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+### M
+
+#### **MeiliSearch**
+
+- **Swag**: reusable insulated water bottle, stickers
+- **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
+- **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+- **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
+- **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
@@ -191,6 +201,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+#### **MeiliSearch** (water bottle, stickers)
+
+- **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
+- **Swag**: reusable insulated water bottle, stickers
+- **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+- **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
+- **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
 ### 5 or more Merged PRs
 
