@@ -103,6 +103,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1+ contributions to the Mattermost community: Limited edition stickers
   - Top contributors: Custom mechanical keyboard
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
+- **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
 ## Least Involvement to Most Involvement
 
@@ -130,6 +131,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: 1+ contributions to the Mattermost community
 - **Swag**: Limited edition stickers
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
+- **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
 ### 1 Merged PR
 
@@ -233,9 +235,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Mattermost** (Custom mechanical keyboard)
 
-- **Requirements**: 1+ contributions to the Mattermost community. Top contributors will receive a custom mechanical keyboard.
+- **Requirements**: Top contributors will receive a custom mechanical keyboard.
 - **Swag**: Custom mechanical keyboard
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
+- **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
 ---
 
