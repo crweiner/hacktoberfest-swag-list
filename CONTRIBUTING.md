@@ -138,7 +138,9 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Chandler Weiner](https://github.com/crweiner/)
 - [Benjamin Altpeter](https://github.com/baltpeter/)
 - [Pranjal Mishra](https://github.com/Pranjalmishra30)
+- [Ferdinand Boas](https://github.com/ferdi05/)
 - [Christy Jacob](https://github.com/christyjacob4)
+- [Mcvean Soans](https://github.com/McTechie)
 - [Rohit Mathew](https://github.com/rohitjmathew)
 
 ---
