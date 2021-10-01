@@ -87,7 +87,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **CAMUNDA**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 4 pull requests to any of the following repos: [bpm.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
+- **Requirements**: 4 pull requests to any of the following repos: [bpmn.io](https://github.com/bpmn-io), [camunda-modeller](https://github.com/camunda/camunda-modeler) and the [Camunda community hub](https://github.com/camunda-community-hub)
 - **How to sign up**: Check out the [Camunda website](https://camunda.com/hacktoberfest2021/) for more details
 - **Notes**:
   - For your PR to count it must be:
