@@ -135,6 +135,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 ## 2021 Contributors
 
+- [Auron Hines](https://github.com/Mou-Ikkai)
 - [Chandler Weiner](https://github.com/crweiner/)
 - [Benjamin Altpeter](https://github.com/baltpeter/)
 - [Pranjal Mishra](https://github.com/Pranjalmishra30)
