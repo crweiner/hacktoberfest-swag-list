@@ -145,21 +145,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
-#### **MojoAuth**
+### S
 
-- **Swag**: (Get featured on their website)
-- **Requirements**: (Contribute to their repos listed on the below link)
-- **How to sign up**: (You don't have to signup separately. Just fill up their [contributor form](https://mojoauth.com/hactoberfest#opensource) with your PR links)
-- **Notes**: (More details can be found [here](https://mojoauth.com/hactoberfest#opensource))
+#### **Supabase**
 
-### O
-
-#### **Ortelius**
-
-- **Swag**: (Some limited edition Supabase swag)
-- **Requirements**: (Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021)
-- **How to sign up**: (Join their [Discord server](https://discord.gg/bnncdqgBSS))
-- **Notes**: (More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021))
+- **Swag**: Some limited edition Supabase swag
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021
+- **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
+- **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
 ## Least Involvement to Most Involvement
 
@@ -332,6 +325,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
+#### **Supabase**
+
+- **Swag**: Some limited edition Supabase swag
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021
+- **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
+- **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
