@@ -105,6 +105,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+### E
+
+#### **Eduhub Community**
+
+- **Swag**: Headcap, stickers, and a 50 dollar Amazon Voucher
+- **Requirements**: Contribute proper PRs that follow the Hacktoberfest and Eduhub Community contribution guidelines into one of the [many repos](https://github.com/Eduhub-Community) available. Only the number one contributor will gain the swag listed above.
+- **Issues**: You can view currently active issues [here](https://github.com/search?q=user%3Aeduhub-Community+type%3Aissue+state%3Aopen&type=Issues).
+- **Notes**: As listed before, only the number one contributor shall recieve the swag listed above!
+
 ### G
 
 #### **Globo**
@@ -290,6 +299,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2020) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
+
+#### **Eduhub Community** (Headcap, stickers, 50 dollar Amazon Voucher)
+
+- **Swag**: Headcap, stickers, and a 50 dollar Amazon Voucher
+- **Requirements**: Contribute proper PRs that follow the Hacktoberfest and Eduhub Community contribution guidelines into one of the [many repos](https://github.com/Eduhub-Community) available. Only the number one contributor will gain the swag listed above.
+- **Issues**: You can view currently active issues [here](https://github.com/search?q=user%3Aeduhub-Community+type%3Aissue+state%3Aopen&type=Issues).
+- **Notes**: As listed before, only the number one contributor shall recieve the swag listed above!
 
 #### **Mattermost** (Custom mechanical keyboard)
 
