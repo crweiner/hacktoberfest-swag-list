@@ -82,6 +82,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Any Issues not addressed on GitHub may be discussed on AutoDL's Slack Workspace.
   - For details regarding upcoming events and talks, kindly fill this [Form](https://forms.gle/46bVCcRGrYbf3jQe9)!
 
+### B
+
+#### **Bridgecrew**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**:
+  - Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
+  - Swag Tiers
+    - **1 accepted PR**   - super ghoul sticker pack
+    - **2+ accepted PRs**  - wicked Bridgecrew t-shirt + previous tier
+- **How to sign up**: Check out the [Globo website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
+- **Notes**: 
+  - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
+
 ### C
 
 #### **CAMUNDA**
