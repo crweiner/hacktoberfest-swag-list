@@ -128,6 +128,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8).
 - **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
 
+### F
+
+#### **Flyte**
+
+- **Swag**: T-Shirts, Mugs, Vouchers, Limited Edition "The North Face®" Jackets!
+- **Requirements**:
+  - 2 merged/accepted PRs: Flyte Mug
+  - 3 merged/accepted PRs or a video: Flyte T-Shirt
+  - Full-fledged integration or a blog: Voucher or "The North Face®" Flyte Jacket
+  - If your contribution adds value to Flyte heavily, they will customize your swag and add you as a Flyte contributor!
+- **How to sign up**: Fill out [this](https://tally.so/r/3qPO7m) form after you are done with either of the challenges, on or before October 31st, 2021. Join Flyte's [Slack](https://docs.google.com/forms/d/e/1FAIpQLScWPJZncyL-bBCWbuQ9HWuMzA8-r2RJc__CSWJoAYUQADN-BQ/viewform) `#hacktoberfest2021` channel if you have any questions.
+- **Issues**: [Hacktoberfest-tagged Flyte issues](https://github.com/flyteorg/flyte/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest+)
+- **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info. The first 15 contributors will get a mug irrespective of the number of merged pull requests.
+
 ### G
 
 #### **Globo**
@@ -313,6 +327,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+#### **Flyte** (Mugs, T-Shirts, Vouchers)
+
+- **Requirements**:
+  - 2 merged/accepted PRs: Flyte Mug
+  - 3+ merged/accepted PRs or a blog/video: Flyte T-Shirt
+  - Full-fledged flytekit integration or a blog: Voucher or The North Face® jacket
+- **How to sign up**: Fill out [this](https://tally.so/r/3qPO7m) form after you are done with either of the challenges, on or before October 31st, 2021. Join Flyte's [Slack](https://docs.google.com/forms/d/e/1FAIpQLScWPJZncyL-bBCWbuQ9HWuMzA8-r2RJc__CSWJoAYUQADN-BQ/viewform) `#hacktoberfest2021` channel if you have any questions.
+- **Issues**: [Hacktoberfest-tagged Flyte issues](https://github.com/flyteorg/flyte/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest+)
+- **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info.
 
 #### **MeiliSearch** (water bottle, stickers)
 
