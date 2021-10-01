@@ -96,6 +96,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 
+#### **Bitrise**
+
+- **Swag**: Plushie, Socks, Magnet
+- **Requirements**: 4 Pull Requests to Bitrise repositories
+- **How to sign up**: [Bitrise Website](https://blog.bitrise.io/post/hacktoberfest-2021-at-bitrise-join-the-challenge-and-win-awesome-swag)
+- **Notes**: We’ve always been passionate about open source initiatives and involving the mobile developer community when it comes to building our service: this is why we didn’t hesitate to join Hacktoberfest 2021 organized by DigitalOcean. This year you can contribute to your favorite mobile CI/CD platform, have a great impact on our service, and win amazing swags.
+
 ### C
 
 #### **CAMUNDA**
@@ -108,6 +115,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Submitted in a Camunda repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
+
+#### **CD FOUNDATION**
+
+- **Swag**: Limited Edition Swag
+- **Requirements**: 10 Pull Requests to CD Foundation repositories
+- **How to sign up**: [CD Foundation Website](https://cd.foundation/hacktoberfest/)
+- **Notes**: The CDF and its projects are participating in Hacktoberfest 2021 again this year. Each CDF project has unique contribution guidelines. At the end of Hacktoberfest, top contributors will receive CDF SWAG!
 
 ### D
 
