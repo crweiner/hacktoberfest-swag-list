@@ -394,6 +394,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
+#### **ArchivesSpace** (ArchivesSpace Swag Bag)
+
+- **Requirements**: Become the top contributor.
+- **Swag**: ArchivesSpace Swag Bag.
+- **How to sign up**: No additional sign up is required.
+- **Notes**: To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
