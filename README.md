@@ -74,7 +74,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **AutoDL**
 
 - **Swag**: T-shirt, stickers, bonus swag
-- **Requirements**: Submit valid Pull Requests to close Issues labelled `hacktoberfest` in [AutoDL respositories](https://github.com/Auto-DL/Auto-DL).
+- **Requirements**: Submit valid Pull Requests to close Issues labelled `hacktoberfest` in [AutoDL repositories](https://github.com/Auto-DL/Auto-DL).
 - **How to sign up**: Join AutoDL's [Slack](https://join.slack.com/t/autodl/shared_invite/zt-qagxiwub-ywRM_oBvvF~F7YNtlBqy_Q) Workspace and start contributing!
 - **Issues**: Check out the Issues at [Auto-DL/Auto-DL](https://github.com/Auto-DL/Auto-DL/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)!
 - **Notes**:
@@ -361,7 +361,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **AutoDL** (T-shirt, stickers, bonus swag)
 
-- **Requirements**: Submit valid Pull Requests to close Issues labelled `hacktoberfest` in [AutoDL respositories](https://github.com/Auto-DL/Auto-DL).
+- **Requirements**: Submit valid Pull Requests to close Issues labelled `hacktoberfest` in [AutoDL repositories](https://github.com/Auto-DL/Auto-DL).
 - **Swag**: T-shirt, stickers, bonus swag
 - **How to sign up**: Join AutoDL's [Slack](https://join.slack.com/t/autodl/shared_invite/zt-qagxiwub-ywRM_oBvvF~F7YNtlBqy_Q) Workspace and start contributing!
 - **Issues**: Check out the Issues at [Auto-DL/Auto-DL](https://github.com/Auto-DL/Auto-DL/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)!
