@@ -189,6 +189,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
+#### **Milvus**
+
+- **Swag**: drone, stickers pack, t-shirt, keyboard
+- **Requirements**:
+  - 1 merged PR to receive a sticker pack & a digital Milvus contributor badge.
+  - 2+ merged PRs to receive a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants).
+  - A Logitech Pro X Keyboard and a physical Hacktoberfest badge if recognized as Top Contributor (Best Quality PR).
+  - A DJI Drone if you complete at least 1 PR merged with the issue tagged #advanced and is awarded the Grand Prize (Most Difficult PR).
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details
+- **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
+- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details
+
 ### P
 
 #### **PayPal**
@@ -266,6 +278,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+#### **Earthly** (Stickers)
+
+- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
+- **Swag**: Stickers
+- **How to sign up**: Complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8). All PRs that are contributing value will get an Earthly sticker!
+- **Issues**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
+
 #### **Globo** (T-shirt, Brazil only)
 
 - **Requirements**:
@@ -275,13 +295,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
-#### **Earthly** (Stickers)
+#### **Milvus** (sticker pack, a digital Milvus badge)
 
-- **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
-- **Swag**: Stickers
-- **How to sign up**: Complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8). All PRs that are contributing value will get an Earthly sticker!
-- **Issues**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
+- **Requirements**:
+  - Contribute to the eligible repos: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **Swag**: sticker pack, a digital Milvus contributor badge.
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Notes**: - Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 
 #### **PayPal** (socks, backpack)
 
@@ -373,6 +394,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
+#### **Milvus** (a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants))
+
+- **Requirements**: 2+ pull requests merged.
+- **Swag**: a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants).
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
+- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+
 ### 5 or more Merged PRs
 
 #### **Appsmith** (Surprise Box)
@@ -420,6 +449,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Custom mechanical keyboard
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
+
+#### **Milvus** (A Logitech Pro X Keyboard and a physical Hacktoberfest badge, or a DJI drone)
+
+- **Requirements**:
+  - A Logitech Pro X Keyboard and a physical Hacktoberfest badge if recognized as Top Contributor (Best Quality PR).
+  - A DJI Drone if you complete at least 1 PR merged with the issue tagged #advanced and is awarded the Grand Prize (Most Difficult PR).
+- **Swag**: A Logitech Pro X Keyboard and a physical Hacktoberfest badge, or a DJI drone.
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
+- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 
 ---
 
