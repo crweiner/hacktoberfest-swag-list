@@ -76,7 +76,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: ArchivesSpace swag bag
 - **Requirements**: Become top contributor on [ArchivesSpace](https://github.com/archivesspace/archivesspace) repo.
 - **How to sign up**: No additional sign up is required.
-- **Notes**: To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
+- **Notes**: Read their [blog post here](https://archivesspace.org/archives/7147). To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
 
 #### **AutoDL**
 
@@ -399,7 +399,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Become the top contributor.
 - **Swag**: ArchivesSpace Swag Bag.
 - **How to sign up**: No additional sign up is required.
-- **Notes**: To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
+- **Notes**: Read their [blog post here](https://archivesspace.org/archives/7147). To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
 
 ---
 
