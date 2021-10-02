@@ -119,13 +119,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Codedamn**
 
 - **Swag**: T-shirt
-- **Requirements**: 1 pull requests to the following repo: [Codedamn](https://github.com/codedamn/codedamn-hacktoberfest-projects)
+- **Requirements**:  1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
 - **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
-- **Notes**:
-  - For your PR to count it must be:
-    - Submitted in a Codedamn repo, AND
-    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
-  - if the pull request gets accepted you'll get the official CODEDAMN SWAGS/MERCH!
+- **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
 
 ### D
 
@@ -281,14 +277,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Codedamn** (T-shirt)
 
+- **Requirements**: 1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
 - **Swag**: T-shirt
-- **Requirements**: 1 pull requests to the following repo: [Codedamn](https://github.com/codedamn/codedamn-hacktoberfest-projects)
 - **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
-- **Notes**:
-  - For your PR to count it must be:
-    - Submitted in a Codedamn repo, AND
-    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
-  - if the pull request gets accepted you'll get the official CODEDAMN SWAGS/MERCH!
+- **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
 
 #### **Datenanfragen.de e. V.** (stickers, webcam cover)
 
