@@ -19,6 +19,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ---
 
+## The 2021 Hacktoberfest Swag List is supported by Appwrite
+[![appwritelogo](/img/logo-1.svg)](https://hacktoberfest.appwrite.io?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
+
+#### Appwrite is an official sponsor of [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com) as well as the Hacktoberfest Swag List repository!
+
+#### Click their logo above to check out all of their unique swag for Hacktoberfest!
+
+---
+
 ## Swag List 2021
 
 ### **The Original - DigitalOcean, Appwrite, Intel, and Deepsource**
