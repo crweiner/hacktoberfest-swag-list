@@ -138,10 +138,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Milvus**
 
 - **Swag**: drone, stickers pack, t-shirt, keyboard
-- **Requirements**: 
-  - 1 merged PR to receive a sticker pack & a digital Milvus contributor badge (for you to showcase on your LinkedIn profile). 
-  - 2+ merged PRs to receive a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants). 
-  - A Logitech Pro X Keyboard (USD $149 value) and a physical Hacktoberfest badge if recognized as Top Contributor (Best Quality PR). 
+- **Requirements**:
+  - 1 merged PR to receive a sticker pack & a digital Milvus contributor badge (for you to showcase on your LinkedIn profile).
+  - 2+ merged PRs to receive a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants).
+  - A Logitech Pro X Keyboard (USD $149 value) and a physical Hacktoberfest badge if recognized as Top Contributor (Best Quality PR).
   - A DJI Drone (USD $799 value) if you complete at least 1 PR merged with the issue tagged #advanced and is awarded the Grand Prize (Most Difficult PR).
 - **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
