@@ -205,6 +205,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
+#### **Milvus** (sticker pack, a digital Milvus contributor badge & A DJI Drone (USD $799 value))
+
+- **Requirements**:
+  - Contribute to the eligible repos: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST) during the month of October.
+  - Ensure that at least one pull request is merged.
+- **Swag**: sticker pack, a digital Milvus contributor badge & A DJI Drone (USD $799 value).
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Notes**:
+  - Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+  - You have to complete at least 1 PR merged with the issue tagged #advanced to win the DJI Drone (USD $799 value) (Most Difficult PR).
+
 ### 2 or more PRs
 
 #### **Appwrite** (Limited Edition T-shirts, Stickers & Coffee Mugs!)
@@ -269,6 +280,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
+#### **Milvus** (a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants))
+
+- **Requirements**: 1 pull request merged.
+- **Swag**: a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants).
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
+- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+
 ### 5 or more Merged PRs
 
 #### **Appsmith** (Surprise Box)
@@ -309,6 +328,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Custom mechanical keyboard
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
+
+#### **Milvus** (A Logitech Pro X Keyboard (USD $149 value) and a physical Hacktoberfest badge)
+
+- **Requirements**: Become the top contributor.
+- **Swag**: A Logitech Pro X Keyboard (USD $149 value) and a physical Hacktoberfest badge.
+- **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
+- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 
 ---
 
