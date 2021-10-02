@@ -182,6 +182,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
+### P
+
+#### **PayPal**
+
+- **Swag**: PayPal socks, TimBuk2 Parkside Backpack
+- **Requirements**:
+  - 1+ contributions to [PayPal open source](https://github.com/paypal) (first 20 contributors): PayPal socks
+  - 1 randomly selected contributor will get a backpack
+- **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
+- **Issues**: Check the [repos list](https://github.com/paypal/hacktoberfest#repos) on the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page
+- **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
@@ -263,6 +275,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8). All PRs that are contributing value will get an Earthly sticker!
 - **Issues**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
+
+#### **PayPal** (socks, backpack)
+
+- **Requirements**: 1 approved pull request for a "hacktoberfest" issue in one of [PayPal's repos](https://github.com/paypal)
+- **Swag**: PayPal socks, TimBuk2 Parkside Backpack (socks limited to first 20 contributors, one random contributor gets a backpack)
+- **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
+- **Issues**: [Hacktoberfest repos/issues](https://github.com/paypal/hacktoberfest#repos)
+- **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
 
 ### 2 or more PRs
 
