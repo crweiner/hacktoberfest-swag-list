@@ -366,6 +366,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Top Contributors
 
+#### **ArchivesSpace** (ArchivesSpace Swag Bag)
+
+- **Requirements**: Become the top contributor.
+- **Swag**: ArchivesSpace Swag Bag.
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Read their [blog post here](https://archivesspace.org/archives/7147). To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
+
 #### **AutoDL** (T-shirt, stickers, bonus swag)
 
 - **Requirements**: Submit valid Pull Requests to close Issues labelled `hacktoberfest` in [AutoDL respositories](https://github.com/Auto-DL/Auto-DL).
@@ -393,13 +400,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Custom mechanical keyboard
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
-
-#### **ArchivesSpace** (ArchivesSpace Swag Bag)
-
-- **Requirements**: Become the top contributor.
-- **Swag**: ArchivesSpace Swag Bag.
-- **How to sign up**: No additional sign up is required.
-- **Notes**: Read their [blog post here](https://archivesspace.org/archives/7147). To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
 
 ---
 
