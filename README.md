@@ -222,6 +222,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check the [repos list](https://github.com/paypal/hacktoberfest#repos) on the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page
 - **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
 
+### S
+
+#### **Supabase**
+
+- **Swag**: Some limited edition Supabase swag, possibly t-shirt based on their swag from last year.
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021
+- **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
+- **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
@@ -468,6 +477,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+
+#### **Supabase** (Unnamed swag, possibly t-shirt)
+
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021.
+- **Swag**: Some limited edition Supabase swag, possibly t-shirt based on reward from last year.
+- **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
+- **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
 ---
 
