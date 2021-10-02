@@ -144,6 +144,8 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Rohit Mathew](https://github.com/rohitjmathew)
 - [Biplob Sutradhar](https://github.com/biplobsd)
 - [Amy Egan](https://github.com/amyegan)
+- [Mridul Birla](https://github.com/Mridulbirla13)
+
 
 ---
 
