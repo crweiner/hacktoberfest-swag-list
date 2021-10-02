@@ -71,6 +71,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
+#### **ArchivesSpace**
+
+- **Swag**: ArchivesSpace swag bag
+- **Requirements**: Become top contributor on [ArchivesSpace](https://github.com/archivesspace/archivesspace) repo.
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Read their [blog post here](https://archivesspace.org/archives/7147). To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
+
 #### **AutoDL**
 
 - **Swag**: T-shirt, stickers, bonus swag
@@ -378,6 +385,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
 
 ### Top Contributors
+
+#### **ArchivesSpace** (ArchivesSpace Swag Bag)
+
+- **Requirements**: Become the top contributor.
+- **Swag**: ArchivesSpace Swag Bag.
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Read their [blog post here](https://archivesspace.org/archives/7147). To learn more about submitting a pull request for ArchivesSpace specifically, visit their [wiki](https://archivesspace.atlassian.net/wiki/spaces/ADC/pages/39682053/Submitting+a+Pull+Request).
 
 #### **AutoDL** (T-shirt, stickers, bonus swag)
 
