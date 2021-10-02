@@ -115,7 +115,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Submitted in a Camunda repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
-  
+
 #### **Codedamn**
 
 - **Swag**: T-shirt
@@ -289,7 +289,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Submitted in a Codedamn repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - if the pull request gets accepted you'll get the official CODEDAMN SWAGS/MERCH!
-
 
 #### **Datenanfragen.de e. V.** (stickers, webcam cover)
 
