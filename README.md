@@ -125,6 +125,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
+#### **Codedamn**
+
+- **Swag**: T-shirt
+- **Requirements**:  1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
+- **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
+- **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -285,6 +292,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+#### **Codedamn** (T-shirt)
+
+- **Requirements**: 1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
+- **Swag**: T-shirt
+- **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
+- **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
 
 #### **Datenanfragen.de e. V.** (stickers, webcam cover)
 
