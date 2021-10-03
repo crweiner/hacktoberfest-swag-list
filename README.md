@@ -255,7 +255,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 2pts for each PR opened
   - 5pts for successfull PR merge by the maintainers
   - After completing PR fill the required form [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
-- **How to sign up**: Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time)).
+- **How to sign up**: Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time).
 - **Issues**: Check organization [StackBuilders Github](https://github.com/stackbuilders) on Github and look for hacktoberfest topic marked repository.
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
@@ -403,7 +403,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 75$
   - 50$
 - **How to sign up**:
-  - Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time)).
+  - Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time).
   - After completing PR fill the required form to claim the swags [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
 
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
