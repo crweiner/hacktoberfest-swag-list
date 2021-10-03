@@ -277,14 +277,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 - **Notes**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
 
-#### **LoginRadius** (T-shirt)
-
-- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
-- **Swag**: T-shirt
-- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
-- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
-- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
-
 #### **Mattermost** (Stickers)
 
 - **Requirements**: 1+ contributions to the Mattermost community
@@ -336,6 +328,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **LoginRadius** (T-shirt)
+
+- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
+- **Swag**: T-shirt
+- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
+- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
+- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
 
 #### **Milvus** (sticker pack, a digital Milvus badge)
 
