@@ -231,6 +231,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### S
 
+#### **Stack Builders**
+
+- **Swag**: Amazon Gift Cards
+- **Requirements**:
+  Contribute in any of the repositories here [StackBuilders Github](https://github.com/stackbuilders) marked with hacktoberfest topic.
+  - 1pt for each issue opened
+  - 2pts for each PR opened
+  - 5pts for successfull PR merge by the maintainers
+  - After completing PR fill the required form [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
+- **How to sign up**: Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time)).
+- **Issues**: Check organization [StackBuilders Github](https://github.com/stackbuilders) on Github and look for hacktoberfest topic marked repository.
+- **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
+
 #### **Supabase**
 
 - **Swag**: Some limited edition Supabase swag, possibly t-shirt based on their swag from last year.
@@ -353,6 +366,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
 - **Issues**: [Hacktoberfest repos/issues](https://github.com/paypal/hacktoberfest#repos)
 - **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
+
+#### **Stack Builders** (Amazon Gift Card)
+
+- **Requirements**: Contribute in any of the repositories here [StackBuilders Github](https://github.com/stackbuilders) marked with hacktoberfest topic.
+- **Swag**: Amazon Gift Cards
+  - 100$
+  - 75$
+  - 50$
+- **How to sign up**:
+  - Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time)).
+  - After completing PR fill the required form to claim the swags [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
+
+- **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
 ### 2 or more PRs
 

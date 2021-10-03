@@ -146,6 +146,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Amy Egan](https://github.com/amyegan)
 - [Sidharth Sethi](https://github.com/TechSpiritSS)
 - [Mridul Birla](https://github.com/Mridulbirla13)
+- [Anurag Yadav](https://github.com/AnuragYadav365)
 
 ---
 
