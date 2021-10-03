@@ -147,7 +147,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Sidharth Sethi](https://github.com/TechSpiritSS)
 - [Mridul Birla](https://github.com/Mridulbirla13)
 - [Anurag Yadav](https://github.com/AnuragYadav365)
-
+- [Naruepanart Siangsanan](https://github.com/naruepanart)
 ---
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
