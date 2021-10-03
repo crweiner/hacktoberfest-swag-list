@@ -217,6 +217,21 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details
 
+### N
+
+#### **NativeScript**
+
+- **Swag**: Shirts, Socks, Stress balls, bottle openers and more
+- **Requirements**: Contribution can be in any of these forms:
+  - Create a repo of anything you find fun or neat about NativeScript (small or large).
+  - Create a video showing off your NativeScript skills.
+  - Post a PR for an issue in any [NativeScript Repository](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+  - Share a gist of neat NativeScript code you find useful.
+  - Create a NativeScript plugin.
+- **How to sign up**: Tweet about your contribution and mention [@NativeScript](https://twitter.com/NativeScript), then DM us with your address to get free swag.
+- **Issues**: For making PR's check these [Native Script Hactoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+- **Notes**: Sending swags all around the world. To know more check [NativeScript Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html)
+
 ### P
 
 #### **PayPal**
@@ -230,6 +245,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
 
 ### S
+
+#### **Stack Builders**
+
+- **Swag**: Amazon Gift Cards
+- **Requirements**:
+  Contribute in any of the repositories here [StackBuilders Github](https://github.com/stackbuilders) marked with hacktoberfest topic.
+  - 1pt for each issue opened
+  - 2pts for each PR opened
+  - 5pts for successfull PR merge by the maintainers
+  - After completing PR fill the required form [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
+- **How to sign up**: Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time).
+- **Issues**: Check organization [StackBuilders Github](https://github.com/stackbuilders) on Github and look for hacktoberfest topic marked repository.
+- **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
 #### **Supabase**
 
@@ -346,6 +374,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 - **Notes**: - Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 
+#### **NativeScript** (Shirts, Socks, Stress balls, bottle openers)
+
+- **Requirements**: Contribution can be in any of these forms:
+  - Create a repo of anything you find fun or neat about NativeScript (small or large).
+  - Create a video showing off your NativeScript skills.
+  - Post a PR for an issue in any [NativeScript's Repository](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+  - Share a gist of neat NativeScript code you find useful.
+  - Create a NativeScript plugin.
+- **Swag**: Shirts, Socks, Stress balls, bottle openers and more
+- **How to sign up**: Tweet about your contribution and mention [@NativeScript](https://twitter.com/NativeScript), then DM us with your address to get free swag.
+- **Issues**: For making PR's check these [Native Script Hactoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+- **Notes**: To know more check [NativeScript's Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html).
+
 #### **PayPal** (socks, backpack)
 
 - **Requirements**: 1 approved pull request for a "hacktoberfest" issue in one of [PayPal's repos](https://github.com/paypal)
@@ -353,6 +394,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
 - **Issues**: [Hacktoberfest repos/issues](https://github.com/paypal/hacktoberfest#repos)
 - **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
+
+#### **Stack Builders** (Amazon Gift Card)
+
+- **Requirements**: Contribute in any of the repositories here [StackBuilders Github](https://github.com/stackbuilders) marked with hacktoberfest topic.
+- **Swag**: Amazon Gift Cards
+  - 100$
+  - 75$
+  - 50$
+- **How to sign up**:
+  - Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time).
+  - After completing PR fill the required form to claim the swags [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
+
+- **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
 ### 2 or more PRs
 
