@@ -217,6 +217,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details
 
+### N
+
+#### **NativeScript**
+
+- **Swag**: Shirts, Socks, Stress balls, Bottle openers and (maybe) even surprise goodies!
+- **Requirements**:
+- Do any one of the following within the month of October 2021:
+  - Create a repo of anything you find fun or neat about NativeScript (small or large) OR
+  - Create a video showing off your NativeScript skills OR
+  - Post a PR for an issue in any NativeScript repository OR
+  - Share a gist of neat NativeScript code your find useful OR
+  - Create a NativeScript plugin
+**How to sign up**: Tweet about what you have done from the above list and mention @NativeScript, then DM them with your address to get free swag.
+**Notes**: Check out NativeScript's [official blogpost](https://blog.nativescript.org/hacktoberfest-2021/index.html) for more details. Original tweet [here](https://twitter.com/NativeScript/status/1443768781931638784)
+  
+
 ### P
 
 #### **PayPal**
@@ -291,6 +307,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Limited edition stickers
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
+
+#### **NativeScript** (Shirts, Socks, Stress balls, Bottle openers and more)
+
+- **Requirements**:
+- Do any one of the following within the month of October 2021:
+  - Create a repo of anything you find fun or neat about NativeScript (small or large) OR
+  - Create a video showing off your NativeScript skills OR
+  - Post a PR for an issue in any NativeScript repository OR
+  - Share a gist of neat NativeScript code your find useful OR
+  - Create a NativeScript plugin
+- **Swag**: Shirts, Socks, Stress balls, Bottle openers and (maybe) even surprise goodies!
+- **How to sign up**: Tweet about what you have done from the above list and mention @NativeScript, then DM them with your address to get free swag.
+- **Notes**: Check out NativeScript's [official blogpost](https://blog.nativescript.org/hacktoberfest-2021/index.html) for more details. Original tweet [here](https://twitter.com/NativeScript/status/1443768781931638784)
 
 ### 1 Merged PR
 
