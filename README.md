@@ -197,6 +197,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
+#### **MayaData & OpenEBS**
+
+- **Swag**: T-shirts ,Oculus VR Headset
+- **Requirements**:
+  - 1 or more pull requests to any eligible repository : special MayaData swags
+  - best pull request : Oculus VR Headset.
+- **How to sign up**: Check out this [blog](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs) for more details
+- **Notes**: Check out the [MayaData is celebrating Hacktoberfest 2021 with openEBS](https://mayadata.io/hacktoberfest-2021) to start contributing.
+
+
 #### **MeiliSearch**
 
 - **Swag**: reusable insulated water bottle, stickers
@@ -336,6 +346,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **MayaData & OpenEBS**(Special swags ,Oculus VR Headset)
+
+- **Swag**: Special swags ,Oculus VR Headset
+- **Requirements**:
+  - 1 or more pull requests merged to any eligible repository : special MayaData swags
+  - best pull request : Oculus VR Headset.
+- **How to sign up**: Check out this [blog](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs) for more details
+- **Notes**: Check out the [MayaData is celebrating Hacktoberfest 2021 with openEBS](https://mayadata.io/hacktoberfest-2021) to start contributing.
 
 #### **Milvus** (sticker pack, a digital Milvus badge)
 
