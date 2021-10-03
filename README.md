@@ -234,7 +234,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Stack Builders**
 
 - **Swag**: Amazon Gift Cards
-- **Requirements**: 
+- **Requirements**:
   Contribute in any of the repositories here [StackBuilders Github](https://github.com/stackbuilders) marked with hacktoberfest topic.
   - 1pt for each issue opened
   - 2pts for each PR opened
@@ -260,7 +260,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Submit your PRs to Zup's Open Source projects' issues. For Zup projects, upon approval of the PRs you will receive a form and can request the shirt if you already have 2 pull requests approved in one of the Zup projects: Charles CD, Ritchie CLI, Beagle or Horusec.
 - **Issues**: Check [Issues](https://github.com/search?q=org%3AZupIT+label%3A%22good+first+issue%22+state%3Aopen+type%3Aissue+user%3AZupIT)
 - **Notes**: Redeem your T-Shirt after ensuring 2 PRs at [Zup Website](https://insights.zup.com.br/hacktoberfest)
-
 
 ## Least Involvement to Most Involvement
 
@@ -371,11 +370,11 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Stack Builders** (Amazon Gift Card)
 
 - **Requirements**: Contribute in any of the repositories here [StackBuilders Github](https://github.com/stackbuilders) marked with hacktoberfest topic.
-- **Swag**: Amazon Gift Cards 
+- **Swag**: Amazon Gift Cards
   - 100$
   - 75$
   - 50$
-- **How to sign up**: 
+- **How to sign up**:
   - Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time)).
   - After completing PR fill the required form to claim the swags [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
 
