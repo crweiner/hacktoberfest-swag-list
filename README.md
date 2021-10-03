@@ -222,15 +222,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **NativeScript**
 
 - **Swag**: Shirts, Socks, Stress balls, Bottle openers and (maybe) even surprise goodies!
-- **Requirements**:
-  Do any one of the following within the month of October 2021:
+- **Requirements**: Do any one of the following within the month of October 2021:
   - Create a repo of anything you find fun or neat about NativeScript (small or large) OR
   - Create a video showing off your NativeScript skills OR
   - Post a PR for an issue in any NativeScript repository OR
   - Share a gist of neat NativeScript code your find useful OR
   - Create a NativeScript plugin
-**How to sign up**: Tweet about what you have done from the above list and mention @NativeScript, then DM them with your address to get free swag.
-**Notes**: Check out NativeScript's [official blogpost](https://blog.nativescript.org/hacktoberfest-2021/index.html) for more details. Original tweet [here](https://twitter.com/NativeScript/status/1443768781931638784)
+- **How to sign up**: Tweet about what you have done from the above list and mention @NativeScript, then DM them with your address to get free swag.
+- **Notes**: Check out NativeScript's [official blogpost](https://blog.nativescript.org/hacktoberfest-2021/index.html) for more details. Original tweet [here](https://twitter.com/NativeScript/status/1443768781931638784)
   
 
 ### P
@@ -310,8 +309,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **NativeScript** (Shirts, Socks, Stress balls, Bottle openers and more)
 
-- **Requirements**:
-- Do any one of the following within the month of October 2021:
+- **Requirements**: Do any one of the following within the month of October 2021:
   - Create a repo of anything you find fun or neat about NativeScript (small or large) OR
   - Create a video showing off your NativeScript skills OR
   - Post a PR for an issue in any NativeScript repository OR
