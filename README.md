@@ -33,7 +33,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### **The Original - DigitalOcean, Appwrite, Intel, and Deepsource**
 
 - **Swag**: T-shirt, stickers
-- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
+- **Requirements**: 4 pull requests in any eligible [repository], only for first 50,000 students this time.(https://github.com/topics/hacktoberfest)
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
 - **Notes**: For your PR to count it must be:
   - Submitted in a public repo, AND
