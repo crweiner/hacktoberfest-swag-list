@@ -223,7 +223,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Shirts, Socks, Stress balls, Bottle openers and (maybe) even surprise goodies!
 - **Requirements**:
-- Do any one of the following within the month of October 2021:
+  Do any one of the following within the month of October 2021:
   - Create a repo of anything you find fun or neat about NativeScript (small or large) OR
   - Create a video showing off your NativeScript skills OR
   - Post a PR for an issue in any NativeScript repository OR
