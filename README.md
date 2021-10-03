@@ -19,6 +19,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ---
 
+## The 2021 Hacktoberfest Swag List is supported by Appwrite
+[![appwritelogo](/img/logo-1.svg)](https://hacktoberfest.appwrite.io?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
+
+#### Appwrite is an official sponsor of [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com) as well as the Hacktoberfest Swag List repository!
+
+#### Click their logo above to check out all of their unique swag for Hacktoberfest!
+
+---
+
 ## Swag List 2021
 
 ### **The Original - DigitalOcean, Appwrite, Intel, and Deepsource**
@@ -115,6 +124,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Submitted in a Camunda repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
+
+#### **Codedamn**
+
+- **Swag**: T-shirt
+- **Requirements**:  1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
+- **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
+- **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
 
 ### D
 
@@ -228,6 +244,24 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check organization [StackBuilders Github](https://github.com/stackbuilders) on Github and look for hacktoberfest topic marked repository.
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
+#### **Supabase**
+
+- **Swag**: Some limited edition Supabase swag, possibly t-shirt based on their swag from last year.
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021
+- **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
+- **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
+
+### Z
+
+#### **Zup**
+
+- **Swag**: T-Shirt
+- **Requirements**: Track your contributions to ensure 2 pull requests are accepted in one of the projects.
+- **How to sign up**: Submit your PRs to Zup's Open Source projects' issues. For Zup projects, upon approval of the PRs you will receive a form and can request the shirt if you already have 2 pull requests approved in one of the Zup projects: Charles CD, Ritchie CLI, Beagle or Horusec.
+- **Issues**: Check [Issues](https://github.com/search?q=org%3AZupIT+label%3A%22good+first+issue%22+state%3Aopen+type%3Aissue+user%3AZupIT)
+- **Notes**: Redeem your T-Shirt after ensuring 2 PRs at [Zup Website](https://insights.zup.com.br/hacktoberfest)
+
+
 ## Least Involvement to Most Involvement
 
 ### Any - 1 PR
@@ -282,6 +316,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+#### **Codedamn** (T-shirt)
+
+- **Requirements**: 1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
+- **Swag**: T-shirt
+- **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
+- **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
 
 #### **Datenanfragen.de e. V.** (stickers, webcam cover)
 
@@ -430,6 +471,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 
+#### **Zup** (t-shirt)
+
+- **Requirements**: Track your contributions to ensure 2 pull requests are accepted in one of the projects.
+- **Swag**: T-Shirt
+- **How to sign up**: Submit your PRs to Zup's Open Source projects' issues. For Zup projects, upon approval of the PRs you will receive a form and can request the shirt if you already have 2 pull requests approved in one of the Zup projects: Charles CD, Ritchie CLI, Beagle or Horusec.
+- **Issues**: Check [Issues](https://github.com/search?q=org%3AZupIT+label%3A%22good+first+issue%22+state%3Aopen+type%3Aissue+user%3AZupIT)
+- **Notes**: Redeem your T-Shirt after ensuring 2 PRs at [Zup Website](https://insights.zup.com.br/hacktoberfest)
+
 ### 5 or more Merged PRs
 
 #### **Appsmith** (Surprise Box)
@@ -487,6 +536,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+
+#### **Supabase** (Unnamed swag, possibly t-shirt)
+
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021.
+- **Swag**: Some limited edition Supabase swag, possibly t-shirt based on reward from last year.
+- **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
+- **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
 ---
 
