@@ -506,6 +506,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check [Issues](https://github.com/search?q=org%3AZupIT+label%3A%22good+first+issue%22+state%3Aopen+type%3Aissue+user%3AZupIT)
 - **Notes**: Redeem your T-Shirt after ensuring 2 PRs at [Zup Website](https://insights.zup.com.br/hacktoberfest)
 
+ #### **The Original - DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirts,stickers)
+- **Requirements**: 4 pull requests in any eligible repository
+- **Swag**: T-shirt, stickers
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com/)
+- **Notes**: For your PR to count it must be:
+Submitted in a public repo, AND
+The PR is labelled as hacktoberfest-accepted by a maintainer, OR
+Submitted in a repo labelled hacktoberfest, AND
+Merged, OR
+Approved
+
 ### 5 or more Merged PRs
 
 #### **Appsmith** (Surprise Box)
@@ -562,7 +573,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: A Logitech Pro X Keyboard and a physical Hacktoberfest badge, or a DJI drone.
 - **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
-- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+- **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for
+ more details.
 
 #### **Supabase** (Unnamed swag, possibly t-shirt)
 
@@ -571,7 +583,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
----
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
