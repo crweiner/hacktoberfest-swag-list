@@ -203,7 +203,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - 1 or more pull requests to any eligible repository : special MayaData swags
   - An Oculus VR Headset if recognized as Top Contributor (Best Quality PR)
-- **Issues**: (https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Issues**: [Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **How to sign up**: Check out this [blog](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs) for more details
 - **Notes**: Check out the [MayaData is celebrating Hacktoberfest 2021 with openEBS](https://mayadata.io/hacktoberfest-2021) to start contributing.
 
@@ -354,7 +354,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Top contributer(best PR): Oculus VR Headset
 - **Swag**: T-shirt, Stickers
 - **How to sign up**: Check out this [blog](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs) for more details
-- **Issues**: (https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Issues**: [Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Notes**: Check out the [MayaData is celebrating Hacktoberfest 2021 with openEBS](https://mayadata.io/hacktoberfest-2021) to start contributing.
 
 #### **Milvus** (sticker pack, a digital Milvus badge)
