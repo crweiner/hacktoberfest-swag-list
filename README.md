@@ -197,6 +197,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
+#### **MayaData & OpenEBS**
+
+- **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
+- **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **How to sign up**: No additional sign up is required.
+- **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
+
 #### **MeiliSearch**
 
 - **Swag**: reusable insulated water bottle, stickers
@@ -364,6 +372,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **MayaData & OpenEBS** (T-Shirt, stickers)
+
+- **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
+- **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **How to sign up**: No additional sign up is required.
+- **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
 
 #### **Milvus** (sticker pack, a digital Milvus badge)
 
@@ -553,6 +569,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Custom mechanical keyboard
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
+
+#### **MayaData & OpenEBS** (Oculus VR Headset)
+
+- **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
+- **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **How to sign up**: No additional sign up is required.
+- **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
 
 #### **Milvus** (A Logitech Pro X Keyboard and a physical Hacktoberfest badge, or a DJI drone)
 
