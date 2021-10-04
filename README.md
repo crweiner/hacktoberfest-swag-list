@@ -199,13 +199,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData & OpenEBS**
 
-- **Swag**: T-shirts ,Oculus VR Headset
+- **Swag**: T-shirts ,stickers
 - **Requirements**:
   - 1 or more pull requests to any eligible repository : special MayaData swags
-  - best pull request : Oculus VR Headset.
+  - An Oculus VR Headset if recognized as Top Contributor (Best Quality PR)
+- **Issues**: (https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **How to sign up**: Check out this [blog](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs) for more details
 - **Notes**: Check out the [MayaData is celebrating Hacktoberfest 2021 with openEBS](https://mayadata.io/hacktoberfest-2021) to start contributing.
-
 
 #### **MeiliSearch**
 
@@ -347,13 +347,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
-#### **MayaData & OpenEBS**(Special swags ,Oculus VR Headset)
+#### **MayaData & OpenEBS**(T-shirt, Stickers)
 
-- **Swag**: Special swags ,Oculus VR Headset
 - **Requirements**:
-  - 1 or more pull requests merged to any eligible repository : special MayaData swags
-  - best pull request : Oculus VR Headset.
+  - 1 merged PR in any eligible repository: T-shirt, Stickers
+  - Top contributer(best PR): Oculus VR Headset
+- **Swag**: T-shirt, Stickers
 - **How to sign up**: Check out this [blog](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs) for more details
+- **Issues**: (https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Notes**: Check out the [MayaData is celebrating Hacktoberfest 2021 with openEBS](https://mayadata.io/hacktoberfest-2021) to start contributing.
 
 #### **Milvus** (sticker pack, a digital Milvus badge)
