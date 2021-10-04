@@ -313,14 +313,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 - **Notes**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
 
-#### **LoginRadius** (T-shirt)
-
-- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
-- **Swag**: T-shirt
-- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
-- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
-- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
-
 #### **Mattermost** (Stickers)
 
 - **Requirements**: 1+ contributions to the Mattermost community
@@ -375,11 +367,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData & OpenEBS** (T-Shirt, stickers)
 
-- **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
 - **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Swag**: Special Edition T-Shirts, Stickers.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
+
+#### **LoginRadius** (T-shirt)
+
+- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
+- **Swag**: T-shirt
+- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
+- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
+- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
 
 #### **Milvus** (sticker pack, a digital Milvus badge)
 
@@ -572,8 +572,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData & OpenEBS** (Oculus VR Headset)
 
-- **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
 - **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
