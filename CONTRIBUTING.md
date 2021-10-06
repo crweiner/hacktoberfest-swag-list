@@ -149,6 +149,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Anurag Yadav](https://github.com/AnuragYadav365)
 - [Gaurav Gupta](https://github.com/gauravgupta45)
 - [sai sumanth kumar](https://github.com/saisumanthkumar)
+- [Ubaldo Pescatore](https://github.com/P3trur0)
 
 ---
 
