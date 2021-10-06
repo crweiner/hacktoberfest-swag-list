@@ -549,8 +549,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Hacktoberfest Website](https://www.oss-port.com/swag/)
 - **Notes**: For your PR to count it must be:
 - Quality PR's submitted in any project listed on [Oss Port](https://www.oss-port.com/), AND
-    - The PR is labelled as ```hacktoberfest-accepted``` 
-
+- The PR is labelled as ```hacktoberfest-accepted``` 
 
 #### **Flyte** (Mugs, T-Shirts, Vouchers)
 
