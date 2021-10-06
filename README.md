@@ -575,6 +575,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### 4 or more Merged PRs
 
 #### **Bitrise**
+
 - **Swag**: Bitrise Success magnet, Bitrise socks, Purr Request plushie.
 - **How to sign up**: Check out the [Bitrise Hacktoberfest 2021](https://www.bitrise.io/hacktoberfest-2021) for more details.
 - **Requirements**:
