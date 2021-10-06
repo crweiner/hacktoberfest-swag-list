@@ -117,14 +117,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Bitrise Success magnet, Bitrise socks, Purr Request plushie.
 - **Requirements**:
   - Contribute to [eligible repo](https://github.com/bitrise-steplib) during the month of October.
-  - Once all of your PRs have received the hacktoberfest-accepted label, fill out our form with links to your PRs and shipping details, so we can send you an amazing swag pack!
+  - Once all of your PRs have received the ```hacktoberfest-accepted``` label, fill out their form with links to your PRs and shipping details, so they can send you an amazing swag pack!
 - **Issues**:
   - Bitrise engineers have selected a couple of open issues that are ideal for first-time contributors.
   - They fall into the following categories:
     - Bugfixes
     - Performance or UI improvements
     - Minor enhancements
-- **How to sign up**: Check out the [Bitrise Hacktoberfest 2021](https://www.bitrise.io/hacktoberfest-2021) for more details.
+- **How to sign up**: Check out the [Bitrise Hacktoberfest 2021 website](https://www.bitrise.io/hacktoberfest-2021) for more details.
 - **Notes**:
   - Contribute with four or more pull requests to any of our open issues labeled Hacktoberfest.
   - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
@@ -538,6 +538,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
 
+#### **Bitrise** (magnet, socks, plushie)
+
+- **Requirements**: Contribute to [an eligible repo](https://github.com/bitrise-steplib) during the month of October to any of their open issues labeled Hacktoberfest.
+- **Swag**: Bitrise Success magnet, Bitrise socks, Purr Request plushie.
+- **How to sign up**: Check out the [Bitrise Hacktoberfest 2021 website](https://www.bitrise.io/hacktoberfest-2021) for more details.
+- **Notes**:
+  - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
+  - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
+
 #### **Flyte** (Mugs, T-Shirts, Vouchers)
 
 - **Requirements**:
@@ -571,18 +580,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Submit your PRs to Zup's Open Source projects' issues. For Zup projects, upon approval of the PRs you will receive a form and can request the shirt if you already have 2 pull requests approved in one of the Zup projects: Charles CD, Ritchie CLI, Beagle or Horusec.
 - **Issues**: Check [Issues](https://github.com/search?q=org%3AZupIT+label%3A%22good+first+issue%22+state%3Aopen+type%3Aissue+user%3AZupIT)
 - **Notes**: Redeem your T-Shirt after ensuring 2 PRs at [Zup Website](https://insights.zup.com.br/hacktoberfest)
-
-### 4 or more Merged PRs
-
-#### **Bitrise**
-
-- **Swag**: Bitrise Success magnet, Bitrise socks, Purr Request plushie.
-- **How to sign up**: Check out the [Bitrise Hacktoberfest 2021](https://www.bitrise.io/hacktoberfest-2021) for more details.
-- **Requirements**:
-  - Contribute to [eligible repo](https://github.com/bitrise-steplib) during the month of October to any of our open issues labeled Hacktoberfest.
-- **Notes**:
-  - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
-  - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
 
 ### 5 or more Merged PRs
 
