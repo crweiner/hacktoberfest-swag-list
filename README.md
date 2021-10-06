@@ -522,17 +522,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
-### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
+### **OSS Port** (Sweatshirt, T-shirt, stickers)
 
-- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
-- **Swag**: T-shirt, stickers
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+- **Requirements**: 4 or 7 pull requests in any eligible [repository](https://github.com/Codesee-io/oss-port)
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **How to sign up**: [Hacktoberfest Website](https://www.oss-port.com/swag/)
 - **Notes**: For your PR to count it must be:
-  - Submitted in a public repo, AND
-    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
-  - Submitted in a repo labelled ```hacktoberfest```, AND
-    - Merged, OR
-    - Approved
+  - Quality PR's submitted in a public repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` 
 
 ### 2 or more Merged PRs
 
