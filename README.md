@@ -279,7 +279,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Sweatshirt, T-shirt, stickers
 - **Requirements**:  4 or 7 quality pull requests in any project on [OSS Port](https://www.oss-port.com/)
-- **How to sign up**: Check out the [Oss Port website](https://www.oss-port.com/swag/) for more details.
+- **How to sign up**: Check out the [OSS Port website](https://www.oss-port.com/swag/) for more details.
 - **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
 
 ### P
