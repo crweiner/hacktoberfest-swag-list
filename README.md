@@ -150,6 +150,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
 - **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
 
+#### **CodeSee**
+
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **Requirements**:  4 or 7 quality pull requests in any project on [Oss Port](https://www.oss-port.com/)
+- **How to sign up**: Check out the [Oss Port website](https://www.oss-port.com/swag/) for more details.
+- **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -274,13 +281,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Make 1 successful PR to an [Ory repo](https://github.com/ory) and get a free T-shirt.
 - **How to sign up**: Check out the [Ory Corp tweet](https://twitter.com/OryCorp/status/1445036792374247425) for more details.
 - **Notes**: Check out the Hacktoberfest topic in [Ory repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3AOry&type=Repositories)
-
-#### **OSS Port**
-
-- **Swag**: Sweatshirt, T-shirt, stickers
-- **Requirements**:  4 or 7 quality pull requests in any project on [OSS Port](https://www.oss-port.com/)
-- **How to sign up**: Check out the [OSS Port website](https://www.oss-port.com/swag/) for more details.
-- **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
 
 ### P
 
@@ -542,6 +542,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
   - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
 
+### **CodeSee** (Sweatshirt, T-shirt, stickers)
+
+- **Requirements**: 4 or 7 pull requests in any project listed on [Oss Port](https://www.oss-port.com/)
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **How to sign up**: [Hacktoberfest Website](https://www.oss-port.com/swag/)
+- **Notes**: For your PR to count it must be:
+- Quality PR's submitted in any project listed on [Oss Port](https://www.oss-port.com/), AND
+    - The PR is labelled as ```hacktoberfest-accepted``` 
+
+
 #### **Flyte** (Mugs, T-Shirts, Vouchers)
 
 - **Requirements**:
@@ -567,15 +577,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
-
-### **OSS Port** (Sweatshirt, T-shirt, stickers)
-
-- **Requirements**: 4 or 7 pull requests in any project listed on [OSS Port](https://www.oss-port.com/)
-- **Swag**: Sweatshirt, T-shirt, stickers
-- **How to sign up**: [Hacktoberfest Website](https://www.oss-port.com/swag/)
-- **Notes**: For your PR to count it must be:
-  - Quality PR's submitted in any project listed on [OSS Port](https://www.oss-port.com/), AND
-    - The PR is labelled as ```hacktoberfest-accepted``` 
 
 #### **Zup** (t-shirt)
 
