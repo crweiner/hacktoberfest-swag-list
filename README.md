@@ -240,6 +240,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: For making PR's check these [Native Script Hactoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
 - **Notes**: Sending swags all around the world. To know more check [NativeScript Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html)
 
+#### NMF.earth
+
+- **Swag**: Stickers
+- **Requirements**: Make 1 successful PR to [NMF.earth repo](https://github.com/NMF-earth) and get a free set of three stickers.
+- **How to sign up**: Direct communication with project maintainer
+- **Issues**: Check [the repo](https://github.com/NMF-earth/nmf-app/issues)
+- **Notes**: Project maintainers are working on this project in their free time!
+
 ### O
 
 #### **Ory**
@@ -411,6 +419,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Tweet about your contribution and mention [@NativeScript](https://twitter.com/NativeScript), then DM us with your address to get free swag.
 - **Issues**: For making PR's check these [Native Script Hactoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
 - **Notes**: To know more check [NativeScript's Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html).
+
+#### NMF.earth (Stickers)
+
+- **Requirements**: Make 1 successful PR to [NMF.earth repo](https://github.com/NMF-earth) and get a free set of three stickers.
+- **Swag**: 3 stickers
+- **How to sign up**: Direct communication with project maintainer
+- **Issues**: Check [the repo](https://github.com/NMF-earth/nmf-app/issues)
+- **Notes**: Project maintainers are working on this project in their free time!
 
 #### **Ory** (t-shirt)
 
