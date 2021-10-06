@@ -542,7 +542,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
   - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
 
-### **CodeSee** (Sweatshirt, T-shirt, stickers)
+#### **CodeSee** (Sweatshirt, T-shirt, stickers)
 
 - **Requirements**: 4 or 7 pull requests in any project listed on [Oss Port](https://www.oss-port.com/)
 - **Swag**: Sweatshirt, T-shirt, stickers
