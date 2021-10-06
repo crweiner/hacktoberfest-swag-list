@@ -278,7 +278,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **OSS Port**
 
 - **Swag**: Sweatshirt, T-shirt, stickers
-- **Requirements**:  4 or 7 quality pull requests to the [OSS Port repo](https://github.com/Codesee-io/oss-port).
+- **Requirements**:  4 or 7 quality pull requests in any project on [OSS Port](https://www.oss-port.com/)
 - **How to sign up**: Check out the [Oss Port website](https://www.oss-port.com/swag/) for more details.
 - **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
 
@@ -522,15 +522,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
-### **OSS Port** (Sweatshirt, T-shirt, stickers)
-
-- **Requirements**: 4 or 7 pull requests in any eligible [repository](https://github.com/Codesee-io/oss-port)
-- **Swag**: Sweatshirt, T-shirt, stickers
-- **How to sign up**: [Hacktoberfest Website](https://www.oss-port.com/swag/)
-- **Notes**: For your PR to count it must be:
-  - Quality PR's submitted in a public repo, AND
-    - The PR is labelled as ```hacktoberfest-accepted``` 
-
 ### 2 or more Merged PRs
 
 #### **Appsmith** (Stickers, Water Bottle, T-Shirt)
@@ -576,6 +567,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+
+### **OSS Port** (Sweatshirt, T-shirt, stickers)
+
+- **Requirements**: 4 or 7 pull requests in any project listed on [OSS Port](https://www.oss-port.com/)
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **How to sign up**: [Hacktoberfest Website](https://www.oss-port.com/swag/)
+- **Notes**: For your PR to count it must be:
+  - Quality PR's submitted in any project listed on [OSS Port](https://www.oss-port.com/), AND
+    - The PR is labelled as ```hacktoberfest-accepted``` 
 
 #### **Zup** (t-shirt)
 
