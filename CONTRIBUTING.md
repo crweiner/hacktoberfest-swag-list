@@ -150,7 +150,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Gaurav Gupta](https://github.com/gauravgupta45)
 - [sai sumanth kumar](https://github.com/saisumanthkumar)
 - [Ubaldo Pescatore](https://github.com/P3trur0)
-
+- [Creative Tim ](https://github.com/CreativeTim)
 ---
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
