@@ -275,6 +275,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Ory Corp tweet](https://twitter.com/OryCorp/status/1445036792374247425) for more details.
 - **Notes**: Check out the Hacktoberfest topic in [Ory repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3AOry&type=Repositories)
 
+#### **OSS Port**
+
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **Requirements**:  4 or 7 quality pull requests to the [OSS Port repo](https://github.com/Codesee-io/oss-port).
+- **How to sign up**: Check out the [Oss Port website](https://www.oss-port.com/swag/) for more details.
+- **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
+
 ### P
 
 #### **PayPal**
