@@ -112,6 +112,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 
+#### **Bitrise**
+
+- **Swag**: Bitrise Success magnet, Bitrise socks, Purr Request plushie.
+- **Requirements**:
+  - Contribute to [eligible repo](https://github.com/bitrise-steplib) during the month of October.
+  - Bitrise engineers have selected a couple of open issues that are ideal for first-time contributors.
+  - They fall into the following categories:
+    - Bugfixes
+    - Performance or UI improvements
+    - Minor enhancements
+- **How to sign up**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
+- **Notes**:
+  - Contribute with four or more pull requests to any of our open issues labeled Hacktoberfest.
+  - Once all of your PRs have received the hacktoberfest-accepted label, fill out our form with links to your PRs and shipping details, so we can send you an amazing swag pack!
+  - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
+
 ### C
 
 #### **CAMUNDA**
