@@ -240,6 +240,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: For making PR's check these [Native Script Hactoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
 - **Notes**: Sending swags all around the world. To know more check [NativeScript Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html)
 
+### O
+
+#### **Ory**
+
+- **Swag**: T-shirt
+- **Requirements**: Make 1 successful PR to an [Ory repo](https://github.com/ory) and get a free T-shirt.
+- **How to sign up**: Check out the [Ory Corp tweet](https://twitter.com/OryCorp/status/1445036792374247425) for more details.
+- **Notes**: Check out the Hacktoberfest topic in [Ory repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3AOry&type=Repositories)
+
 ### P
 
 #### **PayPal**
@@ -402,6 +411,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Tweet about your contribution and mention [@NativeScript](https://twitter.com/NativeScript), then DM us with your address to get free swag.
 - **Issues**: For making PR's check these [Native Script Hactoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
 - **Notes**: To know more check [NativeScript's Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html).
+
+#### **Ory** (t-shirt)
+
+- **Requirements**: Make 1 successful PR to an [Ory repo](https://github.com/ory) and get a free T-shirt.
+- **Swag**: T-shirt
+- **How to sign up**: Check out the [Ory Corp tweet](https://twitter.com/OryCorp/status/1445036792374247425) for more details.
+- **Notes**: Check out the Hacktoberfest topic in [Ory repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3AOry&type=Repositories)
 
 #### **PayPal** (socks, backpack)
 
