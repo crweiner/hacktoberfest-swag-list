@@ -243,7 +243,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### NMF.earth
 
 - **Swag**: Stickers
-- **Requirements**: Make 1 successful PR to [NMF.earth repo](https://github.com/NMF-earth) and get a free set of three stickers.
+- **Requirements**: Make 1 successful PR to [NMF.earth repo](https://github.com/NMF-earth) fixing an Issue tagged with ```Stickers``` and get a free set of three stickers.
 - **How to sign up**: Direct communication with project maintainer
 - **Issues**: Check [the repo](https://github.com/NMF-earth/nmf-app/issues)
 - **Notes**: Project maintainers are working on this project in their free time, as explained [here](https://medium.com/@nmf_earth/hacktoberfest-2021-carbon-diary-sustainable-guide-32fb4e5323c1)
@@ -422,7 +422,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### NMF.earth (Stickers)
 
-- **Requirements**: Make 1 successful PR to [NMF.earth repo](https://github.com/NMF-earth) and get a free set of three stickers.
+- **Requirements**: Make 1 successful PR to [NMF.earth repo](https://github.com/NMF-earth) fixing an Issue tagged with ```Stickers``` and get a free set of three stickers.
 - **Swag**: 3 stickers
 - **How to sign up**: Direct communication with project maintainer
 - **Issues**: Check [the repo](https://github.com/NMF-earth/nmf-app/issues)
