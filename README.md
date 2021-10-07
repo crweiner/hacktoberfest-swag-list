@@ -153,8 +153,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **CodeSee**
 
 - **Swag**: Sweatshirt, T-shirt, stickers
-- **Requirements**:  4 or 7 quality pull requests in any project on [Oss Port](https://www.oss-port.com/)
-- **How to sign up**: Check out the [Oss Port website](https://www.oss-port.com/swag/) for more details.
+- **Requirements**:  4 or 7 quality pull requests in any project on [OSS Port](https://www.oss-port.com/)
+- **How to sign up**: Check out the [OSS Port Hacktoberfest website](https://www.oss-port.com/swag/) for more details.
 - **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
 
 ### D
@@ -522,6 +522,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
+### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
+
+- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
+- **Swag**: T-shirt, stickers
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+- **Notes**: For your PR to count it must be:
+  - Submitted in a public repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+  - Submitted in a repo labelled ```hacktoberfest```, AND
+    - Merged, OR
+    - Approved
+
 ### 2 or more Merged PRs
 
 #### **Appsmith** (Stickers, Water Bottle, T-Shirt)
@@ -544,12 +556,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **CodeSee** (Sweatshirt, T-shirt, stickers)
 
-- **Requirements**: 4 or 7 pull requests in any project listed on [Oss Port](https://www.oss-port.com/)
+- **Requirements**: 4 or 7 pull requests in any project listed on [OSS Port](https://www.oss-port.com/)
 - **Swag**: Sweatshirt, T-shirt, stickers
-- **How to sign up**: [Hacktoberfest Website](https://www.oss-port.com/swag/)
+- **How to sign up**: [OSS Port Hacktoberfest Website](https://www.oss-port.com/swag/)
 - **Notes**: For your PR to count it must be:
-- Quality PR's submitted in any project listed on [Oss Port](https://www.oss-port.com/), AND
-- The PR is labelled as ```hacktoberfest-accepted``` 
+  - Quality PR's submitted in any project listed on [OSS Port](https://www.oss-port.com/), AND
+  - The PR is labelled as ```hacktoberfest-accepted```
 
 #### **Flyte** (Mugs, T-Shirts, Vouchers)
 
