@@ -150,6 +150,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
 - **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
 
+#### **CodeSee**
+
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **Requirements**:  4 or 7 quality pull requests in any project on [OSS Port](https://www.oss-port.com/)
+- **How to sign up**: Check out the [OSS Port Hacktoberfest website](https://www.oss-port.com/swag/) for more details.
+- **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -546,6 +553,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
   - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
+
+#### **CodeSee** (Sweatshirt, T-shirt, stickers)
+
+- **Requirements**: 4 or 7 pull requests in any project listed on [OSS Port](https://www.oss-port.com/)
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **How to sign up**: [OSS Port Hacktoberfest Website](https://www.oss-port.com/swag/)
+- **Notes**: For your PR to count it must be:
+  - Quality PR's submitted in any project listed on [OSS Port](https://www.oss-port.com/), AND
+  - The PR is labelled as ```hacktoberfest-accepted```
 
 #### **Flyte** (Mugs, T-Shirts, Vouchers)
 
