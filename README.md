@@ -315,8 +315,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:  Three or more open and valid pull requests to the repository.
 - **How to sign up**: Join Switch Blade's [Discord](https://community.switchblade.xyz/) and start contributing.
 - **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
-- **Notes**: 
-  - Once you have your three pull requests open, you should message a core developer on discord about your stickers. 
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
   - They'll verify your contributions and take your shipment address.
 
 ### Z
@@ -531,8 +531,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Stickers, Letter of Contribution
 - **How to sign up**: Join Switch Blade's [Discord](https://community.switchblade.xyz/) and start contributing.
 - **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
-- **Notes**: 
-  - Once you have your three pull requests open, you should message a core developer on discord about your stickers. 
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
   - They'll verify your contributions and take your shipment address.
 
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
