@@ -199,7 +199,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **K6**
 
 - **Swag**: T-shirt, Stickers, Cap, Mug
-- **Requirements**: Merge one PR successfully to any of the K6 repositories will receive an awesome swag pack! 
+- **Requirements**: Merge one PR successfully to any of the K6 repositories will receive an awesome swag pack!
 - **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
 - **Notes**: Stocks are limited and are on a first come first serve basis only.
 
@@ -412,7 +412,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **K6**
 
 - **Requirements**: Contributors who merge one PR successfully to any of the K6 repositories will receive an awesome swag pack!
-- **Swag**: T-shirt, Stickers, Cap, Mug 
+- **Swag**: T-shirt, Stickers, Cap, Mug
 - **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
 - **Notes**: Stocks are limited and are on a first come first serve basis only.
 
