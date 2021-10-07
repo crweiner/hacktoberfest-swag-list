@@ -194,6 +194,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
+### K
+
+#### **K6**
+
+- **Swag**: T-shirt, Stickers, Cap, Mug
+- **Requirements**: Merge one PR successfully to any of the K6 repositories will receive an awesome swag pack! 
+- **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
+- **Notes**: Stocks are limited and are on a first come first serve basis only.
+
 ### L
 
 #### **LoginRadius**
@@ -399,6 +408,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **K6**
+
+- **Requirements**: Contributors who merge one PR successfully to any of the K6 repositories will receive an awesome swag pack!
+- **Swag**: T-shirt, Stickers, Cap, Mug 
+- **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
+- **Notes**: Stocks are limited and are on a first come first serve basis only.
 
 #### **MayaData & OpenEBS** (T-Shirt, stickers)
 
