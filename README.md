@@ -150,6 +150,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
 - **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
 
+#### **CodeSee**
+
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **Requirements**:  4 or 7 quality pull requests in any project on [OSS Port](https://www.oss-port.com/)
+- **How to sign up**: Check out the [OSS Port Hacktoberfest website](https://www.oss-port.com/swag/) for more details.
+- **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
+
 ### D
 
 #### **Datenanfragen.de e. V.**
@@ -317,6 +324,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
+
+#### **Switchblade**
+
+- **Swag**: Stickers, Letter of Contribution
+- **Requirements**:  Three or more open and valid pull requests to the repository.
+- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
+- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
+  - They'll verify your contributions and take your shipment address.
 
 ### Z
 
@@ -531,6 +548,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
+#### **Switchblade** (Stickers, Letter of Contribution)
+
+- **Requirements**:  Three or more open and valid pull requests to the repository
+- **Swag**: Stickers, Letter of Contribution
+- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
+- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
+  - They'll verify your contributions and take your shipment address.
+
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
@@ -562,6 +589,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
   - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
+
+#### **CodeSee** (Sweatshirt, T-shirt, stickers)
+
+- **Requirements**: 4 or 7 pull requests in any project listed on [OSS Port](https://www.oss-port.com/)
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **How to sign up**: [OSS Port Hacktoberfest Website](https://www.oss-port.com/swag/)
+- **Notes**: For your PR to count it must be:
+  - Quality PR's submitted in any project listed on [OSS Port](https://www.oss-port.com/), AND
+  - The PR is labelled as ```hacktoberfest-accepted```
 
 #### **Flyte** (Mugs, T-Shirts, Vouchers)
 
