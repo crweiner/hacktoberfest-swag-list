@@ -152,6 +152,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### D
 
+### **DagsHub**
+
+- **Swag**: T-Shirt, Stickers
+- **Requirements**: Get a T-shirt if you create 10+ PRs and stickers if you create 2+ [repo link](https://github.com/DAGsHub/audio-datasets/)
+- **How to sign up**: Check out [DagsHub webiste](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub page](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/) and [Twitter hanlde](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19)
+
 #### **Datenanfragen.de e. V.**
 
 - **Swag**: At least 3 stickers and a webcam cover. T-shirt for the top contributors.
@@ -515,6 +523,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
+
+### **DagsHub** (Stickers)
+
+- **Swag**: Stickers
+- **Requirements**: Get stickers if you create 2+ PR [repo link](https://github.com/DAGsHub/audio-datasets/)
+- **How to sign up**: Check out [DagsHub webiste](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub page](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/) and [Twitter hanlde](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19)
+
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
@@ -591,6 +608,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+### 10 or more PRs
+
+### **DagsHub** (T-Shirt)
+
+- **Swag**: T-Shirt
+- **Requirements**: Get a T-shirt if you create 10+ PRs[repo link](https://github.com/DAGsHub/audio-datasets/)
+- **How to sign up**: Check out [DagsHub webiste](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub page](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/) and [Twitter hanlde](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19)
 
 ### Top Contributors
 
