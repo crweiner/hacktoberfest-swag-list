@@ -315,7 +315,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:  Three or more open and valid pull requests to the repository.
 - **How to sign up**: Join Switch Blade's [Discord](https://community.switchblade.xyz/) and start contributing.
 - **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
-- **Notes**: Once you have your three pull requests open, you should message a core developer on discord about your stickers. They'll verify your contributions and take your shipment address.
+- **Notes**: 
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers. 
+  - They'll verify your contributions and take your shipment address.
 
 ### Z
 
@@ -523,13 +525,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
-#### **Switch Blade**
+#### **Switch Blade** (Stickers, Letter of Contribution)
 
+- **Requirements**:  Three or more open and valid pull requests to the repository
 - **Swag**: Stickers, Letter of Contribution
-- **Requirements**:  Three or more open and valid pull requests to the repository.
 - **How to sign up**: Join Switch Blade's [Discord](https://community.switchblade.xyz/) and start contributing.
 - **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
-- **Notes**: Once you have your three pull requests open, you should message a core developer on discord about your stickers. They'll verify your contributions and take your shipment address.
+- **Notes**: 
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers. 
+  - They'll verify your contributions and take your shipment address.
 
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
