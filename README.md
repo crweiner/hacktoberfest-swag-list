@@ -316,6 +316,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
+#### **Switchblade**
+
+- **Swag**: Stickers, Letter of Contribution
+- **Requirements**:  Three or more open and valid pull requests to the repository.
+- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
+- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
+  - They'll verify your contributions and take your shipment address.
+
 ### Z
 
 #### **Zup**
@@ -521,6 +531,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Submitted in a Camunda repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
+
+#### **Switchblade** (Stickers, Letter of Contribution)
+
+- **Requirements**:  Three or more open and valid pull requests to the repository
+- **Swag**: Stickers, Letter of Contribution
+- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
+- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
+  - They'll verify your contributions and take your shipment address.
 
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
