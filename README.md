@@ -738,6 +738,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 
+#### **MindsDB**
+
+- **Requirements**: Contribute with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest.
+  - Documentation PR [1 point]
+  - Data-sets to public suite PR [1 point]
+  - Tutorials PR [3 points]
+  - Data sources integrations PR [5 points]
+  - API optimization PR [5 points]
+- **Swag**: t-shirt, stickers, laptop
+- **How to sign up**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/).
+- **Issues**: [MindsDB Repo](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/) for more info.
+
 #### **Supabase** (Unnamed swag, possibly t-shirt)
 
 - **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021.
