@@ -254,6 +254,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
 
+#### **Medusa**
+
+- **Swag**: Medusa sticker, Medusa t-shirt, hoodie.
+- **Requirements**: Contribute to [open hacktoberfest issues](https://github.com/medusajs).
+  - Swag Tiers
+    - One pull request = Medusa sticker
+    - Three pull requests = Medusa t-shirt
+    - Build a Plugin (issues labeled with plugin) = Complete Medusa pack (t-shirt, hoodie, sticker)
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) and their [Discord](https://discord.com/invite/PGhCdgEP) for more details.
+
 #### **MeiliSearch**
 
 - **Swag**: reusable insulated water bottle, stickers
@@ -456,6 +467,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
 
+#### **Medusa** (stickers)
+
+- **Requirements**: One pull request
+- **Swag**: Medusa sticker.
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), their [Discord](https://discord.com/invite/PGhCdgEP), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) for more details.
+
 #### **LoginRadius** (T-shirt)
 
 - **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
@@ -639,6 +657,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Fill out [this](https://tally.so/r/3qPO7m) form after you are done with either of the challenges, on or before October 31st, 2021. Join Flyte's [Slack](https://docs.google.com/forms/d/e/1FAIpQLScWPJZncyL-bBCWbuQ9HWuMzA8-r2RJc__CSWJoAYUQADN-BQ/viewform) `#hacktoberfest2021` channel if you have any questions.
 - **Issues**: [Hacktoberfest-tagged Flyte issues](https://github.com/flyteorg/flyte/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest+)
 - **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info.
+
+#### **Medusa** (T-shirt)
+
+- **Requirements**: Contribute to [open hacktoberfest issues](https://github.com/medusajs).
+- **Swag**: Medusa t-shirt, hoodie.
+  - **Three pull requests**  - Medusa t-shirt
+  - **Build a Plugin (issues labeled with plugin)**  - Complete Medusa pack (t-shirt, hoodie, sticker)
+- **How to sign up**: No additional sign up is required.
+- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) and their [Discord](https://discord.com/invite/PGhCdgEP) for more details.
 
 #### **MeiliSearch** (water bottle, stickers)
 
