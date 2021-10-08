@@ -157,6 +157,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [OSS Port Hacktoberfest website](https://www.oss-port.com/swag/) for more details.
 - **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
 
+#### **Creative Tim**
+
+- **Swag**: T-shirt
+- **Requirements**:  4 approved pull requests in any projects listed on [Creative Tim's Blog Post](https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/)
+- **How to sign up**: Check out the [Blog Post](https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/) for participation details.
+- **Notes**: The winners will be decided by drawing lots on 1st November 2021 and announced through the [Twitter Post](https://twitter.com/CreativeTim/status/1445731588369621003/)
+
 ### D
 
 ### **DagsHub**
