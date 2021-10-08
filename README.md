@@ -155,10 +155,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ### **DagsHub**
 
 - **Swag**: T-Shirt, Stickers
-- **Requirements**: Get a T-shirt if you create 10+ PRs and stickers if you create 2+ [repo link](https://github.com/DAGsHub/audio-datasets/)
-- **How to sign up**: Check out [DagsHub webiste](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Requirements**: Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
 - **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
-- **Notes**: Read the [DagsHub page](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/) and [Twitter hanlde](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
 
 #### **Datenanfragen.de e. V.**
 
@@ -525,11 +525,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### **DagsHub** (Stickers)
 
-- **Swag**: Stickers
-- **Requirements**: Get stickers if you create 2+ PR [repo link](https://github.com/DAGsHub/audio-datasets/)
-- **How to sign up**: Check out [DagsHub webiste](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Requirements**:
+  - Stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **Swag**: T-Shirt, Stickers
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
 - **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
-- **Notes**: Read the [DagsHub page](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/) and [Twitter hanlde](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
 
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
@@ -608,15 +609,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
 
-### 10 or more PRs
-
 ### **DagsHub** (T-Shirt)
 
+- **Requirements**:
+  - Get a T-shirt if you create 10+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
 - **Swag**: T-Shirt
-- **Requirements**: Get a T-shirt if you create 10+ PRs[repo link](https://github.com/DAGsHub/audio-datasets/)
-- **How to sign up**: Check out [DagsHub webiste](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
 - **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
-- **Notes**: Read the [DagsHub page](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/) and [Twitter hanlde](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
 
 ### Top Contributors
 
