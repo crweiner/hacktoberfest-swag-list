@@ -150,6 +150,8 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Gaurav Gupta](https://github.com/gauravgupta45)
 - [sai sumanth kumar](https://github.com/saisumanthkumar)
 - [Ubaldo Pescatore](https://github.com/P3trur0)
+- [Aniket Pawar](https://github.com/Aniket-508)
+- [Misty Newton](https://github.com/mketters)
 - [Ravi Prasanth](https://github.com/raviprasanthgit)
 
 ---
