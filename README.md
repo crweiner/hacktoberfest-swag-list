@@ -273,7 +273,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Contribute with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest.
   - Documentation PR [1 point]
   - Data-sets to public suite PR [1 point]
-  - Tutorials PR [3 points]  
+  - Tutorials PR [3 points]
   - Data sources integrations PR [5 points]
   - API optimization PR [5 points]
 - **How to sign up**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/).
