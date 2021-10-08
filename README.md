@@ -159,6 +159,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### D
 
+### **DagsHub**
+
+- **Swag**: T-Shirt, Stickers
+- **Requirements**: Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
+
 #### **Datenanfragen.de e. V.**
 
 - **Swag**: At least 3 stickers and a webcam cover. T-shirt for the top contributors.
@@ -548,15 +556,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
-#### **Switchblade** (Stickers, Letter of Contribution)
+### **DagsHub** (Stickers)
 
-- **Requirements**:  Three or more open and valid pull requests to the repository
-- **Swag**: Stickers, Letter of Contribution
-- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
-- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
-- **Notes**:
-  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
-  - They'll verify your contributions and take your shipment address.
+- **Requirements**:
+  - Stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **Swag**: T-Shirt, Stickers
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
 
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
@@ -569,6 +576,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Submitted in a repo labelled ```hacktoberfest```, AND
     - Merged, OR
     - Approved
+
+#### **Switchblade** (Stickers, Letter of Contribution)
+
+- **Requirements**:  Three or more open and valid pull requests to the repository
+- **Swag**: Stickers, Letter of Contribution
+- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
+- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
+  - They'll verify your contributions and take your shipment address.
 
 ### 2 or more Merged PRs
 
@@ -643,6 +660,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+### **DagsHub** (T-Shirt)
+
+- **Requirements**:
+  - Get a T-shirt if you create 10+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **Swag**: T-Shirt
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
 
 ### Top Contributors
 
