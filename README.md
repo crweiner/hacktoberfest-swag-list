@@ -462,8 +462,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Medusa** (stickers)
 
-- **Requirements**:  
-    - One pull request
+- **Requirements**: One pull request
 - **Swag**: Medusa sticker.
 - **How to sign up**: No additional sign up is required.
 - **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), their [Discord](https://discord.com/invite/PGhCdgEP), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) for more details.
