@@ -100,6 +100,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### B
 
+#### **Bagisto**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**:
+  - Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October.
+- **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) for more details.
+
 #### **Bridgecrew**
 
 - **Swag**: T-shirt, stickers
