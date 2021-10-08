@@ -150,7 +150,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
 - **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
 
+#### **CodeSee**
+
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **Requirements**:  4 or 7 quality pull requests in any project on [OSS Port](https://www.oss-port.com/)
+- **How to sign up**: Check out the [OSS Port Hacktoberfest website](https://www.oss-port.com/swag/) for more details.
+- **Notes**: Must submit 7 pull requests to get sweatshirt, t-shirt and stickers or 4 pull requests to get a t-shirt and a sticker.
+
 ### D
+
+### **DagsHub**
+
+- **Swag**: T-Shirt, Stickers
+- **Requirements**: Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
 
 #### **Datenanfragen.de e. V.**
 
@@ -193,6 +208,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Ensure that at least one pull request is merged.
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+### K
+
+#### **K6**
+
+- **Swag**: T-shirt, Stickers, Cap, Mug
+- **Requirements**: Merge one PR successfully to any of the K6 repositories will receive an [awesome swag pack](https://twitter.com/yusuftayman/status/1423203725229936648/photo/1)!
+- **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
+- **Notes**: Stocks are limited and are on a first come first serve basis only.
 
 ### L
 
@@ -320,6 +344,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
+#### **Switchblade**
+
+- **Swag**: Stickers, Letter of Contribution
+- **Requirements**:  Three or more open and valid pull requests to the repository.
+- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
+- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
+  - They'll verify your contributions and take your shipment address.
+
 ### Z
 
 #### **Zup**
@@ -410,6 +444,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **K6** (t-shirt, stickers, cup, mug)
+
+- **Requirements**: Contributors who merge one PR successfully to any of the K6 repositories will receive [an awesome swag pack](https://twitter.com/yusuftayman/status/1423203725229936648/photo/1)!
+- **Swag**: T-shirt, Stickers, Cap, Mug
+- **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
+- **Notes**: Stocks are limited and are on a first come first serve basis only.
 
 #### **MayaData & OpenEBS** (T-Shirt, stickers)
 
@@ -533,6 +574,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
+### **DagsHub** (Stickers)
+
+- **Requirements**:
+  - Stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **Swag**: T-Shirt, Stickers
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
+
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
@@ -544,6 +594,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Submitted in a repo labelled ```hacktoberfest```, AND
     - Merged, OR
     - Approved
+
+#### **Switchblade** (Stickers, Letter of Contribution)
+
+- **Requirements**:  Three or more open and valid pull requests to the repository
+- **Swag**: Stickers, Letter of Contribution
+- **How to sign up**: Join Switchblade's [Discord](https://community.switchblade.xyz/) and start contributing.
+- **Issues**: Check out the issues at [SwitchbladeBot/switchblade](https://github.com/SwitchbladeBot/switchblade/issues).
+- **Notes**:
+  - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
+  - They'll verify your contributions and take your shipment address.
 
 ### 2 or more Merged PRs
 
@@ -564,6 +624,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
   - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
+
+#### **CodeSee** (Sweatshirt, T-shirt, stickers)
+
+- **Requirements**: 4 or 7 pull requests in any project listed on [OSS Port](https://www.oss-port.com/)
+- **Swag**: Sweatshirt, T-shirt, stickers
+- **How to sign up**: [OSS Port Hacktoberfest Website](https://www.oss-port.com/swag/)
+- **Notes**: For your PR to count it must be:
+  - Quality PR's submitted in any project listed on [OSS Port](https://www.oss-port.com/), AND
+  - The PR is labelled as ```hacktoberfest-accepted```
 
 #### **Flyte** (Mugs, T-Shirts, Vouchers)
 
@@ -618,6 +687,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+### **DagsHub** (T-Shirt)
+
+- **Requirements**:
+  - Get a T-shirt if you create 10+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
+- **Swag**: T-Shirt
+- **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
+- **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
+- **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
 
 ### Top Contributors
 
