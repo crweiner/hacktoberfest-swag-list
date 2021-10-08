@@ -166,7 +166,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### D
 
-### **DagsHub**
+#### **DagsHub**
 
 - **Swag**: T-Shirt, Stickers
 - **Requirements**: Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
@@ -581,7 +581,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
-### **DagsHub** (Stickers)
+#### **DagsHub** (Stickers)
 
 - **Requirements**:
   - Stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
