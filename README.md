@@ -294,9 +294,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Tutorials PR [3 points]
   - Data sources integrations PR [5 points]
   - API optimization PR [5 points]
-- **How to sign up**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/).
+- **How to sign up**: Check out the [official website](https://mindsdb.com/hacktoberfest/).
 - **Issues**: [MindsDB Repo](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **Notes**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/) for more info.
+- **Notes**: Check out the [official website](https://mindsdb.com/hacktoberfest/) for more info.
 
 ### N
 
@@ -351,7 +351,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   Contribute in any of the repositories here [StackBuilders Github](https://github.com/stackbuilders) marked with hacktoberfest topic.
   - 1pt for each issue opened
   - 2pts for each PR opened
-  - 5pts for successfull PR merge by the maintainers
+  - 5pts for successful PR merge by the maintainers
   - After completing PR fill the required form [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
 - **How to sign up**: Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time).
 - **Issues**: Check organization [StackBuilders Github](https://github.com/stackbuilders) on Github and look for hacktoberfest topic marked repository.
@@ -731,9 +731,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Data sources integrations PR [5 points]
   - API optimization PR [5 points]
 - **Swag**: t-shirt, stickers, laptop
-- **How to sign up**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/).
+- **How to sign up**: Check out the [official website](https://mindsdb.com/hacktoberfest/).
 - **Issues**: [MindsDB Repo](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **Notes**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/) for more info.
+- **Notes**: Check out the [official website](https://mindsdb.com/hacktoberfest/) for more info.
 
 #### **Symbl.ai** (T-shirt)
 
