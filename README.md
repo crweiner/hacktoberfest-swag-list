@@ -159,7 +159,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### D
 
-### **DagsHub**
+#### **DagsHub**
 
 - **Swag**: T-Shirt, Stickers
 - **Requirements**: Get a T-shirt if you create 10+ PRs and stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
@@ -569,7 +569,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
 
-### **DagsHub** (Stickers)
+#### **DagsHub** (Stickers)
 
 - **Requirements**:
   - Stickers if you create 2+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
@@ -647,13 +647,26 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
-#### **Milvus** (a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants))
+#### **Milvus** (a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt only for the first 50 participants)
 
 - **Requirements**: 2+ pull requests merged.
 - **Swag**: a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt (only for the first 50 participants).
 - **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
+
+- #### **MindsDB** (t-shirt, stickers, possible laptop)
+
+- **Requirements**: Contribute with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest.
+  - Documentation PR [1 point]
+  - Data-sets to public suite PR [1 point]
+  - Tutorials PR [3 points]
+  - Data sources integrations PR [5 points]
+  - API optimization PR [5 points]
+- **Swag**: t-shirt, stickers, laptop
+- **How to sign up**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/).
+- **Issues**: [MindsDB Repo](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/) for more info.
 
 #### **Zup** (t-shirt)
 
@@ -674,7 +687,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
 
-### **DagsHub** (T-Shirt)
+#### **DagsHub** (T-Shirt)
 
 - **Requirements**:
   - Get a T-shirt if you create 10+ PRs [at this repo](https://github.com/DAGsHub/audio-datasets/). There are very specific rules to follow [here](https://github.com/DAGsHub/audio-datasets#how-to-contribute)
@@ -737,19 +750,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
 - **Issues**: [Milvus code](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest), [Milvus documentation](https://github.com/milvus-io/milvus-docs/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [Milvus Golang API reference](https://github.com/milvus-io/milvus-sdk-go/issues?q=is%3Aopen+is%3Aissue+label%3AHACKTOBERFEST)
 - **Notes**: Check out [Milvus website](https://milvus.io/hacktoberfest-2021/) for more details.
-
-#### **MindsDB** (t-shirt, stickers, possible laptop)
-
-- **Requirements**: Contribute with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest.
-  - Documentation PR [1 point]
-  - Data-sets to public suite PR [1 point]
-  - Tutorials PR [3 points]
-  - Data sources integrations PR [5 points]
-  - API optimization PR [5 points]
-- **Swag**: t-shirt, stickers, laptop
-- **How to sign up**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/).
-- **Issues**: [MindsDB Repo](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **Notes**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/) for more info.
 
 #### **Supabase** (Unnamed swag, possibly t-shirt)
 
