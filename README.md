@@ -374,6 +374,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
   - They'll verify your contributions and take your shipment address.
 
+#### **Symbl.ai**
+
+- **Swag**: Stickers, T-shirts.
+- **Requirements**:  Three or more open and valid pull requests to the repository.
+- **How to sign up**: No additional sign-up is required. You can join our [devrel slack](https://docs.symbl.ai/docs/changelog/#connect-with-us-on-slack-) channel 
+- **Issues**: Details regarding swags and rules of the event are listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
+- **Notes**:
+  - PR should be merged for acceptance in both cases - T-shirt and sticker.
+
 ### Z
 
 #### **Zup**
@@ -553,6 +562,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
+#### **Symbl.ai** (Stickers)
+
+- **Requirements**: Anyone who creates a new issue, works on existing issues, raises a PR or contributes to the documentation.
+- **Swag**: Stickers
+- **How to sign up**: Register for hacktoberfest, join our [slack](https://docs.symbl.ai/docs/changelog/#connect-with-us-on-slack-) channel. Contribute through github.
+- **Issues**:
+  - Symbl.ai [docs](https://github.com/symblai/symbl-docs/issues)
+  - Symbl.ai [Symbl-powered-Agora-RTE-app](https://github.com/symblai/Symbl-powered-Agora-RTE-app/issues)
+  - Symbl.ai [symbl-twilio-video-react](https://github.com/symblai/symbl-twilio-video-react/issues)
+- **Notes**: PR should be merged solving the reported/existing issues marked with hacktoberfest label.
+
 ### 2 or more PRs
 
 #### **Appwrite** (Limited Edition T-shirts, Stickers & Coffee Mugs!)
@@ -708,6 +728,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/).
 - **Issues**: [MindsDB Repo](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **Notes**: Check out the [official webstie](https://mindsdb.com/hacktoberfest/) for more info.
+
+#### **Symbl.ai** (T-shirt)
+
+- **Requirements**: Anyone who creates a new issue, works on existing issues with more than one PR merged.
+- **Swag**: T-shirt
+- **How to sign up**: Register for hacktoberfest, join our [slack](https://docs.symbl.ai/docs/changelog/#connect-with-us-on-slack-) channel. Contribute through github.
+- **Issues**:
+  - Symbl.ai [docs](https://github.com/symblai/symbl-docs/issues)
+  - Symbl.ai [Symbl-powered-Agora-RTE-app](https://github.com/symblai/Symbl-powered-Agora-RTE-app/issues)
+  - Symbl.ai [symbl-twilio-video-react](https://github.com/symblai/symbl-twilio-video-react/issues)
+- **Notes**: PR should be merged solving the reported/existing issues marked with hacktoberfest label.
 
 #### **Zup** (t-shirt)
 
