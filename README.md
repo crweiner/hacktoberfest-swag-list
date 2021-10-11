@@ -133,12 +133,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Boa Constrictor**
 
 - **Swag**: Stickers
-- **Requirements**:
-  - Complete 1 valid pull request to get stickers.
+- **Requirements**: Complete 1 valid pull request to get stickers.
 - **How to sign up**: You will get a link where you can privately share your mailing address.
 - **Issues**: Check out the [Issues](https://github.com/q2ebanking/boa-constrictor/issues)!
-- **Notes**:
-  - For more details, read [this blog](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
+- **Notes**: For more details, read [this blog post](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
 
 ### C
 
@@ -431,12 +429,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Boa Constrictor** (Stickers)
 
 - **Swag**: Stickers
-- **Requirements**:
-  - Complete 1 valid pull request to get stickers.
+- **Requirements**: Complete 1 valid pull request to get stickers.
 - **How to sign up**: You will get a link where you can privately share your mailing address.
 - **Issues**: Check out the [Issues](https://github.com/q2ebanking/boa-constrictor/issues)!
-- **Notes**:
-  - For more details, read [this blog](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
+- **Notes**: For more details, read [this blog post](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
 
 #### **Bridgecrew** (Stickers)
 
