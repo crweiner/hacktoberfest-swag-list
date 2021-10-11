@@ -98,6 +98,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Any Issues not addressed on GitHub may be discussed on AutoDL's Slack Workspace.
   - For details regarding upcoming events and talks, kindly fill this [Form](https://forms.gle/46bVCcRGrYbf3jQe9)!
 
+#### **Automation Panda**
+
+- **Swag**: Stickers
+- **Requirements**:
+  - Complete 1 valid pull request to get stickers.
+- **How to sign up**: You will get a link where you can privately share your mailing address.
+- **Issues**: Check out the [Issues](https://github.com/q2ebanking/boa-constrictor/issues)!
+- **Notes**:
+  - For more details, read [this blog](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
+
 ### B
 
 #### **Bridgecrew**
@@ -417,6 +427,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - A Demo app counts as **2 PRs ( or more based on complexity )**
   - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
+
+#### **Automation Panda** (Stickers)
+
+- **Swag**: Stickers
+- **Requirements**:
+  - Complete 1 valid pull request to get stickers.
+- **How to sign up**: You will get a link where you can privately share your mailing address.
+- **Issues**: Check out the [Issues](https://github.com/q2ebanking/boa-constrictor/issues)!
+- **Notes**:
+  - For more details, read [this blog](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
 
 #### **Bridgecrew** (Stickers)
 
