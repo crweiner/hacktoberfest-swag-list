@@ -110,7 +110,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - On 4 successful PR merges, Bagisto will provide a T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant.
   - Only those PRs are accepted which are marked with the 'Hactoberfest' label and we have added difficulty level to each issue.
   - Although we have added 'hactoberfest' topic in our repo, but we will consider only PRs whose issue is labeled with 'Hactoberfest'. Below is the link,
-  - Issue Links: https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest
+  - [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 
 #### **Bridgecrew**
 
