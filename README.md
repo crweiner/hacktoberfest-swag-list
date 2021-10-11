@@ -46,6 +46,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **Alpaca**
+
+- **Swag**: T-shirt
+- **Requirements**:
+  - **At least 1** accepted pull request in any eligible repository under alpaca for first 20 contributors only.
+- **How to sign up**: First make PR merged then [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdxkWh2VDVZBqwcrW7D9n9mSN_IccZr-y1BpBe49bH_c0lKpA/viewform?usp=sf_link)
+- **Issues**: Read their blog for list of eligible open source project repository links and see their issues on respective repository.
+- **Notes**:  
+   - Only first 20 contributors will be rewarded swag.
+   - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
+
 #### **Appsmith**
 
 - **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
@@ -434,6 +445,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
 ### 1 Merged PR
+
+#### **Alpaca** (T-shirt)
+
+- **Requirements**:
+  - **At least 1** accepted pull request in any eligible repository under alpaca for first 20 contributors only.
+- **Swag**: T-shirt
+- **How to sign up**: First make PR merged then [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdxkWh2VDVZBqwcrW7D9n9mSN_IccZr-y1BpBe49bH_c0lKpA/viewform?usp=sf_link)
+- **Issues**: Read their blog for list of eligible open source project repository links and see their issues on respective repository.
+- **Notes**:  
+   - Only first 20 contributors will be rewarded swag.
+   - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
 
 #### **Appsmith** (Stickers)
 
