@@ -371,7 +371,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**:  stickers
 - **Requirements**:
-  -  with every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker
+  - With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker
 - **How to sign up**: Check this blog [StepZen](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
 - **Notes**: checkout more here[StepZen](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun) to get more info 
 
