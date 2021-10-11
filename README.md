@@ -148,7 +148,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **Requirements**:  1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
 - **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
-- **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
+- **Notes**:
+  - Must complete the a project listed above, then submit the PR to their repo (in that order)
+  - The repository is not included in DigitalOcean Hacktoberfest, But Codedamn will send swag as promised.
 
 #### **CodeSee**
 
@@ -449,7 +451,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: 1 pull requests to the [Codedamn Hacktoberfest repo](https://github.com/codedamn/codedamn-hacktoberfest-projects) after completing the project below.
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Codedamn website](https://codedamn.com/projects) for more details
-- **Notes**: Must complete the a project listed above, then submit the PR to their repo (in that order)
+- **Notes**:
+  - Must complete the a project listed above, then submit the PR to their repo (in that order)
+  - The repository is not included in DigitalOcean Hacktoberfest, But Codedamn will send swag as promised.
 
 #### **Datenanfragen.de e. V.** (stickers, webcam cover)
 
