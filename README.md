@@ -135,6 +135,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+#### **devICT**
+
+- **Swag**: (Stcikers)
+- **Requirements**: (Create two PRs in any of the qualifying Wichita repos)
+- **How to sign up**: (More details [here](https://devict-hacktoberfest.herokuapp.com/))
+- **Notes**: (You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/))
+
 ### E
 
 #### **Earthly**
@@ -370,6 +377,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Submitted in a Camunda repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer
   - Once your PR's are approved fill out the submission form [here](https://camunda.com/hacktoberfest2021/)
+
+#### **devICT**
+
+- **Swag**: (Stcikers)
+- **Requirements**: (Create two PRs in any of the qualifying Wichita repos)
+- **How to sign up**: (More details [here](https://devict-hacktoberfest.herokuapp.com/))
+- **Notes**: (You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/))
 
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
