@@ -97,7 +97,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - For more details, read [this blog](https://dev.to/mctechie/autodl-celebrates-hacktoberfest-2021-25da)!
   - Any Issues not addressed on GitHub may be discussed on AutoDL's Slack Workspace.
   - For details regarding upcoming events and talks, kindly fill this [Form](https://forms.gle/46bVCcRGrYbf3jQe9)!
-  
+
 ### B
 
 #### **Bridgecrew**
