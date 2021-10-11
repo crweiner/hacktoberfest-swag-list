@@ -97,17 +97,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - For more details, read [this blog](https://dev.to/mctechie/autodl-celebrates-hacktoberfest-2021-25da)!
   - Any Issues not addressed on GitHub may be discussed on AutoDL's Slack Workspace.
   - For details regarding upcoming events and talks, kindly fill this [Form](https://forms.gle/46bVCcRGrYbf3jQe9)!
-
-#### **Automation Panda**
-
-- **Swag**: Stickers
-- **Requirements**:
-  - Complete 1 valid pull request to get stickers.
-- **How to sign up**: You will get a link where you can privately share your mailing address.
-- **Issues**: Check out the [Issues](https://github.com/q2ebanking/boa-constrictor/issues)!
-- **Notes**:
-  - For more details, read [this blog](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
-
+  
 ### B
 
 #### **Bridgecrew**
@@ -139,6 +129,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Contribute with four or more pull requests to any of our open issues labeled Hacktoberfest.
   - Use this [form](https://bitrise.typeform.com/to/yDgso4Uu?typeform-source=www.bitrise.io) to claim swag.
   - Please note that projects in the **bitrise-io** organization are **not** part of Hacktoberfest.
+
+#### **Boa Constrictor**
+
+- **Swag**: Stickers
+- **Requirements**:
+  - Complete 1 valid pull request to get stickers.
+- **How to sign up**: You will get a link where you can privately share your mailing address.
+- **Issues**: Check out the [Issues](https://github.com/q2ebanking/boa-constrictor/issues)!
+- **Notes**:
+  - For more details, read [this blog](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
 
 ### C
 
@@ -428,7 +428,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - A Tutorial counts as **2 PRs ( or more based on complexity )**
 - **Issues**: List of [Hacktoberfest Issues](https://hacktoberfest.appwrite.io/)
 
-#### **Automation Panda** (Stickers)
+#### **Boa Constrictor** (Stickers)
 
 - **Swag**: Stickers
 - **Requirements**:
