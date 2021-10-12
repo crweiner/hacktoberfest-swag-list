@@ -406,13 +406,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - 1 valid PR for ToolJet stickers and T-shirt
   - 3 valid PRs for ToolJet stickers, T-shirt, water bottle
   - 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle
+  - Top contributors: Special prizes
 - **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
 - **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
 - **Notes**:
   - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
   - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
-  - Additionally, ToolJet will select top contributors to receive special prizes.
-  - More Details can be found.[Here](https://blog.tooljet.io/hacktoberfest-2021/)
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### Z
 
@@ -626,8 +626,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
   - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
-  - Additionally, ToolJet will select top contributors to receive special prizes.
-  - More Details can be found.[Here](https://blog.tooljet.io/hacktoberfest-2021/)
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### 2 or more PRs
 
@@ -809,8 +808,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
   - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
-  - Additionally, ToolJet will select top contributors to receive special prizes.
-  - More Details can be found.[Here](https://blog.tooljet.io/hacktoberfest-2021/)
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 #### **Zup** (t-shirt)
 
@@ -915,7 +913,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
-#### **ToolJet**(Special prizes )
+#### **ToolJet**(Special prizes)
 
 - **Requirements**: Become a top contibuter.
 - **Swag**: Special prizes
@@ -924,7 +922,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
   - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
-  - More Details can be found.[Here](https://blog.tooljet.io/hacktoberfest-2021/)
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ---
 
