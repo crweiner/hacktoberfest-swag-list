@@ -124,18 +124,6 @@ Note that the requirements have been edited for clarity, only showing the requir
 
 This little project costs ~ $20/year to run between the domain name and Netlify costs. If you want to chip in a dollar for just the month of October, I'll be very grateful! You can Sponsor the project through [GitHub here](https://github.com/sponsors/crweiner). Thank you!
 
-## Add your name
-
-Did you help contribute to the Hacktoberfest Swag list? Add your name to the list of humans.
-
-Contribution formatting will follow these guidelines in Markdown.
-
-```markdown
-- [Bob Smith](https://github.com/bobsmith)
-```
-
-If your contribution or PR is not formatted correctly, I'll let you know and give you a chance to fix it.
-
 ---
 
 ## Contributors by number of commits
