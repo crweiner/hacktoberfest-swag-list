@@ -367,13 +367,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check organization [StackBuilders Github](https://github.com/stackbuilders) on Github and look for hacktoberfest topic marked repository.
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
-#### **StepZen** (Stickers)
+#### **StepZen**
 
-- **Swag**:  stickers
+- **Swag**: Stickers
 - **Requirements**:
   - With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker
 - **How to sign up**: Check this blog [StepZen](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
-- **Notes**: checkout more here[StepZen](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun) to get more info 
+- **Notes**: checkout more here[StepZen](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun) to get more info
 
 #### **Supabase**
 
@@ -600,7 +600,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker
 - **How to sign up**: Check this blog [StepZen](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
-- **Notes**: checkout more here[StepZen](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun) to get more info 
+- **Notes**: checkout more here[StepZen](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun) to get more info
 
 #### **Symbl.ai** (Stickers)
 
