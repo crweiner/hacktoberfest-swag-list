@@ -402,7 +402,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **ToolJet**
 
 - **Swag**: ToolJet stickers, t-shirt, Hoodie, water bottle
-- **Requirements**: 
+- **Requirements**:
 - 1 valid PR - ToolJet stickers and t-shirt
 - 3 valid PRs - ToolJet stickers, t-shirt, water bottle
 - 4 valid PRs - ToolJet stickers, t-shirt, Hoodie, water bottle
