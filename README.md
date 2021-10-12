@@ -287,7 +287,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **MayaData & OpenEBS**
 
 - **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
-- **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
@@ -398,7 +398,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Supabase**
 
 - **Swag**: Some limited edition Supabase swag, possibly t-shirt based on their swag from last year.
-- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of their supabase-community projects that have the Hacktoberfest topic and submit your contribution by Oct 10, 2021
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
@@ -547,7 +547,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData & OpenEBS** (T-Shirt, stickers)
 
-- **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **Swag**: Special Edition T-Shirts, Stickers.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
@@ -893,7 +893,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData & OpenEBS** (Oculus VR Headset)
 
-- **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
@@ -911,7 +911,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Supabase** (Unnamed swag, possibly t-shirt)
 
-- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021.
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of their supabase-community projects that have the Hacktoberfest topic and submit your contribution by Oct 10, 2021.
 - **Swag**: Some limited edition Supabase swag, possibly t-shirt based on reward from last year.
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
