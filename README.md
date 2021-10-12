@@ -370,6 +370,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check the [repos list](https://github.com/paypal/hacktoberfest#repos) on the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page
 - **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
 
+### Q
+
+#### **QuestDB**
+
+- **Swag**: (Multiple swags including Stickers, T-Shirts, and Water bottle)
+- **Requirements**: (Contribute to any of QuestDB projects - Raise an issue, submit a PR, answer a question on SO, write a tutorial etc.)
+- **How to sign up**: (Join their [Slack channel](https://slack.questdb.io/))
+- **Notes**: (Depending on your contribution, you can win one or multiple QuestDB swags. More details can be found [here](https://questdb.io/community/))
+
 ### S
 
 #### **Stack Builders**
@@ -470,6 +479,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Limited edition stickers
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
+
+#### **QuestDB**
+
+- **Swag**: (Multiple swags including Stickers, T-Shirts, and Water bottle)
+- **Requirements**: (Contribute to any of QuestDB projects - Raise an issue, submit a PR, answer a question on SO, write a tutorial etc.)
+- **How to sign up**: (Join their [Slack channel](https://slack.questdb.io/))
+- **Notes**: (Depending on your contribution, you can win one or multiple QuestDB swags. More details can be found [here](https://questdb.io/community/))
 
 ### 1 Merged PR
 
