@@ -159,6 +159,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Misty Newton](https://github.com/mketters)
 - [Ravi Prasanth](https://github.com/raviprasanthgit)
 - [Shivam Balikondwar](https://github.com/Hyperion101010)
+- [Laishram Siddarth](https://github.com/Sid-Lais)
 
 ---
 
