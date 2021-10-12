@@ -675,7 +675,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check organization [SpaceX](https://github.com/stepzen-samples/stepzen-spacex-graphql/issues)and [Nuxt](https://github.com/stepzen-samples/stepzen-nuxt/issues) on Github and look for hacktoberfest topic marked repository.
 - **Notes**: Checkout more [here](https://www.youtube.com/watch?v=4B6xVyEc_CY&t=1080s) to get more info about contributions.
 
-
 #### **Symbl.ai** (Stickers)
 
 - **Requirements**: Anyone who creates a new issue, works on existing issues, raises a PR or contributes to the documentation.
