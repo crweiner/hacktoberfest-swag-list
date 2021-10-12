@@ -244,6 +244,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
+### H
+
+#### **Hasura**
+
+- **Swag**: (A Hasura swag box)
+- **Requirements**: (Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/))
+- **How to sign up**: (Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/))
+- **Notes**: (This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura TIps & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/)
+
 ### K
 
 #### **K6**
@@ -634,6 +643,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
   - More info is listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
+
+#### **Hasura**
+
+- **Swag**: (A Hasura swag box)
+- **Requirements**: (Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/))
+- **How to sign up**: (Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/))
+- **Notes**: (This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura TIps & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/)
 
 ### 2 or more PRs
 
