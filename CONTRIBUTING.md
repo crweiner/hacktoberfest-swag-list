@@ -138,7 +138,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 ---
 
-## 2021 Contributors
+## Contributors by number of commits
 
 <a href="https://github.com/crweiner/hacktoberfest-swag-list/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=crweiner/hacktoberfest-swag-list" />
