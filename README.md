@@ -273,6 +273,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
 - **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
 
+#### **Legesher**
+
+- **Swag**: Handwritten Letter, Special edition Stickers
+- **Requirements**: Contribute to a Legesher repository
+- **How to sign up**: No additional sign up required
+- **Issues**: Check out the [issues](https://github.com/search?q=org%3ALegesher+type%3Aissue&state=open&type=Issues)
+- **Notes**: For more deatils, read [this](https://github.com/legesher/legesher/issues/90)
+
 ### M
 
 #### **Mattermost**
@@ -493,6 +501,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - **1 PR**   - super ghoul sticker pack
 - **How to sign up**: - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 - **Notes**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
+
+#### **Legesher** (Handwritten Letter, Special Edition Stickers)
+
+- **Requirements**: Contribute to a [Legesher repository](https://github.com/orgs/legesher/repositories)
+- **Swag**: Handwritten Letter, Special Edition Stickers
+- **How to sign up**: No additional sign up required
+- **Issues**: Check out the [issues](https://github.com/search?q=org%3ALegesher+type%3Aissue&state=open&type=Issues)
+- **Notes**: For more details, refer [here](https://github.com/legesher/legesher/issues/90)
 
 #### **Mattermost** (Stickers)
 
