@@ -100,6 +100,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### B
 
+#### **Bagisto**
+
+- **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bigisto repo.
+- **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) for more details.
+- **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
+- **Notes**:
+  - Only those PRs are accepted which are marked with the 'Hacktoberfest' label and they have added difficulty level to each issue.
+  - Although we they added 'Hacktoberfest' topic in their repo, they will consider only PRs whose issue is labeled with 'Hacktoberfest' above for their unique swag.
+  - Read the [blog post](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) and check out their [swag tweet](https://twitter.com/BagistoShop/status/1447470920650477571).
+
 #### **Bridgecrew**
 
 - **Swag**: T-shirt, stickers
@@ -320,7 +331,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Share a gist of neat NativeScript code you find useful.
   - Create a NativeScript plugin.
 - **How to sign up**: Tweet about your contribution and mention [@NativeScript](https://twitter.com/NativeScript), then DM us with your address to get free swag.
-- **Issues**: For making PR's check these [Native Script Hactoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+- **Issues**: For making PR's check these [Native Script Hacktoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
 - **Notes**: Sending swags all around the world. To know more check [NativeScript Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html)
 
 #### NMF.earth
@@ -547,7 +558,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Create a NativeScript plugin.
 - **Swag**: Shirts, Socks, Stress balls, bottle openers and more
 - **How to sign up**: Tweet about your contribution and mention [@NativeScript](https://twitter.com/NativeScript), then DM us with your address to get free swag.
-- **Issues**: For making PR's check these [Native Script Hactoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
+- **Issues**: For making PR's check these [Native Script Hacktoberfest repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3ANativeScript&type=Repositories)
 - **Notes**: To know more check [NativeScript's Blog](https://blog.nativescript.org/hacktoberfest-2021/index.html).
 
 #### NMF.earth (Stickers)
@@ -681,6 +692,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+#### **Bagisto** (t-shirt, stickers, notebook, pen, and elephant)
+
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bigisto repo.
+- **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
+- **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) for more details.
+- **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
+- **Notes**:
+  - Only those PRs are accepted which are marked with the 'Hacktoberfest' label and they have added difficulty level to each issue.
+  - Although we they added 'Hacktoberfest' topic in their repo, they will consider only PRs whose issue is labeled with 'Hacktoberfest' above for their unique swag.
+  - Read the [blog post](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) and check out their [swag tweet](https://twitter.com/BagistoShop/status/1447470920650477571).
 
 #### **Bitrise** (magnet, socks, plushie)
 
