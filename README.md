@@ -402,6 +402,26 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
+#### **StepZen**
+
+- **Swag**: GraphQL sticker, t-shirt
+- **Requirements**:
+  Contribute in any of the repositories here [StepZen SpaceX React App](https://github.com/stepzen-samples/stepzen-spacex-graphql) marked with hacktoberfest topic.
+  Contribute in any of the repositories here [Stepzen Nuxt Mountains](https://github.com/stepzen-samples/stepzen-nuxt) marked with hacktoberfest topic.
+  - With every PR you merge or pairing session a StepZen GraphQL sticker will be send to you.
+  - If you merge four with[hactoberfest](https://hacktoberfest.digitalocean.com/resources/participation)label a t-shirt will be send to you.
+  **Tech**: Databases, REST APIs, and GraphQL APIs
+- **How to sign up**: Check this blog [Hactoberfest](https://hacktoberfest.digitalocean.com/).
+- **Issues**: Check organization [SpaceX](https://github.com/stepzen-samples/stepzen-spacex-graphql/issues)and [Nuxt](https://github.com/stepzen-samples/stepzen-nuxt/issues) on Github and look for hacktoberfest topic marked repository.
+- **Notes**: Checkout more [here](https://www.youtube.com/watch?v=4B6xVyEc_CY&t=1080s) to get more info about contributions.
+
+#### **Supabase**
+
+- **Swag**: Some limited edition Supabase swag, possibly t-shirt based on their swag from last year.
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of their supabase-community projects that have the Hacktoberfest topic and submit your contribution by Oct 10, 2021
+- **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
+- **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
+
 #### **Switchblade**
 
 - **Swag**: Stickers, Letter of Contribution
@@ -625,6 +645,20 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - After completing PR fill the required form to claim the swags [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
 
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
+
+#### **StepZen** (sticker,t-shirt)
+
+- **Swag**: GraphQL sticker, t-shirt
+- **Requirements**:
+  Contribute in any of the repositories here [StepZen SpaceX React App](https://github.com/stepzen-samples/stepzen-spacex-graphql) marked with hacktoberfest topic.
+  Contribute in any of the repositories here [Stepzen Nuxt Mountains](https://github.com/stepzen-samples/stepzen-nuxt) marked with hacktoberfest topic.
+  - With every PR you merge or pairing session a StepZen GraphQL sticker will be send to you.
+  - If you merge four with[hactoberfest](https://hacktoberfest.digitalocean.com/resources/participation)label a t-shirt will be send to you.
+  **Tech**: Databases, REST APIs, and GraphQL APIs
+- **How to sign up**: Check this blog [Hactoberfest](https://hacktoberfest.digitalocean.com/).
+- **Issues**: Check organization [SpaceX](https://github.com/stepzen-samples/stepzen-spacex-graphql/issues)and [Nuxt](https://github.com/stepzen-samples/stepzen-nuxt/issues) on Github and look for hacktoberfest topic marked repository.
+- **Notes**: Checkout more [here](https://www.youtube.com/watch?v=4B6xVyEc_CY&t=1080s) to get more info about contributions.
+
 
 #### **Symbl.ai** (Stickers)
 
