@@ -847,6 +847,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [MindsDB Repo](https://github.com/mindsdb/mindsdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **Notes**: Check out the [official website](https://mindsdb.com/hacktoberfest/) for more info.
 
+ ### **StepZen**(stickers,t-shirts)
+
+- **Requirements**:
+  Contribute in any of the repositories here [StepZen SpaceX React App](https://github.com/stepzen-samples/stepzen-spacex-graphql) marked with hacktoberfest topic.
+  Contribute in any of the repositories here [Stepzen Nuxt Mountains](https://github.com/stepzen-samples/stepzen-nuxt) marked with hacktoberfest topic.
+  - With every PR you merge or pairing session a StepZen GraphQL sticker will be send to you.
+  - If you merge four with[hactoberfest](https://hacktoberfest.digitalocean.com/resources/participation)label a t-shirt will be send to you.
+  **Tech**: Databases, REST APIs, and GraphQL APIs
+- **How to sign up**: Check this blog [Hactoberfest](https://hacktoberfest.digitalocean.com/).
+- **Issues**: Check organization [SpaceX](https://github.com/stepzen-samples/stepzen-spacex-graphql/issues)and [Nuxt](https://github.com/stepzen-samples/stepzen-nuxt/issues) on Github and look for hacktoberfest topic marked repository.
+
 #### **Symbl.ai** (T-shirt)
 
 - **Requirements**: Anyone who creates a new issue, works on existing issues with more than one PR merged.
