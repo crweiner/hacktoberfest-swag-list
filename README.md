@@ -203,6 +203,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+#### **devICT**
+
+- **Swag**: Stickers
+- **Requirements**: Create two PRs in any of the qualifying Wichita repos
+- **How to sign up**: More details [here](https://devict-hacktoberfest.herokuapp.com/)
+- **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
+
 ### E
 
 #### **Earthly**
@@ -417,6 +424,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Submit your PRs to Zup's Open Source projects' issues. For Zup projects, upon approval of the PRs you will receive a form and can request the shirt if you already have 2 pull requests approved in one of the Zup projects: Charles CD, Ritchie CLI, Beagle or Horusec.
 - **Issues**: Check [Issues](https://github.com/search?q=org%3AZupIT+label%3A%22good+first+issue%22+state%3Aopen+type%3Aissue+user%3AZupIT)
 - **Notes**: Redeem your T-Shirt after ensuring 2 PRs at [Zup Website](https://insights.zup.com.br/hacktoberfest)
+
+---
 
 ## Least Involvement to Most Involvement
 
@@ -659,6 +668,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
 - **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
 - **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
+
+#### **devICT** (stickers)
+
+- **Requirements**: Create two PRs in any of the qualifying Wichita repos
+- **Swag**: Stickers
+- **How to sign up**: More details [here](https://devict-hacktoberfest.herokuapp.com/)
+- **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
 
 ### The Original - **DigitalOcean, Appwrite, Intel, and Deepsource** (T-shirt, stickers)
 
