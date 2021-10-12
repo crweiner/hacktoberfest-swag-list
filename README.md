@@ -100,18 +100,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### B
 
-#### **Bagisto**
-
-- **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
-- **Requirements**:
-  - Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October.
-- **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) for more details.
-- **Notes**:
-  - On 4 successful PR merges, Bagisto will provide a T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant.
-  - Only those PRs are accepted which are marked with the 'Hactoberfest' label and we have added difficulty level to each issue.
-  - Although we have added 'hactoberfest' topic in our repo, but we will consider only PRs whose issue is labeled with 'Hactoberfest'. Below is the link,
-  - [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
-
 #### **Bridgecrew**
 
 - **Swag**: T-shirt, stickers
@@ -616,6 +604,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Register here](https://bit.ly/appsmith-hacktoberfest-registration)
 - **Issues**: [Hacktoberfest issues](https://github.com/appsmithorg/appsmith/issues?q=is%3Aopen+is%3Aissue+label%3A%22Good+First+Issue%22+bug)
 - **Notes**: Documentation and content contribution is also accepted. More info available [here](https://hacktoberfest.appsmith.com/)
+
+#### **Bagisto**
+
+- **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
+- **Requirements**:
+  - Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October.
+- **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) for more details.
+- **Notes**:
+  - On 4 successful PR merges, Bagisto will provide a T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant.
+  - Only those PRs are accepted which are marked with the 'Hactoberfest' label and we have added difficulty level to each issue.
+  - Although we have added 'hactoberfest' topic in our repo, but we will consider only PRs whose issue is labeled with 'Hactoberfest'. Below is the link,
+  - [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 
 #### **Bitrise** (magnet, socks, plushie)
 
