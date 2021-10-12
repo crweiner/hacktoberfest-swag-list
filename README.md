@@ -53,9 +53,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - **At least 1** accepted pull request in any eligible repository under alpaca for first 20 contributors only.
 - **How to sign up**: First make PR merged then [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdxkWh2VDVZBqwcrW7D9n9mSN_IccZr-y1BpBe49bH_c0lKpA/viewform?usp=sf_link)
 - **Issues**: Read their blog for list of eligible open source project repository links and see their issues on respective repository.
-- **Notes**:  
-   - Only first 20 contributors will be rewarded swag.
-   - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
+- **Notes**:
+  - Only first 20 contributors will be rewarded swag.
+  - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
 
 #### **Appsmith**
 
@@ -453,9 +453,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: First make PR merged then [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdxkWh2VDVZBqwcrW7D9n9mSN_IccZr-y1BpBe49bH_c0lKpA/viewform?usp=sf_link)
 - **Issues**: Read their blog for list of eligible open source project repository links and see their issues on respective repository.
-- **Notes**:  
-   - Only first 20 contributors will be rewarded swag.
-   - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
+- **Notes**:
+  - Only first 20 contributors will be rewarded swag.
+  - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
 
 #### **Appsmith** (Stickers)
 
