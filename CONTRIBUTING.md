@@ -140,27 +140,11 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 ## 2021 Contributors
 
-- [Chandler Weiner](https://github.com/crweiner/)
-- [Benjamin Altpeter](https://github.com/baltpeter/)
-- [Pranjal Mishra](https://github.com/Pranjalmishra30)
-- [Ferdinand Boas](https://github.com/ferdi05/)
-- [Christy Jacob](https://github.com/christyjacob4)
-- [Mcvean Soans](https://github.com/McTechie)
-- [Rohit Mathew](https://github.com/rohitjmathew)
-- [Biplob Sutradhar](https://github.com/biplobsd)
-- [Amy Egan](https://github.com/amyegan)
-- [Sidharth Sethi](https://github.com/TechSpiritSS)
-- [Mridul Birla](https://github.com/Mridulbirla13)
-- [Anurag Yadav](https://github.com/AnuragYadav365)
-- [Gaurav Gupta](https://github.com/gauravgupta45)
-- [sai sumanth kumar](https://github.com/saisumanthkumar)
-- [Ubaldo Pescatore](https://github.com/P3trur0)
-- [Aniket Pawar](https://github.com/Aniket-508)
-- [Misty Newton](https://github.com/mketters)
-- [Ravi Prasanth](https://github.com/raviprasanthgit)
-- [Shivam Balikondwar](https://github.com/Hyperion101010)
-- [Laishram Siddarth](https://github.com/Sid-Lais)
-- [Kushagra Chauhan](https://github.com/Kushagra-Chauhan)
+<a href="https://github.com/crweiner/hacktoberfest-swag-list/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=crweiner/hacktoberfest-swag-list" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
 
 ---
 
