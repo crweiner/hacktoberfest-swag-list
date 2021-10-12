@@ -433,6 +433,23 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - PR should be merged for acceptance in both cases
   - Details regarding swags and rules of the event are listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
 
+### T
+
+#### **ToolJet**
+
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
+- **Requirements**:
+  - 1 valid PR for ToolJet stickers and T-shirt
+  - 3 valid PRs for ToolJet stickers, T-shirt, water bottle
+  - 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle
+  - Top contributors: Special prizes
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
+
 ### Z
 
 #### **Zup**
@@ -655,6 +672,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
   - More info is listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
 
+#### **ToolJet** (ToolJet stickers and t-shirt)
+
+- **Requirements**:
+  - 1 valid PR for ToolJet stickers and t-shirt
+- **Swag**: t-shirt, stickers
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
+
 ### 2 or more PRs
 
 #### **Appwrite** (Limited Edition T-shirts, Stickers & Coffee Mugs!)
@@ -842,6 +871,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
   - More info is listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
 
+#### **ToolJet**(ToolJet Stickers, t-shirt, water bottle)
+
+- **Requirements**:
+  - 3 valid PRs for ToolJet stickers, T-shirt, water bottle
+  - 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle
+- **Swag**: T-shirt, stickers, water-bottle, hoodie
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
+
 #### **Zup** (t-shirt)
 
 - **Requirements**: Track your contributions to ensure 2 pull requests are accepted in one of the projects.
@@ -869,6 +911,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
 - **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
 - **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
+
+#### **ToolJet**(Surprise Gift along with all goodies)
+
+- **Requirements**:
+  - More than 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle and surprise gift
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - Additionally, ToolJet will select top contributors to receive special prizes.
+  - More Details can be found.[Here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### Top Contributors
 
@@ -931,6 +986,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Some limited edition Supabase swag, possibly t-shirt based on reward from last year.
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
+
+#### **ToolJet**(Special prizes)
+
+- **Requirements**: Become a top contibuter.
+- **Swag**: Special prizes
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ---
 
