@@ -783,6 +783,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
   - More info is listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
 
+#### **ToolJet**
+
+- **Swag**: ToolJet stickers, t-shirt, Hoodie, water bottle
+- **Requirements**: 
+- 1 valid PR - ToolJet stickers and t-shirt
+- 3 valid PRs - ToolJet stickers, t-shirt, water bottle
+- 4 valid PRs - ToolJet stickers, t-shirt, Hoodie, water bottle
+- More than 4 valid PRs - ToolJet stickers, t-shirt, Hoodie, water bottle,Surprise gift
+- **How to sign up**:Check this blog [ToolJet](https://blog.tooljet.io/hacktoberfest-2021/).
+- **Issues**:Check out the issues[here](https://github.com/ToolJet/ToolJet/issues?q=is%3Aopen)
+- **Notes**:
+  - PR should be merged for acceptance in both cases
+
 #### **Zup** (t-shirt)
 
 - **Requirements**: Track your contributions to ensure 2 pull requests are accepted in one of the projects.
