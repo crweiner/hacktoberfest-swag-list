@@ -386,12 +386,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   
 #### **StepZen**
 
-- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
 - **Swag**: Stickers
-- **How to sign up**: Check this blog [StepZen](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
+- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
+- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
 - **Notes**:
-  - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
-  - checkout more here[StepZen](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun) to get more info.
+  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
+  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
 
 #### **Symbl.ai**
 
@@ -595,14 +595,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
-#### **StepZen** (Stickers)
+#### **StepZen** (stickers)
 
 - **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
 - **Swag**: Stickers
-- **How to sign up**: Check this blog [StepZen](https://stepzen.com/blog/ announcing-stepzens-hacktoberfest-goals-21).
+- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
 - **Notes**:
-  - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
-  - checkout more here[StepZen](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun) to get more info.
+  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
+  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
 
 #### **Symbl.ai** (Stickers)
 
