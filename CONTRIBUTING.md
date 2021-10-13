@@ -6,7 +6,7 @@
 
 We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!
 
-By opening up a pull request to add a new company offering swag or to fix something, you'll also be banking towards earning your official Hacktoberfest t-shirt!
+By opening up  pull request to add a new company offering swag or to fix something, you'll also be banking towards earning your official Hacktoberfest t-shirt!
 
 Check [Issues](https://github.com/crweiner/hacktoberfest-swag-list/issues) and current [Pull Requests](https://github.com/crweiner/hacktoberfest-swag-list/pulls) before contributing to avoid adding duplicates.
 
@@ -141,7 +141,6 @@ Contribution formatting will follow these guidelines in Markdown.
 If your contribution or PR is not formatted correctly, I'll let you know and give you a chance to fix it.
 
 ---
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -151,7 +150,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://ObsessiveWP.com"><img src="https://avatars.githubusercontent.com/u/23106097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chandler Weiner</b></sub></a><br /><a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=crweiner" title="Code">💻</a></td>
+    <td align="center"><a href="http://ObsessiveWP.com"><img src="https://avatars.githubusercontent.com/u/23106097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chandler Weiner</b></sub></a><br /><a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=crweiner" title="Code">💻</a> <a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=crweiner" title="Documentation">📖</a></td>
   </tr>
 </table>
 
