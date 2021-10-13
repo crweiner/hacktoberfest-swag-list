@@ -150,7 +150,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://ObsessiveWP.com"><img src="https://avatars.githubusercontent.com/u/23106097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chandler Weiner</b></sub></a><br /><a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=crweiner" title="Code">💻</a></td>
+    <td align="center"><a href="http://ObsessiveWP.com"><img src="https://avatars.githubusercontent.com/u/23106097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chandler Weiner</b></sub></a><br /><a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=crweiner" title="Code">💻</a> <a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=crweiner" title="Documentation">📖</a></td>
   </tr>
 </table>
 
