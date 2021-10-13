@@ -1,5 +1,9 @@
 # Contributing
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!
 
 By opening up a pull request to add a new company offering swag or to fix something, you'll also be banking towards earning your official Hacktoberfest t-shirt!
@@ -124,13 +128,39 @@ Note that the requirements have been edited for clarity, only showing the requir
 
 This little project costs ~ $20/year to run between the domain name and Netlify costs. If you want to chip in a dollar for just the month of October, I'll be very grateful! You can Sponsor the project through [GitHub here](https://github.com/sponsors/crweiner). Thank you!
 
+## Add your name
+
+Did you help contribute to the Hacktoberfest Swag list? Add your name to the list of humans.
+
+Contribution formatting will follow these guidelines in Markdown.
+
+```markdown
+- [Bob Smith](https://github.com/bobsmith)
+```
+
+If your contribution or PR is not formatted correctly, I'll let you know and give you a chance to fix it.
+
 ---
 
-## Contributors by number of commits
+## Contributors ✨
 
-[![contributors list](https://contrib.rocks/image?repo=crweiner/hacktoberfest-swag-list)](https://github.com/crweiner/hacktoberfest-swag-list/graphs/contributors)
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-Made with [contributors-img](https://contrib.rocks).
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://ObsessiveWP.com"><img src="https://avatars.githubusercontent.com/u/23106097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chandler Weiner</b></sub></a><br /><a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=crweiner" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ---
 
