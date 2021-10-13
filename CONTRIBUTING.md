@@ -1,7 +1,7 @@
 # Contributing
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!
@@ -152,6 +152,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://ObsessiveWP.com"><img src="https://avatars.githubusercontent.com/u/23106097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chandler Weiner</b></sub></a><br /><a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=crweiner" title="Code">💻</a></td>
+    <td align="center"><a href="https://benjamin-altpeter.de"><img src="https://avatars.githubusercontent.com/u/4048809?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Benjamin Altpeter</b></sub></a><br /><a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=baltpeter" title="Documentation">📖</a></td>
   </tr>
 </table>
 
