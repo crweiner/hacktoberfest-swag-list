@@ -1,4 +1,7 @@
 # Hacktoberfest 2021 Swag List
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
 
@@ -1025,3 +1028,23 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ---
 
 If you're looking for the Swag List from 2018,  2019, or 2020 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), and [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020) branches.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://ObsessiveWP.com"><img src="https://avatars.githubusercontent.com/u/23106097?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chandler Weiner</b></sub></a><br /><a href="https://github.com/crweiner/hacktoberfest-swag-list/commits?author=crweiner" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
