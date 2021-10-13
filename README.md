@@ -383,7 +383,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
   - They'll verify your contributions and take your shipment address.
-  
+
 #### **StepZen**
 
 - **Swag**: Stickers
