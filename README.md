@@ -405,11 +405,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **StepZen**
 
-- **Swag**: GraphQL sticker, t-shirt
-- **Requirements**:
-  - Contribute in any of the Hacktoberfest labeled issues on [StepZen SpaceX React App](https://github.com/stepzen-samples/stepzen-spacex-graphql) or [Stepzen Nuxt Mountains](https://github.com/stepzen-samples/stepzen-nuxt).
-  - Each merged PR earns you another sticker.
-  - 4 merged PRs = t-shirt
+- **Swag**: GraphQL sticker
+- **Requirements**: Contribute in any of the Hacktoberfest labeled issues on [StepZen SpaceX React App](https://github.com/stepzen-samples/stepzen-spacex-graphql) or [Stepzen Nuxt Mountains](https://github.com/stepzen-samples/stepzen-nuxt).
 - **How to sign up**: Check this blog [Hactoberfest](https://hacktoberfest.digitalocean.com/).
 - **Issues**: Check organization [SpaceX](https://github.com/stepzen-samples/stepzen-spacex-graphql/issues)and [Nuxt](https://github.com/stepzen-samples/stepzen-nuxt/issues) on Github and look for hacktoberfest topic marked repository.
 - **Notes**: Checkout more [here](https://www.youtube.com/watch?v=4B6xVyEc_CY&t=1080s) to get more info about contributions.
