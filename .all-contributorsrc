@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "crweiner",
+      "name": "Chandler Weiner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23106097?v=4",
+      "profile": "http://ObsessiveWP.com",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "hacktoberfest-swag-list",
+  "projectOwner": "crweiner",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
