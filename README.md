@@ -420,6 +420,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
   - They'll verify your contributions and take your shipment address.
 
+#### **StepZen**
+
+- **Swag**: Stickers
+- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
+- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
+- **Notes**:
+  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
+  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
+
 #### **Symbl.ai**
 
 - **Swag**: Stickers, T-shirts.
@@ -658,6 +667,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - After completing PR fill the required form to claim the swags [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
 
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
+
+#### **StepZen** (stickers)
+
+- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
+- **Swag**: Stickers
+- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
+- **Notes**:
+  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
+  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
 
 #### **Symbl.ai** (Stickers)
 
