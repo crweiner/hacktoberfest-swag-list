@@ -633,7 +633,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/).
 - **Swag**: A Hasura swag box
 - **How to sign up**: Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/)
-- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/). You only have until October 14th to earn Hasura's unique swag. 
+- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/). You only have until October 14th to earn Hasura's unique swag.
 
 ### 2 or more PRs
 
