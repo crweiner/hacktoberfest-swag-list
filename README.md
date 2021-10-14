@@ -465,7 +465,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
 - **Notes**:
   - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
-  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - Additionally, ToolJet have added labels for the frontend (ReactJS) and backend (NestJS).
   - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### Z
@@ -715,7 +715,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
 - **Notes**:
   - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
-  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - Additionally, ToolJet have added labels for the frontend (ReactJS) and backend (NestJS).
   - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### 2 or more PRs
@@ -915,7 +915,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
 - **Notes**:
   - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
-  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - Additionally, ToolJet have added labels for the frontend (ReactJS) and backend (NestJS).
   - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 #### **Zup** (t-shirt)
@@ -1029,7 +1029,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
 - **Notes**:
   - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
-  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - Additionally, ToolJet have added labels for the frontend (ReactJS) and backend (NestJS).
   - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ---
