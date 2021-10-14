@@ -17,7 +17,8 @@ Please be sure to follow the simple rules:
 1. Be sure you are looking to add something of substance to this project, not just spam PRs. PRs must meet the [Hacktoberfest Quality Standards](https://hacktoberfest.digitalocean.com/resources/qualitystandards)
 2. Please be available to make changes within 48 hours when requested to do so. If you don't, then your PR may be closed.
 3. Please fix all issues flagged by the bots, including CodeClimate, GH Actions, Netlify, CircleCI or any others as soon as possible, ideally right away.
-4. If adding a new company to the swag list, follow the formatting below:
+4. A company must have publicly posted about their swag. You should include a link back to the original blog post, tweet, GitHub issue, etc. where the swag can be verified.
+5. If adding a new company to the swag list, follow the formatting below:
 
 ## How to format your contribution
 
@@ -35,10 +36,10 @@ Find the first letter of your company within the list, then add your information
 #### **Company Name**
 
 - **Swag**: (T-shirt, stickers, etc)
-- **Requirements**: (What do I have to complete? Are there different requirements per swag item? Are the PRs merged or just submitted?)
-- **How to sign up**: (Link to signup page using inline formatting of [text](URL))
-- **Issues**: Optional (link to Hacktoberfest tagged issues)
-- **Notes**: (If needed, otherwise write N/A)
+- **Requirements**: What do I have to complete? Are there different requirements per swag item? Are the PRs merged or just submitted?
+- **How to sign up**: Link to signup page using inline formatting of [text](URL)
+- **Issues**: Optional link to Hacktoberfest tagged issues
+- **Notes**: If needed, otherwise write "N/A". This is where links to blog posts/tweets go.
 ```
 
  If you don't see a letter heading for your company, please add it! Use the Markdown formatting to do so:
@@ -46,6 +47,8 @@ Find the first letter of your company within the list, then add your information
 ```markdown
 ### A
 ```
+
+---
 
 ### Least Involvement to Most Involvement
 
@@ -58,7 +61,7 @@ Also add your company information to the correct section for this list. So far, 
 - 5 Merged PRs
 - Top Contributors
 
-If your involvement requirements are a bit different or do not fit into this scale, feel free to create another level in the scale! Use the same Markdown formatting as a letter heading:
+If your involvement requirements are completely different, feel free to create another level in the scale! Use the same Markdown formatting as a letter heading:
 
 ```markdown
 ### Another Involvement Level
@@ -73,10 +76,10 @@ This section of the list will follow a slightly different set of formatting in o
 
 - **Requirements**: If the company only offers one type of swag, then state the requirements here
   - If they offer multiple levels of swag, then record this particular swag item here as an indented bullet point
-- **Swag**: (T-shirt, stickers, etc)
-- **How to sign up**: (Link to signup page using inline formatting of [text](URL))
- **Issues**: Optional (link to Hacktoberfest tagged issues)
-- **Notes**: (If needed, otherwise write N/A)
+- **Swag**: T-shirt, stickers, etc
+- **How to sign up**: Link to signup page using inline formatting of [text](URL)
+ **Issues**: Optional link to Hacktoberfest tagged issues
+- **Notes**: If needed, otherwise write "N/A". This is where links to blog posts/tweets go
 ```
 
 If you have multiple types of swag for different involvement levels, be sure to add two separate entries for each individual piece of swag earned! For example, Operation Code has two types of swag earned at different levels:
@@ -114,6 +117,8 @@ _2. For the T-Shirt only (placed at 2 or more Merged PRs level):_
 ```
 
 Note that the requirements have been edited for clarity, only showing the requirements for that type of swag and moved to the first bullet point. Also, the swag type is placed in parentheses after the company name to understand what is being earned at each level. 😊
+
+---
 
 ## Support
 
@@ -154,6 +159,8 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Misty Newton](https://github.com/mketters)
 - [Ravi Prasanth](https://github.com/raviprasanthgit)
 - [Shivam Balikondwar](https://github.com/Hyperion101010)
+- [Laishram Siddarth](https://github.com/Sid-Lais)
+- [Kushagra Chauhan](https://github.com/Kushagra-Chauhan)
 
 ---
 

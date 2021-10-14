@@ -46,6 +46,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### A
 
+#### **Alpaca**
+
+- **Swag**: T-shirt
+- **Requirements**: At least 1 accepted pull request in any eligible repository under Alpaca for first 20 contributors only.
+- **How to sign up**: Once your PR is merged, then [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdxkWh2VDVZBqwcrW7D9n9mSN_IccZr-y1BpBe49bH_c0lKpA/viewform?usp=sf_link)
+- **Issues**: Read their blog for list of eligible open source project repository links and see their issues on respective repository.
+- **Notes**:
+  - Only first 20 contributors will be rewarded swag.
+  - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
+
 #### **Appsmith**
 
 - **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
@@ -272,6 +282,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
 - **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
 
+#### **Legesher**
+
+- **Swag**: Handwritten Letter, Special edition Stickers
+- **Requirements**: Contribute to a Legesher repository
+- **How to sign up**: No additional sign up required
+- **Issues**: Check out the [issues](https://github.com/search?q=org%3ALegesher+type%3Aissue&state=open&type=Issues)
+- **Notes**: For more deatils, read [this](https://github.com/legesher/legesher/issues/90)
+
 ### M
 
 #### **Mattermost**
@@ -397,7 +415,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Supabase**
 
 - **Swag**: Some limited edition Supabase swag, possibly t-shirt based on their swag from last year.
-- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of their supabase-community projects that have the Hacktoberfest topic and submit your contribution by Oct 10, 2021
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
 
@@ -411,6 +429,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
   - They'll verify your contributions and take your shipment address.
 
+#### **StepZen**
+
+- **Swag**: Stickers
+- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
+- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
+- **Notes**:
+  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
+  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
+
 #### **Symbl.ai**
 
 - **Swag**: Stickers, T-shirts.
@@ -423,6 +450,23 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - PR should be merged for acceptance in both cases
   - Details regarding swags and rules of the event are listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
+
+### T
+
+#### **ToolJet**
+
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
+- **Requirements**:
+  - 1 valid PR for ToolJet stickers and T-shirt
+  - 3 valid PRs for ToolJet stickers, T-shirt, water bottle
+  - 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle
+  - Top contributors: Special prizes
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### Z
 
@@ -473,6 +517,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 - **Notes**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
 
+#### **Legesher** (Handwritten Letter, Special Edition Stickers)
+
+- **Requirements**: Contribute to a [Legesher repository](https://github.com/orgs/legesher/repositories)
+- **Swag**: Handwritten Letter, Special Edition Stickers
+- **How to sign up**: No additional sign up required
+- **Issues**: Check out the [issues](https://github.com/search?q=org%3ALegesher+type%3Aissue&state=open&type=Issues)
+- **Notes**: For more details, refer [here](https://github.com/legesher/legesher/issues/90)
+
 #### **Mattermost** (Stickers)
 
 - **Requirements**: 1+ contributions to the Mattermost community
@@ -481,6 +533,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
 ### 1 Merged PR
+
+#### **Alpaca** (T-shirt)
+
+- **Requirements**: At least 1 accepted pull request in any eligible repository under Alpaca for first 20 contributors only.
+- **Swag**: T-shirt
+- **How to sign up**: Once your PR is merged, then [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdxkWh2VDVZBqwcrW7D9n9mSN_IccZr-y1BpBe49bH_c0lKpA/viewform?usp=sf_link)
+- **Issues**: Read their blog for list of eligible open source project repository links and see their issues on respective repository.
+- **Notes**:
+  - Only first 20 contributors will be rewarded swag.
+  - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
 
 #### **Appsmith** (Stickers)
 
@@ -526,6 +588,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **Hasura** (swag box)
+
+- **Requirements**: Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/).
+- **Swag**: A Hasura swag box
+- **How to sign up**: Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/)
+- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/). You only have until October 14th to earn Hasura's unique swag.
 
 #### **K6** (t-shirt, stickers, cup, mug)
 
@@ -615,6 +684,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
+#### **StepZen** (stickers)
+
+- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
+- **Swag**: Stickers
+- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
+- **Notes**:
+  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
+  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
+
 #### **Symbl.ai** (Stickers)
 
 - **Requirements**: Anyone who creates a new issue, works on existing issues, raises a PR or contributes to the documentation.
@@ -628,12 +706,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
   - More info is listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
 
-#### **Hasura** (swag box)
+#### **ToolJet** (ToolJet stickers and t-shirt)
 
-- **Requirements**: Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/).
-- **Swag**: A Hasura swag box
-- **How to sign up**: Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/)
-- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/). You only have until October 14th to earn Hasura's unique swag.
+- **Requirements**:
+  - 1 valid PR for ToolJet stickers and t-shirt
+- **Swag**: t-shirt, stickers
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### 2 or more PRs
 
@@ -822,6 +905,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
   - More info is listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
 
+#### **ToolJet**(ToolJet Stickers, t-shirt, water bottle)
+
+- **Requirements**:
+  - 3 valid PRs for ToolJet stickers, T-shirt, water bottle
+  - 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle
+- **Swag**: T-shirt, stickers, water-bottle, hoodie
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
+
 #### **Zup** (t-shirt)
 
 - **Requirements**: Track your contributions to ensure 2 pull requests are accepted in one of the projects.
@@ -849,6 +945,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the  [DagsHub website](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/)
 - **Issues**: [Issues](https://github.com/DAGsHub/audio-datasets/issues)
 - **Notes**: Read the [DagsHub blog post](https://dagshub.com/blog/hacktoberfest-x-dagshub-2/), [tweet](https://mobile.twitter.com/TheRealDAGsHub/status/1445737690737954820?t=lCXB0SDKR_ypJhNYSUIvIQ&s=19), and join their [Hacktoberfest Discord server](https://discord.gg/xAGgkNht)
+
+#### **ToolJet**(Surprise Gift along with all goodies)
+
+- **Requirements**:
+  - More than 4 valid PRs for ToolJet stickers, T-shirt, Hoodie, water bottle and surprise gift
+- **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - Additionally, ToolJet will select top contributors to receive special prizes.
+  - More Details can be found.[Here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ### Top Contributors
 
@@ -907,10 +1016,21 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Supabase** (Unnamed swag, possibly t-shirt)
 
-- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of our supabase-community projects that have the hacktoberfest topic and submit your contribution by Oct 10, 2021.
+- **Requirements**: Join their Discord server, build a new open-source project with Supabase or contribute to one of their supabase-community projects that have the Hacktoberfest topic and submit your contribution by Oct 10, 2021.
 - **Swag**: Some limited edition Supabase swag, possibly t-shirt based on reward from last year.
 - **How to sign up**: Join their [Discord server](https://discord.gg/bnncdqgBSS)
 - **Notes**: More details can be found [here](https://supabase.io/blog/2021/09/28/supabase-hacktoberfest-hackathon-2021)
+
+#### **ToolJet**(Special prizes)
+
+- **Requirements**: Become a top contibuter.
+- **Swag**: Special prizes
+- **How to sign up**: One can directly contibute to their Hacktoberfest 2021 repsiotory.
+- **Issues**: [Hacktoberfest issues](https://github.com/ToolJet/ToolJet/blob/develop/CONTRIBUTING.md)
+- **Notes**:
+  - ToolJet have tagged issues on Github with the label good first issue for people who are not familiar with ToolJet's codebase. You can view them at: Issues for newcomers.
+  - Additionally, ToolJet havve added labels for the frontend (ReactJS) and backend (NestJS).
+  - More Details can be found [here](https://blog.tooljet.io/hacktoberfest-2021/)
 
 ---
 
