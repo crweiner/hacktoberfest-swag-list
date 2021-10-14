@@ -251,7 +251,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: A Hasura swag box
 - **Requirements**: Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/)
 - **How to sign up**: Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/)
-- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/)
+- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/). You only have until October 14th to earn Hasura's unique swag.
 
 ### K
 
@@ -286,7 +286,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **MayaData & OpenEBS**
 
 - **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
-- **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Requirements**:  At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
@@ -378,15 +378,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
 - **Issues**: Check the [repos list](https://github.com/paypal/hacktoberfest#repos) on the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page
 - **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
-
-### Q
-
-#### **QuestDB**
-
-- **Swag**: Multiple swags including Stickers, T-Shirts, and Water bottle
-- **Requirements**: Contribute to any of QuestDB projects - Raise an issue, submit a PR, answer a question on SO, write a tutorial etc.
-- **How to sign up**: Join their [Slack channel](https://slack.questdb.io/)
-- **Notes**: Depending on your contribution, you can win one or multiple QuestDB swags. More details can be found [here](https://questdb.io/community/)
 
 ### S
 
@@ -489,13 +480,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Mattermost website](https://mattermost.com/blog/hacktoberfest-2021/) for more details
 - **Notes**: Check out the [Mattermost handbook for Hacktoberfest](https://handbook.mattermost.com/contributors/contributors/ways-to-contribute/hacktoberfest2021) and their [community colab server](https://docs.mattermost.com/guides/community-chat.html)
 
-#### **QuestDB**
-
-- **Swag**: Multiple swags including Stickers, T-Shirts, and Water bottle
-- **Requirements**: Contribute to any of QuestDB projects - Raise an issue, submit a PR, answer a question on SO, write a tutorial etc.
-- **How to sign up**: Join their [Slack channel](https://slack.questdb.io/)
-- **Notes**: Depending on your contribution, you can win one or multiple QuestDB swags. More details can be found [here](https://questdb.io/community/)
-
 ### 1 Merged PR
 
 #### **Appsmith** (Stickers)
@@ -552,7 +536,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData & OpenEBS** (T-Shirt, stickers)
 
-- **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Requirements**:  At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **Swag**: Special Edition T-Shirts, Stickers.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
@@ -644,12 +628,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - PR should be merged solving the reported/existing issues marked with Hacktoberfest label.
   - More info is listed [here](https://www.eventbrite.com/e/hacktoberfest-with-symblai-tickets-187225746247).
 
-#### **Hasura**
+#### **Hasura** (swag box)
 
+- **Requirements**: Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/).
 - **Swag**: A Hasura swag box
-- **Requirements**: Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/)
 - **How to sign up**: Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/)
-- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/)
+- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/). You only have until October 14th to earn Hasura's unique swag. 
 
 ### 2 or more PRs
 
@@ -905,7 +889,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData & OpenEBS** (Oculus VR Headset)
 
-- **Requirements**: Atleast 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
