@@ -220,6 +220,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: More details [here](https://devict-hacktoberfest.herokuapp.com/)
 - **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
 
+
 ### E
 
 #### **Earthly**
@@ -271,6 +272,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Merge one PR successfully to any of the K6 repositories will receive an [awesome swag pack](https://twitter.com/yusuftayman/status/1423203725229936648/photo/1)!
 - **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
 - **Notes**: Stocks are limited and are on a first come first serve basis only.
+
+#### **Kong**
+
+- **Swag**: T-shirt
+- **Requirements**: Merge one PR successfully to any of the Kong repositories will receive a [very special Contributor T-shirt!](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt)!
+- **How to sign up**: Fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform) after making a sucessfull Pull Request.
+- **Issues**: Check out the [issues](https://github.com/Kong/kong/issues)
+
 
 ### L
 
@@ -602,6 +611,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt, Stickers, Cap, Mug
 - **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
 - **Notes**: Stocks are limited and are on a first come first serve basis only.
+
+#### **Kong** (t-shirt)
+
+- **Requirements**: Contributors who merge one PR successfully to any of the Kong repositories will receive a [very special Contributor T-shirt!](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt)!
+- **Swag**: T-shirt
+- **How to sign up**: Fill the [form](https://docs.google.com/forms/d/e/1FAIpQLSfacQHac-PYIDIrDOi_W2l7cWxBDRIVBs6xE5HnlojPvdhL9g/viewform) after making a sucessfull Pull Request.
+- **Issues**: Check out the [issues](https://github.com/Kong/kong/issues)
 
 #### **MayaData & OpenEBS** (T-Shirt, stickers)
 
