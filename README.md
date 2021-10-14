@@ -254,6 +254,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
+### H
+
+#### **Hasura**
+
+- **Swag**: A Hasura swag box
+- **Requirements**: Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/)
+- **How to sign up**: Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/)
+- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/). You only have until October 14th to earn Hasura's unique swag.
+
 ### K
 
 #### **K6**
@@ -295,7 +304,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **MayaData & OpenEBS**
 
 - **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
-- **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Requirements**:  At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
@@ -580,6 +589,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
+#### **Hasura** (swag box)
+
+- **Requirements**: Submit a PR to one of their select repos mentioned [here](https://hasura.io/blog/celebrating-open-source-with-hasura/).
+- **Swag**: A Hasura swag box
+- **How to sign up**: Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/)
+- **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/). You only have until October 14th to earn Hasura's unique swag.
+
 #### **K6** (t-shirt, stickers, cup, mug)
 
 - **Requirements**: Contributors who merge one PR successfully to any of the K6 repositories will receive [an awesome swag pack](https://twitter.com/yusuftayman/status/1423203725229936648/photo/1)!
@@ -589,7 +605,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **MayaData & OpenEBS** (T-Shirt, stickers)
 
-- **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
+- **Requirements**:  At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **Swag**: Special Edition T-Shirts, Stickers.
 - **How to sign up**: No additional sign up is required.
 - **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
