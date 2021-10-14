@@ -161,6 +161,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Shivam Balikondwar](https://github.com/Hyperion101010)
 - [Laishram Siddarth](https://github.com/Sid-Lais)
 - [Kushagra Chauhan](https://github.com/Kushagra-Chauhan)
+- [Anuranjan Srivastava](https://github.com/Codersaty)
 
 ---
 
