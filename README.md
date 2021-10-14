@@ -1016,7 +1016,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **ToolJet**(Special prizes)
 
-- **Requirements**: Create three or more valid pull requests on the [ToolJet](https://github.com/ToolJet/ToolJet)
+- **Requirements**: Create 4+ valid pull requests on the [ToolJet](https://github.com/ToolJet/ToolJet)
   - 4+ valid PRs - ToolJet stickers, t-shirt and  water bottle
 - **Swag**: Special prizes
 - **How to sign up**: [Register Here](https://app.tooljet.io/applications/hacktoberfest-2021-form)
