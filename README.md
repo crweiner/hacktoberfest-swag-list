@@ -399,6 +399,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### S
 
+#### **Sourcegraph**
+
+- **Swag**: Offering the first 50 successfully merged pull request contributors with a Sourcegraph swag package.
+- **Requirements**: Contribute to a Sourcegraph repository.
+- **How to sign up**: The Sourcegraph team has put together a Good First Issues GitHub board that will help Hacktoberfest contributors be able to contribute to our repos.
+- **Issues**: Check out the [issues](https://github.com/orgs/sourcegraph/projects/210)
+- **Notes**: For more details, read [this](https://dev.to/sourcegraph/happy-hacktoberfest-from-sourcegraph-2dc3)
+
 #### **Stack Builders**
 
 - **Swag**: Amazon Gift Cards
@@ -669,6 +677,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
 - **Issues**: [Hacktoberfest repos/issues](https://github.com/paypal/hacktoberfest#repos)
 - **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
+
+#### **Sourcegraph** (Swag Package)
+
+- **Requirements**: Contribute to a Sourcegraph repository.
+- **Swag**: Offering the first 50 successfully merged pull request contributors with a Sourcegraph swag package.
+- **How to sign up**: The Sourcegraph team has put together a Good First Issues GitHub board that will help Hacktoberfest contributors be able to contribute to our repos.
+- **Issues**: Check out the [issues](https://github.com/orgs/sourcegraph/projects/210)
+- **Notes**: For more details, read [this](https://dev.to/sourcegraph/happy-hacktoberfest-from-sourcegraph-2dc3)
 
 #### **Stack Builders** (Amazon Gift Card)
 
