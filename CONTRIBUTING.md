@@ -163,7 +163,6 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Kushagra Chauhan](https://github.com/Kushagra-Chauhan)
 - [Iuri Mendes](https://github.com/fcoiuri)
 
-
 ---
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
