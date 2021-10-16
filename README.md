@@ -328,6 +328,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
 - **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
+#### **Memorial Computer Science Society**
+
+- **Swag**: Sticker to be delivered by hand at the MUN campus. This will not be mailed.
+- **Requirements**: Contribute to a MUNCSS project and email executive once completed.
+- **How to sign up**: No additional sign up required.
+- **Issues**: [MUNCSS issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3AMUNComputerScienceSociety+fork%3Atrue&type=issues)
+- **Notes**: Check out [the MUNCSS blogpost](https://muncompsci.ca/events/hacktoberfest-2021/)
+
 #### **Milvus**
 
 - **Swag**: drone, stickers pack, t-shirt, keyboard
@@ -624,6 +632,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Medusa sticker.
 - **How to sign up**: No additional sign up is required.
 - **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), their [Discord](https://discord.com/invite/PGhCdgEP), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) for more details.
+
+#### **Memorial Computer Science Society** (sticker)
+
+- **Requirements**: Contribute to a MUNCSS project and email executive once completed.
+- **Swag**: Sticker to be delivered by hand at the MUN campus. This will not be mailed.
+- **How to sign up**: No additional sign up required.
+- **Issues**: [MUNCSS issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3AMUNComputerScienceSociety+fork%3Atrue&type=issues)
+- **Notes**: Check out [the MUNCSS blogpost](https://muncompsci.ca/events/hacktoberfest-2021/)
 
 #### **LoginRadius** (T-shirt)
 
