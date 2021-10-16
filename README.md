@@ -288,7 +288,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Contribute to a Legesher repository
 - **How to sign up**: No additional sign up required
 - **Issues**: Check out the [issues](https://github.com/search?q=org%3ALegesher+type%3Aissue&state=open&type=Issues)
-- **Notes**: For more deatils, read [this](https://github.com/legesher/legesher/issues/90)
+- **Notes**: For more details, read [this](https://github.com/legesher/legesher/issues/90)
 
 ### M
 
@@ -324,9 +324,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: reusable insulated water bottle, stickers
 - **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
-- **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+- **How to sign up**: Check out [MeiliSearch blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
-- **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+- **Notes**: Check out [MeiliSearch blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
 #### **Memorial Computer Science Society**
 
@@ -334,7 +334,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Contribute to a MUNCSS project and email executive once completed.
 - **How to sign up**: No additional sign up required.
 - **Issues**: [MUNCSS issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3AMUNComputerScienceSociety+fork%3Atrue&type=issues)
-- **Notes**: Check out [the MUNCSS blogpost](https://muncompsci.ca/events/hacktoberfest-2021/)
+- **Notes**: Check out [the MUNCSS blog post](https://muncompsci.ca/events/hacktoberfest-2021/)
 
 #### **Milvus**
 
@@ -639,7 +639,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker to be delivered by hand at the MUN campus. This will not be mailed.
 - **How to sign up**: No additional sign up required.
 - **Issues**: [MUNCSS issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3AMUNComputerScienceSociety+fork%3Atrue&type=issues)
-- **Notes**: Check out [the MUNCSS blogpost](https://muncompsci.ca/events/hacktoberfest-2021/)
+- **Notes**: Check out [the MUNCSS blog post](https://muncompsci.ca/events/hacktoberfest-2021/)
 
 #### **LoginRadius** (T-shirt)
 
@@ -897,9 +897,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Requirements**: 4 or more pull requests in any eligible [repository](https://github.com/topics/hacktoberfest), including one pull request in MeiliSearch eligible [repositories](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ameilisearch&type=Repositories)
 - **Swag**: reusable insulated water bottle, stickers
-- **How to sign up**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+- **How to sign up**: Check out [MeiliSearch blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 - **Issues**: [Good first issues](https://github.com/search?q=meilisearch+label%3Ahacktoberfest+state%3Aopen+is%3Aissue&type=Issues)
-- **Notes**: Check out [MeiliSearch blogpost](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
+- **Notes**: Check out [MeiliSearch blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2021/) for more details
 
 #### **Milvus** (a sticker pack, a digital Milvus contributor badge, and a Milvus T-shirt only for the first 50 participants)
 
