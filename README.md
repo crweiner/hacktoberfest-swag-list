@@ -58,14 +58,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Amplication**
 
-- **swag**: Stickers pack, T-shirt
+- **Swag**: Stickers pack, T-shirt
 - **Requirements**:
-  - Send a Pull Request for any open issue on our repository. 
+  - Send a Pull Request for any open issue on our repository.
   - Create and publish a tutorial about Amplication.
   - Build and publish a demo app with Amplication.
-- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2) 
+- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
-- **Notes**: 
+- **Notes**:
   - Official Amplication tweet [here](https://twitter.com/amplication/status/1443904114300162049)
   - Some of the tasks count as 2 contributions, so look for the details on the issue.
 
@@ -514,12 +514,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Amplication** (Stickers)
 
-- **swag**: Stickers pack
+- **Swag**: Stickers pack
 - **Requirements**:
   - Complete 1 valid pull request to get stickers.
-- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2) 
+- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
-- **Notes**: 
+- **Notes**:
   - Official Amplication tweet [here](https://twitter.com/amplication/status/1443904114300162049)
   - Some of the tasks count as 2 contributions, so look for the details on the issue.
 
@@ -855,12 +855,12 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Amplication** (T-shirt)
 
-- **swag**: T-shirt
+- **Swag**: T-shirt
 - **Requirements**:
   - Complete 4 valid pull request to get a T-shirt.
-- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2) 
+- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
-- **Notes**: 
+- **Notes**:
   - Official Amplication tweet [here](https://twitter.com/amplication/status/1443904114300162049)
   - Some of the tasks count as 2 contributions, so look for the details on the issue.
 
