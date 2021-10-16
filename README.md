@@ -254,6 +254,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
+
+#### **Grouparoo**
+
+- **Swag**: T-shirts, Gift Cards, Hoodies
+- **Requirements**:
+  - Suggest documentation changes via pull request.
+  - Destinations connect Grouparoo data (from databases and warehouses) to various third-party systems (Salesforce, Mailchimp, Zendesk, etc).
+  - Add the destination via a pull request on our [mono repo](https://github.com/grouparoo/www.grouparoo.com).
+- **How to sign up**: [Register Here](https://www.eventbrite.com/e/grouparoos-hacktoberfest-2021-contest-tickets-190570570707) 
+- **Notes**: [More Details](https://www.grouparoo.com/hacktoberfest)
+
 ### H
 
 #### **Hasura**
@@ -531,6 +542,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - **1 PR**   - super ghoul sticker pack
 - **How to sign up**: - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 - **Notes**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
+
+#### **Grouparoo** (T-shirts, Gift Cards, Hoodies)
+
+- **Requirements**:
+  - Suggest documentation changes via pull request.
+  - Destinations connect Grouparoo data (from databases and warehouses) to various third-party systems (Salesforce, Mailchimp, Zendesk, etc).
+  - Add the destination via a pull request on our [mono repo](https://github.com/grouparoo/www.grouparoo.com).
+- **Swag**: T-shirts, Gift Cards, Hoodies
+- **How to sign up**: [Register Here](https://www.eventbrite.com/e/grouparoos-hacktoberfest-2021-contest-tickets-190570570707) 
+- **Notes**: [More Details](https://www.grouparoo.com/hacktoberfest)
 
 #### **Legesher** (Handwritten Letter, Special Edition Stickers)
 
