@@ -220,6 +220,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: More details [here](https://devict-hacktoberfest.herokuapp.com/)
 - **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
 
+#### **Devtron**
+
+- **Swag**: Sticker Packs, T-shirt, Diary, Coaster and Electronic Gadgets (Surprise Giveaway)
+- **Requirements**:
+  - 1 Merged PR -  Stickers Pack + 1 T-Shirt
+  - 2 Merged PRs - Stickers Pack + 1 Diary + 1 T-Shirt
+  - 3 or more Merged PRs - Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster
+  - Special Prices
+    - Most innovative/Unique PR - Devtron Swag Pack + Cool electronic Gadgets
+    - Maximum number of PRs - Devtron Swag Package + Cool electronic Gadgets
+- **How to sign up**: Join our [Discord Community](https://discord.com/invite/9MrMwGDR) and send the PR link in #Contrib channel with **hacktoberfest** tag.
+- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
+
 ### E
 
 #### **Earthly**
@@ -587,6 +600,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
+### **Devtron** (Stickers Packs, 1 T-Shirt)
+
+- **Requirements**: Contribute in any of the ways [mentioned here](https://github.com/devtron-labs/hacktoberfest2021)
+- **Swag**: Sticker Packs, T-shirt, Diary, Coaster and Electronic Gadgets(Surprise Giveaway)
+  - **1 Merged PR**   - Stickers Packs, 1 T-Shirt
+- **How to sign up**: - Join our [Discord Community](https://discord.com/invite/9MrMwGDR) and send the PR link in #Contrib channel with **hacktoberfest** tag.
+- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
+
 #### **Earthly** (Stickers)
 
 - **Requirements**: Contribute code to the [Earthly](https://github.com/earthly/earthly) open source build tool or contribute an Earthfile build to any public repo.
@@ -874,6 +895,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Blog Post](https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/) for participation details.
 - **Notes**: The winners will be decided by drawing lots on 1st November 2021 and announced through the [Twitter Post](https://twitter.com/CreativeTim/status/1445731588369621003/)
 
+### **Devtron** (Stickers Packs, 1 T-Shirt, 1 Coaster, 1 Diary)
+
+- **Requirements**: Contribute in any of the ways [mentioned here](https://github.com/devtron-labs/hacktoberfest2021)
+- **Swag**: Sticker Packs, T-shirt, Diary, Coaster and Electronic Gadgets(Surprise Giveaway)
+  - **2 Accepted PR**   - Stickers Pack + 1 Diary + 1 T-Shirt
+  - **3 or 3+ Merged PR** - Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster
+- **How to sign up**: - Join our [Discord Community](https://discord.com/invite/9MrMwGDR) and send the PR link in #Contrib channel with **hacktoberfest** tag.
+- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
+
 #### **Flyte** (Mugs, T-Shirts, Vouchers)
 
 - **Requirements**:
@@ -1014,6 +1044,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Submit to the repositories either via PR on GitHub or via patch file by email and register using the [form](https://www.datarequests.org/blog/hacktoberfest-2021) before November 4, 2021.
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
+
+### **Devtron** (Devtron Swag Pack, Surprise Box)
+
+- **Requirements**: Contribute in any of the ways [mentioned here](https://github.com/devtron-labs/hacktoberfest2021)
+- **Swag**: Sticker Packs, & Surprise Box
+  - **Most number of Merged PR**   - Devtron Swag Pack, Surprise Box
+- **How to sign up**: - Join our [Discord Community](https://discord.com/invite/9MrMwGDR) and send the PR link in #Contrib channel with **hacktoberfest** tag.
+- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
 
 #### **Mattermost** (Custom mechanical keyboard)
 
