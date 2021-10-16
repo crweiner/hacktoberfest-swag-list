@@ -59,7 +59,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Amplication**
 
 - **swag**: Stickers pack, T-shirt
-- ***Requirements**:
+- **Requirements**:
   - Send a Pull Request for any open issue on our repository. 
   - Create and publish a tutorial about Amplication.
   - Build and publish a demo app with Amplication.
@@ -515,7 +515,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Amplication** (Stickers)
 
 - **swag**: Stickers pack
-- ***Requirements**:
+- **Requirements**:
   - Complete 1 valid pull request to get stickers.
 - **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2) 
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
@@ -856,8 +856,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Amplication** (T-shirt)
 
 - **swag**: T-shirt
-- ***Requirements**:
-  - Complete 4 valid pull request to get stickers.
+- **Requirements**:
+  - Complete 4 valid pull request to get a T-shirt.
 - **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2) 
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 - **Notes**: 
