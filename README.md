@@ -56,6 +56,19 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Only first 20 contributors will be rewarded swag.
   - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
 
+#### **Amplication**
+
+- **swag**: Stickers pack, T-shirt
+- ***Requirements**:
+  - Send a Pull Request for any open issue on our repository. 
+  - Create and publish a tutorial about Amplication.
+  - Build and publish a demo app with Amplication.
+- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2) 
+- **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
+- **Notes**: 
+  - Official Amplication tweet [here](https://twitter.com/amplication/status/1443904114300162049)
+  - Some of the tasks count as 2 contributions, so look for the details on the issue.
+
 #### **Appsmith**
 
 - **Swag**: T-shirt, stickers, water-bottle, hoodie and a surprise box
@@ -499,6 +512,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### Any - 1 PR
 
+#### **Amplication** (Stickers)
+
+- **swag**: Stickers pack
+- ***Requirements**:
+  - Complete 1 valid pull request to get stickers.
+- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2) 
+- **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
+- **Notes**: 
+  - Official Amplication tweet [here](https://twitter.com/amplication/status/1443904114300162049)
+  - Some of the tasks count as 2 contributions, so look for the details on the issue.
+
 #### **Appwrite** (Stickers)
 
 - **Requirements**: Contribute to [open hacktoberfest issues](https://hacktoberfest.appwrite.io/), Build a demo app, Write a blog post or Create a tutorial.
@@ -828,6 +852,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - They'll verify your contributions and take your shipment address.
 
 ### 2 or more Merged PRs
+
+#### **Amplication** (T-shirt)
+
+- **swag**: T-shirt
+- ***Requirements**:
+  - Complete 4 valid pull request to get stickers.
+- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2) 
+- **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
+- **Notes**: 
+  - Official Amplication tweet [here](https://twitter.com/amplication/status/1443904114300162049)
+  - Some of the tasks count as 2 contributions, so look for the details on the issue.
 
 #### **Appsmith** (Stickers, Water Bottle, T-Shirt)
 

@@ -162,6 +162,8 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Laishram Siddarth](https://github.com/Sid-Lais)
 - [Kushagra Chauhan](https://github.com/Kushagra-Chauhan)
 - [Iuri Mendes](https://github.com/fcoiuri)
+- [Sachin Hatikankan](https://github.com/SachinHatikankar100)
+
 
 ---
 
