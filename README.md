@@ -222,8 +222,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Devtron**
 
-- **Swag**: Sticker Packs, T-shirt, Diary, Coaster and Electronic Gadgets(Surprise Giveaway)
-- **Requirements**: 
+- **Swag**: Sticker Packs, T-shirt, Diary, Coaster and Electronic Gadgets (Surprise Giveaway)
+- **Requirements**:
   - 1 Merged PR -  Stickers Pack + 1 T-Shirt
   - 2 Merged PRs - Stickers Pack + 1 Diary + 1 T-Shirt
   - 3 or more Merged PRs - Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster
@@ -231,7 +231,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Most innovative/Unique PR - Devtron Swag Pack + Cool electronic Gadgets
     - Maximum number of PRs - Devtron Swag Package + Cool electronic Gadgets
 - **How to sign up**: Join our [Discord Community](https://discord.com/invite/9MrMwGDR) and send the PR link in #Contrib channel with **hacktoberfest** tag.
-- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries. 
+- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
 
 ### E
 
@@ -1026,7 +1026,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - **Most number of Merged PR**   - Devtron Swag Pack, Surprise Box
 - **How to sign up**: - Join our [Discord Community](https://discord.com/invite/9MrMwGDR) and send the PR link in #Contrib channel with **hacktoberfest** tag.
 - **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
-
 
 #### **Mattermost** (Custom mechanical keyboard)
 
