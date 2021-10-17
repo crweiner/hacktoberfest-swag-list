@@ -267,6 +267,23 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
 
+#### **Grouparoo**
+
+- **Swag**: T-shirts, Gift Cards, Hoodies, raffled off to 12 people.
+- **Requirements**:
+  - Improve documentation
+    - Follow the setup steps on their [website](https://www.grouparoo.com/docs/getting-started).
+    - Try out setting up and using Grouparoo.
+    - Suggest documentation changes via pull request on their [www repo](https://github.com/grouparoo/www.grouparoo.com).
+  - Create a destination
+    - Destinations connect Grouparoo data (from databases and warehouses) to various third-party systems (Salesforce, Mailchimp, Zendesk, etc).
+    - Read the [documentation](https://www.grouparoo.com/docs/development/destinations) on how to create a destination and based on the APIs of your service, decide how to build it.
+    - Add the destination via a pull request on their [mono repo](https://github.com/grouparoo/www.grouparoo.com).
+- **How to sign up**: Unsure, possibly tracked per PR.
+- **Notes**:
+  - [More Details](https://www.grouparoo.com/hacktoberfest)
+  - Register for their [Office Hours Code Along](https://www.eventbrite.com/e/grouparoos-hacktoberfest-2021-contest-tickets-190570570707)
+
 ### H
 
 #### **Hasura**
@@ -624,6 +641,23 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: T-shirt
 - **How to sign up**: Check out the [Globo website](https://hacktoberfest.globo.com/) for more details.
 - **Notes**: Only the first 100 people residing in Brazil will receive the t-shirt.
+
+#### **Grouparoo** (t-shirts, gift cards, and hoodies raffled off)
+
+- **Requirements**:
+  - Improve documentation
+    - Follow the setup steps on their [website](https://www.grouparoo.com/docs/getting-started).
+    - Try out setting up and using Grouparoo.
+    - Suggest documentation changes via pull request on their [www repo](https://github.com/grouparoo/www.grouparoo.com).
+  - Create a destination
+    - Destinations connect Grouparoo data (from databases and warehouses) to various third-party systems (Salesforce, Mailchimp, Zendesk, etc).
+    - Read the [documentation](https://www.grouparoo.com/docs/development/destinations) on how to create a destination and based on the APIs of your service, decide how to build it.
+    - Add the destination via a pull request on their [mono repo](https://github.com/grouparoo/www.grouparoo.com).
+- **Swag**: T-shirts, Gift Cards, Hoodies, raffled off to 12 people.
+- **How to sign up**: Unsure, possibly tracked per PR.
+- **Notes**:
+  - [More Details](https://www.grouparoo.com/hacktoberfest)
+  - Register for their [Office Hours Code Along](https://www.eventbrite.com/e/grouparoos-hacktoberfest-2021-contest-tickets-190570570707)
 
 #### **Hasura** (swag box)
 
