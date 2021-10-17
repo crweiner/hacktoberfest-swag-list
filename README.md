@@ -855,7 +855,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Amplication** (T-shirt)
 
-
 - **Requirements**:
   - Complete 4 valid pull request to get a T-shirt.
 - **Swag**: T-shirt
