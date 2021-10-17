@@ -435,6 +435,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check the [repos list](https://github.com/paypal/hacktoberfest#repos) on the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page
 - **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
 
+### Q
+
+#### **QuestDB**
+
+- **Swag**: stickers, soft touch pen, T-shirt
+- **Requirements**:
+  - Stickers + pen: star [their github repo](https://github.com/questdb/questdb) + watch Stack Overflow tag + join [their Community Slack](https://slack.questdb.io/)
+  - T-shirt: answer questions on Stack Overflow or open valid issue or submit PR
+  - Other cool swag: write a tutorial
+- **How to sign up** Check out [their website](https://questdb.io/community/) for more details
+- **Notes**: This is available all year, even outside the hacktoberfest period 
+
 ### S
 
 #### **Sourcegraph**
@@ -526,6 +538,16 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 ---
 
 ## Least Involvement to Most Involvement
+
+### Follow their project
+
+#### **QuestDB** (Stickers + pen)
+
+- **Requirements**:
+  - Stickers + pen: star [their github repo](https://github.com/questdb/questdb) + watch Stack Overflow tag + join [their Community Slack](https://slack.questdb.io/)
+- **Swag**: stickers, soft touch pen
+- **How to sign up** Check out [their website](https://questdb.io/community/) for more details
+- **Notes**: This is available all year, even outside the hacktoberfest period 
 
 ### Any - 1 PR
 
@@ -748,6 +770,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Simply submit your PR for an issue labeled "hacktoberfest" in one of PayPal's repos
 - **Issues**: [Hacktoberfest repos/issues](https://github.com/paypal/hacktoberfest#repos)
 - **Notes**: Check out the [PayPal Hacktoberfest](https://github.com/paypal/hacktoberfest) page for more details
+
+#### **QuestDB** (T-shirt, other cool swag)
+- **Requirements**:
+  - T-shirt: answer questions on Stack Overflow or open valid issue or submit PR
+  - Other cool swag: write a tutorial
+- **Swag**: stickers, soft touch pen, T-shirt
+- **How to sign up** Check out [their website](https://questdb.io/community/) for more details
+- **Notes**: This is available all year, even outside the hacktoberfest period 
 
 #### **Sourcegraph** (Swag Package)
 
