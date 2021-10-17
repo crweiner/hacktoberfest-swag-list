@@ -855,9 +855,10 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Amplication** (T-shirt)
 
-- **Swag**: T-shirt
+
 - **Requirements**:
   - Complete 4 valid pull request to get a T-shirt.
+- **Swag**: T-shirt
 - **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 - **Notes**:
