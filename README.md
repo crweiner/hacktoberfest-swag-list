@@ -60,9 +60,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Stickers pack, T-shirt
 - **Requirements**:
-  - Send a Pull Request for any open issue on our repository.
-  - Create and publish a tutorial about Amplication.
-  - Build and publish a demo app with Amplication.
+  - Make any contribution and get a stickers pack.
+  - Make 4 contributions and get Amplication's T-Shirt.
 - **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 - **Notes**:
@@ -514,9 +513,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Amplication** (Stickers)
 
-- **Swag**: Stickers pack
 - **Requirements**:
-  - Complete 1 valid pull request to get stickers.
+  - The PR must be labelled as ```hacktoberfest-accepted``` by a maintainer
+- **Swag**: Stickers pack
 - **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 - **Notes**:
