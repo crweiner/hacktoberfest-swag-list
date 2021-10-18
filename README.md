@@ -121,18 +121,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Although we they added 'Hacktoberfest' topic in their repo, they will consider only PRs whose issue is labeled with 'Hacktoberfest' above for their unique swag.
   - Read the [blog post](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) and check out their [swag tweet](https://twitter.com/BagistoShop/status/1447470920650477571).
 
-#### **Bridgecrew**
-
-- **Swag**: T-shirt, stickers
-- **Requirements**:
-  - Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
-  - Swag Tiers
-    - **1 accepted PR**   - super ghoul sticker pack
-    - **2+ accepted PRs**  - wicked Bridgecrew t-shirt + previous tier
-- **How to sign up**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
-- **Notes**:
-  - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
-
 #### **Bitrise**
 
 - **Swag**: Bitrise Success magnet, Bitrise socks, Purr Request plushie.
@@ -158,6 +146,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: You will get a link where you can privately share your mailing address.
 - **Issues**: Check out the [Issues](https://github.com/q2ebanking/boa-constrictor/issues)!
 - **Notes**: For more details, read [this blog post](https://automationpanda.com/2021/10/04/boa-constrictor-is-doing-hacktoberfest-2021/)!
+
+#### **Bridgecrew**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**:
+  - Contribute to any [eligible repo](https://github.com/bridgecrewio) during the month of October.
+  - Swag Tiers
+    - **1 accepted PR**   - super ghoul sticker pack
+    - **2+ accepted PRs**  - wicked Bridgecrew t-shirt + previous tier
+- **How to sign up**: Check out the [Bridgecrew website](https://bridgecrew.io/blog/happy-hacktoberfest-2021/) for more details.
+- **Notes**:
+  - Use this [form](https://bridgecrew.io/event/2021-hacktoberfest/) to claim swag.
 
 ### C
 
@@ -304,14 +304,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### L
 
-#### **LoginRadius**
-
-- **Swag**: T-shirt
-- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
-- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
-- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
-- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
-
 #### **Legesher**
 
 - **Swag**: Handwritten Letter, Special edition Stickers
@@ -319,6 +311,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: No additional sign up required
 - **Issues**: Check out the [issues](https://github.com/search?q=org%3ALegesher+type%3Aissue&state=open&type=Issues)
 - **Notes**: For more details, read [this](https://github.com/legesher/legesher/issues/90)
+
+#### **LoginRadius**
+
+- **Swag**: T-shirt
+- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
+- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
+- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
+- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
 
 ### M
 
@@ -458,6 +458,15 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: Check organization [StackBuilders Github](https://github.com/stackbuilders) on Github and look for hacktoberfest topic marked repository.
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
+#### **StepZen**
+
+- **Swag**: Stickers
+- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
+- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
+- **Notes**:
+  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
+  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
+
 #### **Supabase**
 
 - **Swag**: Some limited edition Supabase swag, possibly t-shirt based on their swag from last year.
@@ -474,15 +483,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**:
   - Once you have your three pull requests open, you should message a core developer on discord about your stickers.
   - They'll verify your contributions and take your shipment address.
-
-#### **StepZen**
-
-- **Swag**: Stickers
-- **Requirements**:  With every PR you merge or pairing session you complete, they will send you a StepZen GraphQL sticker.
-- **How to sign up**: Check this [blog post](https://stepzen.com/blog/announcing-stepzens-hacktoberfest-goals-21).
-- **Notes**:
-  - PR should be merged solving the reported/existing issues marked with the ```Hacktoberfest``` label.
-  - Checkout [more on their blog here](https://stepzen.com/blog/stepzen-stickers-the-code-behind-the-fun).
 
 #### **Symbl.ai**
 
@@ -617,7 +617,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Issues**: [datenanfragen](https://github.com/search?&q=user%3Adatenanfragen+type:issue&state=open&type=Issues)
 - **Notes**: Read [the blog post](https://www.datarequests.org/blog/hacktoberfest-2021/) for more details. [Learn more](https://www.datarequests.org/verein) about their non-profit and their mission to help people exercise their right to privacy.
 
-### **Devtron** (Stickers Packs, 1 T-Shirt)
+#### **Devtron** (Stickers Packs, 1 T-Shirt)
 
 - **Requirements**: Contribute in any of the ways [mentioned here](https://github.com/devtron-labs/hacktoberfest2021)
 - **Swag**: Sticker Packs, T-shirt, Diary, Coaster and Electronic Gadgets(Surprise Giveaway)
@@ -673,6 +673,14 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [K6 website](https://k6.io/blog/hacktoberfest-at-k6/) for more details.
 - **Notes**: Stocks are limited and are on a first come first serve basis only.
 
+#### **LoginRadius** (T-shirt)
+
+- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
+- **Swag**: T-shirt
+- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
+- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
+- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
+
 #### **MayaData & OpenEBS** (T-Shirt, stickers)
 
 - **Requirements**:  At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
@@ -695,14 +703,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: No additional sign up required.
 - **Issues**: [MUNCSS issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3AMUNComputerScienceSociety+fork%3Atrue&type=issues)
 - **Notes**: Check out [the MUNCSS blog post](https://muncompsci.ca/events/hacktoberfest-2021/)
-
-#### **LoginRadius** (T-shirt)
-
-- **Requirements**: Submit a valid pull requests to any of [these issues](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue) and have it accepted/merged.
-- **Swag**: T-shirt
-- **How to sign up**: Fill [this form](https://forms.gle/qhG6Sf8qrBznRrtQA) after raising a pull request
-- **Issues**: Check out the Issues [here](https://github.com/search?q=org%3ALoginRadius+label%3Ahacktoberfest+type%3Aissue)
-- **Notes**: For more details, read [this blog](https://www.loginradius.com/blog/async/hacktoberfest-2021/)
 
 #### **Milvus** (sticker pack, a digital Milvus badge)
 
@@ -767,7 +767,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**:
   - Check this blog [Stack Builders](https://www.stackbuilders.com/news/it-s-hacktoberfest-time).
   - After completing PR fill the required form to claim the swags [stack_builders form](https://docs.google.com/forms/d/e/1FAIpQLScC-eLUFlfEd7oB9nCqKZfGs5Y3JlvAszaYG6jxj64TM8Dgog/viewform)
-
 - **Notes**: Checkout more here [Stack builders post](https://www.linkedin.com/posts/stack-builders_hacktoberfest2021-hacktoberfest-opensource-activity-6849823864839565312-bRJQ) to get more info about contributions.
 
 #### **StepZen** (stickers)
@@ -929,7 +928,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Check out the [Blog Post](https://www.creative-tim.com/blog/creative-tim/open-source-projects-for-hacktoberfest/) for participation details.
 - **Notes**: The winners will be decided by drawing lots on 1st November 2021 and announced through the [Twitter Post](https://twitter.com/CreativeTim/status/1445731588369621003/)
 
-### **Devtron** (Stickers Packs, 1 T-Shirt, 1 Coaster, 1 Diary)
+#### **Devtron** (Stickers Packs, 1 T-Shirt, 1 Coaster, 1 Diary)
 
 - **Requirements**: Contribute in any of the ways [mentioned here](https://github.com/devtron-labs/hacktoberfest2021)
 - **Swag**: Sticker Packs, T-shirt, Diary, Coaster and Electronic Gadgets(Surprise Giveaway)
