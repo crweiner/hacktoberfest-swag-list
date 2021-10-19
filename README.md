@@ -58,9 +58,9 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Amplication**
 
-- **Swag**: Stickers pack, T-shirt
+- **Swag**: Sticker pack, T-shirt
 - **Requirements**:
-  - Make any contribution and get a stickers pack.
+  - Make any ```hacktoberfest-accepted``` contribution and get a sticker pack.
   - Make 4 contributions and get Amplication's T-Shirt.
 - **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
@@ -514,7 +514,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Amplication** (Stickers)
 
 - **Requirements**:
-  - The PR must be labelled as ```hacktoberfest-accepted``` by a maintainer
+  - The PR must at least be labelled as ```hacktoberfest-accepted``` by a maintainer
 - **Swag**: Stickers pack
 - **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
