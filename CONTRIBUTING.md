@@ -163,6 +163,7 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 - [Kushagra Chauhan](https://github.com/Kushagra-Chauhan)
 - [Iuri Mendes](https://github.com/fcoiuri)
 - [Sachin Hatikankan](https://github.com/SachinHatikankar100)
+- [Debbie Sieu](https://github.com/shiningflutes)
 
 ---
 
