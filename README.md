@@ -264,7 +264,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - If your contribution adds value to Flyte heavily, they will customize your swag and add you as a Flyte contributor!
 - **How to sign up**: Fill out [this](https://tally.so/r/3qPO7m) form after you are done with either of the challenges, on or before October 31st, 2021. Join Flyte's [Slack](https://docs.google.com/forms/d/e/1FAIpQLScWPJZncyL-bBCWbuQ9HWuMzA8-r2RJc__CSWJoAYUQADN-BQ/viewform) `#Hacktoberfest2021` channel if you have any questions.
 - **Issues**: [Hacktoberfest-tagged Flyte issues](https://github.com/flyteorg/flyte/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest+)
-- **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-hacktoberfest-2021) for more info. The first 15 contributors will get a mug irrespective of the number of merged pull requests.
+- **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info. The first 15 contributors will get a mug irrespective of the number of merged pull requests.
 
 ### G
 
