@@ -62,7 +62,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - Make any ```hacktoberfest-accepted``` contribution and get a sticker pack.
   - Make 4 contributions and get Amplication's T-Shirt.
-- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
+- **How to sign up**: Join their [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 - **Notes**:
   - Official Amplication tweet [here](https://twitter.com/amplication/status/1443904114300162049)
@@ -91,7 +91,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier
     - **3 accepted PRs**  - Limited Edition Coffee Mug + previous tier
     - **4+ accepted PRs** - Limited Edition T-Shirt + previous tier
-- **How to sign up**: Join our [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
+- **How to sign up**: Join their [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
 - **Notes**:
   - For your PR to count it must be submitted to one of the eligible Appwrite repositories, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
@@ -242,8 +242,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - Special Prices
     - Most innovative/Unique PR - Devtron Swag Pack + Cool electronic Gadgets
     - Maximum number of PRs - Devtron Swag Package + Cool electronic Gadgets
-- **How to sign up**: Join our [Discord Community](https://discord.com/invite/jsRG5qx2gp) and send the PR link in #Contrib channel with **hacktoberfest** tag.
-- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
+- **How to sign up**: Join their [Discord Community](https://discord.com/invite/jsRG5qx2gp) and send the PR link in #Contrib channel with **hacktoberfest** tag.
+- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check their [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
 
 ### E
 
@@ -348,7 +348,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
 - **Requirements**:  At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **How to sign up**: No additional sign up is required.
-- **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Issues**: Refer to their issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
 
 #### **Medusa**
@@ -500,7 +500,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - **Swag**: Stickers, T-shirts.
 - **Requirements**:  Three or more open and valid pull requests to the repository.
-- **How to sign up**: No additional sign-up is required. You can join our [devrel slack](https://docs.symbl.ai/docs/changelog/#connect-with-us-on-slack-) channel
+- **How to sign up**: No additional sign-up is required. You can join their [devrel slack](https://docs.symbl.ai/docs/changelog/#connect-with-us-on-slack-) channel
 - **Issues**:
   - Symbl.ai [docs](https://github.com/symblai/symbl-docs/issues)
   - Symbl.ai [Symbl-powered-Agora-RTE-app](https://github.com/symblai/Symbl-powered-Agora-RTE-app/issues)
@@ -546,7 +546,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - The PR must at least be labelled as ```hacktoberfest-accepted``` by a maintainer
 - **Swag**: Stickers pack
-- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
+- **How to sign up**: Join their [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 - **Notes**:
   - Official Amplication tweet [here](https://twitter.com/amplication/status/1443904114300162049)
@@ -645,8 +645,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Contribute in any of the ways [mentioned here](https://github.com/devtron-labs/hacktoberfest2021)
 - **Swag**: Sticker Packs, T-shirt, Diary, Coaster and Electronic Gadgets(Surprise Giveaway)
   - **1 Merged PR**   - Stickers Packs, 1 T-Shirt
-- **How to sign up**: - Join our [Discord Community](https://discord.com/invite/jsRG5qx2gp) and send the PR link in #Contrib channel with **hacktoberfest** tag.
-- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
+- **How to sign up**: - Join their [Discord Community](https://discord.com/invite/jsRG5qx2gp) and send the PR link in #Contrib channel with **hacktoberfest** tag.
+- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check their [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
 
 #### **Earthly** (Stickers)
 
@@ -709,7 +709,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:  At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **Swag**: Special Edition T-Shirts, Stickers.
 - **How to sign up**: No additional sign up is required.
-- **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Issues**: Refer to their issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
 
 #### **Medusa** (stickers)
@@ -836,7 +836,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - **2 accepted PRs**  - Limited Edition Sticker Pack + previous tier
     - **3 accepted PRs**  - Limited Edition Coffee Mug + previous tier
     - **4+ accepted PRs** - Limited Edition T-Shirt + previous tier
-- **How to sign up**: Join our [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
+- **How to sign up**: Join their [Discord server](https://appwrite.io/discord) and checkout the `#hacktoberfest` channel.
 - **Notes**:
   - For your PR to count it must be submitted to one of the eligible Appwrite repositories, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
@@ -911,7 +911,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**:
   - Complete 4 valid pull request to get a T-shirt.
 - **Swag**: T-shirt
-- **How to sign up**: Join our [Discord server](https://discord.com/invite/KSJCZ24vj2)
+- **How to sign up**: Join their [Discord server](https://discord.com/invite/KSJCZ24vj2)
 - **Issues**: [Hacktoberfest issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 - **Notes**:
   - Official Amplication tweet [here](https://twitter.com/amplication/status/1443904114300162049)
@@ -968,8 +968,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Swag**: Sticker Packs, T-shirt, Diary, Coaster and Electronic Gadgets(Surprise Giveaway)
   - **2 Accepted PR**   - Stickers Pack + 1 Diary + 1 T-Shirt
   - **3 or 3+ Merged PR** - Stickers Pack + 1 Diary + 1 T-Shirt + 1 Coaster
-- **How to sign up**: - Join our [Discord Community](https://discord.com/invite/jsRG5qx2gp) and send the PR link in #Contrib channel with **hacktoberfest** tag.
-- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
+- **How to sign up**: - Join their [Discord Community](https://discord.com/invite/jsRG5qx2gp) and send the PR link in #Contrib channel with **hacktoberfest** tag.
+- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check their [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping them in the Discord Community if you have any queries.
 
 #### **Flyte** (Mugs, T-Shirts, Vouchers)
 
@@ -1117,8 +1117,8 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: Contribute in any of the ways [mentioned here](https://github.com/devtron-labs/hacktoberfest2021)
 - **Swag**: Sticker Packs, & Surprise Box
   - **Most number of Merged PR**   - Devtron Swag Pack, Surprise Box
-- **How to sign up**: - Join our [Discord Community](https://discord.com/invite/jsRG5qx2gp) and send the PR link in #Contrib channel with **hacktoberfest** tag.
-- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check our [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping us in our Discord Community if you have any queries.
+- **How to sign up**: - Join their [Discord Community](https://discord.com/invite/jsRG5qx2gp) and send the PR link in #Contrib channel with **hacktoberfest** tag.
+- **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check their [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping them in the Discord Community if you have any queries.
 
 #### **Mattermost** (Custom mechanical keyboard)
 
@@ -1132,7 +1132,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: At least 1 merged PR in [OpenEBS](https://github.com/openebs/openebs) repo.
 - **Swag**: Special Edition T-Shirts, Stickers. The best PR submission gets to win an Oculus VR Headset.
 - **How to sign up**: No additional sign up is required.
-- **Issues**: Refer to there issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
+- **Issues**: Refer to their issues [here](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenebs+archived%3Afalse+label%3A%22help+wanted%22+)
 - **Note**: Read their blog post [here](https://mayadata.io/hacktoberfest-2021) and [here](https://blog.mayadata.io/celebrate-hacktoberfest-2021-support-open-source-with-mayadata-openebs)
 
 #### **Milvus** (A Logitech Pro X Keyboard and a physical Hacktoberfest badge, or a DJI drone)
