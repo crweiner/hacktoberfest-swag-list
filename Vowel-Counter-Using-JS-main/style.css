@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 550px;
+}
+
+.container{
+    width: 700px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+    justify-content: space-around;
+    border: 5px solid purple;
+    margin-top: 10px;
+}
+
+.container .Vowel{
+    width: 693px;
+    margin-left: -3px;
+    flex-basis: 15%;
+    background-color: purple;
+    padding-right: 10px;
+    color: #ffffff;
+    letter-spacing: 1.2px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container .Vowel #vowels{
+    color: orange;
+    font-size: larger;
+}
+
+.container .textArea{
+    flex-basis: 85%;
+    height: 310px;
+}
+
+.textArea textarea{
+    width: 690px;
+    height: 332px;
+    resize: none;
+    border: none;
+    outline-style: none;
+    font-size: 20px;
+    padding: 5px;
+    line-height: 20px;
+}
+
+#name{
+    background-image: linear-gradient(to right,orange, deeppink);
+    padding: 10px 20px;
+    margin-top: 10px;
+    color: black;
+    font-size: 22px;
+    text-decoration: underline;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+@media screen and (max-width: 500px){
+
+    body{
+        background-color: lightblue;
+    }
+
+    .container{
+        width: 350px;
+        height: 450px;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+
+    .container .Vowel{
+        width: 344px;
+        flex-basis: 15%;
+    }
+
+    .textArea textarea{
+        width: 340px;
+        height: 374px;
+    }
+    
+   
+}
