@@ -4,7 +4,7 @@ It's that time of year again! Time to get rewarded for contributing to the Open 
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2021 and how you can get your hands on some free gifts for your time and help.
 
-Right now, we're getting ready for Hacktoberfest 2021! Let's make this the best Hacktoberfest yet!
+Right now, we're in the middle of Hacktoberfest 2021! Let's make this the best Hacktoberfest yet!
 
 ## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a T-shirt will not be tolerated
 
