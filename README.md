@@ -269,17 +269,18 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Notes**: Check out [their blog](https://blog.flyte.org/meet-flyte-at-hacktoberfest-2021) for more info. The first 15 contributors will get a mug irrespective of the number of merged pull requests.
 
 ### G
+
 #### **GitLab**
 
 - **Swag**: GitLab Swag
-- **Requirements**: 
+- **Requirements**:
   - Five contributors with the highest number of accepted merge requests to the GitLab open source project.
-  - GitLab swag to all contributors whose first merge request to the [GitLab open source project](https://gitlab.com/gitlab-org/gitlab) is created and merged during that   time.
+  - GitLab swag to all contributors whose first merge request to the [GitLab open source project](https://gitlab.com/gitlab-org/gitlab) is created and merged during that time.
 - **How to sign up**: Unsure, possibly tracked per PR.
 - **Issues**: Read their [blog](https://about.gitlab.com/blog/2021/10/01/join-us-for-hacktoberfest-2021/) for list of eligible open source project repository links and see their issues on respective repository.
 - **Notes**:
   - Merge requests to GitLab created in October 2021 and merged by the 15th of November will count towards this initiative.
-  
+
 #### **Globo**
 
 - **Swag**: T-shirt
@@ -1132,7 +1133,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### **GitLab** (GitLab Swag)
 
-- **Requirements**: Five contributors with the highest number of accepted merge requests to the [GitLab open source project](https://gitlab.com/gitlab-org/gitlab). 
+- **Requirements**: Five contributors with the highest number of accepted merge requests to the [GitLab open source project](https://gitlab.com/gitlab-org/gitlab).
 - **Swag**: GitLab Swag.
 - **How to sign up**: - No additional signup mentioned.
 - **Notes**: Check out their [blog](https://about.gitlab.com/blog/2021/10/01/join-us-for-hacktoberfest-2021/) for more details.
