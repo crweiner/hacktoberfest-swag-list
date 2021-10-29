@@ -270,6 +270,17 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ### G
 
+#### **GitLab**
+
+- **Swag**: GitLab Swag
+- **Requirements**:
+  - Five contributors with the highest number of accepted merge requests to the GitLab open source project.
+  - GitLab swag to all contributors whose first merge request to the [GitLab open source project](https://gitlab.com/gitlab-org/gitlab) is created and merged during that time.
+- **How to sign up**: Unsure, possibly tracked per PR.
+- **Issues**: Read their [blog](https://about.gitlab.com/blog/2021/10/01/join-us-for-hacktoberfest-2021/) for list of eligible open source project repository links and see their issues on respective repository.
+- **Notes**:
+  - Merge requests to GitLab created in October 2021 and merged by the 15th of November will count towards this initiative.
+
 #### **Globo**
 
 - **Swag**: T-shirt
@@ -1119,6 +1130,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - **Most number of Merged PR**   - Devtron Swag Pack, Surprise Box
 - **How to sign up**: - Join their [Discord Community](https://discord.com/invite/jsRG5qx2gp) and send the PR link in #Contrib channel with **hacktoberfest** tag.
 - **Notes**: We do accept [documentation fixes](http://docs.devtron.ai/) and [content creation](https://github.com/devtron-labs/devtron/blob/main/COMMUNITY_CONTRIBUTIONS.md) PRs for Devtron. Please check their [Hacktoberfest Repository](https://github.com/devtron-labs/hacktoberfest2021) for all the detailed contribution guidelines and feel free to ping them in the Discord Community if you have any queries.
+
+### **GitLab** (GitLab Swag)
+
+- **Requirements**: Five contributors with the highest number of accepted merge requests to the [GitLab open source project](https://gitlab.com/gitlab-org/gitlab).
+- **Swag**: GitLab Swag.
+- **How to sign up**: - No additional signup mentioned.
+- **Notes**: Check out their [blog](https://about.gitlab.com/blog/2021/10/01/join-us-for-hacktoberfest-2021/) for more details.
 
 #### **Mattermost** (Custom mechanical keyboard)
 
