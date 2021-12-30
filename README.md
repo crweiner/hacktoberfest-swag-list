@@ -1,5 +1,15 @@
 # Hacktoberfest 2021 Swag List
 
+## Hacktoberfest 2021 is over! Thank you all for your contributions!
+
+This year was another major success for Hacktoberfest as a whole and we enjoyed ourselves here at the Swag List repo!
+
+You can check out the [2021 release of the Hacktoberfest Swag List, and all other years, by clicking here](https://github.com/crweiner/hacktoberfest-swag-list/releases). You can also check out the [tags](https://github.com/crweiner/hacktoberfest-swag-list/tags) and [2021 branch](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021) on GitHub.
+
+The 2021 Swag List is below for now. See you next time in 2022, you beautiful nerds!
+
+---
+
 It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
 
 This repo seeks to document all of the companies giving away swag for Hacktoberfest 2021 and how you can get your hands on some free gifts for your time and help.
@@ -16,17 +26,6 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 - [A to Z Order of Companies](#a-to-z-order-of-companies)
 - [Least Involvement to Most Involvement Needed for Swag](#least-involvement-to-most-involvement)
-
----
-
-## The 2021 Hacktoberfest Swag List is supported by Appwrite
-[![appwritelogo](/img/logo-1.svg)](https://hacktoberfest.appwrite.io?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
-
-#### [Appwrite is an official sponsor of Hacktoberfest 2021 as well as the Hacktoberfest Swag List repository!](https://hacktoberfest.appwrite.io?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
-
-#### [Click here or their logo above to check out all of their unique swag for Hacktoberfest!](https://hacktoberfest.appwrite.io?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
-
----
 
 ## Swag List 2021
 
@@ -1189,4 +1188,4 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 ---
 
-If you're looking for the Swag List from 2018,  2019, or 2020 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), and [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020) branches.
+If you're looking for the Swag List from 2018 through 2021 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), and [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021) branches.
