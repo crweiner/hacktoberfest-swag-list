@@ -370,7 +370,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
     - Three pull requests = Medusa t-shirt
     - Build a Plugin (issues labeled with plugin) = Complete Medusa pack (t-shirt, hoodie, sticker)
 - **How to sign up**: No additional sign up is required.
-- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) and their [Discord](https://discord.com/invite/PGhCdgEP) for more details.
+- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), [Hacktoberfest blog post](https://www.medusajs.com/post/medusa-hacktoberfest-announcement) and their [Discord](https://discord.com/invite/PGhCdgEP) for more details.
 
 #### **MeiliSearch**
 
@@ -727,7 +727,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **Requirements**: One pull request
 - **Swag**: Medusa sticker.
 - **How to sign up**: No additional sign up is required.
-- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), their [Discord](https://discord.com/invite/PGhCdgEP), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) for more details.
+- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), their [Discord](https://discord.com/invite/PGhCdgEP), [Hacktoberfest blog post](https://www.medusajs.com/post/medusa-hacktoberfest-announcement) for more details.
 
 #### **Memorial Computer Science Society** (sticker)
 
@@ -998,7 +998,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
   - **Three pull requests**  - Medusa t-shirt
   - **Build a Plugin (issues labeled with plugin)**  - Complete Medusa pack (t-shirt, hoodie, sticker)
 - **How to sign up**: No additional sign up is required.
-- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), [Hacktoberfest blog post](https://www.medusa-commerce.com/post/medusa-hacktoberfest-announcement) and their [Discord](https://discord.com/invite/PGhCdgEP) for more details.
+- **Notes**: Check out [Contribution Guide](https://github.com/medusajs/medusa/blob/master/CONTRIBUTING.md), [Hacktoberfest blog post](https://www.medusajs.com/post/medusa-hacktoberfest-announcement) and their [Discord](https://discord.com/invite/PGhCdgEP) for more details.
 
 #### **MeiliSearch** (water bottle, stickers)
 
