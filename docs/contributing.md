@@ -1,5 +1,9 @@
 # Contributing
 
+## Coming Soon - Fixing the Contributing Guidelines below now that the site is a MkDocs Site:
+
+---
+
 We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!
 
 By opening up a pull request to add a new company offering swag or to fix something, you'll also be banking towards earning your official Hacktoberfest t-shirt!
@@ -138,38 +142,15 @@ If your contribution or PR is not formatted correctly, I'll let you know and giv
 
 ---
 
-## 2021 Contributors
+## 2022 Contributors
 
 - [Chandler Weiner](https://github.com/crweiner/)
-- [Benjamin Altpeter](https://github.com/baltpeter/)
-- [Pranjal Mishra](https://github.com/Pranjalmishra30)
-- [Ferdinand Boas](https://github.com/ferdi05/)
-- [Christy Jacob](https://github.com/christyjacob4)
-- [Mcvean Soans](https://github.com/McTechie)
-- [Rohit Mathew](https://github.com/rohitjmathew)
-- [Biplob Sutradhar](https://github.com/biplobsd)
-- [Amy Egan](https://github.com/amyegan)
-- [Sidharth Sethi](https://github.com/TechSpiritSS)
-- [Mridul Birla](https://github.com/Mridulbirla13)
-- [Anurag Yadav](https://github.com/AnuragYadav365)
-- [Gaurav Gupta](https://github.com/gauravgupta45)
-- [sai sumanth kumar](https://github.com/saisumanthkumar)
-- [Ubaldo Pescatore](https://github.com/P3trur0)
-- [Aniket Pawar](https://github.com/Aniket-508)
-- [Misty Newton](https://github.com/mketters)
-- [Ravi Prasanth](https://github.com/raviprasanthgit)
-- [Shivam Balikondwar](https://github.com/Hyperion101010)
-- [Laishram Siddarth](https://github.com/Sid-Lais)
-- [Kushagra Chauhan](https://github.com/Kushagra-Chauhan)
-- [Iuri Mendes](https://github.com/fcoiuri)
-- [Sachin Hatikankan](https://github.com/SachinHatikankar100)
-- [Debbie Sieu](https://github.com/shiningflutes)
 
 ---
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
-![Presented by DigitalOcean](img/logo-hacktoberfest-full-2021.svg)
+![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Void.svg)
 
 ---
 
