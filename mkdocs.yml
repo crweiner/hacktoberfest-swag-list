@@ -1,3 +1,16 @@
-site_name: My Docs
+# Project information
+site_name: "Hacktoberfest Swag List 2022"
+site_description: "Connecting contributors to open-source projects during Hacktoberfest"
+site_author: "crweiner"
+site_url: "https://hacktoberfestswaglist.com"
+
+site_name: Hacktoberfest Swag List
+docs_dir: "docs"
 theme:
   name: material
+  
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
