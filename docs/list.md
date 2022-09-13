@@ -3,9 +3,9 @@
 
 ## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a T-shirt will not be tolerated
 
-First, [sign up for Hacktoberfest 2021 by clicking this link](https://hacktoberfest.digitalocean.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.digitalocean.com/faq).
+First, [sign up for Hacktoberfest 2022 by clicking this link](https://hacktoberfest.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.com/participation/).
 
-See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull request to add a company's swag to the List!
+See [**Contributing.md**](./contributing.md) to see how to format your pull request to add a company's swag to the List!
 
 ## Quick Jump To
 
@@ -1169,7 +1169,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
-![Presented by DigitalOcean](img/logo-hacktoberfest-full-2021.svg)
+![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Void.svg)
 
 ---
 
