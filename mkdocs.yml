@@ -23,8 +23,17 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   
+# Repository
+repo_name: "GitHub"
+repo_url: "https://github.com/crweiner/hacktoberfest-swag-list"
+edit_uri: "https://github.com/crweiner/hacktoberfest-swag-list/edit/master/docs"
+
 plugins:
   - search:
       separator: '[\s\-\.]+'
       lang:
         - en
+  - minify:
+      minify_html: true
+  - git-revision-date-localized
+  - mkdocs_pymdownx_material_extras
