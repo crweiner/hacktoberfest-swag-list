@@ -1,0 +1,19 @@
+.*
+images
+README.md
+
+# mkdocs
+mkdocs.yml
+docs
+site
+
+# pipenv
+Pipfile
+Pipfile.lock
+
+# amplify console
+amplify.yml
+
+# netlify
+netlify.toml
+runtime.txt

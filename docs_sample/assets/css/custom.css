@@ -1,0 +1,10 @@
+h2 {
+    margin: 4rem 0rem 2rem 0rem !important;
+    border-bottom: solid 1px rgb(70, 150, 236);
+}
+
+h3 {
+    margin: 3rem 0rem 1rem 0rem !important;
+    padding: 0rem 0rem 0.5rem 0.5rem !important;
+    border-left: solid 2px rgb(70, 150, 236);
+}

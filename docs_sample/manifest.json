@@ -1,0 +1,29 @@
+{
+    "short_name": "MkDocs",
+    "name": "MkDocs Material Boilerplate",
+    "description": "MkDocs Material Boilerplate (Starter Kit) - Deploy documentation to hosting platforms (Netlify, GitHub Pages, GitLab Pages, and AWS Amplify Console) with Docker, pipenv, and GitHub Actions.",
+    "lang": "en-US",
+    "icons": [
+        {
+            "src": "images/graduate-cap.48x48.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "images/graduate-cap.96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "images/graduate-cap.192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#2196F3",
+    "theme_color": "#2196F3",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}

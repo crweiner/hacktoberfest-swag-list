@@ -1,0 +1,8 @@
+# mkdocs documentation
+/site
+
+# python
+.venv
+
+# editor
+.vscode

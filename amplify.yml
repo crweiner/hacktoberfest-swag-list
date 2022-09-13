@@ -1,0 +1,18 @@
+version: 1.0
+frontend:
+  phases:
+    # IMPORTANT - Please verify your build commands
+    preBuild:
+      commands:
+        - python3 -m pip install --upgrade pip
+        - python3 -m pip install -r requirements.txt
+    build:
+      commands:
+        - mkdocs build
+  artifacts:
+    # IMPORTANT - Please verify your build output directory
+    baseDirectory: site
+    files:
+      - '**/*'
+  cache:
+    paths: []
