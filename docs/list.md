@@ -1,20 +1,5 @@
-# Hacktoberfest 2021 Swag List
+# The List of Companies offering Unique Swag
 
-## Hacktoberfest 2021 is over! Thank you all for your contributions!
-
-This year was another major success for Hacktoberfest as a whole and we enjoyed ourselves here at the Swag List repo!
-
-You can check out the [2021 release of the Hacktoberfest Swag List, and all other years, by clicking here](https://github.com/crweiner/hacktoberfest-swag-list/releases). You can also check out the [tags](https://github.com/crweiner/hacktoberfest-swag-list/tags) and [2021 branch](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021) on GitHub.
-
-The 2021 Swag List is below for now. See you next time in 2022, you beautiful nerds!
-
----
-
-It's that time of year again! Time to get rewarded for contributing to the Open Source community! Did you know that there are multiple tech companies that participate in Hacktoberfest and give away sweet, sweet swag?
-
-This repo seeks to document all of the companies giving away swag for Hacktoberfest 2021 and how you can get your hands on some free gifts for your time and help.
-
-Right now, we're in the middle of Hacktoberfest 2021! Let's make this the best Hacktoberfest yet!
 
 ## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of a T-shirt will not be tolerated
 
@@ -27,7 +12,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - [A to Z Order of Companies](#a-to-z-order-of-companies)
 - [Least Involvement to Most Involvement Needed for Swag](#least-involvement-to-most-involvement)
 
-## Swag List 2021
+## Swag List 2022
 
 ### **The Original - DigitalOcean, Appwrite, Intel, and Deepsource**
 
