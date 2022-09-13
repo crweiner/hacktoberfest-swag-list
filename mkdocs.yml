@@ -33,5 +33,3 @@ plugins:
       separator: '[\s\-\.]+'
       lang:
         - en
-  - git-revision-date-localized
-  - mkdocs_pymdownx_material_extras
