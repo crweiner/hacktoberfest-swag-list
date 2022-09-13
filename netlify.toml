@@ -1,5 +1,5 @@
 [build]
-  command = "mkdocs build --config-file mkdocs-sample.yml"
+  command = "mkdocs build --config-file mkdocs.yml"
   publish = "site"
 
 [build.environment]
