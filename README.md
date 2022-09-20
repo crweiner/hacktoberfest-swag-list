@@ -253,6 +253,13 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: [Grab an issue](https://github.com/earthly/earthly/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) and complete your PR after accepted please fill out this [form](https://forms.gle/DVkrWCu4yD2wMPmE8).
 - **Notes**: If you need any assistance, [join their Slack channel](https://earthly.dev/slack). See their [Blog post](https://earthly.dev/blog/hacktoberfest-2021/) for more details.
 
+#### **Encore**
+
+- **Swag**: A pack of 12 Encore stickers
+- **Requirements**: Build an app with Encore, tweet your Encore Flow diagram, or contribute to [encoredev/encore](https://github.com/encoredev/encore)
+- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start] to build your first Encore app and once you're done post it in our [Show & Tell](https://encore.dev/docs/quick-start)!
+- **Notes**: [Our Hacktoberfest blog post](https://community.encore.dev/t/our-new-office-hours-to-kick-off-hacktoberfest/66)
+
 ### F
 
 #### **Flyte**
