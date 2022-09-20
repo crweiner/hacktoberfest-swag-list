@@ -40,7 +40,6 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
   - More information available on their blog [here](https://alpaca.markets/blog/hacktoberfest-2021-celebrate-open-source-with-alpaca/)
 
 
-
 ### B
 
 #### **Bagisto**
@@ -53,6 +52,15 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
   - Only those PRs are accepted which are marked with the 'Hacktoberfest' label and they have added difficulty level to each issue.
   - Although we they added 'Hacktoberfest' topic in their repo, they will consider only PRs whose issue is labeled with 'Hacktoberfest' above for their unique swag.
   - Read the [blog post](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) and check out their [swag tweet](https://twitter.com/BagistoShop/status/1447470920650477571).
+
+### E
+
+#### **Encore**
+
+- **Swag**: A pack of 12 Encore stickers
+- **Requirements**: Build an app with Encore, tweet your Encore Flow diagram, or contribute to [encoredev/encore](https://github.com/encoredev/encore)
+- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start] to build your first Encore app and once you're done post it in our [Show & Tell](https://encore.dev/docs/quick-start)!
+- **Notes**: [See the Hacktoberfest blog post](https://community.encore.dev/t/our-new-office-hours-to-kick-off-hacktoberfest/66)
 
 
 ---
