@@ -21,10 +21,12 @@ This site and [GitHub repo](https://github.com/crweiner/hacktoberfest-swag-list)
 Partipating in Hacktoberfest requires following the [official values](https://hacktoberfest.com/participation/#values), including [**not spamming** the participating companies](https://hacktoberfest.com/participation/#spam).
 
 ---
-
 ## Sponsored By:
 
-TBD
+![Appwrite](img/appwrite-logo-1.svg)
+
+Appwrite is a proud sponsor of *all of Hacktoberfest*, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
+Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
 
 ---
 
