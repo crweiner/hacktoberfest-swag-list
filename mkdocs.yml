@@ -35,8 +35,6 @@ plugins:
       separator: '[\s\-\.]+'
       lang:
         - en
-  - social:
-      cards: !ENV
 # Page tree
 nav:
   - "Home": "index.md"
