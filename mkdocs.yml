@@ -8,6 +8,7 @@ site_name: Hacktoberfest Swag List
 docs_dir: "docs"
 theme:
   name: material
+  logo: img/Hfest-Badge-2-Color-Void.svg
   features: 
     - navigation.tracking
   palette: 
