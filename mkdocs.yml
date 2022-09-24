@@ -8,6 +8,8 @@ site_name: Hacktoberfest Swag List
 docs_dir: "docs"
 theme:
   name: material
+  features: 
+    - navigation.tracking
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -33,3 +35,26 @@ plugins:
       separator: '[\s\-\.]+'
       lang:
         - en
+  - social:
+      cards
+# Page tree
+nav:
+  - "Home": "index.md"
+  - "Contributing": "contributing.md"
+  - "2022 Hacktoberfest Swag List": "list.md"
+
+  # Customization
+extra_javascript:
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
+extra_css:
+  - "assets/css/custom.css"
+extra:
+  manifest: "manifest.json"
+  social:
+    - icon: "fontawesome/brands/github-alt"
+      link: "https://github.com/peaceiris"
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/piris314en"
+  analytics:
+    provider: google
+    property: UA-129265975-1
