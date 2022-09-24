@@ -8,7 +8,7 @@ Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](htt
 
 [As the official website states](https://hacktoberfest.com/#prepare-to-hack), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 9th, everyone can contribute to making open-source software even better!
 
-New for 2022, [low-code or no-code contributions are encouraged](https://hacktoberfest.com/about/#low-or-non-code), so everyone has a chance, regardless of skill level, to contributute and make open-source projects even better!
+New for 2022, [low-code or no-code contributions are encouraged](https://hacktoberfest.com/about/#low-or-non-code), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
 
 ## What is the Hacktoberfest Swag List?
 
@@ -18,14 +18,15 @@ This site and [GitHub repo](https://github.com/crweiner/hacktoberfest-swag-list)
 
 ### Swag is an added benefit of helping out these awesome organizations, not the reason for you to contribute in the first place!
 
-Partipating in Hacktoberfest requires following the [official values](https://hacktoberfest.com/participation/#values), including [**not spamming** the participating companies](https://hacktoberfest.com/participation/#spam).
+Participating in Hacktoberfest requires following the [official values](https://hacktoberfest.com/participation/#values), including [**not spamming** the participating companies](https://hacktoberfest.com/participation/#spam).
 
 ---
+
 ## Sponsored By:
 
 ![Appwrite](img/appwrite-logo-1.svg)
 
-Appwrite is a proud sponsor of *all of Hacktoberfest*, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
+Appwrite is a proud sponsor of _all of Hacktoberfest_, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
 Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
 
 ---
@@ -38,7 +39,7 @@ This year, the Swag List is a little different, so be sure to read about how to 
 
 ---
 
-*Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
+_Disclaimer_: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
 ![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Void.svg)
 
