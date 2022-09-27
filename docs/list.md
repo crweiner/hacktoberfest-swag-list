@@ -12,9 +12,9 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 ## Sponsored By:
 
-![Appwrite](img/appwrite-logo-1.svg)
+[![Appwrite](img/appwrite-logo-1.svg)](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
 
-Appwrite is a proud sponsor of *all of Hacktoberfest*, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
+[Appwrite](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest) is a proud sponsor of *all of Hacktoberfest*, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
 Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
 
 ---
