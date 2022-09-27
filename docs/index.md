@@ -1,6 +1,6 @@
 # Hacktoberfest Swag List - 2022
 
-## Let's get prepared for Hacktoberfest 2022!
+## Let's get prepared for Hacktoberfest 2022
 
 ![Hacktoberfest 2022 Banner](img/Hfest-Logo-2-Color-Manga.png)
 
@@ -14,9 +14,9 @@ New for 2022, [low-code or no-code contributions are encouraged](https://hacktob
 
 This site and [GitHub repo](https://github.com/crweiner/hacktoberfest-swag-list) are here to showcase all of the amazing companies that go above and beyond by offering their own swag for the holiday. **The goal of this project is to connect contributors to open-source projects that they might not have heard about before and drive traffic towards organizations that celebrate Hacktoberfest and can use a little more help.**
 
-### This website/repo is not about collecting all of the swag you can. It is about the _open-source community_ and highlighting organizations that purposely want to drive traffic to their projects during Hacktoberfest by offering unique swag.
+### This website/repo is not about collecting all of the swag you can. It is about the _open-source community_ and highlighting organizations that purposely want to drive traffic to their projects during Hacktoberfest by offering unique swag
 
-### Swag is an added benefit of helping out these awesome organizations, not the reason for you to contribute in the first place!
+### Swag is an added benefit of helping out these awesome organizations, not the reason for you to contribute in the first place
 
 Participating in Hacktoberfest requires following the [official values](https://hacktoberfest.com/participation/#values), including [**not spamming** the participating companies](https://hacktoberfest.com/participation/#spam).
 
