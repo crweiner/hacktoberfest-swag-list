@@ -1,6 +1,5 @@
 # Contributing
 
-
 We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!
 
 Check [Issues](https://github.com/crweiner/hacktoberfest-swag-list/issues) and current [Pull Requests](https://github.com/crweiner/hacktoberfest-swag-list/pulls) before contributing to avoid adding duplicates.
