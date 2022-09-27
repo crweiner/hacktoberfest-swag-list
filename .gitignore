@@ -1,5 +1,11 @@
-_site
-.sass-cache
-.history
+# mkdocs documentation
+/site
+
+# python
+.venv
+
+# editor
 .vscode
+
+# Mac
 .DS_Store

@@ -1,0 +1,59 @@
+# Project information
+site_name: "Hacktoberfest Swag List 2022"
+site_description: "Connecting contributors to open-source projects during Hacktoberfest"
+site_author: "crweiner"
+site_url: "https://hacktoberfestswaglist.com"
+
+site_name: Hacktoberfest Swag List
+docs_dir: "docs"
+theme:
+  name: material
+  logo: img/Hfest-Badge-2-Color-Void.svg
+  features: 
+    - navigation.tracking
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+# Repository
+repo_name: "GitHub"
+repo_url: "https://github.com/crweiner/hacktoberfest-swag-list"
+edit_uri: "https://github.com/crweiner/hacktoberfest-swag-list/edit/master/docs"
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
+# Page tree
+nav:
+  - "Home": "index.md"
+  - "Contributing": "contributing.md"
+  - "2022 Hacktoberfest Swag List": "list.md"
+
+  # Customization
+extra_javascript:
+  - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
+extra_css:
+  - "assets/css/custom.css"
+extra:
+  manifest: "manifest.json"
+  social:
+    - icon: "fontawesome/brands/github-alt"
+      link: "https://github.com/peaceiris"
+    - icon: "fontawesome/brands/twitter"
+      link: "https://twitter.com/piris314en"
+  analytics:
+    provider: google
+    property: UA-129265975-1

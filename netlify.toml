@@ -1,6 +1,6 @@
 [build]
-  command = "jekyll build"
-  publish = "_site"
+  command = "mkdocs build --config-file mkdocs.yml"
+  publish = "site"
 
-[context.deploy-preview]
-  command = "jekyll build --drafts"
+[build.environment]
+  RUBY_VERSION = "2.7.4"
