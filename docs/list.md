@@ -35,6 +35,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ## A to Z Order of Companies
 
+### A
+
+#### **Aviyel**
+
+- **Swag**: Swag box, Limited edition Hacktoberfest-themed virtual badge
+- **Requirements**: The two basic requirements to be eligible is:
+    - Participants are requested to create technical content based on the theme of each week and submit it within the deadline.
+    - Participants will be eligible for a prize only if they attend at least 2 workshops and make 3 submissions (one each week).
+    - Submissions must be original work (Plagiarized content will not be accepted).
+- **How to sign up**: Sign up for the [Hacktoberfest with Aviyel form here](https://aviyel.typeform.com/register).
+- **Notes**: Additional information regarding Hacktoberfest with Aviyel [can be found in this blog post. It is very extensive, be sure to read it all to meet their qualifications.](https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel).
+
 ### C
 
 #### **Camunda**
