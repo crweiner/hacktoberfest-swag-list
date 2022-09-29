@@ -315,6 +315,22 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 - **How to sign up**: Contribute one PR or participate in the [Hasura Tips & Tricks contest](https://hasura.io/blog/celebrating-open-source-with-hasura/)
 - **Notes**: This year, Hasura is offering two ways to earn their exclusive swags - 1. Fix at least on issue labeled "Hacktoberfest". 2. Participate in their Hasura Tips & Tricks contest on Twitter. [More details here](https://hasura.io/blog/celebrating-open-source-with-hasura/). You only have until November 14th to earn Hasura's unique swag.
 
+### I
+
+#### **INVERTASE**
+
+- **Swag**: Dash, Zappy, Google Home, FlutterVikings rubber duck, Flutter mug, T-shirt, Stickers pack
+- **Requirements**:
+  - Submit 1 or more pull requests and get them approved/merged with tag **hacktoberfest-special** to receive a Dash ,Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+  - Submit 10 or more pull requests and get them approved/merged with tag **hactoberfest-accepted** to receive a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+  - Submit 5 to 10 pull requests and get them approved/merged with tag **hactoberfest-accepted** to receive a Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+  - Submit 4 to 2 pull requests and get them approved/merged with tag **hactoberfest-accepted** to receive a Flutter mug, T-shirt, stickers pack.
+  - Submit 1 pull requests and get them approved/merged with tag **hactoberfest-accepted** to receive a T-shirt, stickers pack.
+
+- **How to sign up**: Fill out this [form](https://invertase.io/community/hacktoberfest) before you start with the challenges on or before Oct. 31, 2022.
+- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues)
+- **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest) for more info.
+
 ### K
 
 #### **K6**
