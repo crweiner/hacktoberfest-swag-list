@@ -53,11 +53,37 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Plant a tree, t-shirt
 - **Requirements**:
-  - Submit 4 quality pull requests to to any [Camunda repo](https://github.com/orgs/camunda/repositories) or participating [Camunda Community Hub repos](https://github.com/orgs/camunda-community-hub/repositories). Look for the `hacktoberfest` label on the repo.
-  - The PRs must receive the `hacktoberfest-accepted` tag.
-  - They will also make a donation to [One Tree Planted](https://onetreeplanted.org/) for each person that earns their t-shirt!
+    - Submit 4 quality pull requests to to any [Camunda repo](https://github.com/orgs/camunda/repositories) or participating [Camunda Community Hub repos](https://github.com/orgs/camunda-community-hub/repositories). Look for the `hacktoberfest` label on the repo.
+    - The PRs must receive the `hacktoberfest-accepted` tag.
+    - They will also make a donation to [One Tree Planted](https://onetreeplanted.org/) for each person that earns their t-shirt!
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/).
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/).
+
+### F
+
+#### **Flyte**
+
+- **Swag**: Mug, T-shirt, The North Face® Jacket, Voucher
+- **Requirements**:
+    - Submit 2 pull requests and get them approved/merged to receive a Flyte mug.
+    - Submit 3 pull requests and get them approved/merged to receive a Flyte t-shirt.
+    - Contribute a plugin to receive a voucher.
+    - Submit 3+ pull requests and get them approved/merged to receive The North Face® jacket.
+- **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you are done with either of the challenges on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you have queries.
+- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/flyteorg/flyte/issues/2917)
+- **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
+
+### U
+
+#### **UnionML**
+
+- **Swag**: Tumbler, Voucher, Hoodie
+- **Requirements**:
+    - Submit 2/3 pull requests and get them approved/merged to receive a voucher or Union tumbler.
+    - Submit 3+ pull requests and get them approved/merged to receive a Union hoodie.
+- **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you have queries.
+- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171)
+- **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
 
 ---
 
