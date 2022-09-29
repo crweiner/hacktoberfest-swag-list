@@ -65,10 +65,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Mug, T-shirt, The North Face® Jacket, Voucher
 - **Requirements**:
-  - Submit 2 pull requests to receive a Flyte mug.
-  - Submit 3 pull requests to receive a Flyte t-shirt.
-  - Contribute a plugin to receive a voucher.
-  - Submit 3+ pull requests to receive The North Face® jacket.
+  - Submit 2 pull requests and get them approved to receive a Flyte mug.
+  - Submit 3 pull requests and get them approved to receive a Flyte t-shirt.
+  - Contribute a plugin and get them approved to receive a voucher.
+  - Submit 3+ pull requests and get them approved to receive The North Face® jacket.
 - **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you are done with either of the challenges on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you’ve queries.
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/flyteorg/flyte/issues/2917)
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
@@ -79,8 +79,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Tumbler, Voucher, Hoodie
 - **Requirements**:
-  - Submit 2/3 pull requests to receive a voucher or Union tumbler.
-  - Submit 3+ pull requests to receive a Union hoodie.
+  - Submit 2/3 pull requests and get them approved to receive a voucher or Union tumbler.
+  - Submit 3+ pull requests and get them approved to receive a Union hoodie.
 - **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you’ve queries.
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171)
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
