@@ -73,6 +73,23 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/flyteorg/flyte/issues/2917)
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
 
+
+### I
+
+#### **INVERTASE**
+
+- **Swag**: Dash, Zappy, Google Home, FlutterVikings rubber duck, Flutter mug, T-shirt, Stickers pack
+- **Requirements**:
+    - Submit 1 or more pull requests and get them approved/merged with tag <strong>hacktoberfest-special</strong> to receive a Dash ,Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+    - Submit 10 or more pull requests and get them approved/merged with tag <strong>hactoberfest-accepted</strong> to receive a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+    - Submit 5 to 10 pull requests and get them approved/merged with tag <strong>hactoberfest-accepted</strong> to receive a Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+    - Submit 4 to 2 pull requests and get them approved/merged with tag <strong>hactoberfest-accepted</strong> to receive a Flutter mug, T-shirt, stickers pack.
+    - Submit 1 pull requests and get them approved/merged with tag <strong>hactoberfest-accepted</strong> to receive a T-shirt, stickers pack.
+
+- **How to sign up**: Fill out this [form](https://invertase.io/community/hacktoberfest) before you start with the challenges on or before Oct. 31, 2022.
+- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues)
+- **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest) for more info.
+
 ### U
 
 #### **UnionML**
