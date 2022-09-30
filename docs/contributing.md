@@ -36,7 +36,7 @@ Find the first letter of your company within the list, then add your information
 
 - **Swag**: (T-shirt, stickers, etc)
 - **Requirements**: What do I have to complete? Are there different requirements per swag item? Are the PRs merged or just submitted?
-    - Indented lists require a Tab or 4 spaces instead of 2 spaces due to MkDocs formatting.
+    - Indented lists require a Tab or 4 spaces instead of 2 spaces due to MkDocs formatting weirdness.
 - **How to sign up**: Link to signup page using inline formatting of [text](URL)
 - **Issues**: Optional link to Hacktoberfest tagged issues
 - **Notes**: If needed, otherwise write "N/A". This is where links to blog posts/tweets go.

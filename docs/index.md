@@ -1,14 +1,27 @@
 # Hacktoberfest Swag List - 2022
 
-## Let's get prepared for Hacktoberfest 2022
+## Hacktoberfest 2022 Is Here
 
-![Hacktoberfest 2022 Banner](img/Hfest-Logo-2-Color-Manga.png)
+[![Hacktoberfest 2022 Banner](img/Hfest-Logo-2-Color-Manga.png)](list.md)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)!
 
 [As the official website states](https://hacktoberfest.com/#prepare-to-hack), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 9th, everyone can contribute to making open-source software even better!
 
 New for 2022, [low-code or no-code contributions are encouraged](https://hacktoberfest.com/about/#low-or-non-code), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
+
+---
+
+## Sponsored By:
+
+[![Appwrite](img/appwrite-logo-1.svg)](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
+
+[Appwrite](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest) is a proud sponsor of _all of Hacktoberfest_, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
+Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
+
+---
+
+## [Click here to be taken to the 2022 Hacktoberfest Swag List!](list.md)
 
 ## What is the Hacktoberfest Swag List?
 
@@ -19,15 +32,6 @@ This site and [GitHub repo](https://github.com/crweiner/hacktoberfest-swag-list)
 ### Swag is an added benefit of helping out these awesome organizations, not the reason for you to contribute in the first place
 
 Participating in Hacktoberfest requires following the [official values](https://hacktoberfest.com/participation/#values), including [**not spamming** the participating companies](https://hacktoberfest.com/participation/#spam).
-
----
-
-## Sponsored By:
-
-[![Appwrite](img/appwrite-logo-1.svg)](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
-
-[Appwrite](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest) is a proud sponsor of _all of Hacktoberfest_, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
-Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
 
 ---
 

@@ -21,11 +21,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ## Swag List 2022
 
-### **The Original - DigitalOcean, Appwrite, Intel, and Deepsource**
+### **The Original - DigitalOcean, Appwrite, and Docker**
 
 - **Swag**: T-shirt, stickers
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.digitalocean.com)
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com)
 - **Notes**: For your PR to count it must be:
   - Submitted in a public repo, AND
     - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
