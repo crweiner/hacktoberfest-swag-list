@@ -41,7 +41,7 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![Presented by DigitalOcean](/docs/img/Hfest-Badge-2-Color-Void.svg)
+![Presented by DigitalOcean](/docs/img/Hfest-Badge-2-Color-Manga.svg)
 
 ---
 

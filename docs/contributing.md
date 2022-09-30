@@ -36,6 +36,7 @@ Find the first letter of your company within the list, then add your information
 
 - **Swag**: (T-shirt, stickers, etc)
 - **Requirements**: What do I have to complete? Are there different requirements per swag item? Are the PRs merged or just submitted?
+    - Indented lists require a Tab or 4 spaces instead of 2 spaces due to MkDocs formatting.
 - **How to sign up**: Link to signup page using inline formatting of [text](URL)
 - **Issues**: Optional link to Hacktoberfest tagged issues
 - **Notes**: If needed, otherwise write "N/A". This is where links to blog posts/tweets go.
@@ -57,7 +58,7 @@ Find the first letter of your company within the list, then add your information
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
-![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Void.svg)
+![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Manga.svg)
 
 ---
 

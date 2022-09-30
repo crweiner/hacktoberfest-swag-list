@@ -104,7 +104,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
-![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Void.svg)
+![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Manga.svg)
 
 ---
 

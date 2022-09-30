@@ -41,7 +41,7 @@ This year, the Swag List is a little different, so be sure to read about how to 
 
 _Disclaimer_: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Void.svg)
+![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Manga.svg)
 
 ---
 
