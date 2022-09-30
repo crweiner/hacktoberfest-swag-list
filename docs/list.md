@@ -72,6 +72,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/).
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/).
 
+### D
+
+#### **devICT**
+
+- **Swag**: Stickers
+- **Requirements**: Create two PRs in any of the qualifying Wichita repos
+- **How to sign up**: More details [here](https://devict-hacktoberfest.herokuapp.com/)
+- **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
+
 ### F
 
 #### **Flyte**
