@@ -56,9 +56,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2022/) for more details.
 - **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 - **Notes**:
-  - Only those PRs are accepted which are marked with the 'Hacktoberfest' label and they have added difficulty level to each issue.
-  - Although we they added 'Hacktoberfest' topic in their repo, they will consider only PRs whose issue is labeled with 'Hacktoberfest' above for their unique swag.
-  - Read the [blog post](https://webkul.com/meetups/hacktober-fest-bagisto-2022/).
+    - For the PR to count for Bigisto's unique swag, it must be accepted, marked with the `Hacktoberfest` label, and they have added a difficulty level.
+    - Read the [blog post for more info](https://webkul.com/meetups/hacktober-fest-bagisto-2022/).
 
 ### C
 
@@ -78,7 +77,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Stickers
 - **Requirements**: Create two PRs in any of the qualifying Wichita repos
-- **How to sign up**: More details [here](https://devict-hacktoberfest.herokuapp.com/)
+- **How to sign up**: Sign in with [Github here](https://devict-hacktoberfest.herokuapp.com/) so they can track your PRs.
 - **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
 
 ### F
