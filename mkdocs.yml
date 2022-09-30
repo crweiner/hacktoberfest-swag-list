@@ -9,6 +9,8 @@ docs_dir: "docs"
 theme:
   name: material
   logo: img/Hfest-Badge-2-Color-Void.svg
+  icon:
+    repo: fontawesome/brands/github
   features: 
     - navigation.tracking
   palette: 
