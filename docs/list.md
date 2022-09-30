@@ -47,6 +47,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up for the [Hacktoberfest with Aviyel form here](https://aviyel.typeform.com/register).
 - **Notes**: Additional information regarding Hacktoberfest with Aviyel [can be found in this blog post. It is very extensive, be sure to read it all to meet their qualifications.](https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel).
 
+### B
+
+#### **Bagisto**
+
+- **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bigisto repo.
+- **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2022/) for more details.
+- **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
+- **Notes**:
+    - For the PR to count for Bigisto's unique swag, it must be accepted, marked with the `Hacktoberfest` label, and they have added a difficulty level.
+    - Read the [blog post for more info](https://webkul.com/meetups/hacktober-fest-bagisto-2022/).
+
 ### C
 
 #### **Camunda**
@@ -58,6 +70,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - They will also make a donation to [One Tree Planted](https://onetreeplanted.org/) for each person that earns their t-shirt!
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/).
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/).
+
+### D
+
+#### **devICT**
+
+- **Swag**: Stickers
+- **Requirements**: Create two PRs in any of the qualifying Wichita repos
+- **How to sign up**: Sign in with [Github here](https://devict-hacktoberfest.herokuapp.com/) so they can track your PRs.
+- **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
 
 ### F
 
