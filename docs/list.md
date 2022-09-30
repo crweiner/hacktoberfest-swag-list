@@ -47,6 +47,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up for the [Hacktoberfest with Aviyel form here](https://aviyel.typeform.com/register).
 - **Notes**: Additional information regarding Hacktoberfest with Aviyel [can be found in this blog post. It is very extensive, be sure to read it all to meet their qualifications.](https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel).
 
+### B
+
+#### **Bagisto**
+
+- **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bigisto repo.
+- **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2022/) for more details.
+- **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
+- **Notes**:
+  - Only those PRs are accepted which are marked with the 'Hacktoberfest' label and they have added difficulty level to each issue.
+  - Although we they added 'Hacktoberfest' topic in their repo, they will consider only PRs whose issue is labeled with 'Hacktoberfest' above for their unique swag.
+  - Read the [blog post](https://webkul.com/meetups/hacktober-fest-bagisto-2022/).
+
 ### C
 
 #### **Camunda**
