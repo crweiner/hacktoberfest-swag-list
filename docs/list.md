@@ -120,7 +120,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Submit 2 pull requests and get them merged to receive a Medusa t-shirt and stickers.
     - Submit 3 or more pull requests and get them merged to receive a Medusa t-shirt, stickers and water bottle.
 - **How to sign up**:
-    - Sign up for a [Hackathon in your area here](https://ky5eo2x1u81.typeform.com/to/oG2DCRg7?typeform-source=hacktoberfestswaglist.com).
+    - Sign up for a [Hackathon here](https://ky5eo2x1u81.typeform.com/to/oG2DCRg7?typeform-source=hacktoberfestswaglist.com) and review the [Hackathon details](https://github.com/medusajs/medusa/discussions/2280).
     - Browse the issues that are labeled `#hacktoberfest` in their repos and find an issue to tackle.
     - The Medusa team will review the pull request and let you know if additional work is needed.
     - After they have merged your pull request(s), you can claim your swag.
