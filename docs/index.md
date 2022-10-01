@@ -43,10 +43,10 @@ This year, the Swag List is a little different, so be sure to read about how to 
 
 ---
 
-_Disclaimer_: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
+_Disclaimer_: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/){:target="\_blank"} or any company offering swag.
 
 ![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Manga.svg)
 
 ---
 
-If you're looking for the Swag List from 2018 through 2021 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), and [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021) branches.
+If you're looking for the Swag List from 2018 through 2021 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases){:target="\_blank"} for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags){:target="\_blank"} for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018){:target="\_blank"}, [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019){:target="\_blank"}, [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020){:target="\_blank"}, and [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021){:target="\_blank"} branches.
