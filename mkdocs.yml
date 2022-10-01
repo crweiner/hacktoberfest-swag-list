@@ -38,7 +38,7 @@ plugins:
         - en
   - social:
       cards_color:
-        fill: "#2E303E" 
+        fill: "#2E303E"
         text: "#FFFFFF"      
 # Page tree
 nav:
