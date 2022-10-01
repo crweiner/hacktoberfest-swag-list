@@ -149,10 +149,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - First [Sign up here](https://app.tooljet.com/signup).
     - Find an issue you can work according to the description and labels.
     - Get it assigned to yourself and then only raise a corresponding PR.
-- **Issues**: List of all [Hacktoberfest-labeled-issues](https://github.com/ToolJet/ToolJet/labels/hacktoberfest)
+- **Issues**: List of all [Hacktoberfest-labeled-issues](https://github.com/ToolJet/ToolJet/labels/hacktoberfest).
 - **Notes**:
-    - Checkout [this blog post](https://blog.tooljet.com/hacktoberfest-2022/)
-    - For help, join their [Slack](https://tooljet.com/slack.)
+    - Checkout [this blog post](https://blog.tooljet.com/hacktoberfest-2022/).
+    - For help, join their [Slack](https://tooljet.com/slack).
 
 ---
 
