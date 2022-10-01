@@ -175,6 +175,25 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171)
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
 
+### T
+
+#### **ToolJet**
+
+- **Swag**: Stickers, t-shirt, water bottle, hoodie
+- **Requirements**:
+    - Submit 1 valid PR and get ToolJet stickers and t-shirt.
+    - Submit 3 valid PRs and get ToolJet stickers, t-shirt, and water bottle.
+    - Submit 4 valid PRs and get ToolJet stickers, t-shirt, hoodie, and water bottle.
+    - Also, the top 5 contributors will get a surprise gift this time!
+- **How to sign up**:
+    - First [Sign up here](https://app.tooljet.com/signup).
+    - Find an issue you can work according to the description and labels.
+    - Get it assigned to yourself and then only raise a corresponding PR.
+- **Issues**: List of all [Hacktoberfest-labeled-issues](https://github.com/ToolJet/ToolJet/labels/hacktoberfest).
+- **Notes**:
+    - Checkout [this blog post](https://blog.tooljet.com/hacktoberfest-2022/).
+    - For help, join their [Slack](https://tooljet.com/slack).
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
