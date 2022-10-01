@@ -101,12 +101,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Tshirt, Stickers
 
-- **Requirements**
-    -Submit 1 or more pull requests and get them approved/merged to receive a Tshirt.
+- **Requirements**: Submit 1 or more pull requests and get them approved/merged to receive a Tshirt.
 - **How to sign up**: visit [this repo](https://github.com/hasura/graphql-engine)     
 - **Issues**: Any issue [listed here](https://github.com/hasura/graphql-engine/issues)
-- **Notes**:
-- If merged/approved, they will comment in your PR with information regarding swags 
+- **Notes**: If merged/approved, they will comment in your PR with information regarding swags 
 - For more information, [visit](https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/) 
 
 ### I
