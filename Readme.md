@@ -4,6 +4,8 @@
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)! at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)
 
+## [Click here to be taken to the 2022 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
+
 [As the official website states](https://hacktoberfest.com/#prepare-to-hack), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 9th, everyone can contribute to making open-source software even better!
 
 New for 2022, [low-code or no-code contributions are encouraged](https://hacktoberfest.com/about/#low-or-non-code), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
