@@ -109,6 +109,25 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the hist of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues).
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest) for more info.
 
+### M
+
+#### **MedusaJs**
+
+- **Swag**: stickers,tee,waterbottle,hoodie.
+- **Requirements**:
+    - Participate in medusa hackathon and get hackathon tees and hoodies or create PRs to receive swags.
+    - Submit 1 pull request and get it merged to receive medusa stickers.
+    - Submit 2 pull requests and get them merged to receive medusa tee and stickers.
+    - Submit 3 or more pull requests and get them merged to receive medusa tee, stickers and waterbottle.
+- **How to sign up**:
+    - Sign up for hackathon here [hackathon link](https://ky5eo2x1u81.typeform.com/to/oG2DCRg7?typeform-source=medusajs.com).
+    - Browse the issues that are labeled #hacktoberfest and find an issue to tackle
+    - Fork the Medusa repo and create a branch for your solution
+    - Submit a pull request for your solution in accordance with the contribution guidelines
+    - medusa team will review the pull request and let you know if additional work is needed
+    - After they have merged your pull request(s), you can claim your swag
+- **Notes**: More details for hackathon prizes and details here [hackathon details](https://medusajs.com/blog/medusa-hackathon)
+
 ### P
 
 #### **Pusher**
