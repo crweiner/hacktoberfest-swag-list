@@ -109,6 +109,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the hist of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues).
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest) for more info.
 
+### M
+
+#### **Meilisearch**
+
+- **Swag**: Reusable Bottles, Stickers
+- **Requirements**:
+    - Submit 1 or more pull requests to qualify as a contributor. Stay tuned on the _Extra rewards and shared goals_ section of the
+[blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) for more details
+- **How to sign up**: Check out the [Contributing Guidelines](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md) for more details.
+- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues).
+- **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) for more info.
+
 ### P
 
 #### **Pusher**
