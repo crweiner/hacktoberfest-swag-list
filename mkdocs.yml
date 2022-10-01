@@ -7,6 +7,7 @@ site_url: "https://hacktoberfestswaglist.com"
 site_name: Hacktoberfest Swag List
 docs_dir: "docs"
 theme:
+  favicon: img/hacktoberfest-favicon.ico
   name: material
   logo: img/Hfest-Badge-2-Color-Void.svg
   features: 
