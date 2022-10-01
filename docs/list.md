@@ -145,15 +145,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Submit 3 valid PRs and get ToolJet stickers, t-shirt, water bottle.
     - Submit 4 valid PRs and get ToolJet stickers, t-shirt, hoodie, water bottle.
     - Also top 5 contributors will get a surprise gift this time!
-- **How to sign up**: 
-    1. First [Sign up](https://app.tooljet.com/signup).
-    2. Find an issue you can work according to the description and labels.
-    3. Get it assigned to yourself and then only raise a corresponding PR.
-    4. Don't raise spam PRs and submit valid PRs befor 31 october 2022.
-- **Issues**: List of all [Hacktoberfest-labeled-issues](https://github.com/ToolJet/ToolJet/labels/hacktoberfest).
+- **How to sign up**:
+    - First [Sign up](https://app.tooljet.com/signup).
+    - Find an issue you can work according to the description and labels.
+    - Get it assigned to yourself and then only raise a corresponding PR.
+    - Don't raise spam PRs and submit valid PRs befor 31 october 2022.
+- **Issues**: List of all [Hacktoberfest-labeled-issues](https://github.com/ToolJet/ToolJet/labels/hacktoberfest)
 - **Notes**:
     - Checkout [blog post](https://blog.tooljet.com/hacktoberfest-2022/)
     - For help, join their [slack](https://tooljet.com/slack.)
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
