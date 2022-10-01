@@ -163,10 +163,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Novu**
 
-- **Swag**: T-shirt, stickers
-- **Requirements**: Create 3 merged pull requests to the Novu repository at [https://github.com/novuhq/novu](https://github.com/novuhq/novu).
-- **How to sign up**: Visit the Novu Github Page [https://github.com/novuhq/novu](https://github.com/novuhq/novu)
-- **Issues**: See list of issues at [https://github.com/novuhq/novu/issues](https://github.com/novuhq/novu/issues)
+- **Swag**: T-shirt, stickers.
+- **Requirements**: Create 3 merged pull requests to the Novu repository at [Novu Github Repo](https://github.com/novuhq/novu).
+- **How to sign up**: Visit the Novu Github Page [Visit Page](https://github.com/novuhq/novu)
+- **Issues**: See list of issues at [Novu Active Issues](https://github.com/novuhq/novu/issues)
 - **Notes**: N/A
 
 ### P
