@@ -189,18 +189,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st.
 - **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md)
 
-### U
-
-#### **UnionML**
-
-- **Swag**: Tumbler, Voucher, Hoodie
-- **Requirements**:
-    - Submit 2/3 pull requests and get them approved/merged to receive a voucher or Union tumbler.
-    - Submit 3+ pull requests and get them approved/merged to receive a Union hoodie.
-- **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you have queries.
-- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171)
-- **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
-
 ### T
 
 #### **ToolJet**
@@ -219,6 +207,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**:
     - Checkout [this blog post](https://blog.tooljet.com/hacktoberfest-2022/).
     - For help, join their [Slack](https://tooljet.com/slack).
+
+### U
+
+#### **UnionML**
+
+- **Swag**: Tumbler, Voucher, Hoodie
+- **Requirements**:
+    - Submit 2/3 pull requests and get them approved/merged to receive a voucher or Union tumbler.
+    - Submit 3+ pull requests and get them approved/merged to receive a Union hoodie.
+- **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you have queries.
+- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171)
+- **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
 
 ---
 
