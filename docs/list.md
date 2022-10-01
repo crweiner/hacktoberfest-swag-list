@@ -37,6 +37,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+#### **Appwrite**
+
+- **Swag**: Limited edition Appwrite Hacktoberfest T-shirt, Original Appwrite sticker pack, Socks
+- **Requirements**:
+    - Participants can contribute to open issues, build a demo app, write a blog post or make a tutorial.
+    - 1 Contribution : The OG Appwrite sticker pack.
+    - 2 Contributions : Limited Edition Appwrite Hacktoberfest + OG stickers.
+    - 3 Contributions : Limited Edition Hacktoberfest sticker pack + 2 packs of stickers.
+    - 4 Contributions and more : Limited Edition Appwrite Hacktoberfest T-shirt.
+- **How to sign up**: Check out the [Appwrite website](https://hacktoberfest.appwrite.io/) for more details.
+- **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=issues&s=updated&o=asc).
+- **Notes**: Read the [blog post](https://appwrite.io/hacktoberfest) for more info.
+
 #### **Aviyel**
 
 - **Swag**: Swag box, Limited edition Hacktoberfest-themed virtual badge
