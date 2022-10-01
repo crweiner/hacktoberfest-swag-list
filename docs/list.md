@@ -118,7 +118,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Submit 1 pull request and get it merged to receive one item from Pusher Hacktoberfest swag pack.
     - Submit 2 pull requests and get them merged to receive one item from Pusher Hacktoberfest swag pack.
     - Submit 3 or more pull requests and get them merged to receive the full Pusher Hacktoberfest swag pack.
-
 - **How to sign up**: 
     - If you’re working on an open issue, read the CONTRIBUTING.MD file in the repo to get specific guidelines on how to work on that repo. Ask to be assigned to that issue before you start working on it.
     - If you’re building a demo app, writing a tutorial or blog post, fork the README.MD file in the pusher/hacktoberfest repo and make PR with a link to what you’ve worked on and an email address we can reach out to you to claim your swag on.
