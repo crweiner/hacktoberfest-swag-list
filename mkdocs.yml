@@ -39,7 +39,7 @@ plugins:
   - social:
       cards_color:
         fill: "#2E303E"
-        text: "#FFFFFF"      
+        text: "#FFFFFF"
 # Page tree
 nav:
   - "Home": "index.md"
