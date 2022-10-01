@@ -152,7 +152,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Meilisearch**
 
-- **Swag**: Reusable Bottles, Stickers
+- **Swag**: Reusable Bottles, Stickers (possibly? Awaiting updated swag for 2022.)
 - **Requirements**:
     - Submit 1 or more pull requests to qualify as a contributor. Check out the [Contributing Guidelines](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md) for more details.
 - **How to sign up**: Join the [Slack community](https://www.notion.so/6cd1509802984122ab74745f637b694f) and the [#hacktoberfest channel](https://meilicommunity.slack.com/archives/C02G1H43J2X) to connect with Meilisearch employees and for any queries.
