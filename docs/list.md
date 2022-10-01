@@ -111,6 +111,22 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### P
 
+#### **Percona**
+
+- **Swag**: Percona T-shirt or a hat.
+- **Requirements**:
+    - Submit at least 4 pull/merge requests that are:
+        - Following the [official Hacktoberfest PR/MR conditions](https://hacktoberfest.com/participation/#pr-mr-details).
+        - Getting accepted to any of the participating [Percona Github Repos](https://github.com/search?q=org%3Apercona+topic%3Ahacktoberfest).
+- **How to sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
+    - Explore the [participating projects](https://github.com/search?q=org%3Apercona+topic%3Ahacktoberfest) and choose your favorites. Contribute with PR/MRs during the period from October 1 to October 31, 2022.
+    - The Percona team will review your PRs constantly and give you feedback.
+- **Issues**:
+    - [Percona Github Issues](https://github.com/search?q=org%3Apercona+topic%3Ahacktoberfest+is%3Aissue+is%3Aopen&type=Issues)
+    - [Percona JIRA Issues](https://jira.percona.com/issues/?jql=resolution%20%3D%20Unresolved%20AND%20status%20%3D%20Open%20AND%20description%20is%20not%20EMPTY%20AND%20project%20in%20(%22Percona%20Monitoring%20and%20Management%22%2C%20%22Percona%20Operator%20for%20MongoDB%22%2C%20%22Percona%20Operator%20for%20MySQL%22%2C%20%22Percona%20Operator%20for%20MySQL%20based%20on%20Percona%20XtraDB%20Cluster%22%2C%20%22Percona%20Operator%20for%20PostgreSQL%22)%20ORDER%20BY%20created%20DESC)
+- **Notes**: Additional information regarding Hacktoberfest with Percona can be found in this [blog post](https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/).
+
 #### **Pusher**
 
 - **Swag**: One item, two items, or full Pusher Hacktoberfest swag pack.
