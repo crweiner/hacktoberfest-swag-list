@@ -123,6 +123,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st.
 - **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md)
 
+### S
+
+#### Speckle
+
+- **Swag**: Speckle swag(stickers)
+- **Requirements**: 
+    - Get 4 pull requests accepted in any of the Speckle repositories.
+- **How to sign up**: No special sign-ups requires.
+- **Issues**: Find all Speckle repos [here](https://github.com/orgs/specklesystems/projects/14/views/1)
+- **Notes**: More details can be found here [Speckle](https://speckle.community/t/hacktoberfest-2022-with-speckle/3641)
+
+
 ### U
 
 #### **UnionML**
