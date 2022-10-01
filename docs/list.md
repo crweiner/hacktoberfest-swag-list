@@ -109,6 +109,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the hist of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues).
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest) for more info.
 
+### P
+
+#### **Pusher**
+
+- **Swag**: One item, two items, or full Pusher Hacktoberfest swag pack.
+- **Requirements**:
+    - Submit 1 pull request and get it merged to receive one item from the Pusher Hacktoberfest swag pack.
+    - Submit 2 pull requests and get them merged to receive two items from the Pusher Hacktoberfest swag pack.
+    - Submit 3 or more pull requests and get them merged to receive the full Pusher Hacktoberfest swag pack.
+- **How to sign up**:
+    - Fork the README.MD file in the [pusher/hacktoberfest repo](https://github.com/pusher/hacktoberfest) and make PR with a link to what you’ve worked on and an email address so they can reach out to you to claim your swag.
+    - You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st.
+- **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md)
+
 ### U
 
 #### **UnionML**
