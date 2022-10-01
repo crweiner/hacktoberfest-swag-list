@@ -40,7 +40,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Appwrite**
 
 - **Swag**: Limited edition Appwrite Hacktoberfest T-shirt, Original Appwrite sticker pack, Socks
-- **Requirements**: 
+- **Requirements**:
     - Participants can contribute to open issues, build a demo app, write a blog post or make a tutorial.
     - 1 Contribution : The OG Appwrite sticker pack.
     - 2 Contributions : Limited Edition Appwrite Hacktoberfest + OG stickers.
