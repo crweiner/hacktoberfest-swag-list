@@ -57,3 +57,7 @@ extra:
   analytics:
     provider: google
     property: UA-129265975-1
+
+
+markdown_extensions:
+  - attr_list
