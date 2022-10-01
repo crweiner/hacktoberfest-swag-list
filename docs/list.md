@@ -94,6 +94,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/flyteorg/flyte/issues/2917)
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
 
+### H
+
+#### **Hasura**
+
+- **Swag**: T-shirt and stickers.
+- **Requirements**: Submit a PR to solve one or more issues in [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) or [Hasura’s Learn tutorials](https://github.com/hasura/learn-graphql).
+    - PR for a small fix (example: a typo fix), only a sticker pack will be sent.
+- **How to sign up**: An order form link will be sent to you via your PR's comment section.
+- **Issues**: [learn-graphql issues](https://github.com/hasura/learn-graphql/issues) and [graphql-engine issues](https://github.com/hasura/graphql-engine/issues).
+- **Notes**: For more information, check out [this](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/) and [this](https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/). :)
+
 ### I
 
 #### **INVERTASE**
