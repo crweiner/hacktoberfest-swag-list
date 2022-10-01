@@ -123,6 +123,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st.
 - **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md)
 
+
+### T
+
+#### **ToolJet**
+
+- **Swag**: T-shirt,Stickers,Hoodie,Waterbottle
+- **Requirements**:
+    - Submit 1 (PRs) to get and get it merged to receive ToolJet stickers and t-shirt.
+    - Submit 3 (PRs) to get and get them merged to receive ToolJet stickers, t-shirt,water bottle.
+    - Submit 4 (PRs) to get and get them merged to receive ToolJet stickers, t-shirt,hoodie,water bottle.
+- **How to sign up**: Check out the [ToolJet](https://blog.tooljet.com/hacktoberfest-2022/) blog website.
+- **Notes**: Make sure that you are creating PR only for issues that are assigned to you.Don't forget to check [ToolJet](https://blog.tooljet.com/hacktoberfest-2022/)  blog website.
+
+
 ### U
 
 #### **UnionML**
