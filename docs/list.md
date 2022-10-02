@@ -58,7 +58,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Participants will be eligible for a prize only if they attend at least 2 workshops and make 3 submissions (one each week).
     - Submissions must be original work (Plagiarized content will not be accepted).
 - **How to sign up**: Sign up for the [Hacktoberfest with Aviyel form here](https://aviyel.typeform.com/register){:target="\_blank"}.
-- **Notes**: Additional information regarding Hacktoberfest with Aviyel [can be found in this blog post. It is very extensive, be sure to read it all to meet their qualifications.](https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel){:target="\_blank"}.
+- **Notes**: Additional information regarding Hacktoberfest with Aviyel [can be found in this blog post. It is very extensive, be sure to read it all to meet their qualifications.](https://aviyel.com/post/3738/announcing-hacktoberfest-with-aviyel){:target="\_blank"}. 
 
 ### B
 
@@ -83,6 +83,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - They will also make a donation to [One Tree Planted](https://onetreeplanted.org/){:target="\_blank"} for each person that earns their t-shirt!
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
+
+
+#### **Clueless Community**
+
+- **Swag**: T-shirt
+- **Requirements**:
+    - Signup onn http://clueless.tech Otherwise you will not get a rank 
+    - Create a pull request.
+    - The PRs must receive the `hacktoberfest-accepted` tag.
+- **How to sign up**: Sign up on http://clueless.tech/ 
+- **Notes**: All the top contributors of ClueLess will get t-shirts and amazing swags by ClueLess apart from hacktoberfest swags. All participants will get their participation certificate.
 
 ### D
 
