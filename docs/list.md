@@ -160,6 +160,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/){:target="\_blank"} for more info.
 
 #### **Metafy**
+
 - **Swag**: NFT and T-Shirts
 - **Requirements**:
     - Submit one or more pull requests to Metafy's repositries with **hacktoberfest** label to qualify as a contributor. Top contributors will get their very own NFT and T-Shirts from Metafy. Check out the [Documentation or README File](https://github.com/metafy-social/.github/blob/main/profile/README.md){:target="\_blank"} for more details.
