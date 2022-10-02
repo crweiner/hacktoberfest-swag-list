@@ -203,7 +203,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Get it assigned to yourself and then only raise a corresponding PR.
 - **Issues**: List of all [Hacktoberfest-labeled-issues]https://github.com/specklesystems){:target="\_blank"}.
 - **Notes**:
-    - Checkout [this blog post]https://speckle.community/t/hacktoberfest-2022-with-speckle/3641{:target="\_blank"}.
+    - Checkout [this blog post](https://speckle.community/t/hacktoberfest-2022-with-speckle/3641){:target="\_blank"}.
     
 
 ### T
