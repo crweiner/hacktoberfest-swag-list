@@ -216,9 +216,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**:
     - Submit 2/3 pull requests and get them approved/merged to receive a voucher or Union tumbler.
     - Submit 3+ pull requests and get them approved/merged to receive a Union hoodie.
-- **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you have queries.
-- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171)
-- **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
+- **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ){:target="_blank"} after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/){:target="_blank"} channel in case you have queries.
+- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171){:target="_blank"}
+- **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022){:target="_blank"} for more info.
 
 ---
 
