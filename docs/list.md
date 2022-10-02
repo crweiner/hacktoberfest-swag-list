@@ -159,6 +159,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues){:target="\_blank"}.
 - **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/){:target="\_blank"} for more info.
 
+### N
+
+#### **Novu**
+
+- **Swag**: T-shirt and AI-generated art sticker pack.
+- **Requirements**:
+    - Have 3 merged pull requests during October 2022 to qualify as a contributor. Check out the [How to get Novu's swag](https://github.com/novuhq/novu){:target="\_blank"} for more details.
+- **How to sign up**: Join the [Novu Discord Server](https://discord.gg/novu){:target="\_blank"} to discuss something related to the project or ask for help.
+- **Issues**: See the list of [Github issues](https://github.com/novuhq/novu/issues){:target="\_blank"}.
+- **Notes**: Check out the [Pinned Tweet](https://mobile.twitter.com/novuhq/status/1576536573436637186){:target="\_blank"} for more info.
+
 ### P
 
 #### **Percona**
