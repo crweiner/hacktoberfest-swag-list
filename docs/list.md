@@ -165,11 +165,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**:
     - Submit one or more pull requests to Metafy's repositries with **hacktoberfest** label to qualify as a contributor. Top contributors will get their very own NFT and T-Shirts from Metafy. Check out the [Documentation or README File](https://github.com/metafy-social/.github/blob/main/profile/README.md){:target="\_blank"} for more details.
 - **How to Sign up**:
-     - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
-     - Contribute with PR/MRs to Metafy's **hacktoberfest** labelled repositries during the period from October 1 to October 31, 2022.
-     - The Metafy team will review your PRs constantly and give you feedback.
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+    - Contribute with PR/MRs to Metafy's **hacktoberfest** labelled repositries during the period from October 1 to October 31, 2022.
+    - The Metafy team will review your PRs constantly and give you feedback.
 - **Notes**:
     - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank") to find additional details or connect with Metafy's employees.
+    
 ### P
 
 #### **Percona**
