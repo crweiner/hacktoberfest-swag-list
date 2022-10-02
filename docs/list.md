@@ -135,23 +135,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### M
 
-#### **MindsDB**
-
-- **Swag**:Razer Blade 15 Laptop,T-shirt, cool audio gadgets, and cash prize
-- **Requirements**:
-    - For every 10 points, you will receive one entry into the draw for the awesome Razer Blade 15 Laptop powered by the top NVIDIA GeForce RTX 3080 Ti GPU, 14-core Intel i9 CPU and more… 
-    You can also win one of the 10 gadgets of your choice: 
-    JBL Earbuds or Rugged Outdoor Speaker.Entries will close at midnight (PST) Monday, 31st of October with the winner announced on the first week of November.
-    To participate, you need to have your GitHub PRs merged and complete the form with your details.
-    - Share a well-described idea of a new MindsDB integration. The authors of top upvoted ideas will get a T-shirt, cool audio gadgets, and a cash prize::
-    1st place: $500
-    2nd place: $300
-    3rd place: $200
-    - For anyone who contributes with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest and completes the form with your details.
-    - Authors of the top 3 upvoted ideas and top 3 video tutorials or winners of the prize draw, will get the gadget they like – either JBL Wireless Earbuds or Rugged Outdoor Speaker.
-- **How to sign up**: Please complete the form below to participate in the prize draw and get MindsDB SWAG.
-You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [Form](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
-- **Notes**: Check out the [website](https://mindsdb.com/hacktoberfest/) for more info.
 
 #### **MedusaJS**
 
@@ -177,6 +160,26 @@ You should complete the form just once with all your contributions listed. You w
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues).
 - **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) for more info.
 >>>>>>> e2b3adf2093b5a410fba097c66210c512628e5e4
+
+
+#### **MindsDB**
+
+- **Swag**:Razer Blade 15 Laptop,T-shirt, cool audio gadgets, and cash prize
+- **Requirements**:
+    - For every 10 points, you will receive one entry into the draw for the awesome Razer Blade 15 Laptop powered by the top NVIDIA GeForce RTX 3080 Ti GPU, 14-core Intel i9 CPU and more… 
+    You can also win one of the 10 gadgets of your choice: 
+    JBL Earbuds or Rugged Outdoor Speaker.Entries will close at midnight (PST) Monday, 31st of October with the winner announced on the first week of November.
+    To participate, you need to have your GitHub PRs merged and complete the form with your details.
+    - Share a well-described idea of a new MindsDB integration. The authors of top upvoted ideas will get a T-shirt, cool audio gadgets, and a cash prize::
+    1st place: $500
+    2nd place: $300
+    3rd place: $200
+    - For anyone who contributes with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest and completes the form with your details.
+    - Authors of the top 3 upvoted ideas and top 3 video tutorials or winners of the prize draw, will get the gadget they like – either JBL Wireless Earbuds or Rugged Outdoor Speaker.
+- **How to sign up**: Please complete the form below to participate in the prize draw and get MindsDB SWAG.
+You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [Form](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
+- **Notes**: Check out the [website](https://mindsdb.com/hacktoberfest/) for more info.
+
 
 ### P
 
