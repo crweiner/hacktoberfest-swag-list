@@ -181,12 +181,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [Form](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
 - **Notes**: Check out the [website](https://mindsdb.com/hacktoberfest/) for more info.
 
-=======
-    - Submit 1 or more pull requests to qualify as a contributor. Check out the [Contributing Guidelines](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md){:target="\_blank"} for more details.
-- **How to sign up**: Join the [Slack community](https://www.notion.so/6cd1509802984122ab74745f637b694f){:target="\_blank"} and the [#hacktoberfest channel](https://meilicommunity.slack.com/archives/C02G1H43J2X){:target="\_blank"} to connect with Meilisearch employees and for any queries.
-- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues){:target="\_blank"}.
-- **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/){:target="\_blank"} for more info.
->>>>>>> de51aca71211c2011edc8dfabd5cc6ce89bb1a60
 
 ### P
 
