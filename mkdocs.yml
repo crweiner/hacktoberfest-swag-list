@@ -7,6 +7,7 @@ site_url: "https://hacktoberfestswaglist.com"
 site_name: Hacktoberfest Swag List
 docs_dir: "docs"
 theme:
+  favicon: img/hacktoberfest-favicon.ico
   name: material
   logo: img/Hfest-Badge-2-Color-Void.svg
   features: 
@@ -36,6 +37,10 @@ plugins:
       separator: '[\s\-\.]+'
       lang:
         - en
+  - social:
+      cards_color:
+        fill: "#2E303E"
+        text: "#FFFFFF"
 # Page tree
 nav:
   - "Home": "index.md"
@@ -57,3 +62,7 @@ extra:
   analytics:
     provider: google
     property: UA-129265975-1
+
+#Extensions
+markdown_extensions:
+  - attr_list

@@ -37,6 +37,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+#### **Appwrite**
+
+- **Swag**: Limited edition Appwrite Hacktoberfest T-shirt, Original Appwrite sticker pack, Socks
+- **Requirements**:
+    - Participants can contribute to open issues, build a demo app, write a blog post or make a tutorial.
+    - 1 Contribution : The OG Appwrite sticker pack.
+    - 2 Contributions : Limited Edition Appwrite Hacktoberfest + OG stickers.
+    - 3 Contributions : Limited Edition Hacktoberfest sticker pack + 2 packs of stickers.
+    - 4 Contributions and more : Limited Edition Appwrite Hacktoberfest T-shirt.
+- **How to sign up**: Check out the [Appwrite website](https://hacktoberfest.appwrite.io/) for more details.
+- **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=issues&s=updated&o=asc).
+- **Notes**: Read the [blog post](https://appwrite.io/hacktoberfest) for more info.
+
 #### **Aviyel**
 
 - **Swag**: Swag box, Limited edition Hacktoberfest-themed virtual badge
@@ -94,6 +107,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/flyteorg/flyte/issues/2917)
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
 
+### H
+
+#### **Hasura**
+
+- **Swag**: T-shirt and stickers.
+- **Requirements**: Submit a PR to solve one or more issues in [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) or [Hasura’s Learn tutorials](https://github.com/hasura/learn-graphql).
+    - PR for a small fix (example: a typo fix) will only qualify for a sticker pack.
+- **How to sign up**: An order form link will be sent to you via your PR's comment section.
+- **Issues**: [learn-graphql issues](https://github.com/hasura/learn-graphql/issues) and [graphql-engine issues](https://github.com/hasura/graphql-engine/issues).
+- **Notes**: For more information, check out [this blog post](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/) and [this blog post too](https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/).
+
 ### I
 
 #### **INVERTASE**
@@ -115,29 +139,62 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**:Razer Blade 15 Laptop,T-shirt, cool audio gadgets, and cash prize
 - **Requirements**:
-   - For every 10 points, you will receive one entry into the draw for the awesome Razer Blade 15 Laptop powered by the top NVIDIA GeForce RTX 3080 Ti GPU, 14-core Intel i9 CPU and more… 
-
-     You can also win one of the 10 gadgets of your choice: 
-     JBL Earbuds or Rugged Outdoor Speaker
-
-     Entries will close at midnight (PST) Monday, 31st of October with the winner announced on the first week of November.
-
-To participate, you need to have your GitHub PRs merged and complete the form with your details.
-   - Share a well-described idea of a new MindsDB integration. The authors of top upvoted ideas will get a T-shirt, cool audio gadgets, and a cash prize::
-
-     1st place: $500
-
-     2nd place: $300
-
-     3rd place: $200
-   - For anyone who contributes with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest and completes the form with your details.
-   - Authors of the top 3 upvoted ideas and top 3 video tutorials or winners of the prize draw, will get the gadget they like – either JBL Wireless Earbuds or Rugged Outdoor Speaker.
-
+    - For every 10 points, you will receive one entry into the draw for the awesome Razer Blade 15 Laptop powered by the top NVIDIA GeForce RTX 3080 Ti GPU, 14-core Intel i9 CPU and more… 
+    You can also win one of the 10 gadgets of your choice: 
+    JBL Earbuds or Rugged Outdoor Speaker.Entries will close at midnight (PST) Monday, 31st of October with the winner announced on the first week of November.
+    To participate, you need to have your GitHub PRs merged and complete the form with your details.
+    - Share a well-described idea of a new MindsDB integration. The authors of top upvoted ideas will get a T-shirt, cool audio gadgets, and a cash prize::
+    1st place: $500
+    2nd place: $300
+    3rd place: $200
+    - For anyone who contributes with at least 5 points making pull requests to any of our open issues labeled Hacktoberfest and completes the form with your details.
+    - Authors of the top 3 upvoted ideas and top 3 video tutorials or winners of the prize draw, will get the gadget they like – either JBL Wireless Earbuds or Rugged Outdoor Speaker.
 - **How to sign up**: Please complete the form below to participate in the prize draw and get MindsDB SWAG.
-    You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [Form](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
+You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [Form](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
 - **Notes**: Check out the [website](https://mindsdb.com/hacktoberfest/) for more info.
 
+#### **MedusaJS**
+
+- **Swag**: Stickers, t-shirt, water bottle, hoodie.
+- **Requirements**:
+    - Participate in a Medusa Hackathon and get Hackathon t-shirts and hoodies.
+    - Submit 1 pull request and get it merged to receive Medusa stickers.
+    - Submit 2 pull requests and get them merged to receive a Medusa t-shirt and stickers.
+    - Submit 3 or more pull requests and get them merged to receive a Medusa t-shirt, stickers and water bottle.
+- **How to sign up**:
+    - Sign up for a [Hackathon here](https://ky5eo2x1u81.typeform.com/to/oG2DCRg7?typeform-source=hacktoberfestswaglist.com) and review the [Hackathon details](https://github.com/medusajs/medusa/discussions/2280).
+    - Browse the issues that are labeled `#hacktoberfest` in their repos and find an issue to tackle.
+    - The Medusa team will review the pull request and let you know if additional work is needed.
+    - After they have merged your pull request(s), you can claim your swag.
+- **Notes**: More details for the Hackathon prizes and Hacktoberfest details [are here](https://medusajs.com/blog/medusa-hackathon).
+
+#### **Meilisearch**
+
+- **Swag**: Reusable Bottles, Stickers (possibly? Awaiting updated swag for 2022.)
+- **Requirements**:
+    - Submit 1 or more pull requests to qualify as a contributor. Check out the [Contributing Guidelines](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md) for more details.
+- **How to sign up**: Join the [Slack community](https://www.notion.so/6cd1509802984122ab74745f637b694f) and the [#hacktoberfest channel](https://meilicommunity.slack.com/archives/C02G1H43J2X) to connect with Meilisearch employees and for any queries.
+- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues).
+- **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) for more info.
+>>>>>>> e2b3adf2093b5a410fba097c66210c512628e5e4
+
 ### P
+
+#### **Percona**
+
+- **Swag**: Percona T-shirt or a hat.
+- **Requirements**:
+    - Submit at least 4 pull/merge requests that are:
+        - Following the [official Hacktoberfest PR/MR conditions](https://hacktoberfest.com/participation/#pr-mr-details).
+        - Getting accepted to any of the participating [Percona Github Repos](https://github.com/search?q=org%3Apercona+topic%3Ahacktoberfest).
+- **How to sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
+    - Explore the [participating projects](https://github.com/search?q=org%3Apercona+topic%3Ahacktoberfest) and choose your favorites. Contribute with PR/MRs during the period from October 1 to October 31, 2022.
+    - The Percona team will review your PRs constantly and give you feedback.
+- **Issues**:
+    - [Percona Github Issues](https://github.com/search?q=org%3Apercona+topic%3Ahacktoberfest+is%3Aissue+is%3Aopen&type=Issues)
+    - [Percona JIRA Issues](https://jira.percona.com/issues/?jql=resolution%20%3D%20Unresolved%20AND%20status%20%3D%20Open%20AND%20description%20is%20not%20EMPTY%20AND%20project%20in%20(%22Percona%20Monitoring%20and%20Management%22%2C%20%22Percona%20Operator%20for%20MongoDB%22%2C%20%22Percona%20Operator%20for%20MySQL%22%2C%20%22Percona%20Operator%20for%20MySQL%20based%20on%20Percona%20XtraDB%20Cluster%22%2C%20%22Percona%20Operator%20for%20PostgreSQL%22)%20ORDER%20BY%20created%20DESC)
+- **Notes**: Additional information regarding Hacktoberfest with Percona can be found in this [blog post](https://www.percona.com/blog/contribute-to-open-source-with-percona-and-hacktoberfest/).
 
 #### **Pusher**
 
@@ -162,6 +219,25 @@ To participate, you need to have your GitHub PRs merged and complete the form wi
 - **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you have queries.
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171)
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
+
+### T
+
+#### **ToolJet**
+
+- **Swag**: Stickers, t-shirt, water bottle, hoodie
+- **Requirements**:
+    - Submit 1 valid PR and get ToolJet stickers and t-shirt.
+    - Submit 3 valid PRs and get ToolJet stickers, t-shirt, and water bottle.
+    - Submit 4 valid PRs and get ToolJet stickers, t-shirt, hoodie, and water bottle.
+    - Also, the top 5 contributors will get a surprise gift this time!
+- **How to sign up**:
+    - First [Sign up here](https://app.tooljet.com/signup).
+    - Find an issue you can work according to the description and labels.
+    - Get it assigned to yourself and then only raise a corresponding PR.
+- **Issues**: List of all [Hacktoberfest-labeled-issues](https://github.com/ToolJet/ToolJet/labels/hacktoberfest).
+- **Notes**:
+    - Checkout [this blog post](https://blog.tooljet.com/hacktoberfest-2022/).
+    - For help, join their [Slack](https://tooljet.com/slack).
 
 ---
 
