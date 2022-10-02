@@ -159,6 +159,21 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues){:target="\_blank"}.
 - **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/){:target="\_blank"} for more info.
 
+### N
+
+#### **Novu**
+
+- **Swag**: T-shirt, Sticker Pack.
+- **Requirements**:
+    - Submit 3 pull requests to the [Novu repository](https://github.com/novuhq/novu) and get it merged to receive the Special Novu swag pack.
+- **How to sign up**:
+    - No Special Sign-ups required.
+    - You can simply visit their repository [here](https://github.com/novuhq/novu) and pick up any available issue to submit a PR.
+    - The Novu team will review the pull request and let you know if any changes are needed.
+    - After they have merged your 3 pull requests, you will be contacted over a Github discussion thread to claim your swag.
+- **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/novuhq/novu/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **Notes**: More details for the prizes [are here](https://twitter.com/novuhq/status/1576536573436637186). Also, you can join the official Novu Hacktoberfest kickoff on 3rd October 2022 by joining [here](https://discord.gg/K747c2mb?event=1025547200559861810). Join their [discord](https://discord.gg/novu) if you have any further queries.
+
 ### P
 
 #### **Percona**
