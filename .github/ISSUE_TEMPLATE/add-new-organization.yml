@@ -1,0 +1,18 @@
+---
+name: "Add an Organization to the 2022 Hacktoberfest Swag List"
+description: >-
+  A good first issue for people celebrating Hacktoberfest!
+
+  Per [here](<link-to-org-hacktoberfest-post-or-page>), <Organization> is participating in Hacktoberfest 2022 by giving away their own swag. 😄
+
+  Please add them to the 2022 list following the formatting in the [CONTRIBUTING.md](https://github.com/crweiner/hacktoberfest-swag-list/blob/master/docs/contributing.md) file.
+
+  You will need to locate the type of swag being offered, their requirements, and a link to their signup form (or some info on how they are tracking contributors).
+
+  Be sure to register for Hacktoberest first by [clicking here](https://hacktoberfest.com/).
+title: "Add <Organization> to the 2022 Hacktoberfest Swag List"
+labels:
+  - enhancement
+  - help wanted
+  - good first issue
+  - hacktoberfest
