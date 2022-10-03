@@ -177,6 +177,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**:
     - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank"} to find additional details or connect with Metafy's employees.
 
+#### **Mattermost**
+
+- **Swag**: Mug and T-shirts
+- **Requirement**:
+    - Register on the [Hactoberfest Website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+    - Create a new, unique App during October, and submit it as your Hacktoberfest contribution.
+    - Submissions will be reviewed by our team and ranked according to two simple criteria:
+        - The ability to demonstrate a solution to an important use case or common problem. Use images, gifs, and videos to show off your App.
+        - Clear documentation that shows how to install, configure, and use your App; this is the only way we can fully evaluate your contribution. We recommend following the Standard [Readme Format](https://github.com/RichardLitt/standard-readme){:target="\_blank"}.
+- **Notes**:
+    - Join [Mattermost's Community Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank"} to find additional details or connect with Mattermost's employees.
+
 ### N
 
 #### **Novu**
