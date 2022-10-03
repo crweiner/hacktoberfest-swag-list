@@ -149,7 +149,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"}
 - **Notes**: Checkout the [LocalStack post](https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/){:target="\_blank"} for more info.
 
-
 ### M
 
 #### **MedusaJS**
