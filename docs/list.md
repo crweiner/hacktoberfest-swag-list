@@ -150,14 +150,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - After they have merged your pull request(s), you can claim your swag.
 - **Notes**: More details for the Hackathon prizes and Hacktoberfest details [are here](https://medusajs.com/blog/medusa-hackathon){:target="\_blank"}.
 
-#### **Meilisearch**
+#### **MindsDB**
 
-- **Swag**: Reusable Bottles, Stickers (possibly? Awaiting updated swag for 2022.)
+- **Swag**: Razer Blade 15 Laptop, T-shirt, cool audio gadgets, and a cash prize.
 - **Requirements**:
-    - Submit 1 or more pull requests to qualify as a contributor. Check out the [Contributing Guidelines](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md){:target="\_blank"} for more details.
-- **How to sign up**: Join the [Slack community](https://www.notion.so/6cd1509802984122ab74745f637b694f){:target="\_blank"} and the [#hacktoberfest channel](https://meilicommunity.slack.com/archives/C02G1H43J2X){:target="\_blank"} to connect with Meilisearch employees and for any queries.
-- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues){:target="\_blank"}.
-- **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/){:target="\_blank"} for more info.
+    - For every 10 points, you will receive one entry into the draw for the awesome Razer Blade 15 Laptop powered by the top NVIDIA GeForce RTX 3080 Ti GPU, 14-core Intel i9 CPU and more. You can also win one of the 10 gadgets of your choice: JBL Earbuds or Rugged Outdoor Speaker.
+    - Entries will close at midnight (PST) Monday, 31st of October with the winner announced on the first week of November.
+    - To participate, you need to have your GitHub PRs merged and complete the form with your details.
+    - Share a well-described idea of a new MindsDB integration. The authors of top upvoted ideas will get a T-shirt, cool audio gadgets, and a cash prize:
+        - 1st place: $500
+        - 2nd place: $300
+        - 3rd place: $200
+    - Authors of the top 3 upvoted ideas and top 3 video tutorials or winners of the prize draw, will get the gadget they like – either JBL Wireless Earbuds or Rugged Outdoor Speaker.
+- **How to sign up**: Please complete the form below to participate in the prize draw. You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [The form can be found here](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
+- **Notes**: Check out their [Hacktoberfest webpage](https://mindsdb.com/hacktoberfest/) for more info about earning points.
 
 ### P
 
