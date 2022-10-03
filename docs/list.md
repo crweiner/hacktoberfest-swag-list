@@ -169,7 +169,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Contribute with PR/MRs to Metafy's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
     - The Metafy team will review your PRs constantly and give you feedback.
 - **Notes**:
-    - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank") to find additional details or connect with Metafy's employees.
+    - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank"} to find additional details or connect with Metafy's employees.
 
 ### P
 
