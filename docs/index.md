@@ -21,8 +21,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ---
 
-## [Click here to be taken to the 2022 Hacktoberfest Swag List!](list.md)
-
 ## What is the Hacktoberfest Swag List?
 
 This site and [GitHub repo](https://github.com/crweiner/hacktoberfest-swag-list){:target="\_blank"} are here to showcase all of the amazing companies that go above and beyond by offering their own swag for the holiday. **The goal of this project is to connect contributors to open-source projects that they might not have heard about before and drive traffic towards organizations that celebrate Hacktoberfest and can use a little more help.**
