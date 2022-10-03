@@ -124,7 +124,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 #### **Bagisto**
 
 - **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
-- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bigisto repo.
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bagisto repo.
 - **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) for more details.
 - **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)
 - **Notes**:
@@ -954,7 +954,7 @@ See [**Contributing.md**](./CONTRIBUTING.md) to see how to format your pull requ
 
 #### **Bagisto** (t-shirt, stickers, notebook, pen, and elephant)
 
-- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bigisto repo.
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto) during the month of October and have 4 merged PRs to the Bagisto repo.
 - **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
 - **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2021/) for more details.
 - **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest)

@@ -65,11 +65,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Bagisto**
 
 - **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
-- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto){:target="\_blank"} during the month of October and have 4 merged PRs to the Bigisto repo.
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto){:target="\_blank"} during the month of October and have 4 merged PRs to the Bagisto repo.
 - **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2022/){:target="\_blank"} for more details.
 - **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest){:target="\_blank"}
 - **Notes**:
-    - For the PR to count for Bigisto's unique swag, it must be accepted, marked with the `Hacktoberfest` label, and they have added a difficulty level.
+    - For the PR to count for Bagisto's unique swag, it must be accepted, marked with the `Hacktoberfest` label, and they have added a difficulty level.
     - Read the [blog post for more info](https://webkul.com/meetups/hacktober-fest-bagisto-2022/){:target="\_blank"}.
 
 ### C
