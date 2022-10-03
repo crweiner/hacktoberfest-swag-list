@@ -84,6 +84,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 
+#### **Clueless Community**
+
+- **Swag**: T-shirt
+- **Requirements**:
+    - Signup on [Clueless Community](https://www.clueless.tech/hacktoberfest) Otherwise you will not get a rank.
+    - Create a pull request during the month of October.
+    - The PRs must receive the `hacktoberfest-accepted` tag.
+- **How to sign up**: Sign up [here](https://www.clueless.tech/hacktoberfest)
+- **Notes**: Top contributors will get t-shirts and amazing swags by ClueLess apart from hacktoberfest swags. All participants will get their participation certificate.
+
 ### D
 
 #### **devICT**
