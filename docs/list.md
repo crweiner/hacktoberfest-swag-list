@@ -165,14 +165,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: T-shirt, Sticker Pack.
 - **Requirements**:
-    - Submit 3 pull requests to the [Novu repository](https://github.com/novuhq/novu) and get it merged to receive the Special Novu swag pack.
+    - Submit 3 pull requests to the [Novu repository](https://github.com/novuhq/novu){:target="\_blank"} and get them merged to receive the Special Novu swag pack.
 - **How to sign up**:
     - No Special Sign-ups required.
-    - You can simply visit their repository [here](https://github.com/novuhq/novu) and pick up any available issue to submit a PR.
+    - You can simply visit their repository [here](https://github.com/novuhq/novu){:target="\_blank"} and pick up any available issue to submit a PR.
     - The Novu team will review the pull request and let you know if any changes are needed.
-    - After they have merged your 3 pull requests, you will be contacted over a Github discussion thread to claim your swag.
-- **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/novuhq/novu/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
-- **Notes**: More details for the prizes [are here](https://twitter.com/novuhq/status/1576536573436637186). Also, you can join the official Novu Hacktoberfest kickoff on 3rd October 2022 by joining [here](https://discord.gg/K747c2mb?event=1025547200559861810). Join their [discord](https://discord.gg/novu) if you have any further queries.
+    - After they have merged your 3 pull requests, you will be contacted over a GitHub discussion thread to claim your swag.
+- **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/novuhq/novu/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest){:target="\_blank"}.
+- **Notes**: More details for the prizes [are here](https://twitter.com/novuhq/status/1576536573436637186){:target="\_blank"}. Also, you can join the official Novu Hacktoberfest kickoff on 3rd October 2022 by joining [here](https://discord.gg/K747c2mb?event=1025547200559861810){:target="\_blank"}. Join their [Discord](https://discord.gg/novu){:target="\_blank"} if you have any further queries.
 
 ### P
 
