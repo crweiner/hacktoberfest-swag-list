@@ -189,6 +189,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st.
 - **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md){:target="\_blank"}
 
+### Q
+
+#### **QuestDB**
+
+- **Swag**: Stickers, QuestDB t-shirt
+- **Requirements**:
+    - Submit 1 pull request to any participating QuestDB repo to receive stickers and a QuestDB t-shirt
+- **How to sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+    - Make a contribution to the [QuestDB](https://github.com/questdb/questdb), [Documentation](https://github.com/questdb/questdb.io), or [Web console](https://github.com/questdb/ui/tree/main/packages/web-console) repos
+- **Notes**: More details [on the QuestDB blog here](https://questdb.io/blog/2022/09/30/hacktoberfest-questdb/){:target="\_blank"}
+
 ### T
 
 #### **ToolJet**
