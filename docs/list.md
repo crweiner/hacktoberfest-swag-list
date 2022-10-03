@@ -150,6 +150,27 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - After they have merged your pull request(s), you can claim your swag.
 - **Notes**: More details for the Hackathon prizes and Hacktoberfest details [are here](https://medusajs.com/blog/medusa-hackathon){:target="\_blank"}.
 
+#### **Meilisearch**
+
+- **Swag**: Reusable Bottles, Stickers (possibly? Awaiting updated swag for 2022.)
+- **Requirements**:
+    - Submit 1 or more pull requests to qualify as a contributor. Check out the [Contributing Guidelines](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md) for more details.
+- **How to sign up**: Join the [Slack community](https://www.notion.so/6cd1509802984122ab74745f637b694f) and the [#hacktoberfest channel](https://meilicommunity.slack.com/archives/C02G1H43J2X) to connect with Meilisearch employees and for any queries.
+- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues).
+- **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) for more info.
+
+#### **Metafy**
+
+- **Swag**: NFT and T-shirts
+- **Requirements**:
+    - Submit one or more pull requests to Metafy's repositories with the `hacktoberfest` label to qualify as a contributor. Top contributors will get their very own NFT and T-shirts from Metafy. Check out the [Documentation on their GitHub README File](https://github.com/metafy-social/.github/blob/main/profile/README.md){:target="\_blank"} for more details.
+- **How to Sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+    - Contribute with PR/MRs to Metafy's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
+    - The Metafy team will review your PRs constantly and give you feedback.
+- **Notes**:
+    - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank"} to find additional details or connect with Metafy's employees.
+
 #### **MindsDB**
 
 - **Swag**: Razer Blade 15 Laptop, T-shirt, cool audio gadgets, and a cash prize.
@@ -164,18 +185,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Authors of the top 3 upvoted ideas and top 3 video tutorials or winners of the prize draw, will get the gadget they like – either JBL Wireless Earbuds or Rugged Outdoor Speaker.
 - **How to sign up**: Please complete the form below to participate in the prize draw. You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [The form can be found here](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
 - **Notes**: Check out their [Hacktoberfest webpage](https://mindsdb.com/hacktoberfest/) for more info about earning points.
-
-#### **Metafy**
-
-- **Swag**: NFT and T-shirts
-- **Requirements**:
-    - Submit one or more pull requests to Metafy's repositories with the `hacktoberfest` label to qualify as a contributor. Top contributors will get their very own NFT and T-shirts from Metafy. Check out the [Documentation on their GitHub README File](https://github.com/metafy-social/.github/blob/main/profile/README.md){:target="\_blank"} for more details.
-- **How to Sign up**:
-    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
-    - Contribute with PR/MRs to Metafy's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
-    - The Metafy team will review your PRs constantly and give you feedback.
-- **Notes**:
-    - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank"} to find additional details or connect with Metafy's employees.
 
 ### N
 
