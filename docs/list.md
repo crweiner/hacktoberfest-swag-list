@@ -130,7 +130,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Submit 4 to 2 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a Flutter mug, T-shirt, stickers pack.
     - Submit 1 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a T-shirt, stickers pack.
 - **How to sign up**: Click the ["Sign up with Github" button here](https://invertase.io/community/hacktoberfest){:target="\_blank"} before you start with the challenges on or before Oct. 31, 2022.
-- **Issues**: See the hist of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues){:target="\_blank"}.
+- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues){:target="\_blank"}.
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest){:target="\_blank"} for more info.
 
 ### M
