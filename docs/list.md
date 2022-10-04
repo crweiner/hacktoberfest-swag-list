@@ -291,6 +291,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
 - **Notes**: More details [on their Hacktoberfest page here](https://spacejelly.dev/hacktoberfest/){:target="\_blank"}.
 
+#### **Steampipe**
+
+- **Swag**: Stickers, t-shirt
+- **Requirements**:
+    - 1 Non-code contribution for a Steampipe Hacktoberfest sticker.
+    - 1 Low-code contribution for a next-level Steampipe Hacktoberfest sticker.
+    - 1 High-code contribution for a Steampipe Hacktoberfest t-shirt.
+    - 1 Advanced high-code contribution for a next-level Steampipe Hacktoberfest t-shirt.
+- **How to sign up**:
+    - No Special Sign-ups required.
+    - You can simply visit their repository [here](https://github.com/turbot/steampipe) and pick up any available issue to submit a PR.
+    - The Steampipe team will review the pull request and let you know if any changes are needed.
+- **Notes**: For more details [their Hacktoberfest page ](https://steampipe.io/blog/hacktoberfest-2022)
+
 ### T
 
 #### **ToolJet**
