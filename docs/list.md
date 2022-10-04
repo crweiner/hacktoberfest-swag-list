@@ -37,6 +37,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+
+#### **Amplication**
+
+- **Swag**: Limited edition Amplication T-Shirt, Coffee Mug, Sticker Sheet.
+- **Requirements**:
+    - 1-2 Contributions : The Amplication Exclusive Sticker Sheet
+    - 3 or more Contributions: A choice between Amplication Exclusice Coffee Mug/T-Shirt
+- **How to sign up**: Checkout the [Amplication Hacktoberfest Guidelines](https://github.com/amplication/amplication/issues/4039)
+- **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)
+- **Note**: We also have non and low code issues open for the community.
+
 #### **Appwrite**
 
 - **Swag**: Limited edition Appwrite Hacktoberfest T-shirt, Original Appwrite sticker pack, Socks
@@ -50,15 +61,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=issues&s=updated&o=asc){:target="\_blank"}.
 - **Notes**: Read the [blog post](https://appwrite.io/hacktoberfest){:target="\_blank"} for more info.
 
-### **Amplication**
-
-- **Swag**: Limited edition Amplication T-Shirt, Coffee Mug, Sticker Sheet.
-- **Requirements**:
-    - 1-2 Contributions : The Amplication Exclusive Sticker Sheet
-    - 3 or more Contributions: A choice between Amplication Exclusice Coffee Mug/T-Shirt
-- **How to sign up**: Checkout the [Amplication Hacktoberfest Guidelines](https://github.com/amplication/amplication/issues/4039)
-- **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)
-- **Note**: We also have non and low code issues open for the community.
 
 #### **Aviyel**
 
@@ -159,6 +161,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - The Medusa team will review the pull request and let you know if additional work is needed.
     - After they have merged your pull request(s), you can claim your swag.
 - **Notes**: More details for the Hackathon prizes and Hacktoberfest details [are here](https://medusajs.com/blog/medusa-hackathon){:target="\_blank"}.
+
+#### **Meilisearch**
+
+- **Swag**: Reusable Bottles, Stickers (possibly? Awaiting updated swag for 2022.)
+- **Requirements**:
+    - Submit 1 or more pull requests to qualify as a contributor. Check out the [Contributing Guidelines](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md) for more details.
+- **How to sign up**: Join the [Slack community](https://www.notion.so/6cd1509802984122ab74745f637b694f) and the [#hacktoberfest channel](https://meilicommunity.slack.com/archives/C02G1H43J2X) to connect with Meilisearch employees and for any queries.
+- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues).
+- **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) for more info.
 
 #### **MindsDB**
 
