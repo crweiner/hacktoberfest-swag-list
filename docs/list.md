@@ -41,10 +41,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Limited edition Amplication T-Shirt, Coffee Mug, Sticker Sheet.
 - **Requirements**:
-    - 1-2 Contributions : The Amplication Exclusive Sticker Sheet
-    - 3 or more Contributions: A choice between Amplication Exclusice Coffee Mug/T-Shirt
-- **How to sign up**: Checkout the [Amplication Hacktoberfest Guidelines](https://github.com/amplication/amplication/issues/4039)
-- **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)
+    - 1-2 Contributions : The Amplication Exclusive Sticker Sheet/
+    - 3 or more Contributions: A choice between Amplication Exclusice Coffee Mug/T-Shirt/
+- **How to sign up**: Checkout the [Amplication Hacktoberfest Guidelines](https://github.com/amplication/amplication/issues/4039)/
+- **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)/
 - **Note**: We also have non and low code issues open for the community.
 
 #### **Appwrite**
