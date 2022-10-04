@@ -128,11 +128,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### Speckle
 
 - **Swag**: Speckle swag(stickers)
-- **Requirements**: 
-    - Get 4 pull requests accepted in any of the Speckle repositories.
-- **How to sign up**: No special sign-ups requires.
-- **Issues**: Find all Speckle repos [here](https://github.com/orgs/specklesystems/projects/14/views/1)
-- **Notes**: More details can be found here [Speckle](https://speckle.community/t/hacktoberfest-2022-with-speckle/3641)
+- **Requirements**: Get 4 pull requests accepted in any of the Speckle repositories.
+- **How to sign up**: No special sign-ups required.
+- **Issues**: Find all Speckle repos [in this Hacktoberfest GitHub project view here](https://github.com/orgs/specklesystems/projects/14/views/1)
+- **Notes**: More details can be found in [this blog post](https://speckle.community/t/hacktoberfest-2022-with-speckle/3641)
 
 ### U
 
