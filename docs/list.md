@@ -303,7 +303,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - No Special Sign-ups required.
     - You can simply visit their repository [here](https://github.com/turbot/steampipe) and pick up any available issue to submit a PR.
     - The Steampipe team will review the pull request and let you know if any changes are needed.
-- **Notes**: For more details [their Hacktoberfest page ](https://steampipe.io/blog/hacktoberfest-2022)
+- **Notes**: For more details [their Hacktoberfest page](https://steampipe.io/blog/hacktoberfest-2022)
 
 ### T
 
