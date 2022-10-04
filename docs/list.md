@@ -37,7 +37,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
-
 #### **Amplication**
 
 - **Swag**: Limited edition Amplication T-Shirt, Coffee Mug, Sticker Sheet.
@@ -60,7 +59,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Check out the [Appwrite website](https://hacktoberfest.appwrite.io/){:target="\_blank"} for more details.
 - **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=issues&s=updated&o=asc){:target="\_blank"}.
 - **Notes**: Read the [blog post](https://appwrite.io/hacktoberfest){:target="\_blank"} for more info.
-
 
 #### **Aviyel**
 
