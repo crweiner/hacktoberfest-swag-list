@@ -84,6 +84,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 
+
+#### **Codedamn**
+
+- **Swag**: T-shirt
+- **Requirements**: During Hacktoberfest, submit an interactive project to codedamn/projects repository
+- **How to sign up**:  [codedamn/projects](https://github.com/codedamn/projects#readme)
+- **Notes**: In order to participate and win prizes, you have to submit a guided project. A guided project is a breakdown of a project into multiple steps for a beginner/intermediate developer to build. These guided projects can be attempted for free from codedamn IDE.
+
 ### D
 
 #### **devICT**
