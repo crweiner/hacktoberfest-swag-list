@@ -146,7 +146,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Browse the issues that are labeled `#hacktoberfest` in their repos and find an issue to tackle.
     - The Mattermost team will review the pull request and let you know if additional work is needed.
     - After they have merged your pull request(s), you can claim your swag.
-- **Notes**: More details for the Hackathon prizes and Hacktoberfest details [are here](https://mattermost.com/blog/hacktoberfest-2022/){:target="\_blank"}.
+- **Notes**: More details for the Hackathon prizes and Hacktoberfest details [are on their blog here](https://mattermost.com/blog/hacktoberfest-2022/){:target="\_blank"} and their  [Hacktoberfest landing page here](https://mattermost.com/hacktoberfest/).{:target="\_blank"}
 
 #### **MedusaJS**
 
