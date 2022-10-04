@@ -237,11 +237,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Space Jelly Sticker Pack, Cloudinary Sticker Pack, Cloudinary Plush Unicorn
 - **Requirements**:
-    - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack in the [Next.js WordPress Starter Repo](https://github.com/colbyfayock/next-wordpress-starter){:target="\_blank"}
-    - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack, Cloudinary Sticker Pack, and Cloudinary Plush Unicorn in the [Cloudinary Next.js Image Component repo](https://github.com/colbyfayock/next-cloudinary){:target="\_blank"} OR [Cloudinary Netlify Plugin Repo](https://github.com/colbyfayock/netlify-plugin-cloudinary){:target="\_blank"}
+    - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack in the [Next.js WordPress Starter Repo](https://github.com/colbyfayock/next-wordpress-starter){:target="\_blank"}.
+    - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack, Cloudinary Sticker Pack, and Cloudinary Plush Unicorn in the [Cloudinary Next.js Image Component repo](https://github.com/colbyfayock/next-cloudinary){:target="\_blank"} OR [Cloudinary Netlify Plugin Repo](https://github.com/colbyfayock/netlify-plugin-cloudinary){:target="\_blank"}.
 - **How to sign up**:
     - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
-- **Notes**: More details [on their Hacktoberfest page here](https://spacejelly.dev/hacktoberfest/){:target="\_blank"}
+- **Notes**: More details [on their Hacktoberfest page here](https://spacejelly.dev/hacktoberfest/){:target="\_blank"}.
 
 ### T
 
