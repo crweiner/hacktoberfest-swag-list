@@ -135,6 +135,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### M
 
+#### **Mattermost**
+
+- **Swag**: Stickers, t-shirt, mug.
+- **Requirements**:
+    - Everyone who makes one or more contributions to the Mattermost community during Hacktoberfest will receive a pack of custom Mattermost stickers.
+    - They will select top contributors to receive a custom Mattermost t-shirt and mug.
+- **How to sign up**:
+    - Review the [issues here](https://github.com/search?q=org%3Amattermost+type%3Aissues+label%3A%22help+wanted%22&state=open&type=Issues){:target="\_blank"}.
+    - Browse the issues that are labeled `#hacktoberfest` in their repos and find an issue to tackle.
+    - The Mattermost team will review the pull request and let you know if additional work is needed.
+    - After they have merged your pull request(s), you can claim your swag.
+- **Notes**: More details for the Hackathon prizes and Hacktoberfest details [are on their blog here](https://mattermost.com/blog/hacktoberfest-2022/){:target="\_blank"} and their  [Hacktoberfest landing page here](https://mattermost.com/hacktoberfest/){:target="\_blank"}.
+
 #### **MedusaJS**
 
 - **Swag**: Stickers, t-shirt, water bottle, hoodie.
