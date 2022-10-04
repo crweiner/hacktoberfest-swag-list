@@ -140,7 +140,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: Stickers, t-shirt, mug.
 - **Requirements**:
     - Everyone who makes one or more contributions to the Mattermost community during Hacktoberfest will receive a pack of custom Mattermost stickers.
-    - They will select top contributors to receive a custom Mattermost t-shirt and mug
+    - They will select top contributors to receive a custom Mattermost t-shirt and mug.
 - **How to sign up**:
     - Review the [issues here](https://github.com/search?q=org%3Amattermost+type%3Aissues+label%3A%22help+wanted%22&state=open&type=Issues){:target="\_blank"}.
     - Browse the issues that are labeled `#hacktoberfest` in their repos and find an issue to tackle.
