@@ -93,6 +93,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign in with [Github here](https://devict-hacktoberfest.herokuapp.com/){:target="\_blank"} so they can track your PRs.
 - **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/){:target="\_blank"}
 
+#### **DagsHub**
+
+- **Swag**: Individual swags like t-shirt, stickers, or a full swag bundle, depending on the number of PRs. 
+- **Requirements**: Contribute to one of the following (or both):
+     - Challenge 1: [Papers With Everything](https://github.com/DagsHub/papers-with-everything).
+     - Challenge 2: [3D Model Datasets](https://discord.gg/6SsqDCUVeq).
+- **How to sign up**: Sign up to [DagsHub](https://dagshub.com/user/sign_up?redirect_to=). Also, join their [Hacktoberfest Discord Channel](https://discord.gg/6SsqDCUVeq).
+- **Issues**: List of issues for contributing to:
+    - [Papers With Everything](https://github.com/DagsHub/papers-with-everything/issues).
+    - [3D Model Datasets](https://github.com/DagsHub/3D-model-datasets/issues).
+- **Notes**: Additional info regarding the contributions can be found [here](https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/).
+
 ### F
 
 #### **Flyte**
