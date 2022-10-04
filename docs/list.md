@@ -133,6 +133,22 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues){:target="\_blank"}.
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest){:target="\_blank"} for more info.
 
+### L
+
+#### LocalStack
+
+- **Swag**: Depending on how many contributions you make, you can get:
+    - T-Shirt (4 Contributions)
+    - T-Shirt + $25 Amazon gift-card (10 Contributions)
+    - Gift Box + $50 Amazon gift-card (Best Contribution)
+- **Requirements**: Following regular Hacktoberfest rules:
+    - Register on the Hacktoberfest website
+    - Find a project with the Hacktoberfest tag
+    - Contribute to the project by following the Hacktoberfest tag between Oct. 1 and Oct. 30
+    - Follow-up if needed with maintainers about pull requests to make sure they are merged before Oct.30
+- **How to sign up**: Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"}
+- **Notes**: Checkout the [LocalStack post](https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/){:target="\_blank"} for more info.
+
 ### M
 
 #### **Mattermost**
