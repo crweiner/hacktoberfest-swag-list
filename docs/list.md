@@ -194,11 +194,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **QuestDB**
 
 - **Swag**: Stickers, QuestDB t-shirt
-- **Requirements**:
-    - Submit 1 pull request to any participating QuestDB repo to receive stickers and a QuestDB t-shirt
+- **Requirements**: Submit 1 pull request to any participating QuestDB repo to receive stickers and a QuestDB t-shirt
 - **How to sign up**:
     - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
-    - Make a contribution to the [QuestDB](https://github.com/questdb/questdb), [Documentation](https://github.com/questdb/questdb.io), or [Web console](https://github.com/questdb/ui/tree/main/packages/web-console) repos
+    - Make a contribution to the [QuestDB](https://github.com/questdb/questdb){:target="\_blank"}, [Documentation](https://github.com/questdb/questdb.io){:target="\_blank"}, or [Web console](https://github.com/questdb/ui/tree/main/packages/web-console){:target="\_blank"} repos
 - **Notes**: More details [on the QuestDB blog here](https://questdb.io/blog/2022/09/30/hacktoberfest-questdb/){:target="\_blank"}
 
 ### T
