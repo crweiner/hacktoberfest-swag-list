@@ -108,9 +108,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Encore**
 
 - **Swag**: A pack of 12 Encore stickers
-- **Requirements**: Build an app with Encore, tweet your Encore Flow diagram, or contribute to [encoredev/encore](https://github.com/encoredev/encore)
-- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start] to build your first Encore app and once you're done post it in our [Show & Tell](https://encore.dev/docs/quick-start)!
-- **Notes**: [See the Hacktoberfest blog post and weekly Community Office Hours every Friday](https://community.encore.dev/t/our-new-office-hours-to-kick-off-hacktoberfest/66)
+- **Requirements**: Build an app with Encore, tweet your Encore Flow diagram, or contribute to [encoredev/encore](https://github.com/encoredev/encore){:target="\_blank"}
+- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues){:target="\_blank"}, or check out the [Quick Start](https://encore.dev/docs/quick-start){:target="\_blank"} to build your first Encore app and once you're done post it in our Show & Tell!
+- **Notes**: [See the Hacktoberfest blog post and weekly Community Office Hours every Friday](https://community.encore.dev/t/our-new-office-hours-to-kick-off-hacktoberfest/66){:target="\_blank"}
 
 ### F
 
