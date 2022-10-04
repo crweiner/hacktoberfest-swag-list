@@ -94,13 +94,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/){:target="\_blank"}
 
 #### **DagsHub**
+
 - **Swags**: Depend upon number of contribution make. Swags include T-shits, goodies, stickers and many-more.
-- **Requirement**:  
+- **Requirement**:
     - Submit 2 pull request to get atleast one swag.
     - Submit 10 pull request to get **swag kit**.
-- **How to signup** : Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"}  
+- **How to signup** : Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"}
 - **Note** : For more information, check out [their site](https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/){:target="\_blank"} and join [Discord](https://discord.com/invite/6SsqDCUVeq){:target="\_blank"} for support.
-
 
 ### F
 
