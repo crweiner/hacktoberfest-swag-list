@@ -65,11 +65,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Bagisto**
 
 - **Swag**: T-Shirt, Stickers, Notebook, Pen, and Bagisto Elephant
-- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto){:target="\_blank"} during the month of October and have 4 merged PRs to the Bigisto repo.
+- **Requirements**: Contribute to [Bagisto](https://github.com/bagisto/bagisto){:target="\_blank"} during the month of October and have 4 merged PRs to the Bagisto repo.
 - **How to sign up**: Check out the [Bagisto website](https://webkul.com/meetups/hacktober-fest-bagisto-2022/){:target="\_blank"} for more details.
 - **Issues**: [Hacktoberfest Labelled Issues](https://github.com/bagisto/bagisto/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest){:target="\_blank"}
 - **Notes**:
-    - For the PR to count for Bigisto's unique swag, it must be accepted, marked with the `Hacktoberfest` label, and they have added a difficulty level.
+    - For the PR to count for Bagisto's unique swag, it must be accepted, marked with the `Hacktoberfest` label, and they have added a difficulty level.
     - Read the [blog post for more info](https://webkul.com/meetups/hacktober-fest-bagisto-2022/){:target="\_blank"}.
 
 ### C
@@ -130,10 +130,39 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Submit 4 to 2 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a Flutter mug, T-shirt, stickers pack.
     - Submit 1 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a T-shirt, stickers pack.
 - **How to sign up**: Click the ["Sign up with Github" button here](https://invertase.io/community/hacktoberfest){:target="\_blank"} before you start with the challenges on or before Oct. 31, 2022.
-- **Issues**: See the hist of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues){:target="\_blank"}.
+- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues){:target="\_blank"}.
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest){:target="\_blank"} for more info.
 
+### L
+
+#### LocalStack
+
+- **Swag**: Depending on how many contributions you make, you can get:
+    - T-Shirt (4 Contributions)
+    - T-Shirt + $25 Amazon gift-card (10 Contributions)
+    - Gift Box + $50 Amazon gift-card (Best Contribution)
+- **Requirements**: Following regular Hacktoberfest rules:
+    - Register on the Hacktoberfest website
+    - Find a project with the Hacktoberfest tag
+    - Contribute to the project by following the Hacktoberfest tag between Oct. 1 and Oct. 30
+    - Follow-up if needed with maintainers about pull requests to make sure they are merged before Oct.30
+- **How to sign up**: Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"}
+- **Notes**: Checkout the [LocalStack post](https://localstack.cloud/blog/2022-10-01-contribute-to-open-source-with-localstack-hacktoberfest/){:target="\_blank"} for more info.
+
 ### M
+
+#### **Mattermost**
+
+- **Swag**: Stickers, t-shirt, mug.
+- **Requirements**:
+    - Everyone who makes one or more contributions to the Mattermost community during Hacktoberfest will receive a pack of custom Mattermost stickers.
+    - They will select top contributors to receive a custom Mattermost t-shirt and mug.
+- **How to sign up**:
+    - Review the [issues here](https://github.com/search?q=org%3Amattermost+type%3Aissues+label%3A%22help+wanted%22&state=open&type=Issues){:target="\_blank"}.
+    - Browse the issues that are labeled `#hacktoberfest` in their repos and find an issue to tackle.
+    - The Mattermost team will review the pull request and let you know if additional work is needed.
+    - After they have merged your pull request(s), you can claim your swag.
+- **Notes**: More details for the Hackathon prizes and Hacktoberfest details [are on their blog here](https://mattermost.com/blog/hacktoberfest-2022/){:target="\_blank"} and their  [Hacktoberfest landing page here](https://mattermost.com/hacktoberfest/){:target="\_blank"}.
 
 #### **MedusaJS**
 
@@ -154,10 +183,52 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Reusable Bottles, Stickers (possibly? Awaiting updated swag for 2022.)
 - **Requirements**:
-    - Submit 1 or more pull requests to qualify as a contributor. Check out the [Contributing Guidelines](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md){:target="\_blank"} for more details.
-- **How to sign up**: Join the [Slack community](https://www.notion.so/6cd1509802984122ab74745f637b694f){:target="\_blank"} and the [#hacktoberfest channel](https://meilicommunity.slack.com/archives/C02G1H43J2X){:target="\_blank"} to connect with Meilisearch employees and for any queries.
-- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues){:target="\_blank"}.
-- **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/){:target="\_blank"} for more info.
+    - Submit 1 or more pull requests to qualify as a contributor. Check out the [Contributing Guidelines](https://github.com/meilisearch/.github/blob/main/Hacktoberfest_2022_contributors_guidelines.md) for more details.
+- **How to sign up**: Join the [Slack community](https://www.notion.so/6cd1509802984122ab74745f637b694f) and the [#hacktoberfest channel](https://meilicommunity.slack.com/archives/C02G1H43J2X) to connect with Meilisearch employees and for any queries.
+- **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues).
+- **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) for more info.
+
+#### **Metafy**
+
+- **Swag**: NFT and T-shirts
+- **Requirements**:
+    - Submit one or more pull requests to Metafy's repositories with the `hacktoberfest` label to qualify as a contributor. Top contributors will get their very own NFT and T-shirts from Metafy. Check out the [Documentation on their GitHub README File](https://github.com/metafy-social/.github/blob/main/profile/README.md){:target="\_blank"} for more details.
+- **How to Sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+    - Contribute with PR/MRs to Metafy's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
+    - The Metafy team will review your PRs constantly and give you feedback.
+- **Notes**:
+    - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank"} to find additional details or connect with Metafy's employees.
+
+#### **MindsDB**
+
+- **Swag**: Razer Blade 15 Laptop, T-shirt, cool audio gadgets, and a cash prize.
+- **Requirements**:
+    - For every 10 points, you will receive one entry into the draw for the awesome Razer Blade 15 Laptop powered by the top NVIDIA GeForce RTX 3080 Ti GPU, 14-core Intel i9 CPU and more. You can also win one of the 10 gadgets of your choice: JBL Earbuds or Rugged Outdoor Speaker.
+    - Entries will close at midnight (PST) Monday, 31st of October with the winner announced on the first week of November.
+    - To participate, you need to have your GitHub PRs merged and complete the form with your details.
+    - Share a well-described idea of a new MindsDB integration. The authors of top upvoted ideas will get a T-shirt, cool audio gadgets, and a cash prize:
+        - 1st place: $500
+        - 2nd place: $300
+        - 3rd place: $200
+    - Authors of the top 3 upvoted ideas and top 3 video tutorials or winners of the prize draw, will get the gadget they like – either JBL Wireless Earbuds or Rugged Outdoor Speaker.
+- **How to sign up**: Please complete the form below to participate in the prize draw. You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [The form can be found here](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
+- **Notes**: Check out their [Hacktoberfest webpage](https://mindsdb.com/hacktoberfest/) for more info about earning points.
+
+### N
+
+#### **Novu**
+
+- **Swag**: T-shirt, Sticker Pack.
+- **Requirements**:
+    - Submit 3 pull requests to the [Novu repository](https://github.com/novuhq/novu){:target="\_blank"} and get them merged to receive the Special Novu swag pack.
+- **How to sign up**:
+    - No Special Sign-ups required.
+    - You can simply visit their repository [here](https://github.com/novuhq/novu){:target="\_blank"} and pick up any available issue to submit a PR.
+    - The Novu team will review the pull request and let you know if any changes are needed.
+    - After they have merged your 3 pull requests, you will be contacted over a GitHub discussion thread to claim your swag.
+- **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/novuhq/novu/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest){:target="\_blank"}.
+- **Notes**: More details for the prizes [are here](https://twitter.com/novuhq/status/1576536573436637186){:target="\_blank"}. Also, you can join the official Novu Hacktoberfest kickoff on 3rd October 2022 by joining [here](https://discord.gg/K747c2mb?event=1025547200559861810){:target="\_blank"}. Join their [Discord](https://discord.gg/novu){:target="\_blank"} if you have any further queries.
 
 ### P
 
@@ -189,8 +260,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st.
 - **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md){:target="\_blank"}
 
-
 ### S
+
+#### **Space Jelly and Cloudinary**
+
+- **Swag**: Space Jelly Sticker Pack, Cloudinary Sticker Pack, Cloudinary Plush Unicorn
+- **Requirements**:
+    - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack in the [Next.js WordPress Starter Repo](https://github.com/colbyfayock/next-wordpress-starter){:target="\_blank"}.
+    - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack, Cloudinary Sticker Pack, and Cloudinary Plush Unicorn in the [Cloudinary Next.js Image Component repo](https://github.com/colbyfayock/next-cloudinary){:target="\_blank"} OR [Cloudinary Netlify Plugin Repo](https://github.com/colbyfayock/netlify-plugin-cloudinary){:target="\_blank"}.
+- **How to sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+- **Notes**: More details [on their Hacktoberfest page here](https://spacejelly.dev/hacktoberfest/){:target="\_blank"}.
 
 #### **Speckle**
 
@@ -205,7 +285,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**:
     - Checkout [this blog post](https://speckle.community/t/hacktoberfest-2022-with-speckle/3641){:target="\_blank"}.
     
-
 ### T
 
 #### **ToolJet**
