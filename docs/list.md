@@ -97,9 +97,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swags**: Depend upon number of contribution make. Swags include T-shits, goodies, stickers and many-more.
 - **Requirement**:
+    - Contribute to one of the folowing(or all):
+      - Challenge 1: [Papers With Everything](https://github.com/DagsHub/papers-with-everything).
+      - Challenge 2: [3D Model Datasets](https://discord.gg/6SsqDCUVeq).
     - Submit 2 pull request to get atleast one swag.
     - Submit 10 pull request to get **swag kit**.
-- **How to signup** : Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"}
+- **How to signup** : Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"}. Sign up to [DagsHub](https://dagshub.com/user/sign_up?redirect_to=). Also, join their [Hacktoberfest Discord Channel](https://discord.gg/6SsqDCUVeq).
+- **Issues**: List of issues for contributing to:
+    - [Papers With Everything](https://github.com/DagsHub/papers-with-everything/issues).
+    - [3D Model Datasets](https://github.com/DagsHub/3D-model-datasets/issues).
 - **Note** : For more information, check out [their site](https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/){:target="\_blank"} and join [Discord](https://discord.com/invite/6SsqDCUVeq){:target="\_blank"} for support.
 
 ### F
