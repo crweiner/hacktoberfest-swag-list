@@ -94,6 +94,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 
+#### **Chimoney**
+
+- **Swag**: Credit, t-shirt
+- **Requirements**: Contribute to [Chimoney](https://github.com/Chimoney/chimoney-community-projects){:target="\_blank"} during the month of October and have 4 merged PRs to the Chimoney repo.
+- **Notes**:
+    - You need 4 PRs merged in the Chimoney repo to get the t-shirst otherwise 1PR = 25$ credit
+
 #### **Codedamn**
 
 - **Swag**: T-shirt
