@@ -279,14 +279,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - To get points for your contribution you must open an issue on GitHub and it must be tagged Hacktoberfest with the exception of the forum answers.
     - To get credit for off platform blogs submit a link to your blog in an issue on the [opensearch-project/project-website](https://github.com/opensearch-project/project-website){:target="\_blank"} repo and ask for it to be tagged Hacktoberfest.
     - Points for contributions are distributed as follows:
-        | Contribution Type 	| Points                         	|
-        |-------------------	|--------------------------------	|
-        | Feature           	| 10                             	|
-        | Bug fix           	| 6                              	|
-        | On-Platform blog  	| 5                              	|
-        | Off-Platform blog 	| 5                              	|
-        | Docs              	| 4                              	|
-        | Forum answer      	| 3  (+2 if marked as solution)  	|
+        - Feature: 10
+        - Bug fix: 6
+        - On-Platform blog: 5
+        - Off-Platform blog: 5
+        - Docs: 4
+        - Forum answer:3  (+2 if marked as solution)
 - **How to sign up**:
     - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
     - You can simply visit one of their repositories [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue&type=repositories){:target="\_blank"} and pick up any available issue to submit a PR.
