@@ -181,7 +181,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - 1 Contribution : LambdaTest Sticker pack
     - 3 Contributions : LambdaTest T-Shirt + Sticker pack
     - 5 Contributions and more : LambdaTest T-Shirt + Sticker pack + Bottle
-- **How to sign up**: Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"}.
+- **How to sign up**: Unsure how they are tracking signups at the moment.
 - **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/LambdaTest/test-at-scale-scripts/issues){:target="\_blank"}.
 - **Notes**: Read the [blog post](https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/){:target="\_blank"} for more info.
 
