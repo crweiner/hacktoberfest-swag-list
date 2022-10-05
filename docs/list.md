@@ -105,7 +105,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **DagsHub**
 
-- **Swag**: Individual swags like t-shirt, stickers, or a full swag bundle, depending on the number of PRs. 
+- **Swag**: Individual swags like t-shirt, stickers, or a full swag bundle, depending on the number of PRs.
 - **Requirements**: Contribute to one of the following (or both):
      - Challenge 1: [Papers With Everything](https://github.com/DagsHub/papers-with-everything).
      - Challenge 2: [3D Model Datasets](https://discord.gg/6SsqDCUVeq).
