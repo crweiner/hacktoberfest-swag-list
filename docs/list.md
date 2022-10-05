@@ -188,7 +188,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### N
 
-###  **Network to Code and Nautobot**
+#### **Network to Code and Nautobot**
 
 - **Swag**: NTC & Nautobot swag including shirt(s), stickers, mugs, and more.
 - **Requirements**: There will be different prizes for each of the following groups.    
