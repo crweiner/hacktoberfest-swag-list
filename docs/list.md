@@ -336,11 +336,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Hoodie, T-shirt, eBook
 - **Requirements**:
-    - Submit 2 Quality Pull Requests for Getting Started with the Uno Platform and WinUI 3 eBook
-    - Submit 4 Quality Pull Requests for a Uno Platform T-shirt
-    - Submit 10 Quality Pull Requests for a Uno Platform Hoodie
+    - Submit 2 Quality Pull Requests for Getting Started with the Uno Platform and WinUI 3 eBook.
+    - Submit 4 Quality Pull Requests for a Uno Platform T-shirt.
+    - Submit 10 Quality Pull Requests for a Uno Platform Hoodie.
 - **How to sign up**:
-    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+    - Tackle an [open issue](https://github.com/unoplatform/uno/issues){:target="_blank"}, review the list of [documentation and code samples that need some help](https://github.com/orgs/unoplatform/projects/77/views/1){:target="_blank"}, or submit an advocacy contribution (see the blog post).
 - **Issues**:
     - List of [hacktoberfest issues](https://github.com/unoplatform/uno/labels/hacktoberfest){:target="_blank"}
     - List of [open issues](https://github.com/unoplatform/uno/issues){:target="_blank"}
