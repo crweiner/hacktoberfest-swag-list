@@ -173,6 +173,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### L
 
+#### **LambdaTest**
+
+- **Swag**: Swags like t-shirt, sticker pack and a bottle, depending on the number of PRs.
+- **Requirements**:
+    - Participants can contribute to open issues, documentation, coding, supporting others, running a project, or squashing bugs.
+    - 1 Contribution : LambdaTest Sticker pack
+    - 3 Contributions : LambdaTest T-Shirt + Sticker pack
+    - 5 Contributions and more : LambdaTest T-Shirt + Sticker pack + Bottle
+- **How to sign up**: Unsure how they are tracking signups at the moment.
+- **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/LambdaTest/test-at-scale-scripts/issues){:target="\_blank"}.
+- **Notes**: Read the [blog post](https://www.lambdatest.com/blog/celebrate-hacktoberfest-2022-with-lambdatest/){:target="\_blank"} for more info.
+
 #### LocalStack
 
 - **Swag**: Depending on how many contributions you make, you can get:
