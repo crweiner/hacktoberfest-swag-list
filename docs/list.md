@@ -37,6 +37,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+#### **Amplication**
+
+- **Swag**: Limited edition Amplication T-Shirt, Coffee Mug, Sticker Sheet.
+- **Requirements**:
+    - 1-2 Contributions : The Amplication Exclusive Sticker Sheet/
+    - 3 or more Contributions: A choice between Amplication Exclusice Coffee Mug/T-Shirt/
+- **How to sign up**: Checkout the [Amplication Hacktoberfest Guidelines](https://github.com/amplication/amplication/issues/4039)/
+- **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)/
+- **Note**: We also have non and low code issues open for the community.
+
 #### **Appwrite**
 
 - **Swag**: Limited edition Appwrite Hacktoberfest T-shirt, Original Appwrite sticker pack, Socks
@@ -84,14 +94,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 
+#### **Codedamn**
+
+- **Swag**: T-shirt
+- **Requirements**: During Hacktoberfest, submit an interactive project to [codedamn/projects repository](https://github.com/codedamn/projects){:target="\_blank"}.
+- **How to sign up**: [Please read their Readme file here very throughly](https://github.com/codedamn/projects#readme){:target="\_blank"}.
+- **Notes**: In order to participate and win prizes, you have to submit a guided project. A guided project is a breakdown of a project into multiple steps for a beginner/intermediate developer to build. These guided projects can be attempted for free from codedamn IDE.
+
 ### D
-
-#### **devICT**
-
-- **Swag**: Stickers
-- **Requirements**: Create two PRs in any of the qualifying Wichita repos
-- **How to sign up**: Sign in with [Github here](https://devict-hacktoberfest.herokuapp.com/){:target="\_blank"} so they can track your PRs.
-- **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/){:target="\_blank"}
 
 #### **DagsHub**
 
@@ -104,6 +114,22 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - [Papers With Everything](https://github.com/DagsHub/papers-with-everything/issues).
     - [3D Model Datasets](https://github.com/DagsHub/3D-model-datasets/issues).
 - **Notes**: Additional info regarding the contributions can be found [here](https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/).
+
+#### **devICT**
+
+- **Swag**: Stickers
+- **Requirements**: Create two PRs in any of the qualifying Wichita repos
+- **How to sign up**: Sign in with [Github here](https://devict-hacktoberfest.herokuapp.com/){:target="\_blank"} so they can track your PRs.
+- **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/){:target="\_blank"}
+
+### E
+
+#### **Encore**
+
+- **Swag**: A pack of 12 Encore stickers
+- **Requirements**: Build an app with Encore, tweet your Encore Flow diagram, or contribute to [encoredev/encore](https://github.com/encoredev/encore){:target="\_blank"}
+- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues){:target="\_blank"}, or check out the [Quick Start](https://encore.dev/docs/quick-start){:target="\_blank"} to build your first Encore app and once you're done post it in our Show & Tell!
+- **Notes**: [See the Hacktoberfest blog post and weekly Community Office Hours every Friday](https://community.encore.dev/t/our-new-office-hours-to-kick-off-hacktoberfest/66){:target="\_blank"}
 
 ### F
 
@@ -200,18 +226,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues).
 - **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) for more info.
 
-#### **Metafy**
-
-- **Swag**: NFT and T-shirts
-- **Requirements**:
-    - Submit one or more pull requests to Metafy's repositories with the `hacktoberfest` label to qualify as a contributor. Top contributors will get their very own NFT and T-shirts from Metafy. Check out the [Documentation on their GitHub README File](https://github.com/metafy-social/.github/blob/main/profile/README.md){:target="\_blank"} for more details.
-- **How to Sign up**:
-    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
-    - Contribute with PR/MRs to Metafy's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
-    - The Metafy team will review your PRs constantly and give you feedback.
-- **Notes**:
-    - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank"} to find additional details or connect with Metafy's employees.
-
 #### **MindsDB**
 
 - **Swag**: Razer Blade 15 Laptop, T-shirt, cool audio gadgets, and a cash prize.
@@ -226,6 +240,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Authors of the top 3 upvoted ideas and top 3 video tutorials or winners of the prize draw, will get the gadget they like – either JBL Wireless Earbuds or Rugged Outdoor Speaker.
 - **How to sign up**: Please complete the form below to participate in the prize draw. You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [The form can be found here](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
 - **Notes**: Check out their [Hacktoberfest webpage](https://mindsdb.com/hacktoberfest/) for more info about earning points.
+
+#### **Metafy**
+
+- **Swag**: NFT and T-shirts
+- **Requirements**:
+    - Submit one or more pull requests to Metafy's repositories with the `hacktoberfest` label to qualify as a contributor. Top contributors will get their very own NFT and T-shirts from Metafy. Check out the [Documentation on their GitHub README File](https://github.com/metafy-social/.github/blob/main/profile/README.md){:target="\_blank"} for more details.
+- **How to Sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+    - Contribute with PR/MRs to Metafy's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
+    - The Metafy team will review your PRs constantly and give you feedback.
+- **Notes**:
+    - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt){:target="\_blank"} to find additional details or connect with Metafy's employees.
 
 ### N
 
