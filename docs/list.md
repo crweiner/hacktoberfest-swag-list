@@ -105,15 +105,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **DagsHub**
 
-- **Swag**: Individual swags like t-shirt, stickers, or a full swag bundle, depending on the number of PRs.
+- **Swag**: Individual swags like t-shirt, stickers, or a full swag bundle, depending on the number of PRs (2 to 10).
 - **Requirements**: Contribute to one of the following (or both):
-     - Challenge 1: [Papers With Everything](https://github.com/DagsHub/papers-with-everything).
-     - Challenge 2: [3D Model Datasets](https://discord.gg/6SsqDCUVeq).
-- **How to sign up**: Sign up to [DagsHub](https://dagshub.com/user/sign_up?redirect_to=). Also, join their [Hacktoberfest Discord Channel](https://discord.gg/6SsqDCUVeq).
+     - Challenge 1: [Papers With Everything](https://github.com/DagsHub/papers-with-everything){:target="\_blank"}.
+     - Challenge 2: [3D Model Datasets](https://github.com/DagsHub/3D-model-datasets){:target="\_blank"}.
+- **How to sign up**: Sign up to [DagsHub](https://dagshub.com/user/sign_up?redirect_to=){:target="\_blank"}. Also, join their [Hacktoberfest Discord Channel](https://discord.gg/6SsqDCUVeq){:target="\_blank"}.
 - **Issues**: List of issues for contributing to:
-    - [Papers With Everything](https://github.com/DagsHub/papers-with-everything/issues).
-    - [3D Model Datasets](https://github.com/DagsHub/3D-model-datasets/issues).
-- **Notes**: Additional info regarding the contributions can be found [here](https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/).
+    - [Papers With Everything](https://github.com/DagsHub/papers-with-everything/issues){:target="\_blank"}.
+    - [3D Model Datasets](https://github.com/DagsHub/3D-model-datasets/issues){:target="\_blank"}.
+- **Notes**: Additional info regarding the contributions can be found [here](https://dagshub.com/blog/dagshub-x-hacktoberfest-2022/){:target="\_blank"}.
 
 #### **devICT**
 
