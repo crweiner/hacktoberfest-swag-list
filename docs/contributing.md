@@ -53,6 +53,7 @@ Find the first letter of your company within the list, then add your information
 ## 2022 Contributors
 
 - [Chandler Weiner](https://github.com/crweiner/){:target="\_blank"}
+- [Moskalyk Arthur](https://github.com/MoskalykA/){:target="\_blank"}
 
 ---
 
