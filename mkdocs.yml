@@ -56,9 +56,9 @@ extra:
   manifest: "manifest.json"
   social:
     - icon: "fontawesome/brands/github-alt"
-      link: "https://github.com/peaceiris"
+      link: "https://github.com/crweiner"
     - icon: "fontawesome/brands/twitter"
-      link: "https://twitter.com/piris314en"
+      link: "https://twitter.com/c_dubbs"
   analytics:
     provider: google
     property: UA-129265975-1
