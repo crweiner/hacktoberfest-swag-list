@@ -107,6 +107,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/flyteorg/flyte/issues/2917){:target="\_blank"}
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022){:target="\_blank"} for more info.
 
+### G
+
+#### **The Gita Initative**
+
+- **Swags**: Hardcopies of Bhagavad Gita, Stickers.
+- **Requirements**: Contribute to [The Gita Initative](https://github.com/gita){:target="\_blank"} repositories during the month of October and have 4 or more merged PRs to the repository.
+- **How to sign up**: Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"}.
+- **Notes**: Checkout the [The Gita Initiative Post](https://www.linkedin.com/posts/vedvyas_github-gitagita-bhagavad-gita-in-json-activity-6982314384161140736-o370/){:target="\_blank"} for more info.
+
 ### H
 
 #### **Hasura**
