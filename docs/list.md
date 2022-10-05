@@ -299,11 +299,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - 1 Low-code contribution for a next-level Steampipe Hacktoberfest sticker.
     - 1 High-code contribution for a Steampipe Hacktoberfest t-shirt.
     - 1 Advanced high-code contribution for a next-level Steampipe Hacktoberfest t-shirt.
-- **How to sign up**:
-    - No Special Sign-ups required.
-    - You can simply visit their repository [here](https://github.com/turbot/steampipe) and pick up any available issue to submit a PR.
+- **How to sign up**: No Special Sign-ups required. You can simply visit their repository [here](https://github.com/turbot/steampipe){:target="\_blank"} and pick up any available issue to submit a PR.
     - The Steampipe team will review the pull request and let you know if any changes are needed.
-- **Notes**: For more details [their Hacktoberfest page](https://steampipe.io/blog/hacktoberfest-2022)
+- **Notes**: For more details [their Hacktoberfest page](https://steampipe.io/blog/hacktoberfest-2022){:target="\_blank"}.
 
 ### T
 
