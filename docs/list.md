@@ -87,8 +87,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Codedamn**
 
 - **Swag**: T-shirt
-- **Requirements**: During Hacktoberfest, submit an interactive project to codedamn/projects repository
-- **How to sign up**:  [codedamn/projects](https://github.com/codedamn/projects#readme)
+- **Requirements**: During Hacktoberfest, submit an interactive project to [codedamn/projects repository](https://github.com/codedamn/projects){:target="\_blank"}.
+- **How to sign up**: [Please read their Readme file here very throughly](https://github.com/codedamn/projects#readme){:target="\_blank"}.
 - **Notes**: In order to participate and win prizes, you have to submit a guided project. A guided project is a breakdown of a project into multiple steps for a beginner/intermediate developer to build. These guided projects can be attempted for free from codedamn IDE.
 
 ### D
