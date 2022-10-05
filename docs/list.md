@@ -171,6 +171,22 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues){:target="\_blank"}.
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest){:target="\_blank"} for more info.
 
+### K
+
+#### **Kong**
+
+- **Swag**: T-shirt
+- **Requirements**: 
+- Reporting a bug (see the report bugs section)
+Helping other members of the community on the support channels
+Fixing a typo in the code
+Fixing a typo in the documentation at https://docs.konghq.com (see the documentation contribution section)
+Providing your feedback on the proposed features and designs
+Reviewing Pull Requests
+- **How to sign up**: Contribute on there repo as per there requirement to win its amazing T-shirt.[Kong]([URL](https://github.com/Kong/kong/blob/master/CONTRIBUTING.md#contributor-t-shirt)){:target="\_blank"}
+- **Issues**: Optional link to Hacktoberfest tagged issues https://github.com/Kong/kong/issues
+- **Notes**: N/A
+
 ### L
 
 #### LocalStack
