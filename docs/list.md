@@ -299,18 +299,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md){:target="\_blank"}
 
 ### R
+
 #### **RapidAPI**
 
 - **Swag**: RapidAPI Swag (Unspecified)
+
 - **Requirements**:
+
     - Write about the RapidAPI products. Each blog will earn you 2 points.
-    - Write tweets or threads -
-Each tweet earns 1 point. You can get only 1 point from Twitter. You will get one more point if the tweet/thread has more than 500 likes.
-    - Publish YouTube videos about APIs -
-Each video on YouTube will earn you 2 points. If your video has more than 1k views, you will get two additional points.
-    - Run an API development meetup -
-Talk about using RapidAPI VS Code extension or hosting APIs on RapidAPI Hub. Each meetup will earn you 4 points.
+    - Write tweets or threads- Each tweet earns 1 point. You can get only 1 point from Twitter. You will get one more point if the tweet/thread has more than 500 likes.
+    - Publish YouTube videos about APIs- Each video on YouTube will earn you 2 points. If your video has more than 1k views, you will get two additional points.
+    - Run an API development meetup- Talk about using RapidAPI VS Code extension or hosting APIs on RapidAPI Hub. Each meetup will earn you 4 points.
+
 - **How to sign up**: Submit your application to win swags from RapidAPI using the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScBao9QuBPjAOgNK_2cCe2_8Y40dqvkS8f0DMpst-WopZOg8w/viewform?usp=sf_link){:target="\_blank"}
+
 - **Notes**: Only the first 50 participants who complete the challenge will be chosen as winners. For more details visit the [page](https://rapidapi.com/learn/hacktoberfest){:target="\_blank"}.
 
 ### S
