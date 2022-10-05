@@ -198,7 +198,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Most bugs closed (PRs opened and approved).
     - Most docs updated (PRs opened and approved).
 - **How to sign up**: To participate in Hacktoberfest there's no need to sign up, all you need to do is submit pull request(s) for a qualifying repo.
-- **Notes**: Check out the [here](https://blog.networktocode.com/post/hackathon/){:target="\_blank"} for more info.
+- **Notes**: Check out [here](https://blog.networktocode.com/post/hackathon/){:target="\_blank"} for more info.
 
 #### **Novu**
 
