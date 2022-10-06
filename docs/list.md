@@ -47,6 +47,32 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)/
 - **Note**: We also have non and low code issues open for the community.
 
+#### **Appsmith**
+
+- **Swag**: Shirts, hoodies, bluetooth speakers, lunch boxes
+- **Requirements**:
+    - Code(core issues)
+        - 1 accepted pull request earns 4 coins
+        - 2 accepted pull requests earns 10 coins
+        - 3 accepted pull requests earns 20 coins
+    - Low code/No code(templates) - 12 awards are available per category
+        - Bronze award earns 4 coins
+        - Silver award earns 7 coins
+        - Gold award earns 10 coins
+- **How to sign up**:
+    - Sign up here on [Appsmith](https://app.appsmith.com/app/hacktoberfest-2022/about-the-event-633619b89cb3ec2a8a93332c){:target="_blank"}
+- **Issues**:
+    - List of [hacktoberfest issues](https://github.com/appsmithorg/appsmith/labels/hacktoberfest){:target="_blank"}
+- **Notes**:
+    - Check out the [blog post](https://www.appsmith.com/blog/hacktoberfest-2022-come-on-in-the-low-code-is-fine){:target="_blank"} for more info.
+    - Step 1 : Contribute!
+        - Contribute core issues OR no/low code templates on our platform.
+    - Step 2 : Win coins!
+        - CODE - each accepted PR will earn you more coins.
+        - LOW/NO - each contributed template is an entry in the Hacktoberfest contest. We will assign 36 total awards across multiple categories.
+    - Step 3: Go shopping!
+        - Use your coins in our Swag to choose the prizes that YOU want. They will be prepared and shipped to you.
+
 #### **Appwrite**
 
 - **Swag**: Limited edition Appwrite Hacktoberfest T-shirt, Original Appwrite sticker pack, Socks
