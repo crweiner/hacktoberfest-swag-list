@@ -138,7 +138,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Credit, t-shirt
 - **Requirements**: Contribute to [Chimoney](https://github.com/Chimoney/chimoney-community-projects){:target="\_blank"} during the month of October and have 4 merged PRs to the Chimoney repo.
-- **Notes**: You need 4 PRs merged in the Chimoney repo to get the t-shirst otherwise 1PR = 25$ credit
+- **How to sign up**:
+    - Create a organization on [Chimoney Dashboard](https://dash.chimoney.io){:target="\_blank"}.
+    - Send [us](mailto:support@chimoney.io) the name of the organization, we will approve it!
+    - Switch to the organization (top right) and go to dev page, you’d see your keys. It’s `live keys`, for now. No test keys yet.
+    - We will add $10 for testing. You can always send $1 to yourself to test and redeem it back to the organization. That way, you always have funds.
+- **Notes**: 
+    - You need 4 PRs merged in the Chimoney repo to get the t-shirst otherwise 1PR = 25$ credit
+    - More information [here](https://twitter.com/chimoney_io/status/1576286913723596803?s=48&t=JCGsKCKdKEB_sVfGml2m6w){:target="\_blank"}
 
 #### **Codedamn**
 
