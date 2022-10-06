@@ -37,6 +37,22 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+#### **Airbyte**
+
+- **Swag**:
+     - First place will receive $1,500 and an exclusive Airbyte gold swag pack.
+     - Second place will receive $1,000 and an exclusive Airbyte silver swag pack.
+     - Third place will receive $750 and exclusive Airbyte bronze swag pack.
+     - Anyone who submits a connector within the event dates will receive $500 and Airbyte swag
+- **Requirements**:
+     - Must follow all guidelines on the project repo [Guidelines.md](https://github.com/airbytehq/connector-contest/blob/main/GUIDELINES.md){:target="\_blank"}.
+     - PRs merged before 2nd Of November 2022 only will be taken in consideration.
+     - Must have proper documentation for getting started and usage.
+     - Must include a sandbox account for integration tests.
+- **How to sign up**:  Check out the [Airbyte webiste](https://airbyte.com/connector-contest){:target="\_blank"} for more details.
+- **Issues**: Their [Hacktoberfest Issues](https://github.com/airbytehq/connector-contest/issues){:target="\_blank"} are tagged here.
+- **Notes**: Join their [Hacktoberfest Slack channel](https://join.slack.com/share/enQtNDEzMjUzNTQ5OTg0Ny0xN2I2MDU4NGFkOTNlYzZlN2JmMGIzOTgyMjU1ODk1MDIzZWM5YTAzMThkMDFkNzgzNWNjNzljOGU1MmRhMDIw){:target="\_blank"}.
+
 #### **Amplication**
 
 - **Swag**: Limited edition Amplication T-Shirt, Coffee Mug, Sticker Sheet.
@@ -267,6 +283,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### N
 
+#### **Network to Code and Nautobot**
+
+- **Swag**: NTC & Nautobot swag including shirt(s), stickers, mugs, and more.
+- **Requirements**: There will be different prizes for each of the following groups.    
+    - New Contributors and all qualifying video submissions.
+    - Most Diverse Contributions (qty of repos).
+    - Most lines of code changed (across repos).
+    - Most bugs closed (PRs opened and approved).
+    - Most docs updated (PRs opened and approved).
+- **How to sign up**: To participate in Hacktoberfest there's no need to sign up, all you need to do is submit pull request(s) for a qualifying repo.
+- **Notes**: Check out [here](https://blog.networktocode.com/post/hackathon/){:target="\_blank"} for more info.
+
 #### **Novu**
 
 - **Swag**: T-shirt, Sticker Pack.
@@ -279,6 +307,29 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - After they have merged your 3 pull requests, you will be contacted over a GitHub discussion thread to claim your swag.
 - **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/novuhq/novu/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest){:target="\_blank"}.
 - **Notes**: More details for the prizes [are here](https://twitter.com/novuhq/status/1576536573436637186){:target="\_blank"}. Also, you can join the official Novu Hacktoberfest kickoff on 3rd October 2022 by joining [here](https://discord.gg/K747c2mb?event=1025547200559861810){:target="\_blank"}. Join their [Discord](https://discord.gg/novu){:target="\_blank"} if you have any further queries.
+
+### O
+
+#### **OpenSearch**
+
+- **Swag**: T-shirt, Sticker Pack, Water Bottle
+- **Requirements**:
+    - Everyone who makes one or more contributions to the [OpenSearch](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue&type=repositories){:target="\_blank"} community during Hacktoberfest will be eligible for a free OpenSearch sticker.
+    - The top 5 points scorers on the community leader board will get a swag pack that will include a water bottle, sweatshirt, and a sticker pack.
+    - To get points for your contribution you must open an issue on GitHub and it must be tagged Hacktoberfest with the exception of the forum answers.
+    - To get credit for off platform blogs submit a link to your blog in an issue on the [opensearch-project/project-website](https://github.com/opensearch-project/project-website){:target="\_blank"} repo and ask for it to be tagged Hacktoberfest.
+    - Points for contributions are distributed as follows:
+        - Feature: 10
+        - Bug fix: 6
+        - On-Platform blog: 5
+        - Off-Platform blog: 5
+        - Docs: 4
+        - Forum answer: 3 (+2 if marked as solution)
+- **How to sign up**:
+    - You can simply visit one of their repositories [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue&type=repositories){:target="\_blank"} and pick up any available issue to submit a PR.
+    - The OpenSearch team will review the pull request and let you know if any changes are needed.
+- **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue+label%3A%22hacktoberfest%22+is%3Aissue+is%3Aopen&type=Issues){:target="\_blank"}.
+- **Notes**: More details about the prizes [are here](https://opensearch.org/blog/community/2022/10/hacktoberfest-2022/){:target="\_blank"}. Join their [Forum](https://forum.opensearch.org/t/hacktoberfest-2022/11129){:target="\_blank"} if you have any further queries. They are also active on [Twitter](https://twitter.com/OpenSearchProj){:target="\_blank"}.
 
 ### P
 
@@ -311,6 +362,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md){:target="\_blank"}
 
 ### R
+
+#### **RapidAPI**
+
+- **Swag**: RapidAPI Swag (Unspecified)
+- **Requirements**:
+    - Write about the RapidAPI products. Each blog will earn you 2 points.
+    - Write tweets or threads. Each tweet earns 1 point. You can get only 1 point from Twitter. You will get one more point if the tweet/thread has more than 500 likes.
+    - Publish YouTube videos about APIs. Each video on YouTube will earn you 2 points. If your video has more than 1k views, you will get two additional points.
+    - Run an API development meetup. Talk about using RapidAPI VS Code extension or hosting APIs on RapidAPI Hub. Each meetup will earn you 4 points.
+- **How to sign up**: Submit your application to win swags from RapidAPI using the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScBao9QuBPjAOgNK_2cCe2_8Y40dqvkS8f0DMpst-WopZOg8w/viewform?usp=sf_link){:target="\_blank"}
+- **Notes**: Only the first 50 participants who complete the challenge will be chosen as winners. For more details visit the [page](https://rapidapi.com/learn/hacktoberfest){:target="\_blank"}.
 
 #### **Refine**
 
