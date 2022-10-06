@@ -37,6 +37,22 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+#### **Airbyte**
+
+- **Swag**:
+     - First place will receive $1,500 and an exclusive Airbyte gold swag pack.
+     - Second place will receive $1,000 and an exclusive Airbyte silver swag pack.
+     - Third place will receive $750 and exclusive Airbyte bronze swag pack.
+     - Anyone who submits a connector within the event dates will receive $500 and Airbyte swag
+- **Requirements**:
+     - Must follow all guidelines on the project repo [Guidelines.md](https://github.com/airbytehq/connector-contest/blob/main/GUIDELINES.md){:target="\_blank"}.
+     - PRs merged before 2nd Of November 2022 only will be taken in consideration.
+     - Must have proper documentation for getting started and usage.
+     - Must include a sandbox account for integration tests.
+- **How to sign up**:  Check out the [Airbyte webiste](https://airbyte.com/connector-contest){:target="\_blank"} for more details.
+- **Issues**: Their [Hacktoberfest Issues](https://github.com/airbytehq/connector-contest/issues){:target="\_blank"} are tagged here.
+- **Notes**: Join their [Hacktoberfest Slack channel](https://join.slack.com/share/enQtNDEzMjUzNTQ5OTg0Ny0xN2I2MDU4NGFkOTNlYzZlN2JmMGIzOTgyMjU1ODk1MDIzZWM5YTAzMThkMDFkNzgzNWNjNzljOGU1MmRhMDIw){:target="\_blank"}.
+
 #### **Amplication**
 
 - **Swag**: Limited edition Amplication T-Shirt, Coffee Mug, Sticker Sheet.
@@ -46,6 +62,30 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Checkout the [Amplication Hacktoberfest Guidelines](https://github.com/amplication/amplication/issues/4039)/
 - **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)/
 - **Note**: We also have non and low code issues open for the community.
+
+#### **Appsmith**
+
+- **Swag**: Shirts, hoodies, bluetooth speakers, lunch boxes
+- **Requirements**:
+    - Code(core issues)
+        - 1 accepted pull request earns 4 coins
+        - 2 accepted pull requests earns 10 coins
+        - 3 accepted pull requests earns 20 coins
+    - Low code/No code(templates) - 12 awards are available per category
+        - Bronze award earns 4 coins
+        - Silver award earns 7 coins
+        - Gold award earns 10 coins
+- **How to sign up**: Sign up here on [Appsmith's app](https://app.appsmith.com/app/hacktoberfest-2022/about-the-event-633619b89cb3ec2a8a93332c){:target="_blank"}.
+- **Issues**: List of [hacktoberfest issues](https://github.com/appsmithorg/appsmith/labels/hacktoberfest){:target="_blank"}
+- **Notes**:
+    - Check out the [blog post](https://www.appsmith.com/blog/hacktoberfest-2022-come-on-in-the-low-code-is-fine){:target="_blank"} for more info.
+    - Step 1 : Contribute!
+        - Contribute core issues OR no/low code templates on our platform.
+    - Step 2 : Win coins!
+        - CODE - each accepted PR will earn you more coins.
+        - LOW/NO - each contributed template is an entry in the Hacktoberfest contest. We will assign 36 total awards across multiple categories.
+    - Step 3: Go shopping!
+        - Use your coins in our Swag to choose the prizes that YOU want. They will be prepared and shipped to you.
 
 #### **Appwrite**
 
@@ -150,6 +190,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ){:target="\_blank"} after you are done with either of the challenges on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/){:target="\_blank"} channel in case you have queries.
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/flyteorg/flyte/issues/2917){:target="\_blank"}
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022){:target="\_blank"} for more info.
+
+### G
+
+#### **The Gita Initiative**
+
+- **Swag**: HardCopy Of The Bhagavad Gita And Stickers
+- **Requirements**: Submit 4 PRs and have them merged/accepted.
+- **How to sign up**: Add values on the [Gita Initiative repo](https://github.com/gita/gita){:target="\_blank"}.
+- **Notes**: Check out this [link](https://www.linkedin.com/posts/vedvyas_github-gitagita-bhagavad-gita-in-json-activity-6982314384161140736-o370/){:target="\_blank"} for more info.
 
 ### H
 
@@ -350,6 +399,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Fork the README.MD file in the [pusher/hacktoberfest repo](https://github.com/pusher/hacktoberfest){:target="\_blank"} and make PR with a link to what you’ve worked on and an email address so they can reach out to you to claim your swag.
     - You will receive a review, comment, and approval by a member of the Pusher team within a couple of days. All PRs accepted by the team will be marked as ‘hacktoberfest-accepted’ by October 31st.
 - **Notes**: More details [in the Pusher Hacktoberfest repo here](https://github.com/pusher/hacktoberfest/blob/main/README.md){:target="\_blank"}
+
+### R
+
+#### **RapidAPI**
+
+- **Swag**: RapidAPI Swag (Unspecified)
+- **Requirements**:
+    - Write about the RapidAPI products. Each blog will earn you 2 points.
+    - Write tweets or threads. Each tweet earns 1 point. You can get only 1 point from Twitter. You will get one more point if the tweet/thread has more than 500 likes.
+    - Publish YouTube videos about APIs. Each video on YouTube will earn you 2 points. If your video has more than 1k views, you will get two additional points.
+    - Run an API development meetup. Talk about using RapidAPI VS Code extension or hosting APIs on RapidAPI Hub. Each meetup will earn you 4 points.
+- **How to sign up**: Submit your application to win swags from RapidAPI using the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScBao9QuBPjAOgNK_2cCe2_8Y40dqvkS8f0DMpst-WopZOg8w/viewform?usp=sf_link){:target="\_blank"}
+- **Notes**: Only the first 50 participants who complete the challenge will be chosen as winners. For more details visit the [page](https://rapidapi.com/learn/hacktoberfest){:target="\_blank"}.
 
 ### S
 
