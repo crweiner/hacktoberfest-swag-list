@@ -59,10 +59,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
         - Bronze award earns 4 coins
         - Silver award earns 7 coins
         - Gold award earns 10 coins
-- **How to sign up**:
-    - Sign up here on [Appsmith](https://app.appsmith.com/app/hacktoberfest-2022/about-the-event-633619b89cb3ec2a8a93332c){:target="_blank"}
-- **Issues**:
-    - List of [hacktoberfest issues](https://github.com/appsmithorg/appsmith/labels/hacktoberfest){:target="_blank"}
+- **How to sign up**: Sign up here on [Appsmith's app](https://app.appsmith.com/app/hacktoberfest-2022/about-the-event-633619b89cb3ec2a8a93332c){:target="_blank"}.
+- **Issues**: List of [hacktoberfest issues](https://github.com/appsmithorg/appsmith/labels/hacktoberfest){:target="_blank"}
 - **Notes**:
     - Check out the [blog post](https://www.appsmith.com/blog/hacktoberfest-2022-come-on-in-the-low-code-is-fine){:target="_blank"} for more info.
     - Step 1 : Contribute!
