@@ -134,6 +134,36 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 
+#### **Clueless**
+
+- **Swag**: T-shirt, certificate for contributing
+- **Requirements**: Contribute to the following repositories:
+    - [Clueless Community Website](https://github.com/Clueless-Community/clueless-official-website){:target="_blank"}
+    - [First-Contribution](https://github.com/Clueless-Community/first-contribution){:target="_blank"}
+    - [College API](https://github.com/Clueless-Community/collegeAPI){:target="_blank"}
+    - [Prega.io](https://github.com/Clueless-Community/Prega){:target="_blank"}
+    - [Datasets](https://github.com/Clueless-Community/Datasets){:target="_blank"}
+    - Earn points for your contributions:
+        - `hard` issues on any repository earns 25 points
+        - `medium` issues on any repository earns 15 points
+        - `good first issue` on any repository earns 10 points
+        - Bonus 5 points are awarded on contributions for the Clueless official website
+
+- **How to sign up**:
+    - Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="_blank"}
+    - Signup on the [Clueless web portal](clueless.tech){:target="_blank"}
+    - Each repository will have a seperate CONTRIBUTING.md
+        - Merged PRs will need to tag maintainer on Clueless profile
+- **Issues**: Issues are tagged with: `hacktoberbest`, `good first issue`
+    - [Clueless Community Website](https://github.com/Clueless-Community/clueless-official-website/issues){:target="_blank"}
+    - [First-Contribution](https://github.com/Clueless-Community/first-contribution/issues){:target="_blank"}
+    - [College API](https://github.com/Clueless-Community/collegeAPI/issues){:target="_blank"}
+    - [Prega.io](https://github.com/Clueless-Community/Prega/issues){:target="_blank"}
+    - [Datasets](https://github.com/Clueless-Community/Datasets/issues){:target="_blank"}
+- **Notes**:
+    - Check out the [blog post](https://www.clueless.tech/hacktoberfest#){:target="_blank"} for more info.
+    - Check out the [community GitHub](https://github.com/Clueless-Community){:target="_blank"} for more info.
+
 #### **Codedamn**
 
 - **Swag**: T-shirt
