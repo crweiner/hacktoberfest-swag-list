@@ -39,19 +39,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Airbyte**
 
-- **Swag**: 
+- **Swag**:
      - First place will receive $1,500 and an exclusive Airbyte gold swag pack.
      - Second place will receive $1,000 and an exclusive Airbyte silver swag pack.
      - Third place will receive $750 and exclusive Airbyte bronze swag pack.
-     - Anyone who submits a connector within the event dates will receive $500 and Airbyte swag      
-- **Requirements**: 
-     - Must follow all guidelines on the project repo [Guidelines.md](https://github.com/airbytehq/connector-contest/blob/main/GUIDELINES.md)
+     - Anyone who submits a connector within the event dates will receive $500 and Airbyte swag
+- **Requirements**:
+     - Must follow all guidelines on the project repo [Guidelines.md](https://github.com/airbytehq/connector-contest/blob/main/GUIDELINES.md){:target="\_blank"}.
      - PRs merged before 2nd Of November 2022 only will be taken in consideration.
      - Must have proper documentation for getting started and usage.
      - Must include a sandbox account for integration tests.
-- **How to sign up**:  Check out the [Airbyte webiste](https://airbyte.com/connector-contest) for more details..
-- **Issues**: All the issues come under the hacktoberfest.[Issues](https://github.com/airbytehq/connector-contest/issues)
-- **Notes**: Join the slack channel for hacktoberfest.[slack-channel](https://join.slack.com/share/enQtNDEzMjUzNTQ5OTg0Ny0xN2I2MDU4NGFkOTNlYzZlN2JmMGIzOTgyMjU1ODk1MDIzZWM5YTAzMThkMDFkNzgzNWNjNzljOGU1MmRhMDIw)
+- **How to sign up**:  Check out the [Airbyte webiste](https://airbyte.com/connector-contest){:target="\_blank"} for more details.
+- **Issues**: Their [Hacktoberfest Issues](https://github.com/airbytehq/connector-contest/issues){:target="\_blank"} are tagged here.
+- **Notes**: Join their [Hacktoberfest Slack channel](https://join.slack.com/share/enQtNDEzMjUzNTQ5OTg0Ny0xN2I2MDU4NGFkOTNlYzZlN2JmMGIzOTgyMjU1ODk1MDIzZWM5YTAzMThkMDFkNzgzNWNjNzljOGU1MmRhMDIw){:target="\_blank"}.
 
 #### **Amplication**
 
