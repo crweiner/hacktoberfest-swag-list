@@ -151,7 +151,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: HardCopy Of The Bhagavad Gita And Stickers
 - **Requirements**: Submit 4 PRs and have them merged/accepted.
-- **How to sign up**:Add values on the [Gita Initiative repo](https://github.com/gita/gita){:target="\_blank"}.
+- **How to sign up**: Add values on the [Gita Initiative repo](https://github.com/gita/gita){:target="\_blank"}.
 - **Notes**: Check out this [link](https://www.linkedin.com/posts/vedvyas_github-gitagita-bhagavad-gita-in-json-activity-6982314384161140736-o370/){:target="\_blank"} for more info.
 
 ### H
