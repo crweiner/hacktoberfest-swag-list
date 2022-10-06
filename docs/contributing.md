@@ -50,10 +50,9 @@ Find the first letter of your company within the list, then add your information
 
 ---
 
-## 2022 Contributors
+## Other Contributing Guidelines
 
-- [Chandler Weiner](https://github.com/crweiner/){:target="\_blank"}
-- [Moskalyk Arthur](https://github.com/MoskalykA/){:target="\_blank"}
+- Issues are not assigned to any one person. Please don't ask for an Issue to be assigned to you. All meaningful PRs will be reviewed first-come-first-served due to Hacktoberfest only being a month long.
 
 ---
 
