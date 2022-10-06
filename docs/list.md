@@ -292,6 +292,29 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/novuhq/novu/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest){:target="\_blank"}.
 - **Notes**: More details for the prizes [are here](https://twitter.com/novuhq/status/1576536573436637186){:target="\_blank"}. Also, you can join the official Novu Hacktoberfest kickoff on 3rd October 2022 by joining [here](https://discord.gg/K747c2mb?event=1025547200559861810){:target="\_blank"}. Join their [Discord](https://discord.gg/novu){:target="\_blank"} if you have any further queries.
 
+### O
+
+#### **OpenSearch**
+
+- **Swag**: T-shirt, Sticker Pack, Water Bottle
+- **Requirements**:
+    - Everyone who makes one or more contributions to the [OpenSearch](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue&type=repositories){:target="\_blank"} community during Hacktoberfest will be eligible for a free OpenSearch sticker.
+    - The top 5 points scorers on the community leader board will get a swag pack that will include a water bottle, sweatshirt, and a sticker pack.
+    - To get points for your contribution you must open an issue on GitHub and it must be tagged Hacktoberfest with the exception of the forum answers.
+    - To get credit for off platform blogs submit a link to your blog in an issue on the [opensearch-project/project-website](https://github.com/opensearch-project/project-website){:target="\_blank"} repo and ask for it to be tagged Hacktoberfest.
+    - Points for contributions are distributed as follows:
+        - Feature: 10
+        - Bug fix: 6
+        - On-Platform blog: 5
+        - Off-Platform blog: 5
+        - Docs: 4
+        - Forum answer: 3 (+2 if marked as solution)
+- **How to sign up**:
+    - You can simply visit one of their repositories [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue&type=repositories){:target="\_blank"} and pick up any available issue to submit a PR.
+    - The OpenSearch team will review the pull request and let you know if any changes are needed.
+- **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue+label%3A%22hacktoberfest%22+is%3Aissue+is%3Aopen&type=Issues){:target="\_blank"}.
+- **Notes**: More details about the prizes [are here](https://opensearch.org/blog/community/2022/10/hacktoberfest-2022/){:target="\_blank"}. Join their [Forum](https://forum.opensearch.org/t/hacktoberfest-2022/11129){:target="\_blank"} if you have any further queries. They are also active on [Twitter](https://twitter.com/OpenSearchProj){:target="\_blank"}.
+
 ### P
 
 #### **Percona**
