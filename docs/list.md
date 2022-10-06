@@ -346,7 +346,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: T-shirt, stickers, SuiteCRM-branded mug
 - **Requirements**: Raise PRs, Plenty of them!
-- **How to sign up**: 
+- **How to sign up**:
     - Sign up [here](https://hacktoberfest.com/auth/){:target="\_blank"}
 - **Issues**: [SuiteCRM](https://github.com/salesagility/SuiteCRM/labels/Hacktoberfest){:target="\_blank"}, [SuiteCRM-Core](https://github.com/salesagility/SuiteCRM-Core/labels/Hacktoberfest){:target="\_blank"}, [SuiteDocs](https://github.com/salesagility/SuiteDocs/labels/Hacktoberfest){:target="\_blank"}
 - **Notes**: For more details [there Hacktoberfest page](https://community.suitecrm.com/t/hacktoberfest-2022/86484){:target="\_blank"}
