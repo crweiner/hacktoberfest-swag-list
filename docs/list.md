@@ -430,6 +430,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - The Steampipe team will review the pull request and let you know if any changes are needed.
 - **Notes**: For more details [their Hacktoberfest page](https://steampipe.io/blog/hacktoberfest-2022){:target="\_blank"}.
 
+#### **SuiteCRM**
+
+- **Swag**: T-shirt, stickers, SuiteCRM-branded mug
+- **Requirements**: Unsure as to number of PRs required at this time.
+- **How to sign up**:
+    - Sign up for [hacktoberfest](https://hacktoberfest.com/auth/){:target="\_blank"}
+- **Issues**: [SuiteCRM](https://github.com/salesagility/SuiteCRM/labels/Hacktoberfest){:target="\_blank"}, [SuiteCRM-Core](https://github.com/salesagility/SuiteCRM-Core/labels/Hacktoberfest){:target="\_blank"}, [SuiteDocs](https://github.com/salesagility/SuiteDocs/labels/Hacktoberfest){:target="\_blank"}
+- **Notes**: For more details [see their Hacktoberfest community post](https://community.suitecrm.com/t/hacktoberfest-2022/86484){:target="\_blank"}
+
 ### T
 
 #### **ToolJet**
