@@ -134,6 +134,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 
+#### **ClueLess**
+
+- **Swag**: Certificate for Contributing, T-shirt 
+- **Requirements**: 
+    - All contributors will receive certificate for contributing.
+    - Top Contributor will get Exclusive t-shirts for free.
+- **How to sign up**: Check out the issues [here](https://github.com/Clueless-Community/first-contribution){:target="\_blank"}
+- **Notes**: For more info click [here](https://www.clueless.tech/hacktoberfest#)
+
 #### **Codedamn**
 
 - **Swag**: T-shirt
