@@ -284,9 +284,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
         - On-Platform blog: 5
         - Off-Platform blog: 5
         - Docs: 4
-        - Forum answer:3  (+2 if marked as solution)
+        - Forum answer: 3 (+2 if marked as solution)
 - **How to sign up**:
-    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
     - You can simply visit one of their repositories [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue&type=repositories){:target="\_blank"} and pick up any available issue to submit a PR.
     - The OpenSearch team will review the pull request and let you know if any changes are needed.
 - **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue+label%3A%22hacktoberfest%22+is%3Aissue+is%3Aopen&type=Issues){:target="\_blank"}.
