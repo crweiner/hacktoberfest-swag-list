@@ -98,8 +98,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Credit, t-shirt
 - **Requirements**: Contribute to [Chimoney](https://github.com/Chimoney/chimoney-community-projects){:target="\_blank"} during the month of October and have 4 merged PRs to the Chimoney repo.
-- **Notes**:
-    - You need 4 PRs merged in the Chimoney repo to get the t-shirst otherwise 1PR = 25$ credit
+- **Notes**: You need 4 PRs merged in the Chimoney repo to get the t-shirst otherwise 1PR = 25$ credit
 
 #### **Codedamn**
 
