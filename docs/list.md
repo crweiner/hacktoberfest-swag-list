@@ -35,9 +35,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ## A to Z Order of Companies
 
-### A
+## A
 
-#### **Airbyte**
+### **Airbyte**
 
 - **Swag**:
      - First place will receive $1,500 and an exclusive Airbyte gold swag pack.
@@ -53,7 +53,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Their [Hacktoberfest Issues](https://github.com/airbytehq/connector-contest/issues) are tagged here.
 - **Notes**: Join their [Hacktoberfest Slack channel](https://join.slack.com/share/enQtNDEzMjUzNTQ5OTg0Ny0xN2I2MDU4NGFkOTNlYzZlN2JmMGIzOTgyMjU1ODk1MDIzZWM5YTAzMThkMDFkNzgzNWNjNzljOGU1MmRhMDIw).
 
-#### **Amplication**
+### **Amplication**
 
 - **Swag**: Limited edition Amplication T-Shirt, Coffee Mug, Sticker Sheet.
 - **Requirements**:
@@ -63,7 +63,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)
 - **Note**: We also have non and low code issues open for the community.
 
-#### **Appsmith**
+### **Appsmith**
 
 - **Swag**: Shirts, hoodies, bluetooth speakers, lunch boxes
 - **Requirements**:
@@ -87,7 +87,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Step 3: Go shopping!
         - Use your coins in our Swag to choose the prizes that YOU want. They will be prepared and shipped to you.
 
-#### **Appwrite**
+### **Appwrite**
 
 - **Swag**: Limited edition Appwrite Hacktoberfest T-shirt, Original Appwrite sticker pack, Socks
 - **Requirements**:
@@ -100,7 +100,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=issues&s=updated&o=asc).
 - **Notes**: Read the [blog post](https://appwrite.io/hacktoberfest) for more info.
 
-#### **Aviyel**
+### **Aviyel**
 
 - **Swag**: Swag box, Limited edition Hacktoberfest-themed virtual badge
 - **Requirements**: The two basic requirements to be eligible is:
@@ -206,9 +206,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start](https://encore.dev/docs/quick-start) to build your first Encore app and once you're done post it in our Show & Tell!
 - **Notes**: [See the Hacktoberfest blog post and weekly Community Office Hours every Friday](https://community.encore.dev/t/our-new-office-hours-to-kick-off-hacktoberfest/66)
 
-### F
+## F
 
-#### **Flyte**
+### **Flyte**
 
 - **Swag**: Mug, T-shirt, The North Face® Jacket, Voucher, O'Reilly premium membership
 - **Requirements**:
