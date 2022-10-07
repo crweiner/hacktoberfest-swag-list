@@ -148,11 +148,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - 4 merged PRs fixing a `Hacktoberfest` Issue = T-shirt and $100 credit.
     - More information [here](https://twitter.com/chimoney_io/status/1576286913723596803?s=48&t=JCGsKCKdKEB_sVfGml2m6w){:target="\_blank"} and on their [Community Repo](https://github.com/Chimoney/chimoney-community-projects){:target="\_blank"}.
 
-#### **Clueless**
+#### **ClueLess**
 
 - **Swag**: T-shirt, certificate for contributing
 - **Requirements**: Contribute to the following repositories:
-    - [Clueless Community Website](https://github.com/Clueless-Community/clueless-official-website){:target="_blank"}
+    - [ClueLess Community Website](https://github.com/Clueless-Community/clueless-official-website){:target="_blank"}
     - [First-Contribution](https://github.com/Clueless-Community/first-contribution){:target="_blank"}
     - [College API](https://github.com/Clueless-Community/collegeAPI){:target="_blank"}
     - [Prega.io](https://github.com/Clueless-Community/Prega){:target="_blank"}
@@ -162,21 +162,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
         - `medium` issues on any repository earns 15 points
         - `good first issue` on any repository earns 10 points
         - Bonus 5 points are awarded on contributions for the Clueless official website
-
-- **How to sign up**:
-    - Signup on the [Hacktoberfest website](https://hacktoberfest.com/){:target="_blank"}
-    - Signup on the [Clueless web portal](clueless.tech){:target="_blank"}
+- **How to sign up**: Signup on the [Clueless web portal](clueless.tech){:target="_blank"}
     - Each repository will have a seperate CONTRIBUTING.md
-        - Merged PRs will need to tag maintainer on Clueless profile
-- **Issues**: Issues are tagged with: `hacktoberbest`, `good first issue`
-    - [Clueless Community Website](https://github.com/Clueless-Community/clueless-official-website/issues){:target="_blank"}
-    - [First-Contribution](https://github.com/Clueless-Community/first-contribution/issues){:target="_blank"}
-    - [College API](https://github.com/Clueless-Community/collegeAPI/issues){:target="_blank"}
-    - [Prega.io](https://github.com/Clueless-Community/Prega/issues){:target="_blank"}
-    - [Datasets](https://github.com/Clueless-Community/Datasets/issues){:target="_blank"}
+    - Merged PRs will need to tag a maintainer on their ClueLess profile.
+- **Issues**: Issues are tagged with: `hacktoberbest`, `good first issue` in their above repos.
 - **Notes**:
-    - Check out the [blog post](https://www.clueless.tech/hacktoberfest#){:target="_blank"} for more info.
-    - Check out the [community GitHub](https://github.com/Clueless-Community){:target="_blank"} for more info.
+    - Check out the [blog post](https://www.clueless.tech/hacktoberfest#){:target="_blank"} and [community GitHub](https://github.com/Clueless-Community){:target="_blank"} for more info.
 
 #### **Codedamn**
 
@@ -374,7 +365,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Neo4j**
 
-- **Swag**: Pixoo display
+- **Swag**: Pixoo display (might only be 1?)
 - **Requirements**:
     - Code: Accepted PRs on GitHub repositories labeled with `hacktoberfest` or the following repositories to update drivers
         - [Java](https://github.com/neo4j-graphacademy/app-java){:target="_blank"}
@@ -387,16 +378,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
         - Use this to help fix typos, clarify explanations, add code-examples and more.
         - Clicking the `Edit This Page` link will open up a Github editor where you can make changes and open Pull Request.
         - Once you are done, please ask the maintainer of the repository to mark your contribution with a `hacktoberfest-accepted` label and once merged, this will count towards your four contributions.
+    - At the end of the month, Neo4j will give out a  Pixoo display for the best contribution. Tweet your pull requests with #hacktoberfest #neo4j and they will pick the winner in November.
 - **How to sign up**: No specific sign up required.
-- **Issues**: List of [Neo4j hacktoberfest GitHub issues](https://github.com/search?q=hacktoberfest+neo4j&type=repositories){:target="_blank"}
-    - [Neo4j Documentation](https://neo4j.com/docs/){:target="_blank"}
-    - [Neo4j Developer Guides](https://neo4j.com/developer/get-started/){:target="_blank"}
-    - [Neo4j Labs Projects](https://neo4j.com/labs/){:target="_blank"}
-    - [Neo4j Knowledge Base](https://neo4j.com/developer/kb/){:target="_blank"}
-    - [Neo4j GraphAcademy](https://graphacademy.neo4j.com/){:target="_blank"}
-- **Notes**:
-    - Check out the [medium blog post](https://medium.com/neo4j/hacktoberfest-at-neo4j-9991ccc98c33){:target="_blank"} for more info.
-    - At the end of the month, Neo4j give out an extra goodie — a Pixoo display — for the best contribution. Tweet your pull requests with #hacktoberfest #neo4j and we’ll pick the winner in November.
+- **Issues**: See the Issues in the repos above.
+- **Notes**: Check out the [medium blog post](https://medium.com/neo4j/hacktoberfest-at-neo4j-9991ccc98c33){:target="_blank"} for more info.
 
 #### **Novu**
 
