@@ -572,6 +572,21 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**:
     - Check out the [blog post](https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/) for more info.
 
+#### **Zyte**
+
+- **Swag**: Hacktoberfest swag, Zyte swag
+- **Requirements**:
+    - To get Zyte swag, one should create PR on Zyte Supported projects and the PR must get accepted (Projects are listed below).
+    - Fill this [form](https://share.hsforms.com/18bF2UnWKRmKx8AgRX-1AAg2lm14) to apply for zyte swag after PR acceptance.
+  
+- **How to sign up**: Register offically at [hacktoberfest](https://hacktoberfest.com/participation/)
+- **Issues**: All of the issues of these projects are supported by zyte
+            - https://github.com/zytedata
+            - https://github.com/scrapinghub/
+            - https://github.com/scrapy
+            - https://github.com/scrapy-plugins/
+- **Notes**: Check out the [blog post](https://www.zyte.com/blog/hacktoberfest-2022) for more info.
+  
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
