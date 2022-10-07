@@ -346,7 +346,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### N
 
-#### **Neo4j**
+#### ** Neo4j **
 - **Swag**: Pixoo display
 - **Requirements**:
     - Code: Accepted PRs on GitHub repositories labeled with `hacktoberfest` or the following repositories to update drivers
@@ -358,7 +358,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - No code/Low code:
         - Most of the Neo4j docs, developer guides, and knowledge base articles have an `Edit This Page` link on the top right.
         - Use this to help fix typos, clarify explanations, add code-examples and more.
-        - Clicking the `Edit This Page` link will open up a Github editor where you can make changes and open Pull Request. 
+        - Clicking the `Edit This Page` link will open up a Github editor where you can make changes and open Pull Request.
         - Once you are done, please ask the maintainer of the repository to mark your contribution with a `hacktoberfest-accepted` label and once merged, this will count towards your four contributions.
 - **How to sign up**: No specific sign up required.
 - **Issues**: List of [Neo4j hacktoberfest GitHub issues](https://github.com/search?q=hacktoberfest+neo4j&type=repositories){:target="_blank"}
