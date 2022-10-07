@@ -398,6 +398,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### O
 
+#### **OpenReplay**
+
+- **Swag**: $50 Amazon Card (3 winners)
+- **Requirements**:
+    - All PR’s must be merged by November 2022.
+    - All contributions must follow all official rules from Hacktoberfest 2022.
+    - Any external service or plugin presented as part of the must be properly documented to understand how to run and test it.
+- **How to sign up**: Should be eligible for official hacktoberfest, other than that no special signup process.
+- **Issues**: Get started with the [issues at](https://github.com/openreplay/openreplay/issues).
+- **Notes**: For more details [their Hacktoberfest page](https://blog.openreplay.com/its-hacktoberfest-and-were-here-for-it/).
+
 #### **OpenSearch**
 
 - **Swag**: T-shirt, Sticker Pack, Water Bottle
