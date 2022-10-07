@@ -219,7 +219,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: N/A
 - **Notes**: Checkout the [official post](https://opensource.globo.com/){:target="\_blank"} for more info.
 
-
 ### H
 
 #### **Hasura**
