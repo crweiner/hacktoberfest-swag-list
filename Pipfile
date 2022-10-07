@@ -13,7 +13,7 @@ pyyaml = "==6.0"
 Jinja2 = "==3.1.2"
 pillow = "*"
 cairosvg = "*"
-markdown3-newtab = "*"
+markdown-link-attr-modifier = "*"
 
 [dev-packages]
 invoke = "*"
