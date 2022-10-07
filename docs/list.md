@@ -403,7 +403,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: T-shirt, cap, bottle.
 - **Requirements**:
     - Submit 1 pull request to the [refine repository](https://github.com/pankod/refine){:target="\_blank"} and get it merged to receive a refine T-shirt.
-    - Submit 2 pull requests and get them merged to receive a complete refine SWAG Kit: T-shirt, cap & bottle.
+    - Submit 2 pull requests and get them merged to receive a complete refine Swag Kit: T-shirt, cap & bottle.
 - **How to sign up**:
     - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
     - Pick one of the issues in refine repository, submit a pull request and get it merged.
