@@ -208,6 +208,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Add values on the [Gita Initiative repo](https://github.com/gita/gita){:target="\_blank"}.
 - **Notes**: Check out this [link](https://www.linkedin.com/posts/vedvyas_github-gitagita-bhagavad-gita-in-json-activity-6982314384161140736-o370/){:target="\_blank"} for more info.
 
+#### **Globo**
+
+- **Swag**: Awesome Globo t-shirt
+- **Requirements**: 
+    - Contribute two Pull Requests to any Open Source project at Globo during the month of October.
+    - Ensure that at least one pull request is ACCEPTED.
+    - The first 100 applicants who complete the minimum requirements will receive a t-shirt.
+- **How to sign up**: [Join](https://hacktoberfest.globo.com/login){:target="\_blank"} with your github account!
+- **Issues**: N/A
+- **Notes**: Checkout the [official post](https://opensource.globo.com/){:target="\_blank"} for more info.
+
+
 ### H
 
 #### **Hasura**
