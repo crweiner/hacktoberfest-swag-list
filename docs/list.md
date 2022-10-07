@@ -148,6 +148,27 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - 4 merged PRs fixing a `Hacktoberfest` Issue = T-shirt and $100 credit.
     - More information [here](https://twitter.com/chimoney_io/status/1576286913723596803?s=48&t=JCGsKCKdKEB_sVfGml2m6w) and on their [Community Repo](https://github.com/Chimoney/chimoney-community-projects).
 
+#### **ClueLess**
+
+- **Swag**: T-shirt, certificate for contributing
+- **Requirements**: Contribute to the following repositories:
+    - [ClueLess Community Website](https://github.com/Clueless-Community/clueless-official-website)
+    - [First-Contribution](https://github.com/Clueless-Community/first-contribution)
+    - [College API](https://github.com/Clueless-Community/collegeAPI)
+    - [Prega.io](https://github.com/Clueless-Community/Prega)
+    - [Datasets](https://github.com/Clueless-Community/Datasets)
+    - Earn points for your contributions:
+        - `hard` issues on any repository earns 25 points
+        - `medium` issues on any repository earns 15 points
+        - `good first issue` on any repository earns 10 points
+        - Bonus 5 points are awarded on contributions for the Clueless official website
+- **How to sign up**: Signup on the [Clueless web portal](https://www.clueless.tech/)
+    - Each repository will have a seperate CONTRIBUTING.md
+    - Merged PRs will need to tag a maintainer on their ClueLess profile.
+- **Issues**: Issues are tagged with: `hacktoberbest`, `good first issue` in their above repos.
+- **Notes**:
+    - Check out the [blog post](https://www.clueless.tech/hacktoberfest#) and [community GitHub](https://github.com/Clueless-Community) for more info.
+
 #### **Codedamn**
 
 - **Swag**: T-shirt
@@ -341,6 +362,26 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Most docs updated (PRs opened and approved).
 - **How to sign up**: To participate in Hacktoberfest there's no need to sign up, all you need to do is submit pull request(s) for a qualifying repo.
 - **Notes**: Check out [here](https://blog.networktocode.com/post/hackathon/) for more info.
+
+#### **Neo4j**
+
+- **Swag**: Pixoo display (might only be 1?)
+- **Requirements**:
+    - Code: Accepted PRs on GitHub repositories labeled with `hacktoberfest` or the following repositories to update drivers
+        - [Java](https://github.com/neo4j-graphacademy/app-java)
+        - [JavaScript/Node](https://github.com/neo4j-graphacademy/app-nodejs)
+        - [Python](https://github.com/neo4j-graphacademy/app-python)
+        - [Go](https://github.com/neo4j-graphacademy/app-go)
+        - [.Net](https://github.com/neo4j-graphacademy/app-dotnet)
+    - No code/Low code:
+        - Most of the Neo4j docs, developer guides, and knowledge base articles have an `Edit This Page` link on the top right.
+        - Use this to help fix typos, clarify explanations, add code-examples and more.
+        - Clicking the `Edit This Page` link will open up a Github editor where you can make changes and open Pull Request.
+        - Once you are done, please ask the maintainer of the repository to mark your contribution with a `hacktoberfest-accepted` label and once merged, this will count towards your four contributions.
+    - At the end of the month, Neo4j will give out a  Pixoo display for the best contribution. Tweet your pull requests with #hacktoberfest #neo4j and they will pick the winner in November.
+- **How to sign up**: No specific sign up required.
+- **Issues**: See the Issues in the repos above.
+- **Notes**: Check out the [medium blog post](https://medium.com/neo4j/hacktoberfest-at-neo4j-9991ccc98c33) for more info.
 
 #### **Novu**
 
