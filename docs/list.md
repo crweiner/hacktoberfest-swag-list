@@ -506,6 +506,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - The Steampipe team will review the pull request and let you know if any changes are needed.
 - **Notes**: For more details [their Hacktoberfest page](https://steampipe.io/blog/hacktoberfest-2022).
 
+#### **StepZen**
+
+- **Swag**: StepZen goodies, Hacktoberfest swag
+- **Requirements**:
+    - Add a new integration or improve existing integration in StepZen repository.
+    - New PR and Issue are encouraged (Not required)
+- **How to sign up**: Should be eligible for official hacktoberfest, other than that no special requirement.
+- **Issues**: Find all repos issues [in this StepZen GitHub project view here.](https://github.com/stepzen-dev/examples/issues).
+- **Notes**: For more details [their Hacktoberfest page](https://stepzen.com/blog/stepzen-hacktoberfest-2022).
+
 #### **SuiteCRM**
 
 - **Swag**: T-shirt, stickers, SuiteCRM-branded mug
