@@ -346,6 +346,31 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### N
 
+#### **Neo4j**
+- **Swag**: Pixoo display
+- **Requirements**:
+    - Code: Accepted PRs on GitHub repositories labeled with `hacktoberfest` or the following repositories to update drivers
+        - [Java](https://github.com/neo4j-graphacademy/app-java){:target="_blank"}
+        - [JavaScript/Node](https://github.com/neo4j-graphacademy/app-nodejs){:target="_blank"}
+        - [Python](https://github.com/neo4j-graphacademy/app-python){:target="_blank"}
+        - [Go](https://github.com/neo4j-graphacademy/app-go){:target="_blank"}
+        - [.Net](https://github.com/neo4j-graphacademy/app-dotnet){:target="_blank"}
+    - No code/Low code:
+        - Most of the Neo4j docs, developer guides, and knowledge base articles have an `Edit This Page` link on the top right.
+        - Use this to help fix typos, clarify explanations, add code-examples and more.
+        - Clicking the `Edit This Page` link will open up a Github editor where you can make changes and open Pull Request. 
+        - Once you are done, please ask the maintainer of the repository to mark your contribution with a `hacktoberfest-accepted` label and once merged, this will count towards your four contributions.
+- **How to sign up**: No specific sign up required.
+- **Issues**: List of [Neo4j hacktoberfest GitHub issues](https://github.com/search?q=hacktoberfest+neo4j&type=repositories){:target="_blank"}
+    - [Neo4j Documentation](https://neo4j.com/docs/){:target="_blank"}
+    - [Neo4j Developer Guides](https://neo4j.com/developer/get-started/){:target="_blank"}
+    - [Neo4j Labs Projects](https://neo4j.com/labs/){:target="_blank"}
+    - [Neo4j Knowledge Base](https://neo4j.com/developer/kb/){:target="_blank"}
+    - [Neo4j GraphAcademy](https://graphacademy.neo4j.com/){:target="_blank"}
+- **Notes**:
+    - Check out the [medium blog post](https://medium.com/neo4j/hacktoberfest-at-neo4j-9991ccc98c33){:target="_blank"} for more info.
+    - At the end of the month, Neo4j give out an extra goodie — a Pixoo display — for the best contribution. Tweet your pull requests with #hacktoberfest #neo4j and we’ll pick the winner in November.
+
 #### **Network to Code and Nautobot**
 
 - **Swag**: NTC & Nautobot swag including shirt(s), stickers, mugs, and more.
