@@ -134,6 +134,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Once all 4 PRs are accepted, then [fill out the form here](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 - **Notes**: Additional information regarding their Hacktoberfest participation [can be found on this page](https://camunda.com/hacktoberfest2022/){:target="\_blank"}.
 
+#### **Chimoney**
+
+- **Swag**: Credit, t-shirt
+- **Requirements**: Contribute to [Chimoney Community Projects repo](https://github.com/Chimoney/chimoney-community-projects){:target="\_blank"} during the month of October by tackling a `Hacktoberfest` labeled Issue, and have 4 merged PRs to the Chimoney repo.
+- **How to sign up**: You need to create a Chimoney account by following these steps:
+    - Create a organization on [Chimoney Dashboard](https://dash.chimoney.io){:target="\_blank"}.
+    - Send [them an email](mailto:support@chimoney.io) with the name of the organization to approve.
+    - Switch to the organization (top right) and go to dev page, you’ll see your keys. It’s `live keys`, for now. No test keys yet.
+    - They will add $10 for testing. You can always send $1 to yourself to test and redeem it back to the organization. That way, you always have funds.
+- **Notes**:
+    - 1 merged PR fixing a `Hacktoberfest` Issue = $25 credit.
+    - 4 merged PRs fixing a `Hacktoberfest` Issue = T-shirt and $100 credit.
+    - More information [here](https://twitter.com/chimoney_io/status/1576286913723596803?s=48&t=JCGsKCKdKEB_sVfGml2m6w){:target="\_blank"} and on their [Community Repo](https://github.com/Chimoney/chimoney-community-projects){:target="\_blank"}.
+
 #### **Codedamn**
 
 - **Swag**: T-shirt
