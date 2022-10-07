@@ -421,6 +421,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Submit your application to win swags from RapidAPI using the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScBao9QuBPjAOgNK_2cCe2_8Y40dqvkS8f0DMpst-WopZOg8w/viewform?usp=sf_link){:target="\_blank"}
 - **Notes**: Only the first 50 participants who complete the challenge will be chosen as winners. For more details visit the [page](https://rapidapi.com/learn/hacktoberfest){:target="\_blank"}.
 
+#### **Refine**
+
+- **Swag**: T-shirt, cap, bottle.
+- **Requirements**:
+    - Submit 1 pull request to the [refine repository](https://github.com/pankod/refine){:target="\_blank"} and get it merged to receive a refine T-shirt.
+    - Submit 2 pull requests and get them merged to receive a complete refine Swag Kit: T-shirt, cap & bottle.
+- **How to sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/){:target="\_blank"} anytime between September 26 and October 31, 2022.
+    - Pick one of the issues in refine repository, submit a pull request and get it merged.
+- **Issues**: Here you can find a [list of Hacktoberfest labeled issues](https://github.com/pankod/refine/labels/hacktoberfest){:target="\_blank"} in refine repository.
+- **Notes**: More details [in the refine blogpost here](https://refine.dev/blog/hacktoberfest-refine/){:target="\_blank"}
+
 ### S
 
 #### **Space Jelly and Cloudinary**
