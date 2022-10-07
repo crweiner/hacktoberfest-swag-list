@@ -66,3 +66,4 @@ extra:
 #Extensions
 markdown_extensions:
   - attr_list
+  - markdown3-newtab
