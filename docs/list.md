@@ -152,22 +152,22 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: T-shirt, certificate for contributing
 - **Requirements**: Contribute to the following repositories:
-    - [ClueLess Community Website](https://github.com/Clueless-Community/clueless-official-website){:target="_blank"}
-    - [First-Contribution](https://github.com/Clueless-Community/first-contribution){:target="_blank"}
-    - [College API](https://github.com/Clueless-Community/collegeAPI){:target="_blank"}
-    - [Prega.io](https://github.com/Clueless-Community/Prega){:target="_blank"}
-    - [Datasets](https://github.com/Clueless-Community/Datasets){:target="_blank"}
+    - [ClueLess Community Website](https://github.com/Clueless-Community/clueless-official-website)
+    - [First-Contribution](https://github.com/Clueless-Community/first-contribution)
+    - [College API](https://github.com/Clueless-Community/collegeAPI)
+    - [Prega.io](https://github.com/Clueless-Community/Prega)
+    - [Datasets](https://github.com/Clueless-Community/Datasets)
     - Earn points for your contributions:
         - `hard` issues on any repository earns 25 points
         - `medium` issues on any repository earns 15 points
         - `good first issue` on any repository earns 10 points
         - Bonus 5 points are awarded on contributions for the Clueless official website
-- **How to sign up**: Signup on the [Clueless web portal](clueless.tech){:target="_blank"}
+- **How to sign up**: Signup on the [Clueless web portal](https://www.clueless.tech/)
     - Each repository will have a seperate CONTRIBUTING.md
     - Merged PRs will need to tag a maintainer on their ClueLess profile.
 - **Issues**: Issues are tagged with: `hacktoberbest`, `good first issue` in their above repos.
 - **Notes**:
-    - Check out the [blog post](https://www.clueless.tech/hacktoberfest#){:target="_blank"} and [community GitHub](https://github.com/Clueless-Community){:target="_blank"} for more info.
+    - Check out the [blog post](https://www.clueless.tech/hacktoberfest#) and [community GitHub](https://github.com/Clueless-Community) for more info.
 
 #### **Codedamn**
 
@@ -368,11 +368,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: Pixoo display (might only be 1?)
 - **Requirements**:
     - Code: Accepted PRs on GitHub repositories labeled with `hacktoberfest` or the following repositories to update drivers
-        - [Java](https://github.com/neo4j-graphacademy/app-java){:target="_blank"}
-        - [JavaScript/Node](https://github.com/neo4j-graphacademy/app-nodejs){:target="_blank"}
-        - [Python](https://github.com/neo4j-graphacademy/app-python){:target="_blank"}
-        - [Go](https://github.com/neo4j-graphacademy/app-go){:target="_blank"}
-        - [.Net](https://github.com/neo4j-graphacademy/app-dotnet){:target="_blank"}
+        - [Java](https://github.com/neo4j-graphacademy/app-java)
+        - [JavaScript/Node](https://github.com/neo4j-graphacademy/app-nodejs)
+        - [Python](https://github.com/neo4j-graphacademy/app-python)
+        - [Go](https://github.com/neo4j-graphacademy/app-go)
+        - [.Net](https://github.com/neo4j-graphacademy/app-dotnet)
     - No code/Low code:
         - Most of the Neo4j docs, developer guides, and knowledge base articles have an `Edit This Page` link on the top right.
         - Use this to help fix typos, clarify explanations, add code-examples and more.
@@ -381,7 +381,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - At the end of the month, Neo4j will give out a  Pixoo display for the best contribution. Tweet your pull requests with #hacktoberfest #neo4j and they will pick the winner in November.
 - **How to sign up**: No specific sign up required.
 - **Issues**: See the Issues in the repos above.
-- **Notes**: Check out the [medium blog post](https://medium.com/neo4j/hacktoberfest-at-neo4j-9991ccc98c33){:target="_blank"} for more info.
+- **Notes**: Check out the [medium blog post](https://medium.com/neo4j/hacktoberfest-at-neo4j-9991ccc98c33) for more info.
 
 #### **Novu**
 
