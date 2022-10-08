@@ -49,7 +49,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
      - PRs merged before 2nd Of November 2022 only will be taken in consideration.
      - Must have proper documentation for getting started and usage.
      - Must include a sandbox account for integration tests.
-- **How to sign up**:  Check out the [Airbyte webiste](https://airbyte.com/connector-contest) for more details.
+- **How to sign up**:  Check out the [Airbyte website](https://airbyte.com/connector-contest) for more details.
 - **Issues**: Their [Hacktoberfest Issues](https://github.com/airbytehq/connector-contest/issues) are tagged here.
 - **Notes**: Join their [Hacktoberfest Slack channel](https://join.slack.com/share/enQtNDEzMjUzNTQ5OTg0Ny0xN2I2MDU4NGFkOTNlYzZlN2JmMGIzOTgyMjU1ODk1MDIzZWM5YTAzMThkMDFkNzgzNWNjNzljOGU1MmRhMDIw).
 
@@ -57,10 +57,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Limited edition Amplication T-Shirt, Coffee Mug, Sticker Sheet.
 - **Requirements**:
-    - 1-2 Contributions : The Amplication Exclusive Sticker Sheet/
-    - 3 or more Contributions: A choice between Amplication Exclusice Coffee Mug/T-Shirt/
-- **How to sign up**: Checkout the [Amplication Hacktoberfest Guidelines](https://github.com/amplication/amplication/issues/4039)/
-- **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)/
+    - 1-2 Contributions : The Amplication Exclusive Sticker Sheet
+    - 3 or more Contributions: A choice between Amplication Exclusive Coffee Mug/T-Shirt
+- **How to sign up**: Checkout the [Amplication Hacktoberfest Guidelines](https://github.com/amplication/amplication/issues/4039)
+- **Issues**: Every issue on our repository will be counted as Hacktoberfest issue. Visit [here](https://github.com/amplication/amplication/issues/)
 - **Note**: We also have non and low code issues open for the community.
 
 #### **Appsmith**
@@ -163,9 +163,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
         - `good first issue` on any repository earns 10 points
         - Bonus 5 points are awarded on contributions for the Clueless official website
 - **How to sign up**: Signup on the [Clueless web portal](https://www.clueless.tech/)
-    - Each repository will have a seperate CONTRIBUTING.md
+    - Each repository will have a separate CONTRIBUTING.md
     - Merged PRs will need to tag a maintainer on their ClueLess profile.
-- **Issues**: Issues are tagged with: `hacktoberbest`, `good first issue` in their above repos.
+- **Issues**: Issues are tagged with: `hacktoberfest`, `good first issue` in their above repos.
 - **Notes**:
     - Check out the [blog post](https://www.clueless.tech/hacktoberfest#) and [community GitHub](https://github.com/Clueless-Community) for more info.
 
@@ -173,7 +173,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: T-shirt
 - **Requirements**: During Hacktoberfest, submit an interactive project to [codedamn/projects repository](https://github.com/codedamn/projects).
-- **How to sign up**: [Please read their Readme file here very throughly](https://github.com/codedamn/projects#readme).
+- **How to sign up**: [Please read their Readme file here very thoroughly](https://github.com/codedamn/projects#readme).
 - **Notes**: In order to participate and win prizes, you have to submit a guided project. A guided project is a breakdown of a project into multiple steps for a beginner/intermediate developer to build. These guided projects can be attempted for free from codedamn IDE.
 
 ### D
@@ -210,12 +210,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Flyte**
 
-- **Swag**: Mug, T-shirt, The North Face® Jacket, Voucher
+- **Swag**: Mug, T-shirt, The North Face® Jacket, Voucher, O'Reilly premium membership
 - **Requirements**:
     - Submit 2 pull requests and get them approved/merged to receive a Flyte mug.
     - Submit 3 pull requests and get them approved/merged to receive a Flyte t-shirt.
     - Contribute a plugin to receive a voucher.
     - Submit 3+ pull requests and get them approved/merged to receive The North Face® jacket.
+    - One top contributor will receive an O'Reilly's individual premium annual subscription worth $500.
 - **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you are done with either of the challenges on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you have queries.
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/flyteorg/flyte/issues/2917)
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
@@ -361,12 +362,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Modtoberfest**
 
-- **Swag**: Prize pack including stickers and pins. They will also plant 1 [tree](https://modtoberfest.com/modtoberforest) for each valid PR.
+- **Swag**: Prize pack includes stickers and pins. They will also plant 1 [tree](https://modtoberfest.com/modtoberforest) for each valid PR.
 - **Requirements**:
     - You must sign up before the end of October 2022.
     - Pull requests must be made during October 2022.
     - Only pull requests against GitHub repositories on the [participating projects list](https://modtoberfest.com/repositories) count towards your progress in the challenge.
-    - You must submit pull requests to four [repositories](https://modtoberfest.com/repositories).
+    - You must submit pull requests to at least four different [repositories](https://modtoberfest.com/repositories).
     - Pull requests must meet the quality standards.
     - Rewards and prizes for completing the challenge are limited to one per person.
 - **How to sign up**: Sign up [here](https://modtoberfest.com/api/auth/signin) to participate.
@@ -577,10 +578,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **UnionML**
 
-- **Swag**: Tumbler, Voucher, Hoodie
+- **Swag**: Tumbler, Voucher, Hoodie, O'Reilly premium membership
 - **Requirements**:
     - Submit 2/3 pull requests and get them approved/merged to receive a voucher or Union tumbler.
     - Submit 3+ pull requests and get them approved/merged to receive a Union hoodie.
+    - One top contributor will receive an O'Reilly's individual premium annual subscription worth $500.
 - **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you have queries.
 - **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171)
 - **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.

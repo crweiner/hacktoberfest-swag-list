@@ -23,7 +23,7 @@ Please be sure to follow the simple rules:
 
 Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [list.md](/docs/list.md) file located at /docs/list.md.
 
-We are using a very simple language called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familiarize yourself with Markdown [using this handy cheat sheet provided by GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+We are using a very simple language called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familiarize yourself with Markdown [using this handy cheat sheet provided by GitHub (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf).
 
 New for 2022, we are only adding companies in an A->Z list and do not have a "Least Involvement to Most Involvement" section anymore. Why? Because this repo isn't about doing the least amount of effort to get a sticker or socks, it's about connecting you to companies who go above and beyond for Hacktoberfest. Thus, only an alphabetical list will be maintained this year.
 
