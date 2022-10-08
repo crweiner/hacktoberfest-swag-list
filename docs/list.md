@@ -351,7 +351,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Modtoberfest**
 
-- **Swag**: Prize pack including stickers and pins.They will also plant 1 [tree](https://modtoberfest.com/modtoberforest) for each valid PR.
+- **Swag**: Prize pack including stickers and pins. They will also plant 1 [tree](https://modtoberfest.com/modtoberforest) for each valid PR.
 - **Requirements**:
     - You must sign up before the end of October 2022.
     - Pull requests must be made during October 2022.
@@ -359,8 +359,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - You must submit pull requests to four [repositories](https://modtoberfest.com/repositories).
     - Pull requests must meet the quality standards.
     - Rewards and prizes for completing the challenge are limited to one per person.
-- **How to sign up**: Sign up [here](https://modtoberfest.com/api/auth/signin){:target="\_blank"} to participate.
-- **Notes**: Join the [Modtoberfest Discord channel](https://discord.modtoberfest.com/).
+- **How to sign up**: Sign up [here](https://modtoberfest.com/api/auth/signin) to participate.
+- **Notes**:
+    - Join the [Modtoberfest Discord channel](https://discord.modtoberfest.com/).
+    - Some, but not all, of the Modtoberfest repos are also participating in Hacktoberfest.
 
 ### N
 
