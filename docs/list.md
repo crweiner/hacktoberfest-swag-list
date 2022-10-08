@@ -210,14 +210,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Globo**
 
-- **Swag**: Awesome Globo t-shirt
-- **Requirements**: 
+- **Swag**: Globo t-shirt
+- **Requirements**:
     - Contribute two Pull Requests to any Open Source project at Globo during the month of October.
-    - Ensure that at least one pull request is ACCEPTED.
+    - Ensure that at least one pull request is accepted.
     - The first 100 applicants who complete the minimum requirements will receive a t-shirt.
-- **How to sign up**: [Join](https://hacktoberfest.globo.com/login){:target="\_blank"} with your github account!
-- **Issues**: N/A
-- **Notes**: Checkout the [official post](https://opensource.globo.com/){:target="\_blank"} for more info.
+- **How to sign up**: [Join](https://hacktoberfest.globo.com/login) with your GitHub account.
+- **Notes**: Checkout the [official post](https://opensource.globo.com/) for more info.
 
 ### H
 
