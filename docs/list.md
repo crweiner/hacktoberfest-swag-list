@@ -579,7 +579,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **UnionML**
 
 - **Swag**: Tumbler, Voucher, Hoodie, O'Reilly premium membership
-
 - **Requirements**:
     - Submit 2/3 pull requests and get them approved/merged to receive a voucher or Union tumbler.
     - Submit 3+ pull requests and get them approved/merged to receive a Union hoodie.
