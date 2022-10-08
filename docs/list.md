@@ -351,6 +351,21 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### N
 
+#### **NativeScript**
+
+- **Swag**: Exclusive NativeScript Swags
+- **Requirements**:
+    - Create a StackBlitz of anything fun or neat about [NativeScript](https://preview.nativescript.org).
+    - Contribute a PR for an issue in a participating NativeScript repository.
+    - Share a gist of neat NativeScript code you find useful.
+    - Create a NativeScript plugin.
+    - Tweet about it and mention @[NativeScript](https://twitter.com/NativeScript).
+- **How to sign up**:
+    - Contribute with PR/MRs to NativeScript's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
+    - The NativeScript team will review your PRs and give you feedback.
+    - DM your address to the [NativeScript Twitter account](https://twitter.com/NativeScript) after you've qualified for their swag.
+- **Notes**: More details for the prizes [are here](https://twitter.com/NativeScript/status/1577660072150196224).
+
 #### **Network to Code and Nautobot**
 
 - **Swag**: NTC & Nautobot swag including shirt(s), stickers, mugs, and more.
