@@ -341,7 +341,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Tweet about it and mention @[NativeScript](https://twitter.com/NativeScript).
 - **How to sign up**:
     - Contribute with PR/MRs to NativeScript's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
-    - The NativeScript team will review your PRs constantly and give you feedback.
+    - The NativeScript team will review your PRs and give you feedback.
+    - DM your address to the [NativeScript Twitter account](https://twitter.com/NativeScript) after you've qualified for their swag.
 - **Notes**: More details for the prizes [are here](https://twitter.com/NativeScript/status/1577660072150196224).
 
 #### **Network to Code and Nautobot**
