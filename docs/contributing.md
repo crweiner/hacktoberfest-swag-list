@@ -4,9 +4,47 @@ We'd love it if you could help make the Hacktoberfest Swag List even better. Tha
 
 Check [Issues](https://github.com/crweiner/hacktoberfest-swag-list/issues) and current [Pull Requests](https://github.com/crweiner/hacktoberfest-swag-list/pulls) before contributing to avoid adding duplicates.
 
+## Setting up the site locally
+
+You will need following dependencies already installed in your system to set up MkDocs locally:
+
+* [Python 3.8](https://www.python.org/downloads/release/python-380/)
+* [pipenv](https://pypi.org/project/pipenv/)
+
+#### Setting up the repository
+
+To get the site up and running locally, follow the below steps:
+
+* Fork the repository [here](https://github.com/crweiner/hacktoberfest-swag-list/fork).
+
+* Create a local clone of the website:
+
+  ```
+  git clone git@github.com:<YOUR-USERNAME>/hacktoberfest-swag-list.git
+  ```
+
+* Change into the `hacktoberfest-swag-list` directory:
+
+  ```
+  cd hacktoberfest-swag-list
+  ```
+
+* Install the required dependencies
+
+  ```
+  pipenv install
+  ```
+* Build the site and make it available on your local server:
+
+  ```
+  mkdocs serve
+  ```
+
+## Adding a new company to the list
+
 Please follow these rules regarding how to add a new company to the List:
 
-## Rules of Contributing
+### Rules of Contributing
 
 If you wish to add something to the Hacktoberfest Swag List, that's great and we'd love to have you!
 
