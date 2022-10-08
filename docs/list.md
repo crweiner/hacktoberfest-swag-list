@@ -75,10 +75,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
         - Bronze award earns 4 coins
         - Silver award earns 7 coins
         - Gold award earns 10 coins
-- **How to sign up**: Sign up here on [Appsmith's app](https://app.appsmith.com/app/hacktoberfest-2022/about-the-event-633619b89cb3ec2a8a93332c){:target="_blank"}.
-- **Issues**: List of [hacktoberfest issues](https://github.com/appsmithorg/appsmith/labels/hacktoberfest){:target="_blank"}
+- **How to sign up**: Sign up here on [Appsmith's app](https://app.appsmith.com/app/hacktoberfest-2022/about-the-event-633619b89cb3ec2a8a93332c).
+- **Issues**: List of [hacktoberfest issues](https://github.com/appsmithorg/appsmith/labels/hacktoberfest)
 - **Notes**:
-    - Check out the [blog post](https://www.appsmith.com/blog/hacktoberfest-2022-come-on-in-the-low-code-is-fine){:target="_blank"} for more info.
+    - Check out the [blog post](https://www.appsmith.com/blog/hacktoberfest-2022-come-on-in-the-low-code-is-fine) for more info.
     - Step 1 : Contribute!
         - Contribute core issues OR no/low code templates on our platform.
     - Step 2 : Win coins!
@@ -229,6 +229,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Add values on the [Gita Initiative repo](https://github.com/gita/gita).
 - **Notes**: Check out this [link](https://www.linkedin.com/posts/vedvyas_github-gitagita-bhagavad-gita-in-json-activity-6982314384161140736-o370/) for more info.
 
+#### **Globo**
+
+- **Swag**: Globo t-shirt
+- **Requirements**:
+    - Contribute two Pull Requests to any Open Source project at Globo during the month of October.
+    - Ensure that at least one pull request is accepted.
+    - The first 100 applicants who complete the minimum requirements will receive a t-shirt.
+- **How to sign up**: [Join](https://hacktoberfest.globo.com/login) with your GitHub account.
+- **Notes**: Checkout the [official post](https://opensource.globo.com/) for more info.
+
 ### H
 
 #### **Hasura**
@@ -322,6 +332,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ameilisearch+label%3Ahacktoberfest&state=open&type=Issues).
 - **Notes**: Check out the [blog post](https://blog.meilisearch.com/contribute-hacktoberfest-2022/) for more info.
 
+#### **Metafy**
+
+- **Swag**: NFT and T-shirts
+- **Requirements**:
+    - Submit one or more pull requests to Metafy's repositories with the `hacktoberfest` label to qualify as a contributor. Top contributors will get their very own NFT and T-shirts from Metafy. Check out the [Documentation on their GitHub README File](https://github.com/metafy-social/.github/blob/main/profile/README.md) for more details.
+- **How to Sign up**:
+    - Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
+    - Contribute with PR/MRs to Metafy's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
+    - The Metafy team will review your PRs constantly and give you feedback.
+- **Notes**:
+    - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt) to find additional details or connect with Metafy's employees.
+
 #### **MindsDB**
 
 - **Swag**: Razer Blade 15 Laptop, T-shirt, cool audio gadgets, and a cash prize.
@@ -336,18 +358,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Authors of the top 3 upvoted ideas and top 3 video tutorials or winners of the prize draw, will get the gadget they like – either JBL Wireless Earbuds or Rugged Outdoor Speaker.
 - **How to sign up**: Please complete the form below to participate in the prize draw. You should complete the form just once with all your contributions listed. You will be able to edit your responses after submission. [The form can be found here](https://docs.google.com/forms/d/e/1FAIpQLSeyuQGpu-gmVAbXPXMsT5bfFQk28qGNHlsOjz9kkHmgyQEFOw/viewform).
 - **Notes**: Check out their [Hacktoberfest webpage](https://mindsdb.com/hacktoberfest/) for more info about earning points.
-
-#### **Metafy**
-
-- **Swag**: NFT and T-shirts
-- **Requirements**:
-    - Submit one or more pull requests to Metafy's repositories with the `hacktoberfest` label to qualify as a contributor. Top contributors will get their very own NFT and T-shirts from Metafy. Check out the [Documentation on their GitHub README File](https://github.com/metafy-social/.github/blob/main/profile/README.md) for more details.
-- **How to Sign up**:
-    - Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
-    - Contribute with PR/MRs to Metafy's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
-    - The Metafy team will review your PRs constantly and give you feedback.
-- **Notes**:
-    - Join the [Metafys's Discord Server](https://discord.com/invite/AqnaGBGAUt) to find additional details or connect with Metafy's employees.
 
 #### **Modtoberfest**
 
@@ -365,6 +375,21 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Some, but not all, of the Modtoberfest repos are also participating in Hacktoberfest.
 
 ### N
+
+#### **NativeScript**
+
+- **Swag**: Exclusive NativeScript Swags
+- **Requirements**:
+    - Create a StackBlitz of anything fun or neat about [NativeScript](https://preview.nativescript.org).
+    - Contribute a PR for an issue in a participating NativeScript repository.
+    - Share a gist of neat NativeScript code you find useful.
+    - Create a NativeScript plugin.
+    - Tweet about it and mention @[NativeScript](https://twitter.com/NativeScript).
+- **How to sign up**:
+    - Contribute with PR/MRs to NativeScript's `hacktoberfest` labelled repositories during the period from October 1 to October 31, 2022.
+    - The NativeScript team will review your PRs and give you feedback.
+    - DM your address to the [NativeScript Twitter account](https://twitter.com/NativeScript) after you've qualified for their swag.
+- **Notes**: More details for the prizes [are here](https://twitter.com/NativeScript/status/1577660072150196224).
 
 #### **Network to Code and Nautobot**
 
@@ -556,9 +581,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**:
     - Submit 2/3 pull requests and get them approved/merged to receive a voucher or Union tumbler.
     - Submit 3+ pull requests and get them approved/merged to receive a Union hoodie.
-- **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ){:target="_blank"} after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/){:target="_blank"} channel in case you have queries.
-- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171){:target="_blank"}
-- **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022){:target="_blank"} for more info.
+- **How to sign up**: Fill out this [form](https://tally.so/r/nWO7qQ) after you submit a pull request on or before Oct. 31, 2022. Join Flyte's #hacktoberfest-2022 [Slack](https://slack.flyte.org/) channel in case you have queries.
+- **Issues**: List of [hacktoberfest-labeled issues](https://github.com/unionai-oss/unionml/issues/171)
+- **Notes**: Check out the [blog post](https://blog.flyte.org/meet-flyte-and-unionml-at-hacktoberfest-2022) for more info.
 
 #### **Uno**
 
@@ -568,14 +593,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Submit 4 Quality Pull Requests for a Uno Platform T-shirt.
     - Submit 10 Quality Pull Requests for a Uno Platform Hoodie.
 - **How to sign up**:
-    - Tackle an [open issue](https://github.com/unoplatform/uno/issues){:target="_blank"}, review the list of [documentation and code samples that need some help](https://github.com/orgs/unoplatform/projects/77/views/1){:target="_blank"}, or submit an advocacy contribution (see the blog post).
+    - Tackle an [open issue](https://github.com/unoplatform/uno/issues), review the list of [documentation and code samples that need some help](https://github.com/orgs/unoplatform/projects/77/views/1), or submit an advocacy contribution (see the blog post).
 - **Issues**:
-    - List of [hacktoberfest issues](https://github.com/unoplatform/uno/labels/hacktoberfest){:target="_blank"}
-    - List of [open issues](https://github.com/unoplatform/uno/issues){:target="_blank"}
-    - List of [documentation contributions](https://github.com/orgs/unoplatform/projects/77/views/1){:target="_blank"}
-    - List of [advocacy contributions](https://github.com/unoplatform/uno/blob/master/doc/articles/guides/community-tutorials.md){:target="_blank"}
+    - List of [hacktoberfest issues](https://github.com/unoplatform/uno/labels/hacktoberfest)
+    - List of [open issues](https://github.com/unoplatform/uno/issues)
+    - List of [documentation contributions](https://github.com/orgs/unoplatform/projects/77/views/1)
+    - List of [advocacy contributions](https://github.com/unoplatform/uno/blob/master/doc/articles/guides/community-tutorials.md)
 - **Notes**:
-    - Check out the [blog post](https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/){:target="_blank"} for more info.
+    - Check out the [blog post](https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/) for more info.
 
 ---
 
