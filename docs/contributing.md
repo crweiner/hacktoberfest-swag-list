@@ -11,7 +11,7 @@ You will need following dependencies already installed in your system to set up 
 * [Python 3.8](https://www.python.org/downloads/release/python-380/)
 * [pipenv](https://pypi.org/project/pipenv/)
 
-#### Setting up the repository
+### Setting up the repository
 
 To get the site up and running locally, follow the below steps:
 
@@ -19,26 +19,31 @@ To get the site up and running locally, follow the below steps:
 
 * Create a local clone of the website:
 
-  ```
+  ```bash
   git clone git@github.com:<YOUR-USERNAME>/hacktoberfest-swag-list.git
   ```
 
 * Change into the `hacktoberfest-swag-list` directory:
 
-  ```
+  ```bash
   cd hacktoberfest-swag-list
   ```
 
+### Run MkDocs
+
 * Install the required dependencies
 
-  ```
+  ```bash
   pipenv install
   ```
-* Build the site and make it available on your local server:
 
-  ```
+* Build the site and make it available on your local server for live viewing:
+
+  ```bash
   mkdocs serve
   ```
+
+Please make sure you are always making changes in the Markdown docs located in /docs/ and do not edit the HTML that MkDocs builds in the 
 
 ## Adding a new company to the list
 
@@ -90,7 +95,7 @@ Find the first letter of your company within the list, then add your information
 
 ## Other Contributing Guidelines
 
-- Issues are not assigned to any one person. Please don't ask for an Issue to be assigned to you. All meaningful PRs will be reviewed first-come-first-served due to Hacktoberfest only being a month long.
+* Issues are not assigned to any one person. Please don't ask for an Issue to be assigned to you. All meaningful PRs will be reviewed first-come-first-served due to Hacktoberfest only being a month long.
 
 ---
 
