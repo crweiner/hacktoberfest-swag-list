@@ -25,9 +25,9 @@ mkdocs>=1.4.0
 mkdocs-material-extensions>=1.0.3
 pygments>=2.12
 pymdown-extensions>=9.4
-pillow = "*"
-cairosvg = "*"
-markdown-link-attr-modifier = "*"
 
 # Requirements for plugins
 requests>=2.26
+pillow = "*"
+cairosvg = "*"
+markdown-link-attr-modifier = "*"
