@@ -199,17 +199,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **devtron**
 
-- **Swag**: 
-    * 1st Rank : Devtron's Limited Edition Swag Kit
-    * 2nd Rank : Devtron's Limited Edition Diary + stickers
-    * 3rd Rank : Devtron's Limited Edition stickers
-- **Requirements**:  
-    * Star the [Devtron](https://github.com/devtron-labs/devtron) repo on Github
-    *  Follow us on [Twitter](https://twitter.com/DevtronL)
-    *  Make some art and share it on Twitter. Tag @DevtronL and use    #Hacktoberfest, #Devtron on your post.
+- **Swag**: Devtron's Limited Edition Swag Kit for 1st Rank , Devtron's Limited Edition Diary + stickers for 2nd Rank,  Devtron's Limited Edition stickers for 3rd Rank
+- **Requirements**:
+    - Star the [Devtron](https://github.com/devtron-labs/devtron) repo on Github
+    - Follow us on [Twitter](https://twitter.com/DevtronL)
+    - Make some art and share it on Twitter. Tag @DevtronL and use    #Hacktoberfest, #Devtron on your post.
 - **How to sign up**: Open this [Github Repo](https://github.com/devtron-labs/devtron) ,Fork it and star it . When submitting a PR please add Hacktoberfest in the PR Description. This would give us a confirmation on whether the PR is for Hacktoberfest.
-- **Issues**: Checkout [Devtron Repo](https://github.com/devtron-labs/hacktoberfest2022/blob/main/README.md#book-contribution-guidelines)
+- **Issues**: Checkout [Devtron Repo](https://github.com/devtron-labs/hacktoberfest2022/blob/main/README.md#book-contribution-guidelines).
 - **Notes**: Read the contributions guidelines caredfully and for such opportunites in devtron [Click Here](https://github.com/devtron-labs/hacktoberfest2022/blob/main/README.md#book-contribution-guidelines)
+
 ### E
 
 #### **Encore**
