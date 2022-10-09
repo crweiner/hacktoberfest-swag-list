@@ -482,6 +482,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
   - Get started with the [issues at](https://github.com/openreplay/openreplay/issues).
 - **Notes**:
   - For more details [their Hacktoberfest page](https://blog.openreplay.com/its-hacktoberfest-and-were-here-for-it/).
+
 #### **OpenSearch**
 
 - **Swag**: T-shirt, Sticker Pack, Water Bottle
@@ -602,6 +603,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
   - Find all the open source repo issues [in this StepZen GitHub project view here.](https://github.com/stepzen-dev/examples/issues).
 - **Notes**:
   - For more details [their Hacktoberfest page](https://stepzen.com/blog/stepzen-hacktoberfest-2022).
+
 #### **SuiteCRM**
 
 - **Swag**: T-shirt, stickers, SuiteCRM-branded mug
@@ -669,9 +671,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Register offically at [hacktoberfest](https://hacktoberfest.com/participation/)
 - **Issues**:
     - Check the list of open sourec repos by Zyte [here](https://www.zyte.com/blog/hacktoberfest-2022/)
-- **Notes**:
-    - You only need to fill [this]() form after one of your pull requests is accepted.
-    - Check out the [blog post](https://www.zyte.com/blog/hacktoberfest-2022) for more info.
+- **Notes**: You only need to fill [this]() form after one of your pull requests is accepted.
+   
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
