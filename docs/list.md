@@ -226,6 +226,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
   - Be sure to register for Hacktoberest first by clicking [here](https://hacktoberfest.com/profile/).
 - **Notes**:
   - There are list of other events also that they are hosting which you can check on their site [here](https://docker.github.io/hacktoberfest/)
+
 ### E
 
 #### **Encore**
@@ -475,7 +476,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
   - All PR’s must be merged by November 2022.
   - All contributions must follow all official rules from Hacktoberfest 2022.
   - Any external service or plugin presented as part of the must be properly documented to understand how to run and test it.
-- **How to sign up**: 
+- **How to sign up**:
   - Should be eligible for official hacktoberfest, other than that no special signup process.
 - **Issues**:
   - Get started with the [issues at](https://github.com/openreplay/openreplay/issues).
@@ -597,9 +598,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
   - New PR and Issue are encouraged (Not required)
 - **How to sign up**:
   - Should be eligible for official hacktoberfest, other than that no special requirement.
-- **Issues**: 
+- **Issues**:
   - Find all the open source repo issues [in this StepZen GitHub project view here.](https://github.com/stepzen-dev/examples/issues).
-- **Notes**: 
+- **Notes**:
   - For more details [their Hacktoberfest page](https://stepzen.com/blog/stepzen-hacktoberfest-2022).
 #### **SuiteCRM**
 
@@ -662,15 +663,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Hacktoberfest swag, Zyte swag
 - **Requirements**:
-  - The first 20 participants to get a PR accepted on those projects will win Zyte Swag.
-  - Fill this [form](https://share.hsforms.com/18bF2UnWKRmKx8AgRX-1AAg2lm14) to apply for zyte swag after PR acceptance.
+    - The first 20 participants to get a PR accepted on those projects will win Zyte Swag.
+    - Fill this [form](https://share.hsforms.com/18bF2UnWKRmKx8AgRX-1AAg2lm14) to apply for zyte swag after PR acceptance.
 - **How to sign up**:
-  - Register offically at [hacktoberfest](https://hacktoberfest.com/participation/)
+    - Register offically at [hacktoberfest](https://hacktoberfest.com/participation/)
 - **Issues**:
-  - Check the list of open sourec repos by Zyte [here](https://www.zyte.com/blog/hacktoberfest-2022/)
+    - Check the list of open sourec repos by Zyte [here](https://www.zyte.com/blog/hacktoberfest-2022/)
 - **Notes**:
-  - You only need to fill [this]() form after one of your pull requests is accepted.
-  - Check out the [blog post](https://www.zyte.com/blog/hacktoberfest-2022) for more info.
+    - You only need to fill [this]() form after one of your pull requests is accepted.
+    - Check out the [blog post](https://www.zyte.com/blog/hacktoberfest-2022) for more info.
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
