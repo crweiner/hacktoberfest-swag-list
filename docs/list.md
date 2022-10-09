@@ -262,6 +262,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [learn-graphql issues](https://github.com/hasura/learn-graphql/issues) and [graphql-engine issues](https://github.com/hasura/graphql-engine/issues).
 - **Notes**: For more information, check out [this blog post](https://hasura.io/blog/hasura-joins-hacktoberfest-3rd-year-in-a-row/) and [this blog post too](https://hasura.io/blog/with-hasura-celebrate-open-source-in-style-with-hacktoberfest/).
 
+#### **Hacksquad**
+
+- **Swag**: T-shirts, hacksquad printed cups,carry bags,stickers,Hoodie
+- **Requirements**:
+    Register to the HackSquad using your GitHub, Join a squad or get assigned to a random squad, contribute code and get Swag!
+- **How to sign up**: Open this [Hacksquad](https://www.hacksquad.dev/) ,Click on join now and there you go.
+- **Issues**: Checkout [goodfirstissue](https://goodfirstissue.dev/) and contribute to it.
+- **Notes**:
+    - The top 60 squads will win awesome swag! around ~300 winners!
+    - Each hour we calculate the number of MERGED PRs of each squad member and sum them all up. Each PR is worth 1 point. By the end of the event, the top 60 squads will win awesome swag! 
+    - To win swag, even if your team wins, you would need to have 1 MERGED PR
+
+
 ### I
 
 #### **INVERTASE**
