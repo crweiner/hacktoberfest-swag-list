@@ -242,6 +242,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### H
 
+#### **HackSquad**
+
+- **Swag**: Shirts, hoodies, mugs, stickers
+- **Requirements**:
+    - Join a squad of up to 5 other members or get assigned into a random squad.
+    - Each hour the number of merged PRs of each member will be summed up. Each PR is worth 1 point.
+    - The top 60 squads will win swag, which is calculated [here](https://github.com/novuhq/hacksquad-background/blob/main/src/services/github/github.service.ts).
+- **How to sign up**: Sign up on [HackSquad's app](https://www.hacksquad.dev/) using a GitHub account.
+- **Notes**:
+    - Swag will take 60-90 days to receive.
+    - HackSquad's current leaderboard can be found [here](https://www.hacksquad.dev/leaderboard).
+
 #### **Hasura**
 
 - **Swag**: T-shirt and stickers.
