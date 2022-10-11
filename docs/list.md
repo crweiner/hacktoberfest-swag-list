@@ -198,7 +198,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
 
 #### **Devtron**
-- **Swag**: Swag Kit, Raspberry Pi 4, SAMSUNG Galaxy Tab A8,  Google Home Mini with Google Assistant Smart Speaker, Surprize Box.  
+
+- **Swag**: Swag Kit, Raspberry Pi 4, SAMSUNG Galaxy Tab A8,  Google Home Mini with Google Assistant Smart Speaker, Surprize Box.
 - **Requirements**:
     - Under [Devtron-labs](https://github.com/devtron-labs) there are multiple repositories that hold some part of the code that goes into making Devtron what it is.
         - Micro-Blogathon: 1st Oct. - 30th Oct. Please refer [this](https://github.com/devtron-labs/hacktoberfest2022/blob/main/Docs/blogathon-rules.md) for participation guidelines.
