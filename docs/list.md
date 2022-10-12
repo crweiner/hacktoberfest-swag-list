@@ -197,6 +197,40 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign in with [Github here](https://devict-hacktoberfest.herokuapp.com/) so they can track your PRs.
 - **Notes**: You need to create at least two PRs in any of the  Wichita developer community organizations listed [here](https://devict-hacktoberfest.herokuapp.com/)
 
+#### **Devtron**
+
+- **Swag**: Swag Kit, Raspberry Pi 4, SAMSUNG Galaxy Tab A8,  Google Home Mini with Google Assistant Smart Speaker, Surprize Box.
+- **Requirements**:
+    - Under [Devtron-labs](https://github.com/devtron-labs) there are multiple repositories that hold some part of the code that goes into making Devtron what it is.
+        - Micro-Blogathon: 1st Oct. - 30th Oct. Please refer [this](https://github.com/devtron-labs/hacktoberfest2022/blob/main/Docs/blogathon-rules.md) for participation guidelines.
+        - Hunt-a-Bug: 9th Oct. - 31st Oct. Please refer [this](https://github.com/devtron-labs/hacktoberfest2022/blob/main/Docs/hunt-a-bug-rules.md) for participation guidelines.
+        - Art-a-Thon: 16th Oct. - 23rd Oct. Participation Guidelines
+            - Star the [Devtron repo on GitHub](https://github.com/devtron-labs/devtron).
+            - Follow them on [Twitter](https://twitter.com/devtron).
+            - Make some art and share it on Twitter. Tag @DevtronL and use #Hacktoberfest, #Devtron on your posts.
+        - HackDiaries: 23rd Oct. - 31st Oct. Participation Guidelines
+            - Star the [Devtron repo on GitHub](https://github.com/devtron-labs/devtron).
+            - Follow them on [Twitter](https://twitter.com/devtron).
+            - Write a Twitter thread and tag @DevtronL in it along with #Hacktoberfest and #Devtron.
+- **How to sign up**: No Special Sign-ups required. You can simply visit their repository [here](https://github.com/devtron-labs/hacktoberfest2022) and pick up any available issue to submit a PR or participate in the Twitter discussions above.
+- **Notes**: The repository has separate sections for beginner friendly. All the information can be found [here](https://github.com/devtron-labs/hacktoberfest2022)
+
+#### **Dyrectorio**
+
+- **Swag**: Swag cap for writing unit tests with 10% coverage in the golang side of the repository
+- **Requirements**: You need to make the test coverage up to 10%.
+- **How to sign up**: You can simply visit their repository [here](https://github.com/dyrector-io/dyrectorio).
+- **Notes**: If you add more than 10% coverage in the golang side of the repository, they'll send you a Dyrectorio swag cap.
+
+#### **Docker**
+
+- **Swag**: To be revealed soon.
+- **Requirements**: There are two different ways of participating:
+    - Build your own extension.
+    - Contribute to an existing Open Source extension.
+- **How to sign up**: Unsure how they are tracking signups at the moment.
+- **Notes**: There are list of other events also that they are hosting on October 11th, 20th, and 22nd . Check more on their site [here for detailed information of how to build your own extension or contribute to an existing one](https://docker.github.io/hacktoberfest/).
+
 ### E
 
 #### **Encore**
@@ -241,6 +275,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: Checkout the [official post](https://opensource.globo.com/) for more info.
 
 ### H
+
+#### **HackSquad**
+
+- **Swag**: Shirts, hoodies, mugs, stickers
+- **Requirements**:
+    - Join a squad of up to 5 other members or get assigned into a random squad.
+    - Each hour the number of merged PRs of each member will be summed up. Each PR is worth 1 point.
+    - The top 60 squads will win swag, which is calculated [here](https://github.com/novuhq/hacksquad-background/blob/main/src/services/github/github.service.ts).
+- **How to sign up**: Sign up on [HackSquad's app](https://www.hacksquad.dev/) using a GitHub account.
+- **Notes**:
+    - Swag will take 60-90 days to receive.
+    - HackSquad's current leaderboard can be found [here](https://www.hacksquad.dev/leaderboard).
 
 #### **Hasura**
 
@@ -439,6 +485,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### O
 
+#### **OpenReplay**
+
+- **Swag**: $50 Amazon Card (3 winners)
+- **Requirements**:
+    - Create new plugins or custom heuristics.
+    - All PR’s must be merged by November 2022.
+    - Any external service or plugin presented as part of the must be properly documented to understand how to run and test it.
+- **How to sign up**: No special signup process.
+- **Issues**: They have lots of tagged [Issues here](https://github.com/openreplay/openreplay/issues).
+- **Notes**: For more details, including joining their [Slack community](https://slack.openreplay.com/), see [their Hacktoberfest page](https://blog.openreplay.com/its-hacktoberfest-and-were-here-for-it/).
+
 #### **OpenSearch**
 
 - **Swag**: T-shirt, Sticker Pack, Water Bottle
@@ -547,6 +604,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - The Steampipe team will review the pull request and let you know if any changes are needed.
 - **Notes**: For more details [their Hacktoberfest page](https://steampipe.io/blog/hacktoberfest-2022).
 
+#### **StepZen**
+
+- **Swag**: StepZen goodies, Hacktoberfest swag
+- **Requirements**:
+    - Add a new integration or improve existing integration in StepZen repository.
+    - New PR and Issue are encouraged (Not required)
+- **How to sign up**: No special signup requirement known at this time.
+- **Issues**: Find all the open source repo issues [in this StepZen GitHub project view here.](https://github.com/stepzen-dev/examples/issues).
+- **Notes**: For more details, read [their Hacktoberfest blog post](https://stepzen.com/blog/stepzen-hacktoberfest-2022).
+
 #### **SuiteCRM**
 
 - **Swag**: T-shirt, stickers, SuiteCRM-branded mug
@@ -603,6 +670,21 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - List of [advocacy contributions](https://github.com/unoplatform/uno/blob/master/doc/articles/guides/community-tutorials.md)
 - **Notes**:
     - Check out the [blog post](https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/) for more info.
+
+### Z
+
+#### **Zyte**
+
+- **Swag**: Zyte swag
+- **Requirements**:
+    - The first 20 participants to get a PR accepted on those projects will win Zyte Swag.
+    - You can contribute to their following repos
+        - [ZyteData](https://github.com/zytedata)
+        - [ScrapingHub](https://github.com/scrapinghub/)
+        - [Scrapy](https://github.com/scrapy)
+        - [Scrapy-plugins](https://github.com/scrapy-plugins/)
+- **How to sign up**: Fill this [form](https://share.hsforms.com/18bF2UnWKRmKx8AgRX-1AAg2lm14) to apply for zyte swag after any one PR acceptance.
+- **Notes**: For more information, check their [Hacktoberfest blog post](https://www.zyte.com/blog/hacktoberfest-2022/).
 
 ---
 
