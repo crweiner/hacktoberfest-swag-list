@@ -68,3 +68,8 @@ markdown_extensions:
   - attr_list
   - markdown_link_attr_modifier:
       new_tab: external_only
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
