@@ -12,6 +12,7 @@ theme:
   logo: img/Hfest-Badge-2-Color-Void.svg
   features: 
     - navigation.tracking
+    - content.code.annotate
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
