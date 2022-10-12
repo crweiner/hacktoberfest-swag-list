@@ -28,6 +28,6 @@ pymdown-extensions>=9.4
 
 # Requirements for plugins
 requests>=2.26
-pillow = "*"
-cairosvg = "*"
-markdown-link-attr-modifier = "*"
+pillow>=9.2.0
+cairosvg>=2.5.2
+markdown-link-attr-modifier>=0.2.0
