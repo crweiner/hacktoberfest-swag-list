@@ -219,7 +219,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Swag cap for writing unit tests with 10% coverage in the golang side of the repository
 - **Requirements**: You need to make the test coverage up to 10%.
-- **How to sign up**: You can simply visit their repository [here](https://github.com/dyrector-io/dyrectorio/issues/241).
+- **How to sign up**: You can simply visit their repository [here](https://github.com/dyrector-io/dyrectorio).
 - **Notes**: If you add more than 10% coverage in the golang side of the repository, they'll send you a Dyrectorio swag cap.
 
 #### **Docker**
