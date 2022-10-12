@@ -671,6 +671,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**:
     - Check out the [blog post](https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/) for more info.
 
+
+
+#### **QuestDB**
+
+- **Swag**: (T-shirt)
+- **Requirements**: contribute one valid pull-request to any of the QuestDB projects listed below.
+    - You can contribute to their following repos
+      - [QuestDB](https://github.com/questdb/questdb)
+      - [QuestDB.io](https://github.com/questdb/questdb.io)
+      - [Web Console](https://github.com/questdb/ui/tree/main/packages/web-console)
+- **How to sign up**: No separate signup required.
+- **Issues**: Optional link to Hacktoberfest tagged issues.
+- **Notes**: For more information, check their [Hacktoberfest blog post](https://dev.to/questdb/join-hacktoberfest-2022-and-contribute-to-questdb-1f8l/).
+
 #### **Zyte**
 
 - **Swag**: Zyte swag
