@@ -671,7 +671,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**:
     - Check out the [blog post](https://platform.uno/blog/uno-platform-at-hacktoberfest-2022-prizes-and-how-to-participate/) for more info.
 
-
 ### Q
 
 #### **QuestDB**
