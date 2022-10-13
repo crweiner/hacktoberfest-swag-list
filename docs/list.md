@@ -560,6 +560,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Submit your application to win swags from RapidAPI using the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScBao9QuBPjAOgNK_2cCe2_8Y40dqvkS8f0DMpst-WopZOg8w/viewform?usp=sf_link)
 - **Notes**: Only the first 50 participants who complete the challenge will be chosen as winners. For more details visit the [page](https://rapidapi.com/learn/hacktoberfest).
 
+#### **Razorpay**
+
+- **Swag**: Exclusive Razorpay stickers, T-shirt.
+- **Requirements**:
+    - Submit atleast 1 pull request to any public Razorpay repository to get a pack of exclusive Razorpay stickers.
+    - Top contributors will receive an exclusive Razorpay T-shirt.
+    - All pull requests should be opened before the end of October 2022.
+- **How to sign up**: No special sign-ups needed.
+- **Issues**: See the list of [issues in Razorpay repositories](https://github.com/search?q=org%3Arazorpay+is%3Aissue+is%3Aopen).
+- **Notes**: Please see [this page](https://github.com/razorpay/.github/blob/master/HACKTOBERFEST.md) for more details.
+
 #### **Refine**
 
 - **Swag**: T-shirt, cap, bottle.
