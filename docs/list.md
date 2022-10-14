@@ -100,6 +100,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=issues&s=updated&o=asc).
 - **Notes**: Read the [blog post](https://appwrite.io/hacktoberfest) for more info.
 
+#### **Atsign**
+
+- **Swag**: Digital Gift Card.
+- **Requirements**:
+    - Submit a PR to any of the open issues with `hacktoberfest` label under the [Atsign foundation.](https://github.com/atsign-foundation)
+    - Issues are also labeled with `Beginner`, `Intermediate` and `Advanced`.
+    - The first ten merged PRs in Beginner will win a Digital Gift Card worth $10 USD
+    - The first eight merged PRs in Intermediate will win a Digital Gift Card worth $20 USD
+    - The first three merged PRs in Advance will win a Digital Gift Card worth $50 USD
+- **How to sign up**: Forward your PR approval email to `hacktoberfest@atsign.com`
+- **Issues**: [Open issues](https://github.com/search?l=&p=1&q=user%3Aatsign-foundation+label%3Ahacktoberfest&state=open&type=Issues) with `hacktoberfest` label.
+- **Notes**: Read the Atsign Hacktoberfest 2022 [Terms & Conditions](https://atsign.com/atsign-hacktoberfest-2022/) page for more details.
+
 #### **Aviyel**
 
 - **Swag**: Swag box, Limited edition Hacktoberfest-themed virtual badge
@@ -312,6 +325,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues).
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest) for more info.
 
+### J
+
+#### **JuliaActuary**
+
+- **Swag**: Stickers
+- **Requirements**: Make atleast two contriutions to repos under [JuliaActuary](https://github.com/JuliaActuary) to win a JuliaActuary sticker.
+- **How to sign up**: Signup on the [Hacktoberfest website](https://hacktoberfest.com/)
+- **Issues**: [Open issues](https://github.com/search?q=org%3AJuliaActuary+is%3Aissue+label%3Ahacktoberfest) available here or check out out their [project page](https://github.com/orgs/JuliaActuary/projects/3) for more ways to contribute.
+- **Notes**: Read the [blog post](https://juliaactuary.org/blog/hacktoberfest2022/) at JuliaActuary to know more.
+
 ### L
 
 #### **LambdaTest**
@@ -516,6 +539,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - The OpenSearch team will review the pull request and let you know if any changes are needed.
 - **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue+label%3A%22hacktoberfest%22+is%3Aissue+is%3Aopen&type=Issues).
 - **Notes**: More details about the prizes [are here](https://opensearch.org/blog/community/2022/10/hacktoberfest-2022/). Join their [Forum](https://forum.opensearch.org/t/hacktoberfest-2022/11129) if you have any further queries. They are also active on [Twitter](https://twitter.com/OpenSearchProj).
+
+#### **OpenMetadata**
+- **Swag**: $500 USD cash prize and swag
+- **Requirements**:
+    - Submit a new valid & working connector to receive $500 USD cash prize and OpenMetadata swag.
+    - Each new connector should adhere to the [contribution guidelines.](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0)
+- **How to Sign up**:
+    - Join the [OpenMetadata slack community]
+    - Discuss the ideas for a a new connector with the team or let the team help you choose one.
+- **Notes**: Read the [blog post](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0) for new connector ideas.
 
 ### P
 
