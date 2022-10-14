@@ -547,7 +547,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Submit a new valid & working connector to receive $500 USD cash prize and OpenMetadata swag.
     - Each new connector should adhere to the [contribution guidelines.](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0)
 - **How to Sign up**:
-    - Join the [OpenMetadata slack community]
+    - Join the [OpenMetadata slack community](http://slack.open-metadata.org/)
     - Discuss the ideas for a a new connector with the team or let the team help you choose one.
 - **Notes**: Read the [blog post](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0) for new connector ideas.
 
