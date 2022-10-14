@@ -541,6 +541,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: More details about the prizes [are here](https://opensearch.org/blog/community/2022/10/hacktoberfest-2022/). Join their [Forum](https://forum.opensearch.org/t/hacktoberfest-2022/11129) if you have any further queries. They are also active on [Twitter](https://twitter.com/OpenSearchProj).
 
 #### **OpenMetadata**
+
 - **Swag**: $500 USD cash prize and swag
 - **Requirements**:
     - Submit a new valid & working connector to receive $500 USD cash prize and OpenMetadata swag.
