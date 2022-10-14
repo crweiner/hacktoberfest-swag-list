@@ -237,7 +237,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: A pack of 12 Encore stickers
 - **Requirements**: Build an app with Encore, tweet your Encore Flow diagram, or contribute to [encoredev/encore](https://github.com/encoredev/encore)
-- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start](https://encore.dev/docs/quick-start) to build your first Encore app and once you're done post it in our Show & Tell!
+- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start](https://encore.dev/docs/quick-start) to build your first Encore app and once you're done post it in our Show & Tell!. Once you've done any of them, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfHBrwJir4B_MoC7olVh-1feXjEynqMhq0aO6QTYEd40Qon-A/viewform) to claim your prize. 
 - **Notes**: [See the Hacktoberfest blog post and weekly Community Office Hours every Friday](https://community.encore.dev/t/our-new-office-hours-to-kick-off-hacktoberfest/66)
 
 ### F
@@ -303,11 +303,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Dash, Zappy, Google Home, FlutterVikings rubber duck, Flutter mug, T-shirt, Stickers pack
 - **Requirements**:
-    - Submit 1 or more pull requests and get them approved/merged with tag **hacktoberfest-special** to receive a Dash ,Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
-    - Submit 10 or more pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
-    - Submit 5 to 10 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
-    - Submit 4 to 2 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a Flutter mug, T-shirt, stickers pack.
-    - Submit 1 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a T-shirt, stickers pack.
+    - Submit 1 or more pull requests and get them approved/merged with tag `hacktoberfest-special` to receive a Dash ,Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+    - Submit 10 or more pull requests and get them approved/merged with tag `hacktoberfest-accepted` to receive a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+    - Submit 5 to 10 pull requests and get them approved/merged with tag `hacktoberfest-accepted` to receive a Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+    - Submit 4 to 2 pull requests and get them approved/merged with tag `hacktoberfest-accepted` to receive a Flutter mug, T-shirt, stickers pack.
+    - Submit 1 pull requests and get them approved/merged with tag `hacktoberfest-accepted` to receive a T-shirt, stickers pack.
 - **How to sign up**: Click the ["Sign up with Github" button here](https://invertase.io/community/hacktoberfest) before you start with the challenges on or before Oct. 31, 2022.
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues).
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest) for more info.
@@ -537,7 +537,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Pusher**
 
-- **Swag**: One item, two items, or full Pusher Hacktoberfest swag pack.
+- **Swag**: Pusher swag pack includes a T-shirt, socks and stickers. 
 - **Requirements**:
     - Submit 1 pull request and get it merged to receive one item from the Pusher Hacktoberfest swag pack.
     - Submit 2 pull requests and get them merged to receive two items from the Pusher Hacktoberfest swag pack.
@@ -656,11 +656,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Uno**
 
-- **Swag**: Hoodie, T-shirt, eBook
+- **Swag**: Sweater, T-shirt, stickers, eBook
 - **Requirements**:
     - Submit 2 Quality Pull Requests for Getting Started with the Uno Platform and WinUI 3 eBook.
-    - Submit 4 Quality Pull Requests for a Uno Platform T-shirt.
-    - Submit 10 Quality Pull Requests for a Uno Platform Hoodie.
+    - Submit 4 Quality Pull Requests for a Uno Platform T-shirt and stickers.
+    - Submit 10 Quality Pull Requests for a Uno Platform Sweater and stickers.
 - **How to sign up**:
     - Tackle an [open issue](https://github.com/unoplatform/uno/issues), review the list of [documentation and code samples that need some help](https://github.com/orgs/unoplatform/projects/77/views/1), or submit an advocacy contribution (see the blog post).
 - **Issues**:
