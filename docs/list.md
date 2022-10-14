@@ -237,7 +237,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: A pack of 12 Encore stickers
 - **Requirements**: Build an app with Encore, tweet your Encore Flow diagram, or contribute to [encoredev/encore](https://github.com/encoredev/encore)
-- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start](https://encore.dev/docs/quick-start) to build your first Encore app and once you're done post it in our Show & Tell!. Once you've done any of them, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfHBrwJir4B_MoC7olVh-1feXjEynqMhq0aO6QTYEd40Qon-A/viewform) to claim your prize. 
+- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start](https://encore.dev/docs/quick-start) to build your first Encore app and once you're done post it in our Show & Tell!. Once you've done any of them, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfHBrwJir4B_MoC7olVh-1feXjEynqMhq0aO6QTYEd40Qon-A/viewform) to claim your prize.
 - **Notes**: [See the Hacktoberfest blog post and weekly Community Office Hours every Friday](https://community.encore.dev/t/our-new-office-hours-to-kick-off-hacktoberfest/66)
 
 ### F
@@ -537,7 +537,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Pusher**
 
-- **Swag**: Pusher swag pack includes a T-shirt, socks and stickers. 
+- **Swag**: Pusher swag pack includes a T-shirt, socks and stickers.
 - **Requirements**:
     - Submit 1 pull request and get it merged to receive one item from the Pusher Hacktoberfest swag pack.
     - Submit 2 pull requests and get them merged to receive two items from the Pusher Hacktoberfest swag pack.
