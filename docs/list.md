@@ -100,6 +100,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=issues&s=updated&o=asc).
 - **Notes**: Read the [blog post](https://appwrite.io/hacktoberfest) for more info.
 
+#### **Atsign**
+
+- **Swag**: Digital Gift Card.
+- **Requirements**:
+    - Submit a PR to any of the open issues with `hacktoberfest` label under the [Atsign foundation.](https://github.com/atsign-foundation)
+    - Issues are also labeled with `Beginner`, `Intermediate` and `Advanced`.
+    - The first ten merged PRs in Beginner will win a Digital Gift Card worth $10 USD
+    - The first eight merged PRs in Intermediate will win a Digital Gift Card worth $20 USD
+    - The first three merged PRs in Advance will win a Digital Gift Card worth $50 USD
+- **How to sign up**: Forward your PR approval email to `hacktoberfest@atsign.com`
+- **Issues**: [Open issues](https://github.com/search?l=&p=1&q=user%3Aatsign-foundation+label%3Ahacktoberfest&state=open&type=Issues) with `hacktoberfest` label.
+- **Notes**: Read the Atsign Hacktoberfest 2022 [Terms & Conditions](https://atsign.com/atsign-hacktoberfest-2022/) page for more details.
+
 #### **Aviyel**
 
 - **Swag**: Swag box, Limited edition Hacktoberfest-themed virtual badge
@@ -237,7 +250,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: A pack of 12 Encore stickers
 - **Requirements**: Build an app with Encore, tweet your Encore Flow diagram, or contribute to [encoredev/encore](https://github.com/encoredev/encore)
-- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start](https://encore.dev/docs/quick-start) to build your first Encore app and once you're done post it in our Show & Tell!
+- **How to sign up**: Pick up a [GitHub Issue](https://github.com/encoredev/encore/issues), or check out the [Quick Start](https://encore.dev/docs/quick-start) to build your first Encore app and once you're done post it in our Show & Tell!. Once you've done any of them, fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfHBrwJir4B_MoC7olVh-1feXjEynqMhq0aO6QTYEd40Qon-A/viewform) to claim your prize.
 - **Notes**: [See the Hacktoberfest blog post and weekly Community Office Hours every Friday](https://community.encore.dev/t/our-new-office-hours-to-kick-off-hacktoberfest/66)
 
 ### F
@@ -303,14 +316,24 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Dash, Zappy, Google Home, FlutterVikings rubber duck, Flutter mug, T-shirt, Stickers pack
 - **Requirements**:
-    - Submit 1 or more pull requests and get them approved/merged with tag **hacktoberfest-special** to receive a Dash ,Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
-    - Submit 10 or more pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
-    - Submit 5 to 10 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
-    - Submit 4 to 2 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a Flutter mug, T-shirt, stickers pack.
-    - Submit 1 pull requests and get them approved/merged with tag **hacktoberfest-accepted** to receive a T-shirt, stickers pack.
+    - Submit 1 or more pull requests and get them approved/merged with tag `hacktoberfest-special` to receive a Dash ,Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+    - Submit 10 or more pull requests and get them approved/merged with tag `hacktoberfest-accepted` to receive a Google Home, Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+    - Submit 5 to 10 pull requests and get them approved/merged with tag `hacktoberfest-accepted` to receive a Zappy, FlutterVikings rubber duck, Flutter mug, T-shirt, stickers pack.
+    - Submit 4 to 2 pull requests and get them approved/merged with tag `hacktoberfest-accepted` to receive a Flutter mug, T-shirt, stickers pack.
+    - Submit 1 pull requests and get them approved/merged with tag `hacktoberfest-accepted` to receive a T-shirt, stickers pack.
 - **How to sign up**: Click the ["Sign up with Github" button here](https://invertase.io/community/hacktoberfest) before you start with the challenges on or before Oct. 31, 2022.
 - **Issues**: See the list of [hacktoberfest-labeled issues](https://github.com/search?q=org%3Ainvertase+org%3Afluttercommunity+org%3Aatsign-foundation++label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=Issues).
 - **Notes**: Check out the [website](https://invertase.io/community/hacktoberfest) for more info.
+
+### J
+
+#### **JuliaActuary**
+
+- **Swag**: Stickers
+- **Requirements**: Make atleast two contriutions to repos under [JuliaActuary](https://github.com/JuliaActuary) to win a JuliaActuary sticker.
+- **How to sign up**: Signup on the [Hacktoberfest website](https://hacktoberfest.com/)
+- **Issues**: [Open issues](https://github.com/search?q=org%3AJuliaActuary+is%3Aissue+label%3Ahacktoberfest) available here or check out out their [project page](https://github.com/orgs/JuliaActuary/projects/3) for more ways to contribute.
+- **Notes**: Read the [blog post](https://juliaactuary.org/blog/hacktoberfest2022/) at JuliaActuary to know more.
 
 ### L
 
@@ -517,6 +540,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the list of available Hacktoberfest issues [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aopensearch-project+fork%3Atrue+label%3A%22hacktoberfest%22+is%3Aissue+is%3Aopen&type=Issues).
 - **Notes**: More details about the prizes [are here](https://opensearch.org/blog/community/2022/10/hacktoberfest-2022/). Join their [Forum](https://forum.opensearch.org/t/hacktoberfest-2022/11129) if you have any further queries. They are also active on [Twitter](https://twitter.com/OpenSearchProj).
 
+#### **OpenMetadata**
+
+- **Swag**: $500 USD cash prize and swag
+- **Requirements**:
+    - Submit a new valid & working connector to receive $500 USD cash prize and OpenMetadata swag.
+    - Each new connector should adhere to the [contribution guidelines.](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0)
+- **How to Sign up**:
+    - Join the [OpenMetadata slack community](http://slack.open-metadata.org/)
+    - Discuss the ideas for a a new connector with the team or let the team help you choose one.
+- **Notes**: Read the [blog post](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0) for new connector ideas.
+
 ### P
 
 #### **Percona**
@@ -537,7 +571,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Pusher**
 
-- **Swag**: One item, two items, or full Pusher Hacktoberfest swag pack.
+- **Swag**: Pusher swag pack includes a T-shirt, socks and stickers.
 - **Requirements**:
     - Submit 1 pull request and get it merged to receive one item from the Pusher Hacktoberfest swag pack.
     - Submit 2 pull requests and get them merged to receive two items from the Pusher Hacktoberfest swag pack.
@@ -656,11 +690,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Uno**
 
-- **Swag**: Hoodie, T-shirt, eBook
+- **Swag**: Sweater, T-shirt, stickers, eBook
 - **Requirements**:
     - Submit 2 Quality Pull Requests for Getting Started with the Uno Platform and WinUI 3 eBook.
-    - Submit 4 Quality Pull Requests for a Uno Platform T-shirt.
-    - Submit 10 Quality Pull Requests for a Uno Platform Hoodie.
+    - Submit 4 Quality Pull Requests for a Uno Platform T-shirt and stickers.
+    - Submit 10 Quality Pull Requests for a Uno Platform Sweater and stickers.
 - **How to sign up**:
     - Tackle an [open issue](https://github.com/unoplatform/uno/issues), review the list of [documentation and code samples that need some help](https://github.com/orgs/unoplatform/projects/77/views/1), or submit an advocacy contribution (see the blog post).
 - **Issues**:
