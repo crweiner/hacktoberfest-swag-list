@@ -606,6 +606,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Here you can find a [list of Hacktoberfest labeled issues](https://github.com/pankod/refine/labels/hacktoberfest) in refine repository.
 - **Notes**: More details [in the refine blogpost here](https://refine.dev/blog/hacktoberfest-refine/)
 
+#### **Resuminator**
+
+- **Swag**: T-shirt, stickers.
+- **Requirements**:
+    - Every contributor will receive a swag for their contribution.
+    - Contribution opportunities are many, you can fix or improve the documenation, improve the current code, issue bug fixes or add a new feature to the project.
+- **How to sign up**: You must have a [Resuminator](https://www.resuminator.in/) account.
+- **Issues**: All the [hacktoberfest](https://github.com/resuminator/resuminator/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest) labelled issues.
+- **Notes**: More details available on the [annoncement page](https://github.com/resuminator/resuminator/issues/149).
+
 ### S
 
 #### **Space Jelly and Cloudinary**
