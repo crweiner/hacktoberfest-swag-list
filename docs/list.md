@@ -611,7 +611,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: T-shirt, stickers.
 - **Requirements**:
     - Every contributor will receive a swag for their contribution.
-    - Contribution opportunities are many, you can fix or improve the documenation, improve the current code, issue bug fixes or add a new feature to the project.
+    - Contribution opportunities are many, you can fix or improve the documentation, improve the current codebase, issue bug fixes or add a new feature to the project.
 - **How to sign up**: You must have a [Resuminator](https://www.resuminator.in/) account.
 - **Issues**: All the [hacktoberfest](https://github.com/resuminator/resuminator/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest) labelled issues.
 - **Notes**: More details available on the [annoncement page](https://github.com/resuminator/resuminator/issues/149).
