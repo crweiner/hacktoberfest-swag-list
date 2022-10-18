@@ -100,6 +100,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of [Hacktoberfest Labelled Issues](https://github.com/search?q=org%3Aappwrite+org%3Autopia-php+org%3Aopen-runtimes+label%3Ahacktoberfest+created%3A%3E2021-01-01+state%3Aopen&type=issues&s=updated&o=asc).
 - **Notes**: Read the [blog post](https://appwrite.io/hacktoberfest) for more info.
 
+#### **AppFlowy**
+
+- **Swag**: AppFlowy Contributor T-shirt
+- **Requirements**:
+    - Your Pull Request must fix a bug or add functionality or improve the quality of the codebase.
+    - You can get the contributor t-shirt even outside the hacktoberfest event as this promotion is running all year long.
+- **How to sign up**: No special sign up required but you need to fill [this form](https://tally.so/r/mKP5z3) to claim your t-shirt.
+- **Issues**: List of [hacktoberfest labelled issues](https://github.com/AppFlowy-IO/AppFlowy/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
+- **Notes**: Read the [contributing page](https://appflowy.gitbook.io/docs/essential-documentation/contribute-to-appflowy/contributing-to-appflowy#contributor-t-shirt) for more info.
+
 #### **Atsign**
 
 - **Swag**: Digital Gift Card.
