@@ -199,6 +199,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: [Please read their Readme file here very thoroughly](https://github.com/codedamn/projects#readme).
 - **Notes**: In order to participate and win prizes, you have to submit a guided project. A guided project is a breakdown of a project into multiple steps for a beginner/intermediate developer to build. These guided projects can be attempted for free from codedamn IDE.
 
+#### **Codédex**
+
+- **Swag**: T-shirt, Notebook.
+- **Requirements**: Create project tutorials for Codédex projects with the help and support of the Codédex team to win a free swag from their [merch store](https://codedex.myshopify.com/).
+- **How to sign up**: Create an issue in the [Codédex](https://github.com/codedex-io/projects) repo to discuss tutorial ideas and get them approved by the team before you start working on them.
+- **Notes**: Read more about Codédex and tutorial examples on [the event page.](https://dev.to/codedex/how-to-contribute-to-hacktoberfest-with-codedex-8h9)
+
 ### D
 
 #### **DagsHub**
@@ -342,7 +349,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: Stickers
 - **Requirements**: Make atleast two contriutions to repos under [JuliaActuary](https://github.com/JuliaActuary) to win a JuliaActuary sticker.
 - **How to sign up**: Signup on the [Hacktoberfest website](https://hacktoberfest.com/)
-- **Issues**: [Open issues](https://github.com/search?q=org%3AJuliaActuary+is%3Aissue+label%3Ahacktoberfest) available here or check out out their [project page](https://github.com/orgs/JuliaActuary/projects/3) for more ways to contribute.
+- **Issues**: [Open issues](https://github.com/search?q=org%3AJuliaActuary+is%3Aissue+label%3Ahacktoberfest) available here or check out their [project page](https://github.com/orgs/JuliaActuary/projects/3) for more ways to contribute.
 - **Notes**: Read the [blog post](https://juliaactuary.org/blog/hacktoberfest2022/) at JuliaActuary to know more.
 
 ### L
@@ -558,7 +565,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Each new connector should adhere to the [contribution guidelines.](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0)
 - **How to Sign up**:
     - Join the [OpenMetadata slack community](http://slack.open-metadata.org/)
-    - Discuss the ideas for a a new connector with the team or let the team help you choose one.
+    - Discuss the ideas for a new connector with the team or let the team help you choose one.
 - **Notes**: Read the [blog post](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0) for new connector ideas.
 
 ### P
