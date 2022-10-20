@@ -611,6 +611,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Submit your application to win swags from RapidAPI using the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScBao9QuBPjAOgNK_2cCe2_8Y40dqvkS8f0DMpst-WopZOg8w/viewform?usp=sf_link)
 - **Notes**: Only the first 50 participants who complete the challenge will be chosen as winners. For more details visit the [page](https://rapidapi.com/learn/hacktoberfest).
 
+#### **Razorpay**
+
+- **Swag**: Stickers, custom Razorpay t-shirt
+- **Requirements**:
+    - Contribue to open [issues](https://github.com/search?q=org%3Arazorpay+is%3Aissue+is%3Aopen) or check for open issues in any repository under the [Razorpay](https://github.com/razorpayj organisation with label `hacktoberfest`.
+    - One or more contribution will receive a pack of custom Razorpay stickers.
+    - Top contributors will receive a custom Razorpay t-shirt.
+- **How to sign up**: Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
+- **Notes**: More details availabe on their [hacktoberfest2022](https://github.com/razorpay/.github/blob/master/HACKTOBERFEST.md) announcement page.
+
 #### **Refine**
 
 - **Swag**: T-shirt, cap, bottle.
@@ -641,11 +651,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**:
     - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack in the [Next.js WordPress Starter Repo](https://github.com/colbyfayock/next-wordpress-starter).
     - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack, Cloudinary Sticker Pack, and Cloudinary Plush Unicorn in the [Cloudinary Next.js Image Component repo](https://github.com/colbyfayock/next-cloudinary) OR [Cloudinary Netlify Plugin Repo](https://github.com/colbyfayock/netlify-plugin-cloudinary).
-- **How to sign up**:
-    - Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
+- **How to sign up**: Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
 - **Notes**: More details [on their Hacktoberfest page here](https://spacejelly.dev/hacktoberfest/).
 
-#### Speckle
+#### **Speckle**
 
 - **Swag**: Speckle swag (stickers)
 - **Requirements**: Get 4 pull requests accepted in any of the Speckle repositories.
