@@ -615,8 +615,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Stickers, custom Razorpay t-shirt
 - **Requirements**:
-    - Contribue to open [issues](https://github.com/search?q=org%3Arazorpay+is%3Aissue+is%3Aopen) or check for open issues in any repository under the [Razorpay](https://github.com/razorpayj organisation with label `hacktoberfest`.
-    - One or more contribution will receive a pack of custom Razorpay stickers.
+    - Contribute to open [issues](https://github.com/search?q=org%3Arazorpay+is%3Aissue+is%3Aopen) or check for open issues in any repository under the [Razorpay](https://github.com/razorpay) organisation with label `hacktoberfest`.
+    - One or more contributions will receive a pack of custom Razorpay stickers.
     - Top contributors will receive a custom Razorpay t-shirt.
 - **How to sign up**: Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
 - **Notes**: More details availabe on their [hacktoberfest2022](https://github.com/razorpay/.github/blob/master/HACKTOBERFEST.md) announcement page.
