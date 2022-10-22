@@ -564,7 +564,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Exclusive Razorpay stickers, T-shirt.
 - **Requirements**:
-    - Submit atleast 1 pull request to any public Razorpay repository to get a pack of exclusive Razorpay stickers.
+    - Submit at least 1 pull request to any public Razorpay repository to get a pack of exclusive Razorpay stickers.
     - Top contributors will receive an exclusive Razorpay T-shirt.
     - All pull requests should be opened before the end of October 2022.
 - **How to sign up**: No special sign-ups needed.
