@@ -189,6 +189,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: [Please read their Readme file here very thoroughly](https://github.com/codedamn/projects#readme).
 - **Notes**: In order to participate and win prizes, you have to submit a guided project. A guided project is a breakdown of a project into multiple steps for a beginner/intermediate developer to build. These guided projects can be attempted for free from codedamn IDE.
 
+#### **Codédex**
+
+- **Swag**: T-shirt, Notebook.
+- **Requirements**: Create project tutorials for Codédex projects with the help and support of the Codédex team to win a free swag from their [merch store](https://codedex.myshopify.com/).
+- **How to sign up**: Create an issue in the [Codédex](https://github.com/codedex-io/projects) repo to discuss tutorial ideas and get them approved by the team before you start working on them.
+- **Notes**: Read more about Codédex and tutorial examples on [the event page.](https://dev.to/codedex/how-to-contribute-to-hacktoberfest-with-codedex-8h9)
+
 ### D
 
 #### **DagsHub**
@@ -332,7 +339,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: Stickers
 - **Requirements**: Make atleast two contriutions to repos under [JuliaActuary](https://github.com/JuliaActuary) to win a JuliaActuary sticker.
 - **How to sign up**: Signup on the [Hacktoberfest website](https://hacktoberfest.com/)
-- **Issues**: [Open issues](https://github.com/search?q=org%3AJuliaActuary+is%3Aissue+label%3Ahacktoberfest) available here or check out out their [project page](https://github.com/orgs/JuliaActuary/projects/3) for more ways to contribute.
+- **Issues**: [Open issues](https://github.com/search?q=org%3AJuliaActuary+is%3Aissue+label%3Ahacktoberfest) available here or check out their [project page](https://github.com/orgs/JuliaActuary/projects/3) for more ways to contribute.
 - **Notes**: Read the [blog post](https://juliaactuary.org/blog/hacktoberfest2022/) at JuliaActuary to know more.
 
 ### L
@@ -548,7 +555,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Each new connector should adhere to the [contribution guidelines.](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0)
 - **How to Sign up**:
     - Join the [OpenMetadata slack community](http://slack.open-metadata.org/)
-    - Discuss the ideas for a a new connector with the team or let the team help you choose one.
+    - Discuss the ideas for a new connector with the team or let the team help you choose one.
 - **Notes**: Read the [blog post](https://blog.open-metadata.org/hacktoberfest-2022-connector-extravaganza-c2c88a5823b0) for new connector ideas.
 
 ### P
@@ -594,6 +601,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Submit your application to win swags from RapidAPI using the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScBao9QuBPjAOgNK_2cCe2_8Y40dqvkS8f0DMpst-WopZOg8w/viewform?usp=sf_link)
 - **Notes**: Only the first 50 participants who complete the challenge will be chosen as winners. For more details visit the [page](https://rapidapi.com/learn/hacktoberfest).
 
+#### **Razorpay**
+
+- **Swag**: Stickers, custom Razorpay t-shirt
+- **Requirements**:
+    - Contribute to open [issues](https://github.com/search?q=org%3Arazorpay+is%3Aissue+is%3Aopen) or check for open issues in any repository under the [Razorpay](https://github.com/razorpay) organisation with label `hacktoberfest`.
+    - One or more contributions will receive a pack of custom Razorpay stickers.
+    - Top contributors will receive a custom Razorpay t-shirt.
+- **How to sign up**: Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
+- **Notes**: More details availabe on their [hacktoberfest2022](https://github.com/razorpay/.github/blob/master/HACKTOBERFEST.md) announcement page.
+
 #### **Refine**
 
 - **Swag**: T-shirt, cap, bottle.
@@ -606,6 +623,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Here you can find a [list of Hacktoberfest labeled issues](https://github.com/pankod/refine/labels/hacktoberfest) in refine repository.
 - **Notes**: More details [in the refine blogpost here](https://refine.dev/blog/hacktoberfest-refine/)
 
+#### **Resuminator**
+
+- **Swag**: T-shirt, stickers.
+- **Requirements**:
+    - Every contributor will receive a swag for their contribution.
+    - Contribution opportunities are many, you can fix or improve the documentation, improve the current codebase, issue bug fixes or add a new feature to the project.
+- **How to sign up**: You must have a [Resuminator](https://www.resuminator.in/) account.
+- **Issues**: All the [hacktoberfest](https://github.com/resuminator/resuminator/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest) labelled issues.
+- **Notes**: More details available on the [announcement page.](https://githuxb.com/resuminator/resuminator/issues/149)
+
 ### S
 
 #### **Space Jelly and Cloudinary**
@@ -614,11 +641,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**:
     - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack in the [Next.js WordPress Starter Repo](https://github.com/colbyfayock/next-wordpress-starter).
     - Submit 1 pull request and get it merged to receive Space Jelly Sticker Pack, Cloudinary Sticker Pack, and Cloudinary Plush Unicorn in the [Cloudinary Next.js Image Component repo](https://github.com/colbyfayock/next-cloudinary) OR [Cloudinary Netlify Plugin Repo](https://github.com/colbyfayock/netlify-plugin-cloudinary).
-- **How to sign up**:
-    - Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
+- **How to sign up**: Register on the [Hacktoberfest website](https://hacktoberfest.com/) anytime between September 26 and October 31, 2022.
 - **Notes**: More details [on their Hacktoberfest page here](https://spacejelly.dev/hacktoberfest/).
 
-#### Speckle
+#### **Speckle**
 
 - **Swag**: Speckle swag (stickers)
 - **Requirements**: Get 4 pull requests accepted in any of the Speckle repositories.
