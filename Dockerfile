@@ -37,6 +37,9 @@ COPY README.md README.md
 COPY requirements.txt requirements.txt
 COPY pyproject.toml pyproject.toml
 
+# Install markdown-link-attr-modifier
+RUN pip install markdown-link-attr-modifier>=0.2.0
+
 # Perform build and cleanup artifacts and caches
 RUN \
   apk upgrade --update-cache -a \
