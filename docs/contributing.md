@@ -98,16 +98,20 @@ Please make sure you are always making changes in the Markdown docs located in `
 Alternatively, you can use the native [Mkdocs-Material Docker imgage](https://hub.docker.com/r/squidfunk/mkdocs-material) to build this site locally. The Dockerfile found here pulls in the Mkdocs-Material Docker image and adds the `markdown-link-attr-modifier` plugin so that the links continue to open in new tabs without having to add the tags manually.
 
 Build the latest version of this image:
+
 ```bash
+
 docker build -t squidfunk/mkdocs-material .
+
 ```
 
 Run the Docker instance:
 
 ```bash
-docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
-```
 
+docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+
+```
 
 ## Other Contributing Guidelines
 
