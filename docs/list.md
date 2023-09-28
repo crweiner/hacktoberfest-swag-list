@@ -26,8 +26,15 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 ## A to Z Order of Companies
 
-### A
+### H
 
+#### **Hyperswitch**
+
+- **Swag**: T-shirt and other goodies.
+- **Requirements**: Submit a PR to solve one or more issues in [Hyperswitch](https://github.com/juspay/hyperswitch).
+- **How to sign up**: Sign up on [hyperswitch.io](https://app.hyperswitch.io/).
+- **Issues**: [Hacktoberfest Issues](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+no%3Aassignee).
+- **Notes**: Check out the [hyperswitchXhacktoberfest website](https://hyperswitch.io/hacktoberfest) for more information.
 
 ---
 
