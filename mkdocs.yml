@@ -9,7 +9,7 @@ docs_dir: "docs"
 theme:
   favicon: img/favicon.ico
   name: material
-  logo: img/hf10_horz_fcd_rgb.png
+  logo: img/hf10_icon_fcd_rgb.pngfcd_rgb.png
   features: 
     - navigation.tracking
     - content.code.annotate
