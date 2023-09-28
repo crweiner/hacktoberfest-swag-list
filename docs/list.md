@@ -33,7 +33,7 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
-![Presented by DigitalOcean](/img/hf10_icon_fcd_rgb.png)
+![Presented by DigitalOcean](img/hf10_icon_fcd_rgb.png)
 
 ---
 
