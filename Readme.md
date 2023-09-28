@@ -1,6 +1,6 @@
 # Hacktoberfest Swag List 2023
 
-![Hacktoberfest logo](docs/img/Hfest-Logo-2-Color-Manga.png)
+![Hacktoberfest logo](docs/img/hf10_horz_fcd_rgb.png)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)! at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)
 
@@ -11,15 +11,6 @@ Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](htt
 [Low-code or no-code contributions are encouraged](https://hacktoberfest.com/about/#low-or-non-code), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
 
 Please take a look at the new [Contributing.md](docs/contributing.md) file as the way to add organizations to the list has changed.
-
----
-
-## Sponsored By:
-
-[![Appwrite](docs/img/appwrite-logo-1.svg)](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
-
-[Appwrite](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest) is a proud sponsor of *all of Hacktoberfest*, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
-Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
 
 ---
 
@@ -41,8 +32,8 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![Presented by DigitalOcean](/docs/img/Hfest-Badge-2-Color-Manga.svg)
+![Presented by DigitalOcean](docs/img/hf10_icon_fcd_rgb.png)
 
 ---
 
-If you're looking for the Swag List from 2018 through 2021 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), and [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021) branches.
+If you're looking for the Swag List from 2018 through 2022 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), and [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022) branches.
