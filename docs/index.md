@@ -1,14 +1,14 @@
-# Hacktoberfest Swag List - 2022
+# Hacktoberfest Swag List - 2023
 
-## Hacktoberfest 2022 Is Here
+## Hacktoberfest 2023 Is Here
 
-[![Hacktoberfest 2022 Banner](img/Hfest-Logo-2-Color-Manga.png)](list.md)
+[![Hacktoberfest 2023 Banner](/img/hf10_horz_fcd_rgb.png)](list.md)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)!
 
-[As the official website states](https://hacktoberfest.com/#prepare-to-hack), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 9th, everyone can contribute to making open-source software even better!
+[As the official website states](https://hacktoberfest.com/#prepare-to-hack), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 10th, everyone can contribute to making open-source software even better!
 
-New for 2022, [low-code or no-code contributions are encouraged](https://hacktoberfest.com/about/#low-or-non-code), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
+Remember, [low-code or no-code contributions are encouraged](https://hacktoberfest.com/participation/#low-or-non-code), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
 
 ---
 
@@ -33,17 +33,17 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 ---
 
-### I understand, let's get started helping for Hacktoberfest 2022!
+### I understand, let's get started helping for Hacktoberfest 2023!
 
 This year, the Swag List is a little different, so be sure to read about how to [Contribute before submitting a PR](contributing.md).
 
-## [Click here to be taken to the 2022 Hacktoberfest Swag List!](list.md)
+## [Click here to be taken to the 2023 Hacktoberfest Swag List!](list.md)
 
 ---
 
 _Disclaimer_: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Manga.svg)
+![Presented by DigitalOcean](/img/hf10_icon_fcd_rgb.png)
 
 ---
 

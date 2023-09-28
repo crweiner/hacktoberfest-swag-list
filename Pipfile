@@ -4,8 +4,8 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
-mkdocs = "==1.5.2"
-mkdocs-material = "==9.2.3"
+mkdocs = "==1.5.3"
+mkdocs-material = "==9.4.2"
 python-markdown-math = "==0.8"
 Pygments = "==2.16.1"
 prompt_toolkit = "==3.0.39"
@@ -19,7 +19,7 @@ markdown-link-attr-modifier = "*"
 invoke = "*"
 
 [requires]
-python_version = "3.9"
+python_version = "3.8"
 
 [pipenv]
 allow_prereleases = true
