@@ -1,16 +1,14 @@
-# Hacktoberfest Swag List 2022
+# Hacktoberfest Swag List 2023
 
 ![Hacktoberfest logo](docs/img/Hfest-Logo-2-Color-Manga.png)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)! at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)
 
-## [Click here to be taken to the 2022 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
+## [Click here to be taken to the 2023 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
 
 [As the official website states](https://hacktoberfest.com/#prepare-to-hack), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 9th, everyone can contribute to making open-source software even better!
 
-New for 2022, [low-code or no-code contributions are encouraged](https://hacktoberfest.com/about/#low-or-non-code), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
-
-Also new for 2022, the Hacktoberest Swag List is now powered by [MkDocs](https://www.mkdocs.org/) instead of Jekyll. This means that the Swag List is more easily searchable, can support lite and dark modes, is still written in Markdown so everyone can participate no matter your skill level, and is easier to extend!
+[Low-code or no-code contributions are encouraged](https://hacktoberfest.com/about/#low-or-non-code), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
 
 Please take a look at the new [Contributing.md](docs/contributing.md) file as the way to add organizations to the list has changed.
 
@@ -37,7 +35,7 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 ---
 
-## [Click here to be taken to the 2022 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
+## [Click here to be taken to the 2023 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
 
 ---
 

@@ -56,7 +56,7 @@ Find the first letter of your company within the list, then add your information
 
 You will need following dependencies already installed in your system to set up MkDocs locally:
 
-* [Python 3.8](https://www.python.org/downloads/release/python-380/)
+* [Python 3.8](https://www.python.org/downloads/release/python-380/), also tested and works with Python 3.11.4.
 * [pipenv](https://pypi.org/project/pipenv/)
 
 ### Setting up the repository
@@ -121,8 +121,8 @@ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
-![Presented by DigitalOcean](img/Hfest-Badge-2-Color-Manga.svg)
+![Presented by DigitalOcean](img/hf10_icon_fcd_rgb.png)
 
 ---
 
-If you're looking for the Swag List from 2018 through 2021 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), and [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021) branches.
+If you're looking for the Swag List from 2018 through 2022 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), and [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022) branches.
