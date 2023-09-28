@@ -62,7 +62,7 @@ extra:
       link: "https://twitter.com/c_dubbs"
   analytics:
     provider: google
-    property: UA-129265975-1
+    property: G-362126484
 
 #Extensions
 markdown_extensions:
