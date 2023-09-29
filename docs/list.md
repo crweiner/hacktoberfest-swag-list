@@ -30,7 +30,7 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 ### F
 
-#### Flyte
+#### [Flyte](https://flyte.org)
 
 - **Swag**: (T-shirts, stickers, sweatshirts, and water bottles)
 
