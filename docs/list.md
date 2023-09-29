@@ -32,7 +32,7 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 #### [Flyte](https://flyte.org)
 
-- **Swag**: (T-shirts, stickers, sweatshirts, and water bottles)
+- **Swag**: Flyte t-shirts, stickers, sweatshirts, and water bottles
 
 - **Requirements**:
     - 2 merged/accepted PRs: t-shirt and sticker
