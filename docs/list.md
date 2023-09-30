@@ -33,17 +33,13 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 #### [Flyte](https://flyte.org)
 
 - **Swag**: Flyte t-shirts, stickers, sweatshirts, and water bottles
-
 - **Requirements**:
-    - 2 merged/accepted PRs: t-shirt and sticker
-    - 3 merged/accepted PRs: water bottle and sticker
-    - Plugin: Amazon Gift Card
-    - 3+ merged/accepted PRs: Flyte crewneck sweatshirt and sticker
-
-- **How to sign up**: Register any time between September 26 and October 31 on the [Hacktoberfest site](https://hacktoberfest.com/).
-
+  - 2 merged/accepted PRs: t-shirt and sticker
+  - 3 merged/accepted PRs: water bottle and sticker
+  - Plugin: Amazon Gift Card
+  - 3+ merged/accepted PRs: Flyte crew neck sweatshirt and sticker
+- **How to sign up**: Fill out [this form](https://tally.so/r/wMNob0) after you create a pull request on or before Oct. 31, 2023.
 - **Issues**: [Flyte Hacktoberfest Repo](https://github.com/flyteorg/flyte/issues/4064)
-
 - **Notes**: For more information on how to get started check out our [blog!](https://flyte.org/blog/flyte-at-hacktoberfest-2023)
 
 ---
