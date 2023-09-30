@@ -1,6 +1,6 @@
 # The List of Companies Offering Unique Swag - Hacktoberfest 2023
 
-## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of swag will not be tolerated.
+## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of swag will not be tolerated
 
 First, [sign up for Hacktoberfest 2023 by clicking this link](https://hacktoberfest.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.com/participation/).
 
