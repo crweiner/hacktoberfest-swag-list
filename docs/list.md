@@ -26,11 +26,9 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 ## A to Z Order of Companies
 
-### A
-
 ### F
 
-#### [Flyte](https://flyte.org)
+#### **Flyte**
 
 - **Swag**: Flyte t-shirts, stickers, sweatshirts, and water bottles
 - **Requirements**:
@@ -41,6 +39,16 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 - **How to sign up**: Fill out [this form](https://tally.so/r/wMNob0) after you create a pull request on or before Oct. 31, 2023.
 - **Issues**: [Flyte Hacktoberfest Repo](https://github.com/flyteorg/flyte/issues/4064)
 - **Notes**: For more information on how to get started check out our [blog!](https://flyte.org/blog/flyte-at-hacktoberfest-2023)
+
+### H
+
+#### **Hyperswitch**
+
+- **Swag**: T-shirt and other goodies.
+- **Requirements**: Submit a PR to solve one or more issues in the [Hyperswitch repo](https://github.com/juspay/hyperswitch).
+- **How to sign up**: Sign up on [hyperswitch.io](https://app.hyperswitch.io/).
+- **Issues**: [Hacktoberfest Issues](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+no%3Aassignee).
+- **Notes**: Check out the [Hyperswitch Hacktoberfest webpage](https://hyperswitch.io/hacktoberfest) for more information and other ways to contribute (such as writing blog posts).
 
 ---
 
