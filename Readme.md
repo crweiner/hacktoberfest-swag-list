@@ -14,6 +14,21 @@ Please take a look at the new [Contributing.md](docs/contributing.md) file as th
 
 ---
 
+## Sponsored By
+
+<a href="<https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/img/appwrite-logotype-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/img/appwrite-logotype-dark.svg">
+  <img alt="Appwrite logo" src="docs/img/appwrite-logotype-light.svg">
+</picture>
+</a>
+
+[Appwrite](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest) is a proud sponsor of *all of Hacktoberfest*, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
+Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
+
+---
+
 ## What is the Hacktoberfest Swag List?
 
 [The Hacktoberfest Swag List site](https://hacktoberfestswaglist.com) and [GitHub repo](https://github.com/crweiner/hacktoberfest-swag-list) are here to showcase all of the amazing companies that go above and beyond by offering their own swag for the holiday. **The goal of this project is to connect contributors to open-source projects that they might not have heard about before and drive traffic towards organizations that celebrate Hacktoberfest and can use a little more help.**

@@ -12,6 +12,16 @@ Remember, [low-code or no-code contributions are encouraged](https://hacktoberfe
 
 ---
 
+## Sponsored By
+
+[![Appwrite](img/appwrite-logotype-dark.svg#only-light)](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
+[![Appwrite](img/appwrite-logotype-light.svg#only-dark)](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
+
+[Appwrite](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest) is a proud sponsor of _all of Hacktoberfest_, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
+Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
+
+---
+
 ## What is the Hacktoberfest Swag List?
 
 This site and [GitHub repo](https://github.com/crweiner/hacktoberfest-swag-list) are here to showcase all of the amazing companies that go above and beyond by offering their own swag for the holiday. **The goal of this project is to connect contributors to open-source projects that they might not have heard about before and drive traffic towards organizations that celebrate Hacktoberfest and can use a little more help.**
