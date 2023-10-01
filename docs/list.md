@@ -175,6 +175,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Open issues in the [community repo](https://github.com/instill-ai/community/issues?q=is:issue+is:open+label:hacktoberfest,+label:%22good+first+issue%22,%22help+wanted%22+).
 - **Notes**: Read the guidelines and other details in the [announcement post](https://www.instill.tech/blog/celebrate-Hacktoberfest-2023).
 
+#### **Interledger Foundation**
+
+- **Swag**: T-shirt, Stickers, Limited edition Swag
+- **Requirements**:
+    - Get a T-shirt for every accepted pull request
+    - Get a T-shirt + limited edition swag for 4+ Accepted pull requests 
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **Issues**: Open issues in the [Interledger repositories](https://github.com/interledger)
+- **Notes**: Instructions on How to claim the rewards will be updated here on this [Post](https://community.interledger.org/devcer/hacktoberfest-with-interledger-join-the-open-payments-movement-3bkd). Like, Share and Bookmark this post.
+
 ### J
 
 #### **JavaScript Today**
