@@ -217,6 +217,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
+### T
+
+#### **Turbot**
+
+- **Swag**: Turbot & Steampipe T-shirts and Stickers
+- **Requirements**:
+    - We will offer unique Turbot stickers and t-shirts for no-code, low-code and high-code contributions.
+    - At least 1 accepted PR from any of our 200+ public GitHub repos, marked with topic `hacktoberfest`.
+- **How to sign up**: No required signup neccessary.
+- **Issues**: [Eligible projects and issues](https://github.com/search?q=org%3Aturbot+topic%3Ahacktoberfest&type=repositories).
+- **Notes**: Read more details in the [announcement post](https://turbot.com/blog/2023/10/hacktoberfest-2023) and join our [Turbot community](https://turbot.com/community/join) #contributors channel with any questions.
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
