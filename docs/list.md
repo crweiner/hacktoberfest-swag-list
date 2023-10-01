@@ -44,8 +44,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Appwrite hoodie and stickers
 - **Requirements**: 1 accepted pull request in the [Appwrite repo](https://github.com/appwrite/appwrite).
-- **How to sign up**: Link to signup page using inline formatting of [text](URL)
-- **Issues**: Optional link to Hacktoberfest tagged issues.
+- **How to sign up**: Sign up via the Hacktoberfest website, no separate swag form right now.
+- **Issues**: [See all of the Issues in the Appwrite repo](https://github.com/appwrite/appwrite/issues)
 - **Notes**: Check out [the dedicated Appwrite Hacktoberfest page](https://hacktoberfest.appwrite.io) for events and to learn more about Appwrite!
 
 ### F
