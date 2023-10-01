@@ -262,6 +262,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
+### T
+
+#### **Treblle**
+
+- **Swag**: Stickers, hoodies, t-shirt, socks and cash prize pool of USD 6660.
+- **Requirements**: Participate as a solo developer or a team of 2-4 to build a SDK for the platform.
+- **How to sign up**: Sign up for [Treblle Hacktoberfest](https://docs.google.com/forms/d/e/1FAIpQLSfC_8mX8lpQNhksqQGUhsQ0zTvRzMC5YzufVVbVkPksxouLFw/viewform)
+- **Notes**: Visit [Treblle Hacktoberfest 2023](https://hacked.treblle.com/) for more details and the [announcement page](https://blog.treblle.com/treblle-hacktoberfest/) for complete list of prizes.
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
