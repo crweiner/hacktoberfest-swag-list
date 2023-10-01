@@ -40,34 +40,35 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Alby**
 
-- **Swag**: Stickers, Socks, Gadgetst
+- **Swag**: Stickers, Socks, Gadgets
 - **Requirements**: Be the top 3 contributors with most accepts PRs/MRs.
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **How to sign up**: No special signup known.
 - **Issues**: All the [open issues]( https://github.com/search?q=org%3AgetAlby+label%3Ahacktoberfest&type=issues&ref=blog.getalby.com).
-- **Notes**: Read the [announcement post](https://blog.getalby.com/contribute-to-the-bitcoin-open-source-this-hacktoberfest-2023/) for more details.
+- **Notes**: Read the [announcement post](https://blog.getalby.com/contribute-to-the-bitcoin-open-source-this-hacktoberfest-2023/) for more details around contributing to Alby and other bitcoin-related projects.
 
 #### **Amplication**
 
-- **Swag**: T-shirt, gift cards up to USD 500.
+- **Swag**: Stickers, t-shirt, gift cards up to USD $500.
 - **Requirements**:
     - Make up to 2 valid PRs to get a sticker sheet.
     - Make 3 or more valid PRs to get a T-shirt.
     - Build plugin to get gift cards worth up to USD 500.
     - Only person assigned to an issue will be considered a valid contributor.
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **How to sign up**: No special signup known.
 - **Issues**:
     - Code and no-code [open issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3A%22open+to+community%22).
     - [Plugin Development](https://github.com/amplication/amplication/issues/7027).
     - [Build a Web App using Amplication](https://github.com/amplication/amplication/issues/7028).
-- **Notes**: Check out the details in the [hacktoberfest announcement post](https://amplication.com/hacktoberfest-2023).
+- **Notes**: Check out the details in the [Hacktoberfest announcement post](https://amplication.com/hacktoberfest-2023) and [this GitHub Issue](https://github.com/amplication/amplication/issues/7026).
 
 #### **Answer**
 
-- **Swag**: Bag, Stickers.
+- **Swag**: Bag, Stickers, Vaunt digital badge.
 - **Requirements**:
     - Build a plugin and merge PR
+    - Find a bug in current plugins and report it with issues.
     - Be one of the top 3 accepted plugins contributors.
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **How to sign up**: No signup needed.
 - **Issues**:  [Build a plugin repo](https://github.com/answerdev/plugins).
 - **Notes**: Other details available [here](https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023).
 
@@ -86,8 +87,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Cloudinary**
 
 - **Swag**: T-shirt, Stickers, Cloudinary unicorn.
-- **Requirements**: Make 4 or more valid PRs in cloudinary libraries and SDKs with 'hacktoberefest' label.
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **Requirements**: Make 4 or more valid PRs in Cloudinary libraries and SDKs with the `hacktoberefest` label.
+- **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks) for the list of eligible libraries and SDKs.
 
 ### D
@@ -96,14 +97,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Swag package
 - **Requirements**: Be the first 10 participants with 10 accepted PRs.
-- **How to sign up**: Register at [DagsHub](https://dagshub.com/user/sign_up)
+- **How to sign up**: Register at [DagsHub](https://dagshub.com/user/sign_up).
 - **Issues**: All the [Hacktoberfest tagged issues](https://github.com/DagsHub/Hacktoberfest-Issues).
 - **Notes**: Other issues and repos of various difficulty listed in the [announcement post](https://dagshub.com/blog/hacktoberfest-2023/).
 
 #### **devICT**
 
 - **Swag**: Stickers
-- **Requirements**: Make 2 valid PRs against open issues or creating a new issues yourself.
+- **Requirements**: Make 2 valid PRs against open issues or creating a new issue yourself.
 - **How to sign up**: Register at [devICT](https://hacktoberfest.devict.org/auth/github) to track your contributions.
 - **Notes**: All the eligible projects at devICT, MakeICT and Wichita Community are listed in the [announcement post](https://hacktoberfest.devict.org).
 
@@ -121,8 +122,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: T-shirt
 - **Requirements**: Get 2 or more PRs accepted in eKuiper or NanoMQ projects.
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
-- **Issues**: Optional link to Hacktoberfest tagged issues.
+- **How to sign up**: No special signup known.
 - **Issues**:
     - [eKuiper issues](https://github.com/lf-edge/ekuiper/issues)
     - [NanoMQ issues](https://github.com/emqx/nanomq/issues)
@@ -159,6 +159,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: Stickers, Fridge Magnet pack, OSS Pack.
 - **Requirements**:
     - Build an app using Illa or build an AI Agent using Illa and contribute to the Illa Marketplace to gain points.
+    - Earn 1+ points for an Illa Hacktoberfest badge.
     - Earn 50-90 points for a sticker and fridge magnet pack.
     - Earn 90+ points or get a PR merged to win the OSS pack.
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
@@ -179,7 +180,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **JavaScript Today**
 
 - **Swag**: Stickers.
-- **Requirements**: Be the first 50 people to submit a PR to their [hacktoberfest repo](https://github.com/JavaScriptToday/hacktoberfest).
+- **Requirements**: Be the first 50 people to submit a PR to their [Hacktoberfest repo](https://github.com/JavaScriptToday/hacktoberfest).
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
 - **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
 
@@ -190,9 +191,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: Limited-Edition Swag.
 - **Requirements**:
     - Contribute to any of the Mattermost projects or improve the documentation or improve accessibility with better translations.
-    - Make valid contribution to the QA during hacktoberfest for an extra swag.
+    - Make valid contribution to QA during Hacktoberfest for an extra swag.
 - **How to sign up**:  Join the [Mattermost channel](https://community.mattermost.com/landing#/core/channels/qa-contributors).
-- **Notes**: The Custom QA swag will be awarded with any other Mattermost swag you earn through other contributions. Check Mattermost [Hacktoberfest 2023 page](https://mattermost.com/hacktoberfest/) for more details.
+- **Notes**: The Custom QA swag will be awarded with any other Mattermost swag you earn through other contributions. Check the Mattermost [Hacktoberfest 2023 page](https://mattermost.com/hacktoberfest/) for more details.
 
 ### R
 
@@ -210,11 +211,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: CreatorCon T-shirt, ServiceNow Merchandise
 - **Requirements**:
-    - Make 4 PR  in any of the projects, marked with topic "hacktoberfest"
+    - Make 4 PR  in any of the projects, marked with topic `hacktoberfest`.
     - Any other participation throughout October will also be randomly selected.
 - **How to sign up**: Register at [ServiceNow DevProgram](https://devlink.sn/HacktoberfestRegistration/)
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
-- **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/).
+- **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
 ---
 
