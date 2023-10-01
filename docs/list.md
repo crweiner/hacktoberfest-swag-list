@@ -113,9 +113,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: T-shirt
 - **Requirements**: Make meaningful contributions by improving the documentation or creating new guides or by improving the existing UI/UX or designing a new feature.
 - **How to sign up**: No special signup known.
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
 - **Issues**: Check open issues at [docsGPT](https://github.com/arc53/DocsGPT).
 - **Notes**: Read more at the [Hacktoberfest post](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md).
+
+#### **Dyrectorio**
+
+- **Swag**: Cap, stickers
+- **Requirements**: Contribute to any of issues.
+- **How to sign up**: No special signup known.
+- **Issues**: Check open issues at [docsGPT](https://github.com/dyrector-io/dyrectorio/issues).
+- **Notes**: Read more at the [Hacktoberfest](https://github.com/dyrector-io/dyrectorio/issues/837) swag post.
 
 ### E
 
