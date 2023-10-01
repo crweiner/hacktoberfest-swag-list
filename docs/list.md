@@ -44,16 +44,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Be the top 3 contributors with most accepts PRs/MRs.
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
 - **Issues**: All the [open issues]( https://github.com/search?q=org%3AgetAlby+label%3Ahacktoberfest&type=issues&ref=blog.getalby.com).
-- **Notes**: Read the [announcement post](Read more here
-https://blog.getalby.com/contribute-to-the-bitcoin-open-source-this-hacktoberfest-2023/) for more details.
+- **Notes**: Read the [announcement post](https://blog.getalby.com/contribute-to-the-bitcoin-open-source-this-hacktoberfest-2023/) for more details.
 
 #### **Amplication**
 
-- **Swag**: T-shirt, gift cards upto USD 500.
+- **Swag**: T-shirt, gift cards up to USD 500.
 - **Requirements**:
-    - Make upto 2 valid PRs to get a sticker sheet.
-    - Make 3 or more valid PRs to get a T-shirt
-    - Build plugin to get gift cards worth upto USD 500
+    - Make up to 2 valid PRs to get a sticker sheet.
+    - Make 3 or more valid PRs to get a T-shirt.
+    - Build plugin to get gift cards worth up to USD 500.
     - Only person assigned to an issue will be considered a valid contributor.
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
 - **Issues**:
