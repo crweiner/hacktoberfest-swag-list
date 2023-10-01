@@ -10,6 +10,16 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 ---
 
+## Sponsored By
+
+[![Appwrite](img/appwrite-logotype-dark.svg#only-light)](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
+[![Appwrite](img/appwrite-logotype-light.svg#only-dark)](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest)
+
+[Appwrite](https://hacktoberfest.appwrite.io/?utm_source=web&utm_medium=swaglist&utm_campaign=hacktoberfest) is a proud sponsor of _all of Hacktoberfest_, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
+Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
+
+---
+
 ## Swag List 2023
 
 ### **The Original - DigitalOcean, Appwrite, and Illacloud**
@@ -61,6 +71,16 @@ https://blog.getalby.com/contribute-to-the-bitcoin-open-source-this-hacktoberfes
 - **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
 - **Issues**:  [Build a plugin repo](https://github.com/answerdev/plugins).
 - **Notes**: Other details available [here](https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023).
+
+#### **Appwrite**
+
+![appwrite logomark](img/appwrite-logomark-pink.svg)
+
+- **Swag**: Appwrite hoodie and stickers
+- **Requirements**: 1 accepted pull request in the [Appwrite repo](https://github.com/appwrite/appwrite).
+- **How to sign up**: Link to signup page using inline formatting of [text](URL)
+- **Issues**: Optional link to Hacktoberfest tagged issues.
+- **Notes**: Check out [the dedicated Appwrite Hacktoberfest page](https://hacktoberfest.appwrite.io) for events and to learn more about Appwrite!
 
 ### C
 
