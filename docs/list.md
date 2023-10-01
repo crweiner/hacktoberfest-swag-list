@@ -1,6 +1,6 @@
 # The List of Companies Offering Unique Swag - Hacktoberfest 2023
 
-## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake swag will not be tolerated
+## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of swag will not be tolerated
 
 First, [sign up for Hacktoberfest 2023 by clicking this link](https://hacktoberfest.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.com/participation/).
 
@@ -38,6 +38,40 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+#### **Alby**
+
+- **Swag**: Stickers, Socks, Gadgets
+- **Requirements**: Be the top 3 contributors with most accepts PRs/MRs.
+- **How to sign up**: No special signup known.
+- **Issues**: All the [open issues]( https://github.com/search?q=org%3AgetAlby+label%3Ahacktoberfest&type=issues&ref=blog.getalby.com).
+- **Notes**: Read the [announcement post](https://blog.getalby.com/contribute-to-the-bitcoin-open-source-this-hacktoberfest-2023/) for more details around contributing to Alby and other bitcoin-related projects.
+
+#### **Amplication**
+
+- **Swag**: Stickers, t-shirt, gift cards up to USD $500.
+- **Requirements**:
+    - Make up to 2 valid PRs to get a sticker sheet.
+    - Make 3 or more valid PRs to get a T-shirt.
+    - Build plugin to get gift cards worth up to USD 500.
+    - Only person assigned to an issue will be considered a valid contributor.
+- **How to sign up**: No special signup known.
+- **Issues**:
+    - Code and no-code [open issues](https://github.com/amplication/amplication/issues?q=is%3Aopen+is%3Aissue+label%3A%22open+to+community%22).
+    - [Plugin Development](https://github.com/amplication/amplication/issues/7027).
+    - [Build a Web App using Amplication](https://github.com/amplication/amplication/issues/7028).
+- **Notes**: Check out the details in the [Hacktoberfest announcement post](https://amplication.com/hacktoberfest-2023) and [this GitHub Issue](https://github.com/amplication/amplication/issues/7026).
+
+#### **Answer**
+
+- **Swag**: Bag, Stickers, Vaunt digital badge.
+- **Requirements**:
+    - Build a plugin and merge PR
+    - Find a bug in current plugins and report it with issues.
+    - Be one of the top 3 accepted plugins contributors.
+- **How to sign up**: No signup needed.
+- **Issues**:  [Build a plugin repo](https://github.com/answerdev/plugins).
+- **Notes**: Other details available [here](https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023).
+
 #### **Appwrite**
 
 ![appwrite logomark](img/appwrite-logomark-pink.svg)
@@ -47,6 +81,52 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up via the Hacktoberfest website, no separate swag form right now.
 - **Issues**: [See all of the Issues in the Appwrite repo](https://github.com/appwrite/appwrite/issues)
 - **Notes**: Check out [the dedicated Appwrite Hacktoberfest page](https://hacktoberfest.appwrite.io) for events and to learn more about Appwrite!
+
+### C
+
+#### **Cloudinary**
+
+- **Swag**: T-shirt, Stickers, Cloudinary unicorn.
+- **Requirements**: Make 4 or more valid PRs in Cloudinary libraries and SDKs with the `hacktoberefest` label.
+- **How to sign up**: No special signup known.
+- **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks) for the list of eligible libraries and SDKs.
+
+### D
+
+#### **DagsHub**
+
+- **Swag**: Swag package
+- **Requirements**: Be the first 10 participants with 10 accepted PRs.
+- **How to sign up**: Register at [DagsHub](https://dagshub.com/user/sign_up).
+- **Issues**: All the [Hacktoberfest tagged issues](https://github.com/DagsHub/Hacktoberfest-Issues).
+- **Notes**: Other issues and repos of various difficulty listed in the [announcement post](https://dagshub.com/blog/hacktoberfest-2023/).
+
+#### **devICT**
+
+- **Swag**: Stickers
+- **Requirements**: Make 2 valid PRs against open issues or creating a new issue yourself.
+- **How to sign up**: Register at [devICT](https://hacktoberfest.devict.org/auth/github) to track your contributions.
+- **Notes**: All the eligible projects at devICT, MakeICT and Wichita Community are listed in the [announcement post](https://hacktoberfest.devict.org).
+
+#### **DocsGPT**
+
+- **Swag**: T-shirt
+- **Requirements**: Make meaningful contributions by improving the documentation or creating new guides or by improving the existing UI/UX or designing a new feature.
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **Issues**: Check open issues at [docsGPT](https://github.com/arc53/DocsGPT).
+- **Notes**: Read more at the [Hacktoberfest post](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md).
+
+### E
+
+#### **EMQ**
+
+- **Swag**: T-shirt
+- **Requirements**: Get 2 or more PRs accepted in eKuiper or NanoMQ projects.
+- **How to sign up**: No special signup known.
+- **Issues**:
+    - [eKuiper issues](https://github.com/lf-edge/ekuiper/issues)
+    - [NanoMQ issues](https://github.com/emqx/nanomq/issues)
+- **Notes**: [Read more](https://www.emqx.com/en/blog/join-hacktoberfest-2023-with-emq-community) about the eligible projects.
 
 ### F
 
@@ -71,6 +151,71 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up on [hyperswitch.io](https://app.hyperswitch.io/).
 - **Issues**: [Hacktoberfest Issues](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+no%3Aassignee).
 - **Notes**: Check out the [Hyperswitch Hacktoberfest webpage](https://hyperswitch.io/hacktoberfest) for more information and other ways to contribute (such as writing blog posts).
+
+### I
+
+#### **Illa Cloud**
+
+- **Swag**: Stickers, Fridge Magnet pack, OSS Pack.
+- **Requirements**:
+    - Build an app using Illa or build an AI Agent using Illa and contribute to the Illa Marketplace to gain points.
+    - Earn 1+ points for an Illa Hacktoberfest badge.
+    - Earn 50-90 points for a sticker and fridge magnet pack.
+    - Earn 90+ points or get a PR merged to win the OSS pack.
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **Notes**: Get two months of membership to use ILLA Cloud with the promotion code ILLAHacktoberFest. Find other details [here](https://blog.illacloud.com/hacktoberfest2023/).
+
+#### **InstillAI**
+
+- **Swag**: Stickers, Bottle, Mug.
+- **Requirements**:
+    - Earn credits by contributing with code or create & share an Instill Cloud pipeline or create comprehensive guides demonstrating the power of InstillVDP
+    - Be in the top 30% of contributing participants.
+- **How to sign up**: Use [this submission form](https://forms.gle/2r91a7ChMLVnWLm37) to claim your credits.
+- **Issues**: Open issues in the [community repo](https://github.com/instill-ai/community/issues?q=is:issue+is:open+label:hacktoberfest,+label:%22good+first+issue%22,%22help+wanted%22+).
+- **Notes**: Read the guidelines and other details in the [announcement post](https://www.instill.tech/blog/celebrate-Hacktoberfest-2023).
+
+### J
+
+#### **JavaScript Today**
+
+- **Swag**: Stickers.
+- **Requirements**: Be the first 50 people to submit a PR to their [Hacktoberfest repo](https://github.com/JavaScriptToday/hacktoberfest).
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
+
+### M
+
+#### **Mattermost**
+
+- **Swag**: Limited-Edition Swag.
+- **Requirements**:
+    - Contribute to any of the Mattermost projects or improve the documentation or improve accessibility with better translations.
+    - Make valid contribution to QA during Hacktoberfest for an extra swag.
+- **How to sign up**:  Join the [Mattermost channel](https://community.mattermost.com/landing#/core/channels/qa-contributors).
+- **Notes**: The Custom QA swag will be awarded with any other Mattermost swag you earn through other contributions. Check the Mattermost [Hacktoberfest 2023 page](https://mattermost.com/hacktoberfest/) for more details.
+
+### R
+
+#### **Ronin**
+
+- **Swag**: Stickers
+- **Requirements**: 1 or more accepted PRs.
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **Issues**: All the [open issues](https://github.com/search?q=org%3Aronin-rb+state%3Aopen+&type=issues)
+- **Notes**: More details [available here](https://ronin-rb.dev/blog/2023/09/26/ronin-is-participating-in-hacktoberfest-2023.html).
+
+### S
+
+#### **ServiceNow**
+
+- **Swag**: CreatorCon T-shirt, ServiceNow Merchandise
+- **Requirements**:
+    - Make 4 PR  in any of the projects, marked with topic `hacktoberfest`.
+    - Any other participation throughout October will also be randomly selected.
+- **How to sign up**: Register at [ServiceNow DevProgram](https://devlink.sn/HacktoberfestRegistration/)
+- **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
+- **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
 ---
 
