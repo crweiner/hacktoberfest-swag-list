@@ -39,7 +39,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 ### A
 
 #### **Appwrite**
+
 ![appwrite logomark](img/appwrite-logomark-pink.svg)
+
 - **Swag**: Appwrite hoodie and stickers
 - **Requirements**: 1 accepted pull request in the [Appwrite repo](https://github.com/appwrite/appwrite).
 - **How to sign up**: Link to signup page using inline formatting of [text](URL)
