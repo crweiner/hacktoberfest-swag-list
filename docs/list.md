@@ -181,9 +181,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**:
     - Get a T-shirt for every accepted pull request
     - Get a T-shirt + limited edition swag for 4+ Accepted pull requests
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **How to sign up**: No special signup known.
 - **Issues**: Open issues in the [Interledger repositories](https://github.com/interledger)
-- **Notes**: Instructions on How to claim the rewards will be updated here on this [Post](https://community.interledger.org/devcer/hacktoberfest-with-interledger-join-the-open-payments-movement-3bkd). Like, Share and Bookmark this post.
+- **Notes**: Instructions on how to claim the rewards will be updated here on [this post](https://community.interledger.org/devcer/hacktoberfest-with-interledger-join-the-open-payments-movement-3bkd).
 
 ### J
 
