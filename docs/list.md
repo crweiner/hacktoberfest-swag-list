@@ -112,9 +112,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: T-shirt
 - **Requirements**: Make meaningful contributions by improving the documentation or creating new guides or by improving the existing UI/UX or designing a new feature.
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **How to sign up**: No special signup known.
 - **Issues**: Check open issues at [docsGPT](https://github.com/arc53/DocsGPT).
 - **Notes**: Read more at the [Hacktoberfest post](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md).
+
+#### **Dyrectorio**
+
+- **Swag**: Cap, stickers
+- **Requirements**: Contribute to any of issues.
+- **How to sign up**: No special signup known.
+- **Issues**: Check open issues at [docsGPT](https://github.com/dyrector-io/dyrectorio/issues).
+- **Notes**: Read more at the [Hacktoberfest](https://github.com/dyrector-io/dyrectorio/issues/837) swag post.
 
 ### E
 
@@ -144,6 +152,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### H
 
+#### **Hacksquad**
+
+- **Swag**: Shirt, hoodies, mugs, stickers and more swag.
+- **Requirements**:
+    - Join with a squad of up to 5 members or get assigned to a random squad.
+    - Each accepted PR from each squad member is worth 1 point.
+    - Contribution to repositories with more than 200 stars will be counted.
+    - The top 60 squads will win swag.
+    - You are not allowed to contribute to your own repository.
+- **How to sign up**: Sign up at [hacksquad.dev](https://www.hacksquad.dev/).
+- **Notes**: FAQ and rules available at [hacksquad.dev](https://www.hacksquad.dev/).
+
 #### **Hyperswitch**
 
 - **Swag**: T-shirt and other goodies.
@@ -162,7 +182,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Earn 1+ points for an Illa Hacktoberfest badge.
     - Earn 50-90 points for a sticker and fridge magnet pack.
     - Earn 90+ points or get a PR merged to win the OSS pack.
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **How to sign up**: No special signup known.
 - **Notes**: Get two months of membership to use ILLA Cloud with the promotion code ILLAHacktoberFest. Find other details [here](https://blog.illacloud.com/hacktoberfest2023/).
 
 #### **InstillAI**
@@ -175,13 +195,23 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Open issues in the [community repo](https://github.com/instill-ai/community/issues?q=is:issue+is:open+label:hacktoberfest,+label:%22good+first+issue%22,%22help+wanted%22+).
 - **Notes**: Read the guidelines and other details in the [announcement post](https://www.instill.tech/blog/celebrate-Hacktoberfest-2023).
 
+#### **Interledger Foundation**
+
+- **Swag**: T-shirt, Stickers, Limited edition Swag
+- **Requirements**:
+    - Get a T-shirt for every accepted pull request
+    - Get a T-shirt + limited edition swag for 4+ Accepted pull requests
+- **How to sign up**: No special signup known.
+- **Issues**: Open issues in the [Interledger repositories](https://github.com/interledger)
+- **Notes**: Instructions on how to claim the rewards will be updated here on [this post](https://community.interledger.org/devcer/hacktoberfest-with-interledger-join-the-open-payments-movement-3bkd).
+
 ### J
 
 #### **JavaScript Today**
 
 - **Swag**: Stickers.
 - **Requirements**: Be the first 50 people to submit a PR to their [Hacktoberfest repo](https://github.com/JavaScriptToday/hacktoberfest).
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **How to sign up**: No special signup known.
 - **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
 
 ### M
@@ -195,13 +225,45 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**:  Join the [Mattermost channel](https://community.mattermost.com/landing#/core/channels/qa-contributors).
 - **Notes**: The Custom QA swag will be awarded with any other Mattermost swag you earn through other contributions. Check the Mattermost [Hacktoberfest 2023 page](https://mattermost.com/hacktoberfest/) for more details.
 
+#### **MindsDB**
+
+- **Swag**: Razer Blade 16 Laptop, anything from the swag store, cloud credits and guided mentorship.
+- **Requirements**:
+    - Perform coding and non-coding tasks to earn credits.
+    - You'll see the number of credits you earn inside each issue.
+    - Redeem credits for Swag of your choice.
+    - For every 100 credits earned, you will receive one  entry into the draw to win the laptop.
+    - Standout contributors will earn cloud credits at MindsDB and guided mentorship.
+- **How to sign up**: [Submit this form](https://forms.gle/JbALs1oW7HrtsANh8) with links of merged PRs to claim your credits.
+- **Issues**: All the [open issues](https://github.com/mindsdb/mindsdb/labels/hacktoberfest).
+- **Notes**: Swag details and other rules available at [MindsDB](https://mindsdb.com/hacktoberfest).
+
+#### **Modtoberfest**
+
+- **Swag**: Stickers and pins. They will also plant [1 tree](https://modtoberfest.com/modtoberforest) for each participant.
+- **Requirements**:
+    - Only pull requests made in the [participating projects](https://modtoberfest.com/repositories) count towards your progress.
+    - You must submit at least 4 PRs to any of the [participating repositories](https://modtoberfest.com/repositories).
+- **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
+- **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
+
+### N
+
+#### **Novu**
+
+- **Swag**: T-shirt, Stickers pack
+- **Requirements**: Make 3 merged PRs to win the swag pack.
+- **How to sign up**: No special signup known.
+- **Issues**: All the [open issues](https://github.com/novuhq/novu/labels/Hacktoberfest)
+- **Notes**: More details [available here](https://novu.co/hacktoberfest/).
+
 ### R
 
 #### **Ronin**
 
 - **Swag**: Stickers
 - **Requirements**: 1 or more accepted PRs.
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com).
+- **How to sign up**: No special signup known.
 - **Issues**: All the [open issues](https://github.com/search?q=org%3Aronin-rb+state%3Aopen+&type=issues)
 - **Notes**: More details [available here](https://ronin-rb.dev/blog/2023/09/26/ronin-is-participating-in-hacktoberfest-2023.html).
 
@@ -219,6 +281,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### T
 
+#### **Treblle**
+
+- **Swag**: Stickers, hoodies, t-shirt, socks and cash prize pool of USD 6660.
+- **Requirements**: Participate as a solo developer or a team of 2-4 to build a SDK for the platform.
+- **How to sign up**: Sign up for [Treblle Hacktoberfest](https://docs.google.com/forms/d/e/1FAIpQLSfC_8mX8lpQNhksqQGUhsQ0zTvRzMC5YzufVVbVkPksxouLFw/viewform)
+- **Notes**: Visit [Treblle Hacktoberfest 2023](https://hacked.treblle.com/) for more details and the [announcement page](https://blog.treblle.com/treblle-hacktoberfest/) for complete list of prizes.
+
 #### **Turbot**
 
 - **Swag**: Turbot & Steampipe T-shirts and Stickers
@@ -227,7 +296,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - At least 1 accepted PR from any of our 200+ public GitHub repos, marked with topic `hacktoberfest`.
 - **How to sign up**: No required signup neccessary.
 - **Issues**: [Eligible projects and issues](https://github.com/search?q=org%3Aturbot+topic%3Ahacktoberfest&type=repositories).
-- **Notes**: Read more details in the [announcement post](https://turbot.com/blog/2023/10/hacktoberfest-2023) and join our [Turbot community](https://turbot.com/community/join) #contributors channel with any questions.
+- **Notes**: Read more details in the [announcement post](https://turbot.com/blog/2023/10/hacktoberfest-2023) and join our [Turbot community](https://turbot.com/community/join) `#contributors` channel with any questions.
 
 ---
 
