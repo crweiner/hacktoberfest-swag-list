@@ -84,7 +84,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### B
 
-### **Ballerina** 
+### **Ballerina**
 
 - **Swag**: Amazon voucher and stickers.
 - **Requirements**: Accepted PR which fixes `hacktoberefest` labeled issue in the [GitHub project](https://github.com/orgs/ballerina-platform/projects/362).
