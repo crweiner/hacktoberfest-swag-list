@@ -152,6 +152,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### H
 
+#### **Hanko**
+
+- **Swag**: MacBook Pro 14" M2, Yubikey 5C and exclusive Hanko swag.
+- **Requirements**:
+    - Create any functioning app that can be hosted online with Hanko auth integrated.
+    - Customize Hanko Elements
+- **How to sign up**: No special sign up known.
+- **Notes**: For more Information visit [hanko](https://www.hanko.io/hackathon)
+
 #### **Hacksquad**
 
 - **Swag**: Shirt, hoodies, mugs, stickers and more swag.
@@ -268,14 +277,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Register at [ServiceNow DevProgram](https://devlink.sn/HacktoberfestRegistration/)
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
-
-#### **Swirl**
-
-- **Swag**: Gift Cards upto USD 100.
-- **Requirements**:
-    - Make 4 PR or create tutorials.
-- **How to sign up**: No special signup known.
-- **Notes**: Visit [Swirl](https://swirl.today/contribute-to-swirl-this-hacktoberfest-2023/) for more details and the complete list of prizes.
 
 ### T
 
