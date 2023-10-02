@@ -247,15 +247,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: All the [open issues](https://github.com/novuhq/novu/labels/Hacktoberfest)
 - **Notes**: More details [available here](https://novu.co/hacktoberfest/).
 
-### O
-
-#### **Otterize**
-
-- **Swag**: Swag (Specific Swags not mentioned)
-- **Requirements**: Make 3 successful merged PRs to win swags
-- **How to sign up**: No special signup known.
-- **Notes**: [check out this tweet](https://twitter.com/TheOtterize/status/1708516300270793003) and the repositories of [Otterize](https://github.com/orgs/otterize/repositories)
- 
 ### R
 
 #### **Ronin**
@@ -277,6 +268,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Register at [ServiceNow DevProgram](https://devlink.sn/HacktoberfestRegistration/)
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
+
+#### **Swirl**
+
+- **Swag**: Gift Cards upto USD 100.
+- **Requirements**:
+    - Make 4 PR or create tutorials.
+- **How to sign up**: No special signup known.
+- **Notes**: Visit [Swirl](https://swirl.today/contribute-to-swirl-this-hacktoberfest-2023/) for more details and the complete list of prizes.
 
 ### T
 
