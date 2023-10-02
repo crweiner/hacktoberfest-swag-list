@@ -237,6 +237,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
+#### **MLH Global Hack Week**
+
+- **Swag**: Character Sticker, Sticker Pack, PostCard, Hex Sticker.
+- **Requirements**:
+    - Participate in MLH Global Hack Week challenges.
+    - Attend MLH Global Open Source Week events.
+    - Earn points for each challenge completed and event attended.
+    - Be in the top point earners to win swag, including stickers, postcards, and other awesome items.
+- **How to sign up**: Get started by visiting the MLH Global Hack Week website [here](https://ghw.mlh.io/events/open-source) to register and access challenge details.
+- **Notes**: Look at the [swags](https://ghw.mlh.io/swag) and check out the [FAQ](https://ghw.mlh.io/faq) for more details
+
 ### N
 
 #### **Novu**
