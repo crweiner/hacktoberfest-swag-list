@@ -152,15 +152,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### H
 
-#### **Hanko**
-
-- **Swag**: MacBook Pro 14" M2, Yubikey 5C and exclusive Hanko swag.
-- **Requirements**:
-    - Create any functioning app that can be hosted online with Hanko auth integrated.
-    - Customize Hanko Elements
-- **How to sign up**: No special sign up known.
-- **Notes**: For more Information visit [hanko](https://www.hanko.io/hackathon)
-
 #### **Hacksquad**
 
 - **Swag**: Shirt, hoodies, mugs, stickers and more swag.
@@ -180,6 +171,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up on [hyperswitch.io](https://app.hyperswitch.io/).
 - **Issues**: [Hacktoberfest Issues](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+no%3Aassignee).
 - **Notes**: Check out the [Hyperswitch Hacktoberfest webpage](https://hyperswitch.io/hacktoberfest) for more information and other ways to contribute (such as writing blog posts).
+
+#### **Hanko**
+
+- **Swag**: MacBook Pro 14" M2, Yubikey 5C and exclusive Hanko swag.
+- **Requirements**:
+  - Create any functioning app that can be hosted online with Hanko auth integrated.
+    - Ensure you have a public repository with a comprehensive README document.
+    - Star the [Hanko GitHub](https://github.com/teamhanko/hanko) repo.
+    - While it's not mandatory, share your project on social media and tag [@hanko_io](https://twitter.com/hanko_io).
+  - Customize Hanko Elements.
+- **How to sign up**: Submit your project by [clicking here](https://www.hanko.io/hackathon#form-hackathon).
+- **Notes**: For more Information visit [Hanko's Hackathon page here.](https://www.hanko.io/hackathon)
 
 ### I
 
