@@ -152,8 +152,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Formbricks**
 
-- **Swag**: Apple Macbook Air M2, Hoodies, Tshirts, Stickers
-- **Requirements**: Code, Documentation, Social Media, Design, we have it for every kind of contributor. Higher you are on the leaderboard, higher your chances! Just complete any 1 quest and get in the draw.
+- **Swag**: Apple Macbook Air M2, Hoodies, T-shirts, Stickers
+- **Requirements**: Formbricks is looking to ship an Open Source version of Typeform during Hacktoberfest. Code, documentation, social media, design, and other contributions get you on their leaderboard. The higher you are on the leaderboard, the higher your chances of swag. Just complete any 1 quest and get in the draw.
 - **How to sign up**: [FormTribe](https://formtribe.com)
 - **Issues**:
     - [Gain points via Code contributions](https://github.com/formbricks/formbricks/issues)
