@@ -359,7 +359,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Uno Platform**
 
-- **Swag**: Stickers, Sweater, T-shirt, stickers and WinUI 3 ebook.
+- **Swag**: Stickers, Sweater, T-shirt, stickers and eBook.
 - **Requirements**:
     - Any open issue on the [Uno Platform GitHub](https://github.com/unoplatform/uno/blob/master/CONTRIBUTING.md) qualifies.
     - 9 Quality Pull Requests: Uno Platform Sweater.
