@@ -82,6 +82,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [See all of the Issues in the Appwrite repo](https://github.com/appwrite/appwrite/issues)
 - **Notes**: Check out [the dedicated Appwrite Hacktoberfest page](https://hacktoberfest.appwrite.io) for events and to learn more about Appwrite!
 
+### B
+
+#### **Ballerina**
+
+- **Swag**: Code contributions: Amazon voucher and stickers. Low/No Code contributions: Amazon vouchers, t-shirt, and stickers
+- **Requirements**: Code contributions: Accepted PR which fixes `hacktoberefest` labeled issue in the [GitHub project](https://github.com/orgs/ballerina-platform/projects/362).
+- **How to sign up**: Fill out [this form](https://forms.gle/EuekCiRMrpqmJE6K6) once your PR is merged.
+- **Notes**: Check out the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more information!
+
 ### C
 
 #### **Cloudinary**
