@@ -255,7 +255,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Make 3 successful merged PRs to win swags
 - **How to sign up**: No special signup known.
 - **Notes**: [check out this tweet](https://twitter.com/TheOtterize/status/1708516300270793003) and the repositories of [Otterize](https://github.com/orgs/otterize/repositories)
- 
+
 ### R
 
 #### **Ronin**
