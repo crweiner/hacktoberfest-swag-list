@@ -168,11 +168,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: MacBook Pro 14" M2, Yubikey 5C and exclusive Hanko swag.
 - **Requirements**:
-  - Create any functioning app that can be hosted online with Hanko auth integrated.
-    - Ensure you have a public repository with a comprehensive README document.
-    - Star the [Hanko GitHub](https://github.com/teamhanko/hanko) repo.
-    - While it's not mandatory, share your project on social media and tag [@hanko_io](https://twitter.com/hanko_io).
-  - Customize Hanko Elements.
+    - Create any functioning app that can be hosted online with Hanko auth integrated.
+        - Ensure you have a public repository with a comprehensive README document.
+        - Star the [Hanko GitHub](https://github.com/teamhanko/hanko) repo.
+        - While it's not mandatory, share your project on social media and tag [@hanko_io](https://twitter.com/hanko_io).
+    - Customize Hanko Elements.
 - **How to sign up**: Submit your project by [clicking here](https://www.hanko.io/hackathon#form-hackathon).
 - **Notes**: For more Information visit [Hanko's Hackathon page here.](https://www.hanko.io/hackathon)
 
