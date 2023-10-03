@@ -159,6 +159,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the [Flyte Hacktoberfest Repo](https://github.com/flyteorg/flyte/issues/4064)
 - **Notes**: For more information on how to get started with Flyte during Hacktoberfest, check out [their blog post.](https://flyte.org/blog/flyte-at-hacktoberfest-2023)
 
+#### **Formbricks**
+
+- **Swag**: Apple Macbook Air M2, Hoodies, T-shirts, Stickers
+- **Requirements**: Formbricks is looking to ship an Open Source version of Typeform during Hacktoberfest. Code, documentation, social media, design, and other contributions get you on their leaderboard. The higher you are on the leaderboard, the higher your chances of swag. Just complete any 1 quest and get in the draw.
+- **How to sign up**: [FormTribe](https://formtribe.com)
+- **Issues**:
+    - [Gain points via Code contributions](https://github.com/formbricks/formbricks/issues)
+    - [Gain points via Social Media/Design/Documentation](https://formbricks.notion.site/FormTribe-Side-Quests-4ab3b294cfa04e94b77dfddd66378ea2)
+
 ### H
 
 #### **Hacksquad**
