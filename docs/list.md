@@ -271,9 +271,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Swirl**
 
-- **Swag**: Gift Cards upto USD 100.
-- **Requirements**:
-    - Make 4 PR or create tutorials.
+- **Swag**: Gift cards up to $100.
+- **Requirements**: 4 merged PRs, or create tutorials.
 - **How to sign up**: No special signup known.
 - **Notes**: Visit [Swirl](https://swirl.today/contribute-to-swirl-this-hacktoberfest-2023/) for more details and the complete list of prizes.
 
