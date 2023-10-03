@@ -164,14 +164,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up at [hacksquad.dev](https://www.hacksquad.dev/).
 - **Notes**: FAQ and rules available at [hacksquad.dev](https://www.hacksquad.dev/).
 
-#### **Hyperswitch**
-
-- **Swag**: T-shirt and other goodies.
-- **Requirements**: Submit a PR to solve one or more issues in the [Hyperswitch repo](https://github.com/juspay/hyperswitch).
-- **How to sign up**: Sign up on [hyperswitch.io](https://app.hyperswitch.io/).
-- **Issues**: [Hacktoberfest Issues](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+no%3Aassignee).
-- **Notes**: Check out the [Hyperswitch Hacktoberfest webpage](https://hyperswitch.io/hacktoberfest) for more information and other ways to contribute (such as writing blog posts).
-
 #### **Hanko**
 
 - **Swag**: MacBook Pro 14" M2, Yubikey 5C and exclusive Hanko swag.
@@ -183,6 +175,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
   - Customize Hanko Elements.
 - **How to sign up**: Submit your project by [clicking here](https://www.hanko.io/hackathon#form-hackathon).
 - **Notes**: For more Information visit [Hanko's Hackathon page here.](https://www.hanko.io/hackathon)
+
+#### **Hyperswitch**
+
+- **Swag**: T-shirt and other goodies.
+- **Requirements**: Submit a PR to solve one or more issues in the [Hyperswitch repo](https://github.com/juspay/hyperswitch).
+- **How to sign up**: Sign up on [hyperswitch.io](https://app.hyperswitch.io/).
+- **Issues**: [Hacktoberfest Issues](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest+no%3Aassignee).
+- **Notes**: Check out the [Hyperswitch Hacktoberfest webpage](https://hyperswitch.io/hacktoberfest) for more information and other ways to contribute (such as writing blog posts).
 
 ### I
 
