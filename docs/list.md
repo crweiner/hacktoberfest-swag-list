@@ -159,6 +159,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the [Flyte Hacktoberfest Repo](https://github.com/flyteorg/flyte/issues/4064)
 - **Notes**: For more information on how to get started with Flyte during Hacktoberfest, check out [their blog post.](https://flyte.org/blog/flyte-at-hacktoberfest-2023)
 
+#### **Flutter_Deck**
+
+- **Swag**: Digital Copy of Flutter Cookbook
+- **Requirements**:
+    - One PR (only first 3 contributors are eligible for the swag)
+- **How to sign up**: No special signup known.
+- **Issues**: See the [Flutter_Deck Repo](https://github.com/mkobuolys/flutter_deck/issues)
+- **Notes**: For more information see the original post on [Twitter](https://twitter.com/mkobuolys/status/1709185864436171017)
+
 #### **Formbricks**
 
 - **Swag**: Apple Macbook Air M2, Hoodies, T-shirts, Stickers
