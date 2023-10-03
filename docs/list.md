@@ -317,6 +317,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
+#### **Swirl**
+
+- **Swag**: Gift cards up to $100.
+- **Requirements**: 4 merged PRs, or create tutorials.
+- **How to sign up**: No special signup known.
+- **Notes**: Visit [Swirl](https://swirl.today/contribute-to-swirl-this-hacktoberfest-2023/) for more details and the complete list of prizes.
+
 ### T
 
 #### **Treblle**
