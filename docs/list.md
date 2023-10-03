@@ -247,6 +247,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: All the [open issues](https://github.com/mindsdb/mindsdb/labels/hacktoberfest).
 - **Notes**: Swag details and other rules available at [MindsDB](https://mindsdb.com/hacktoberfest).
 
+#### **MLH Global Hack Week**
+
+- **Swag**: Sticker pack and postcard
+- **Requirements**:
+  - Participate in MLH Global Hack Week challenges.
+  - Attend MLH Global Open Source Week events.
+  - Earn points for each challenge completed and event attended.
+  - Be in the top point earners to win swag, including stickers, postcards, and other items.
+- **How to sign up**: Get started by visiting the MLH Global Hack Week website [here](https://ghw.mlh.io/events/open-source) to register and access challenge details.
+- **Notes**: Look at the [swags](https://ghw.mlh.io/swag) and check out the [FAQ](https://ghw.mlh.io/faq) for more details
+
 #### **Modtoberfest**
 
 - **Swag**: Stickers and pins. They will also plant [1 tree](https://modtoberfest.com/modtoberforest) for each participant.
