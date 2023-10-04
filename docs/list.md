@@ -91,6 +91,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Fill out [this form](https://forms.gle/EuekCiRMrpqmJE6K6) once your PR is merged.
 - **Notes**: Check out the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more information!
 
+#### **Bitwarden**
+
+- **Swag**: 1st place $1000, 2nd place $500 and 3rd place $250.
+- **Requirements**:
+    - The project must be open source and hosted on GitHub or Gitlab.
+    - The project must use Bitwarden Passwordless.dev
+    - The project must be submitted by October 31st, 2023.
+- **How to sign up**: Submit a link to your project to [Bitwarden Hacktoberfest Thread](https://community.bitwarden.com/t/hacktoberfest-is-open-submit-a-project-for-passwordless-dev-for-a-chance-to-win/58642/1) thread by October 31st, 2023.
+- **Notes**: Check out the [Bitwarden Hacktoberfest Thread](https://community.bitwarden.com/t/hacktoberfest-is-open-submit-a-project-for-passwordless-dev-for-a-chance-to-win/58642/1) for more information!
+
 ### C
 
 #### **Cloudinary**
