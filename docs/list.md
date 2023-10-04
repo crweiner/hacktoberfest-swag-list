@@ -355,6 +355,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [Eligible projects and issues](https://github.com/search?q=org%3Aturbot+topic%3Ahacktoberfest&type=repositories).
 - **Notes**: Read more details in the [announcement post](https://turbot.com/blog/2023/10/hacktoberfest-2023) and join our [Turbot community](https://turbot.com/community/join) `#contributors` channel with any questions.
 
+### W
+
+#### **WireMock**
+
+- **Swag**: T-Shirts, Stickers, Special swag.
+- **Requirements**:
+    - All projects in the official WireMock organization on GitHub.
+    - [WireMock Ecosystem](https://github.com/wiremock/ecosystem) projects marked with a `hacktoberfest` topic by their maintainers.
+    - Judge contributions by the most active contributors, quality and value.
+- **How to sign up**: Sign up for [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfC_8mX8lpQNhksqQGUhsQ0zTvRzMC5YzufVVbVkPksxouLFw/viewform) 
+- **Notes**: Read more at [event page](https://wiremock.org/events/hacktoberfest/) WireMock Hacktoberfest.
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
