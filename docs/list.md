@@ -364,7 +364,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - All projects in the official WireMock organization on GitHub.
     - [WireMock Ecosystem](https://github.com/wiremock/ecosystem) projects marked with a `hacktoberfest` topic by their maintainers.
     - Judge contributions by the most active contributors, quality and value.
-- **How to sign up**: Sign up for [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfC_8mX8lpQNhksqQGUhsQ0zTvRzMC5YzufVVbVkPksxouLFw/viewform) 
+- **How to sign up**: Sign up for [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfC_8mX8lpQNhksqQGUhsQ0zTvRzMC5YzufVVbVkPksxouLFw/viewform)
 - **Notes**: Read more at [event page](https://wiremock.org/events/hacktoberfest/) WireMock Hacktoberfest.
 
 ---
