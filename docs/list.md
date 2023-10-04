@@ -93,6 +93,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### C
 
+#### **Chimoney**
+
+- **Swag**: $25 for each merged PR, exclusive Chimoney T-shirts and Stickers
+- **Requirements**: 1+ merged PRs
+- **How to sign up**: No special signup needed, however you can join the [community channel](https://discord.gg/Q3peDrPG95) for assistance.
+- **Issues**: Explore the list of issues in the [community repository](https://github.com/Chimoney/chimoney-community-projects/issues).
+- **Notes**: Check out the [Chimoney Hacktoberfest Blog](https://chimoney.io/blogs/Join-Chimoney-for-hacktoberfest-2023) and you can even register for skill-building workshops [here](https://forms.gle/KKk8GepQczzn2uMv7).
+
 #### **Cloudinary**
 
 - **Swag**: T-shirt, Stickers, Cloudinary unicorn.
