@@ -98,7 +98,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - The project must be open source and hosted on GitHub or Gitlab.
     - The project must use Bitwarden Passwordless.dev
     - The project must be submitted by October 31st, 2023.
-- **How to sign up**: Submit a link to your project to [Bitwarden Hacktoberfest Thread](https://community.bitwarden.com/t/hacktoberfest-is-open-submit-a-project-for-passwordless-dev-for-a-chance-to-win/58642/1) thread by October 31st, 2023.
+- **How to sign up**: Submit a link to your project to [Bitwarden Hacktoberfest Thread](https://community.bitwarden.com/t/hacktoberfest-is-open-submit-a-project-for-passwordless-dev-for-a-chance-to-win/58642/1) by October 31st, 2023.
 - **Notes**: Check out the [Bitwarden Hacktoberfest Thread](https://community.bitwarden.com/t/hacktoberfest-is-open-submit-a-project-for-passwordless-dev-for-a-chance-to-win/58642/1) for more information!
 
 ### C
