@@ -38,6 +38,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+#### **Akto**
+
+- **Swag**: T-shirt, hoodie and stickers.
+- **Requirements**:
+    - 1 merged/accepted PRs: akto sticker.
+    - 2 merged/accepted PRs: akto t-shirt.
+    - 3 merged/accepted PRs: akto hoodie.
+    - 4+ merged/accepted PRs: all of the above.
+- **How to sign up**: No special signup known.
+- **Issues**: All the [Hacktoberfest tagged issues](https://github.com/akto-api-security/akto/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+- **Notes**: Check out [the Akto tweet](https://twitter.com/Aktodotio/status/1708716187582927316) for more information.
+
 #### **Alby**
 
 - **Swag**: Stickers, Socks, Gadgets
@@ -81,18 +93,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up via the Hacktoberfest website, no separate swag form right now.
 - **Issues**: [See all of the Issues in the Appwrite repo](https://github.com/appwrite/appwrite/issues)
 - **Notes**: Check out [the dedicated Appwrite Hacktoberfest page](https://hacktoberfest.appwrite.io) for events and to learn more about Appwrite!
-
-#### **Akto**
-
-- **Swag**: T-shirt, hoodie and stickers.
-- **Requirements**:
-    - 1 merged/accepted PRs: akto sticker.
-    - 2 merged/accepted PRs: akto t-shirt.
-    - 3 merged/accepted PRs: akto hoodie.
-    - 4+ merged/accepted PRs: all of the above.
-- **How to sign up**: No special signup known.
-- **Issues**: All the [Hacktoberfest tagged issues](https://github.com/akto-api-security/akto/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
-- **Notes**: Check out [the Akto tweet](https://twitter.com/Aktodotio/status/1708716187582927316) for more information.
 
 ### B
 
