@@ -142,7 +142,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup needed, however you can join the #hacktoberfest2023 channel in [Covalent Slack](https://covalentworkflows.slack.com/join/shared_invite/zt-1ew7f2rfk-dKSXVQmRniu5mQW4Z_eQuw#/).
 - **Notes**: Visit [Covalent Hacktoberfest Blog](https://www.covalent.xyz/covalent-x-hacktoberfest-2023/) for more information.
 
-
 ### D
 
 #### **DagsHub**
