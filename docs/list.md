@@ -72,6 +72,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**:  [Build a plugin repo](https://github.com/answerdev/plugins).
 - **Notes**: Other details available [here](https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023).
 
+#### **Appsmith**
+
+- **Swag**: Swag package for 4 winners (top submission per category)
+- **Requirements**:
+    - Build an Appsmith App in one of the following catgeories: UI Building Block, Starter Templates, Full Apps, or Development Tools
+    - Submit your App
+    - Be the top submission in your chosen category
+- **How to sign up**: Create an [Appsmith Account](https://www.appsmith.com/) and [Appsmith Community Account](https://community.appsmith.com/).
+- **Notes**: Other details in their [announcement post](https://community.appsmith.com/content/announcement/welcome-appsmith-hacktoberfest-2023) and [FAQ post](https://community.appsmith.com/content/announcement/faq-appsmith-hacktoberfest-2023).
+
 #### **Appwrite**
 
 ![appwrite logomark](img/appwrite-logomark-pink.svg)
@@ -91,7 +101,25 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Fill out [this form](https://forms.gle/EuekCiRMrpqmJE6K6) once your PR is merged.
 - **Notes**: Check out the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more information!
 
+#### **Bitwarden**
+
+- **Swag**: 1st place $1000, 2nd place $500 and 3rd place $250.
+- **Requirements**:
+    - The project must be open source and hosted on GitHub or Gitlab.
+    - The project must use Bitwarden Passwordless.dev
+    - The project must be submitted by October 31st, 2023.
+- **How to sign up**: Submit a link to your project to [Bitwarden Hacktoberfest Thread](https://community.bitwarden.com/t/hacktoberfest-is-open-submit-a-project-for-passwordless-dev-for-a-chance-to-win/58642/1) by October 31st, 2023.
+- **Notes**: Check out the [Bitwarden Hacktoberfest Thread](https://community.bitwarden.com/t/hacktoberfest-is-open-submit-a-project-for-passwordless-dev-for-a-chance-to-win/58642/1) for more information!
+
 ### C
+
+#### **Chimoney**
+
+- **Swag**: $25 for each merged PR, exclusive Chimoney T-shirts and Stickers
+- **Requirements**: 1+ merged PRs
+- **How to sign up**: No special signup needed, however you can join the [community channel](https://discord.gg/Q3peDrPG95) for assistance.
+- **Issues**: Explore the list of issues in the [community repository](https://github.com/Chimoney/chimoney-community-projects/issues).
+- **Notes**: Check out the [Chimoney Hacktoberfest Blog](https://chimoney.io/blogs/Join-Chimoney-for-hacktoberfest-2023) and you can even register for skill-building workshops [here](https://forms.gle/KKk8GepQczzn2uMv7).
 
 #### **Cloudinary**
 
@@ -99,6 +127,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Make 4 or more valid PRs in Cloudinary libraries and SDKs with the `hacktoberefest` label.
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks) for the list of eligible libraries and SDKs.
+
+#### **Collectiv**
+
+- **Swag**: T-shirt, Stickers and more swags.
+- **Requirements**: Make 4 meaningful PRs in any repo with >100 stars
+- **How to sign up**: Fill out [this form](https://tally.so/r/3xDxgJ).
+- **Notes**: [Visit Collectiv](https://chat.collectivai.com/hacktober-fest) blog post for more information.
 
 ### D
 
@@ -158,6 +193,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Fill out [this form](https://tally.so/r/wMNob0) after you create a pull request on or before Oct. 31, 2023.
 - **Issues**: See the [Flyte Hacktoberfest Repo](https://github.com/flyteorg/flyte/issues/4064)
 - **Notes**: For more information on how to get started with Flyte during Hacktoberfest, check out [their blog post.](https://flyte.org/blog/flyte-at-hacktoberfest-2023)
+
+#### **Flutter_Deck**
+
+- **Swag**: Digital Copy of Flutter Cookbook
+- **Requirements**: One PR (only first 3 contributors are eligible for the swag)
+- **How to sign up**: No special signup known.
+- **Issues**: See the [Flutter_Deck Repo](https://github.com/mkobuolys/flutter_deck/issues)
+- **Notes**: For more information see the original post on [Twitter](https://twitter.com/mkobuolys/status/1709185864436171017)
 
 #### **Formbricks**
 
@@ -229,8 +272,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: T-shirt, Stickers, Limited edition Swag
 - **Requirements**:
-    - Get a T-shirt for 1 or more accepted pull requests
-    - Get a T-shirt + limited edition swag for 4+ accepted pull requests
+    - Get a T-shirt for 1 or more accepted pull requests (First 150 contributors)
+    - Get a T-shirt + limited edition swag for 4+ accepted pull requests (First 10 contributors)
 - **How to sign up**: No special signup known.
 - **Issues**: Open issues in the [Interledger repositories](https://github.com/interledger)
 - **Notes**: Instructions on how to claim the rewards will be updated here on [this post](https://community.interledger.org/devcer/hacktoberfest-with-interledger-join-the-open-payments-movement-3bkd).
@@ -355,13 +398,25 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [Eligible projects and issues](https://github.com/search?q=org%3Aturbot+topic%3Ahacktoberfest&type=repositories).
 - **Notes**: Read more details in the [announcement post](https://turbot.com/blog/2023/10/hacktoberfest-2023) and join our [Turbot community](https://turbot.com/community/join) `#contributors` channel with any questions.
 
+### U
+
+#### **Uno Platform**
+
+- **Swag**: Stickers, Sweater, T-shirt, stickers and eBook.
+- **Requirements**:
+    - 9 Quality Pull Requests: Uno Platform Sweater.
+    - 4 Quality Pull Requests: Uno Platform T-shirt and stickers.
+    - 2 Quality Pull Requests: Get Started with the Uno Platform and WinUI 3 ebook.
+- **How to sign up**: No special signup known.
+- **Issues**: Check the [curated issues board](https://github.com/orgs/unoplatform/projects/77/views/1) or you can request the addition of `hacktoberfest` label to [open issues](https://github.com/search?q=org%3Aunoplatform+is%3Aissue+is%3Aopen&type=issues) in any of the Uno platform repos.
+- **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
+
 ### W
 
 #### **WireMock**
 
 - **Swag**: T-Shirts, Stickers, Special swag.
 - **Requirements**:
-    - All projects in the official WireMock organization on GitHub.
     - [WireMock Ecosystem](https://github.com/wiremock/ecosystem) projects marked with a `hacktoberfest` topic by their maintainers.
     - Judge contributions by the most active contributors, quality and value.
 - **How to sign up**: Sign up for [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeBiJSYV4PNFYOH1Jo9PSheOYKxqV2NJE3LELL9a_fYq4fpfw/viewform?usp=sf_link)
