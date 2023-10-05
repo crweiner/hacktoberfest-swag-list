@@ -367,7 +367,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: T-shirt, stickers, and coupons.
 - **Requirements**: Make 4 valid PRs against open issues.
 - **How to sign up**: No Special sign up known.
-- **Issues** : 
+- **Issues** : Get the details here:
     - [SEF ScholarX Frontend](https://github.com/sef-global/scholarx-frontend/issues) 
     - [SEF ScholarX Backend](https://github.com/sef-global/scholarx-backend/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
     - [SEF Site](https://github.com/sef-global/sef-site)
