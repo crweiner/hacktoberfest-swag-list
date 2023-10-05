@@ -118,6 +118,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks) for the list of eligible libraries and SDKs.
 
+#### **Collectiv**
+
+- **Swag**: T-shirt, Stickers and more swags.
+- **Requirements**: Make 4 meaningful PRs in any repo with >100 stars
+- **How to sign up**: Fill out [this form](https://tally.so/r/3xDxgJ).
+- **Notes**: [Visit Collectiv](https://chat.collectivai.com/hacktober-fest) blog post for more information.
+
 ### D
 
 #### **DagsHub**
