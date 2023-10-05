@@ -38,8 +38,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
-#### **Airbyte**
-
 #### **Alby**
 
 - **Swag**: Stickers, Socks, Gadgets
