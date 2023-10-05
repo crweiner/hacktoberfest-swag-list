@@ -72,6 +72,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**:  [Build a plugin repo](https://github.com/answerdev/plugins).
 - **Notes**: Other details available [here](https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023).
 
+#### **Appsmith**
+
+- **Swag**: Swag package for 4 winners (top submission per category)
+- **Requirements**:
+    - Build an Appsmith App in one of the following catgeories: UI Building Block, Starter Templates, Full Apps, or Development Tools
+    - Submit your App
+    - Be the top submission in your chosen category
+- **How to sign up**: Create an [Appsmith Account](https://www.appsmith.com/) and [Appsmith Community Account](https://community.appsmith.com/).
+- **Notes**: Other details in their [announcement post](https://community.appsmith.com/content/announcement/welcome-appsmith-hacktoberfest-2023) and [FAQ post](https://community.appsmith.com/content/announcement/faq-appsmith-hacktoberfest-2023).
+
 #### **Appwrite**
 
 ![appwrite logomark](img/appwrite-logomark-pink.svg)
