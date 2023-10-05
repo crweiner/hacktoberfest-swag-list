@@ -355,6 +355,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [Eligible projects and issues](https://github.com/search?q=org%3Aturbot+topic%3Ahacktoberfest&type=repositories).
 - **Notes**: Read more details in the [announcement post](https://turbot.com/blog/2023/10/hacktoberfest-2023) and join our [Turbot community](https://turbot.com/community/join) `#contributors` channel with any questions.
 
+### U
+
+#### **Uno Platform**
+
+- **Swag**: Stickers, Sweater, T-shirt, stickers and eBook.
+- **Requirements**:
+    - 9 Quality Pull Requests: Uno Platform Sweater.
+    - 4 Quality Pull Requests: Uno Platform T-shirt and stickers.
+    - 2 Quality Pull Requests: Get Started with the Uno Platform and WinUI 3 ebook.
+- **How to sign up**: No special signup known.
+- **Issues**: Check the [curated issues board](https://github.com/orgs/unoplatform/projects/77/views/1) or you can request the addition of `hacktoberfest` label to [open issues](https://github.com/search?q=org%3Aunoplatform+is%3Aissue+is%3Aopen&type=issues) in any of the Uno platform repos.
+- **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
