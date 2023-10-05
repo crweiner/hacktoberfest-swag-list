@@ -162,8 +162,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Flutter_Deck**
 
 - **Swag**: Digital Copy of Flutter Cookbook
-- **Requirements**:
-    - One PR (only first 3 contributors are eligible for the swag)
+- **Requirements**: One PR (only first 3 contributors are eligible for the swag)
 - **How to sign up**: No special signup known.
 - **Issues**: See the [Flutter_Deck Repo](https://github.com/mkobuolys/flutter_deck/issues)
 - **Notes**: For more information see the original post on [Twitter](https://twitter.com/mkobuolys/status/1709185864436171017)
