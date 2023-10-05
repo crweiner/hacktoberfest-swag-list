@@ -350,6 +350,21 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: [check out this tweet](https://twitter.com/TheOtterize/status/1708516300270793003) and the repositories of [Otterize](https://github.com/orgs/otterize/repositories)
 
+### Q
+
+### **QuestDB**
+
+- **Swag**: QuestDB t-shirt.
+- **Requirements**:
+    - Read the official Hacktoberfest guidelines about [contributors](https://hacktoberfest.com/participation/#contributors), [pull requests](https://hacktoberfest.com/participation/#pr-mr-details), and [spam](https://hacktoberfest.com/participation/#spam).
+    - Read the QuestDB [CONTRIBUTING.md](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md).
+    - Pick one issue from the open issues below that you plan to work on. Leave some for other contributors.
+    - Address any review comments before asking for another review.
+    - Successfully contribute and close the issue.
+- **How to sign up**: Sign up via the Hacktoberfest website. No special signup needed.
+- **Issues**: List of open issues [here](https://github.com/questdb/questdb/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) and [here](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen++label%3Ahacktoberfest+).
+- **Notes**: Full details are mentioned [here](https://questdb.io/blog/hacktoberfest-2023-questdb/).
+
 ### R
 
 #### **Ronin**
