@@ -373,6 +373,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### S
 
+#### **SEF**
+
+- **Swag**: T-shirt, stickers and coupons
+- **Requirements**:
+    - Make 4 successful PR  
+- **How to sign up**: No special sign up required.
+- **Issues**: [SEF ScholarX Frontend](https://github.com/sef-global/scholarx-frontend/issues), [SEF ScholarX Backend](https://github.com/sef-global/scholarx-backend/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [SEF Site](https://github.com/sef-global/sef-site) and [SEF Handbook](https://github.com/sef-global/sef-handbook)
+- **Notes**: Read more details in the [article](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/).
+
 #### **ServiceNow**
 
 - **Swag**: CreatorCon T-shirt, ServiceNow Merchandise
