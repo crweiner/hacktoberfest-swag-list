@@ -135,6 +135,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Fill out [this form](https://tally.so/r/3xDxgJ).
 - **Notes**: [Visit Collectiv](https://chat.collectivai.com/hacktober-fest) blog post for more information.
 
+#### **Covalent**
+
+- **Swag**: Cash Prizes per merged PR ($25 for beginner, $50 for intermediate and $100 for expert level difficulty)
+- **Requirements**: 1+ merged PRs
+- **How to sign up**: No special signup needed, however you can join the #hacktoberfest2023 channel in [Covalent Slack](https://covalentworkflows.slack.com/join/shared_invite/zt-1ew7f2rfk-dKSXVQmRniu5mQW4Z_eQuw#/).
+- **Notes**: Visit [Covalent Hacktoberfest Blog](https://www.covalent.xyz/covalent-x-hacktoberfest-2023/) for more information.
+
+
 ### D
 
 #### **DagsHub**
