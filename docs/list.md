@@ -237,6 +237,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Submit your project by [clicking here](https://www.hanko.io/hackathon#form-hackathon).
 - **Notes**: For more Information visit [Hanko's Hackathon page here.](https://www.hanko.io/hackathon)
 
+#### **Hasura**
+
+- **Swag**: Winner: $1000, Runners-up: $750, $500
+- **Requirements**:
+    - Build a supergraph that processes a simple “top N” query that fetches data from 2 domain services (backed by 2 different databases) 
+    - Lowest P95 at 100 RPS wins!    
+    - Use any stack or approach to build the GraphQL server. Eg: GraphQL federation or schema stitching or GraphQL gateway talking to 2 different REST/gRPC services.
+    - Visit [The Supergraph Top-N Challenge](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) for more info.
+- **How to sign up**: No Special Sign Up required.
+- **Notes**: Refer to the [tweet](https://twitter.com/HasuraHQ/status/1709565871306227985) 
+
 #### **Hyperswitch**
 
 - **Swag**: T-shirt and other goodies.
