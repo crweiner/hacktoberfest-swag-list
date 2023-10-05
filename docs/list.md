@@ -369,6 +369,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: All the [open issues](https://github.com/search?q=org%3Aronin-rb+state%3Aopen+&type=issues)
 - **Notes**: More details [available here](https://ronin-rb.dev/blog/2023/09/26/ronin-is-participating-in-hacktoberfest-2023.html).
 
+### S
+
 #### **ServiceNow**
 
 - **Swag**: CreatorCon T-shirt, ServiceNow Merchandise
