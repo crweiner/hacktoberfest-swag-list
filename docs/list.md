@@ -152,6 +152,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Register at [devICT](https://hacktoberfest.devict.org/auth/github) to track your contributions.
 - **Notes**: All the eligible projects at devICT, MakeICT and Wichita Community are listed in the [announcement post](https://hacktoberfest.devict.org).
 
+#### **Devtron**
+- **Swag**: Exclusive Swags
+- **Requirements**: Contribute at their [repo](https://github.com/devtron-labs/devtron).
+- **How to sign up**: No special up known.
+- **Notes**: For more info check out their post at [twitter](https://twitter.com/DevtronL/status/1709402669767651466).
+
 #### **DocsGPT**
 
 - **Swag**: T-shirt
@@ -332,15 +338,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
 ### N
-
-#### **Native Script**
-- **Swag**: Free Swag
-- **Requirements**: 
-    - Create a neat [StackBlitz](preview.nativescript.org) or Contribute a quality PR.
-    - Tweet about it mentioning @NativeScript
-    - DM your address to get the swag
-- **How to sign up**: No Special Sign Up required.
-- **Notes**: For more information refer to the [tweet](https://twitter.com/NativeScript/status/1709066192605061392)
 
 #### **Novu**
 
