@@ -38,13 +38,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
-#### **Airbyte**
-
-- **Swag**: Cash prizes upto 4000 $ and swag credits.
-- **Requirements**: Contestants are ranked based on the number of merged PRs.
-- **How to sign up**: [Link to signup page](https://hashnode.com/hackathons/airbyte#participate)
-- **Notes**: For more details visit [Airbyte](https://airbyte.com/blog/announcing-airbytes-tentaculous-hacktoberfest-2023-edition)
-
 #### **Akto**
 
 - **Swag**: T-shirt, hoodie and stickers.
@@ -153,6 +146,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Make 4 meaningful PRs in any repo with >100 stars
 - **How to sign up**: Fill out [this form](https://tally.so/r/3xDxgJ).
 - **Notes**: [Visit Collectiv](https://chat.collectivai.com/hacktober-fest) blog post for more information.
+
+#### **Configu**
+
+- **Swag**: Tshirt and socks.
+- **Requirements**:
+    - Contributors making one valid pull request will receive Configu Socks.
+    - Contributors making two or more valid pull requests will secure a Configu LIMITED-EDITION Hacktoberfest T-shirt.
+    - Only the person assigned by Configu's Team will be considered a valid contributor.
+- **How to sign up**: No special sign up reqkuired.
+- **Issues**: 
+    - [Configu](https://github.com/configu/configu/issues)
+    - [Configu docs](https://github.com/configu/docs/issues)
+- **Notes**: For more details read [here](https://github.com/configu/configu/issues/266)
 
 ### D
 
