@@ -42,10 +42,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: T-shirt, hoodie and stickers.
 - **Requirements**:
-    - 1 merged/accepted PRs: akto sticker.
-    - 2 merged/accepted PRs: akto t-shirt.
-    - 3 merged/accepted PRs: akto hoodie.
-    - 4+ merged/accepted PRs: all of the above.
+    - 1 merged PR: Akto sticker.
+    - 2 merged PRs: Akto t-shirt.
+    - 3 merged PRs: Akto hoodie.
+    - 4+ merged PRs: all of the above.
 - **How to sign up**: No special signup known.
 - **Issues**: All the [Hacktoberfest tagged issues](https://github.com/akto-api-security/akto/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
 - **Notes**: Check out [the Akto tweet](https://twitter.com/Aktodotio/status/1708716187582927316) for more information.
