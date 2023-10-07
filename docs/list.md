@@ -38,13 +38,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
-#### **Airbyte**
-
-- **Swag**: Cash prizes upto 4000 $ and swag credits.
-- **Requirements**: Contestants are ranked based on the number of merged PRs.
-- **How to sign up**: [Link to signup page](https://hashnode.com/hackathons/airbyte#participate)
-- **Notes**: For more details visit [Airbyte](https://airbyte.com/blog/announcing-airbytes-tentaculous-hacktoberfest-2023-edition)
-
 #### **Akto**
 
 - **Swag**: T-shirt, hoodie and stickers.
@@ -404,6 +397,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Register at [ServiceNow DevProgram](https://devlink.sn/HacktoberfestRegistration/)
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
+
+#### **Stack Builders**
+
+- **Swag**: Gift cards upto 400€
+- **Requirements**: Make PRs in the stackbuilder repo and they will assess it on the basis of quantity and quality.
+- **How to sign up**: Register at [here](https://docs.google.com/forms/d/1mjgfW25HCQQnXYmGuTL9W2ao-DFaeoYW7lWM_5E8QmQ/viewform?edit_requested=true)
+- **Issues**:
+    -[InflectionHS](https://github.com/stackbuilders/inflections-hs)
+    -[React-Native](https://github.com/stackbuilders/react-native-spotlight-tour)
+    -[hapistrano](https://github.com/stackbuilders/hapistrano)
+
+- **Notes**: To know more, visit [Stack Builders](https://www.stackbuilders.com/hacktoberfest/)
 
 #### **Swirl**
 
