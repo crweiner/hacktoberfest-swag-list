@@ -38,13 +38,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
-#### **Airbyte**
-
-- **Swag**: Cash prizes upto 4000 $ and swag credits.
-- **Requirements**: Contestants are ranked based on the number of merged PRs.
-- **How to sign up**: [Link to signup page](https://hashnode.com/hackathons/airbyte#participate)
-- **Notes**: For more details visit [Airbyte](https://airbyte.com/blog/announcing-airbytes-tentaculous-hacktoberfest-2023-edition)
-
 #### **Akto**
 
 - **Swag**: T-shirt, hoodie and stickers.
@@ -229,6 +222,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**:
     - [Gain points via Code contributions](https://github.com/formbricks/formbricks/issues)
     - [Gain points via Social Media/Design/Documentation](https://formbricks.notion.site/FormTribe-Side-Quests-4ab3b294cfa04e94b77dfddd66378ea2)
+
+#### **Featureform**
+
+- **Swag**: Accepted PRs will get a Featureform Swag package and will be entered for a raffle for a $500 gift card
+- **Requirements**: One merged PR or tutorial submission.
+- **How to sign up**: No special signup known.
+- **Issues**: See the [Featureform Repository issues](https://github.com/featureform/featureform/issues)
+- **Notes**: To know more , visit [Featureform](https://www.featureform.com/hacktoberfest-2023)
 
 ### H
 
