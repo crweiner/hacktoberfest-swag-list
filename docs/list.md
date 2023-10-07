@@ -140,6 +140,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks) for the list of eligible libraries and SDKs.
 
+#### **Codedamn**
+
+- **Swag**: 𝐟𝐫𝐞𝐞 𝐥𝐚𝐩𝐭𝐨𝐩 𝐬𝐭𝐢𝐜𝐤𝐞𝐫𝐬, tshirts, bottles, mouse, headphones, keyboard etc
+- **Requirements**: 1+ merged PRs
+- **How to sign up**: you can jSIgn up using the [Sign-up Link](https://bit.ly/3ERyChA) for assistance.
+- **Issues**: Just create an account here with your details.
+- **Notes**:You have to use this codedamn platform for 3-4 days. After that  you’ll get the goodies.
+  
 #### **Collectiv**
 
 - **Swag**: T-shirt, Stickers and more swags.
