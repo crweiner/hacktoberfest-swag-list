@@ -402,7 +402,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Gift cards upto 400€
 - **Requirements**:
-    - The description of the PR must include the line "As part of [Stack Builders Inc.] (<http:>https://www.stackbuilders.com</http:>) Hacktoberfest 2023" event.
+    - The description of the PR must include the line "As part of \[Stack Builders Inc.\]\(https://www.stackbuilders.com\) Hacktoberfest 2023 event."
     - The PR link must be sent through our contribution’s [Google Form](https://forms.gle/rXJwxjGEnv6e1DbWA).
     - Register your contributions anytime between October 1st and October 31st.
     - They will assess it on the basis of quantity and quality.
