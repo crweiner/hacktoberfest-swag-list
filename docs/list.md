@@ -38,6 +38,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+#### **Akto**
+
+- **Swag**: T-shirt, hoodie and stickers.
+- **Requirements**:
+    - 1 merged PR: Akto sticker.
+    - 2 merged PRs: Akto t-shirt.
+    - 3 merged PRs: Akto hoodie.
+    - 4+ merged PRs: all of the above.
+- **How to sign up**: No special signup known.
+- **Issues**: All the [Hacktoberfest tagged issues](https://github.com/akto-api-security/akto/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+- **Notes**: Check out [the Akto tweet](https://twitter.com/Aktodotio/status/1708716187582927316) for more information.
+
 #### **Alby**
 
 - **Swag**: Stickers, Socks, Gadgets
@@ -97,7 +109,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Ballerina**
 
 - **Swag**: Code contributions: Amazon voucher and stickers. Low/No Code contributions: Amazon vouchers, t-shirt, and stickers
-- **Requirements**: Code contributions: Accepted PR which fixes `hacktoberefest` labeled issue in the [GitHub project](https://github.com/orgs/ballerina-platform/projects/362).
+- **Requirements**: Code contributions: Accepted PR which fixes `hacktoberfest` labeled issue in the [GitHub project](https://github.com/orgs/ballerina-platform/projects/362).
 - **How to sign up**: Fill out [this form](https://forms.gle/EuekCiRMrpqmJE6K6) once your PR is merged.
 - **Notes**: Check out the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more information!
 
@@ -412,6 +424,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
 
 ### W
+
+#### **Widgetbook**
+
+- **Swag**: T-shirt, Stickers pack
+- **Requirements**: Contribute to any of the issues marked with `hacktoberfest` label.
+- **How to sign up**: No special signup known.
+- **Issues**: All the [open issues](https://github.com/widgetbook/widgetbook/labels/hacktoberfest).
+- **Notes**: More details [available here](https://github.com/widgetbook/widgetbook/issues/918/).
 
 #### **WireMock**
 
