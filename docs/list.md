@@ -414,6 +414,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up for [Treblle Hacktoberfest](https://docs.google.com/forms/d/e/1FAIpQLSfC_8mX8lpQNhksqQGUhsQ0zTvRzMC5YzufVVbVkPksxouLFw/viewform)
 - **Notes**: Visit [Treblle Hacktoberfest 2023](https://hacked.treblle.com/) for more details and the [announcement page](https://blog.treblle.com/treblle-hacktoberfest/) for complete list of prizes.
 
+#### **Trigger.dev**
+
+- **Swag**: Stickers, hoodies, cap , beanie , bottle and mug.
+- **Requirements**:
+    - Submit PRs in trigger.dev repo and earn points to redeem swags.
+    - Points for swag are given on the official website.
+- **How to sign up**: Sign up at [Trigger.dev Hacktoberfest](https://trigger.dev/hacktoberfest)
+- **Issues**: Find the issues [here](https://github.com/triggerdotdev/trigger.dev/issues)
+- **Notes**: Visit the official site of [Trigger.dev](https://trigger.dev/hacktoberfest) for more information.
+
 #### **Turbot**
 
 - **Swag**: Turbot & Steampipe T-shirts and Stickers
