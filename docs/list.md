@@ -421,7 +421,9 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Submit PRs in trigger.dev repo and earn points to redeem swags.
     - Points for swag are given on the official website.
 - **How to sign up**: Sign up at [Trigger.dev Hacktoberfest](https://trigger.dev/hacktoberfest)
-- **Issues**: Find the issues [here](https://github.com/triggerdotdev/trigger.dev/issues)
+- **Issues**: Find the issues at:
+    - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev/issues)
+    - [jobs-showcase](https://github.com/triggerdotdev/jobs-showcase/issues)
 - **Notes**: Visit the official site of [Trigger.dev](https://trigger.dev/hacktoberfest) for more information.
 
 #### **Turbot**
