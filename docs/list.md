@@ -226,7 +226,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Featureform**
 
 - **Swag**: Accepted PRs will get a Featureform Swag package and will be entered for a raffle for a $500 gift card
-- **Requirements**: 
+- **Requirements**:
     - All contributors that have a merged PR or tutorial submissions will receive commemorative swag and will be entered into a $500 raffle!
     - Technical Contributions that are merged will receive a $250 gift card!
 - **How to sign up**: No special signup known.
