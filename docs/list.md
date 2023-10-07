@@ -445,7 +445,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Submit PRs to solve one or more issues.
 - **How to sign up**: No special signup known.
 - **Issues**: See the [Weaviate Repository issues](https://github.com/weaviate/weaviate/issues)
-- **Notes**: To know more , Read this [blog by Weaviate](https://weaviate.io/blog/hacktoberfest-2023)
+- **Notes**: To know more , read the [Hacktoberfest blog post by Weaviate](https://weaviate.io/blog/hacktoberfest-2023)
 
 #### **Widgetbook**
 
