@@ -97,7 +97,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Ballerina**
 
 - **Swag**: Code contributions: Amazon voucher and stickers. Low/No Code contributions: Amazon vouchers, t-shirt, and stickers
-- **Requirements**: Code contributions: Accepted PR which fixes `hacktoberefest` labeled issue in the [GitHub project](https://github.com/orgs/ballerina-platform/projects/362).
+- **Requirements**: Code contributions: Accepted PR which fixes `hacktoberfest` labeled issue in the [GitHub project](https://github.com/orgs/ballerina-platform/projects/362).
 - **How to sign up**: Fill out [this form](https://forms.gle/EuekCiRMrpqmJE6K6) once your PR is merged.
 - **Notes**: Check out the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more information!
 
@@ -410,6 +410,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Issues**: Check the [curated issues board](https://github.com/orgs/unoplatform/projects/77/views/1) or you can request the addition of `hacktoberfest` label to [open issues](https://github.com/search?q=org%3Aunoplatform+is%3Aissue+is%3Aopen&type=issues) in any of the Uno platform repos.
 - **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
+
+### W
+
+#### **Widgetbook**
+
+- **Swag**: T-shirt, Stickers pack
+- **Requirements**: Contribute to any of the issues marked with `hacktoberfest` label.
+- **How to sign up**: No special signup known.
+- **Issues**: All the [open issues](https://github.com/widgetbook/widgetbook/labels/hacktoberfest).
+- **Notes**: More details [available here](https://github.com/widgetbook/widgetbook/issues/918/).
 
 ---
 
