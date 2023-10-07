@@ -149,16 +149,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Configu**
 
-- **Swag**: Tshirt and socks.
+- **Swag**: T-shirt and socks.
 - **Requirements**:
     - Contributors making one valid pull request will receive Configu Socks.
-    - Contributors making two or more valid pull requests will secure a Configu LIMITED-EDITION Hacktoberfest T-shirt.
+    - Contributors making two or more valid pull requests will secure a Configu Limited-Edition Hacktoberfest T-shirt.
     - Only the person assigned by Configu's Team will be considered a valid contributor.
-- **How to sign up**: No special sign up reqkuired.
+- **How to sign up**: No special sign up required.
 - **Issues**:
     - [Configu](https://github.com/configu/configu/issues)
     - [Configu docs](https://github.com/configu/docs/issues)
-- **Notes**: For more details read [here](https://github.com/configu/configu/issues/266)
+- **Notes**: For more details read the Configu [repo here here](https://github.com/configu/configu/issues/266)
 
 ### D
 
