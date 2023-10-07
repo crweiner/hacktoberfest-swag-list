@@ -38,13 +38,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
-#### **Airbyte**
-
-- **Swag**: Cash prizes upto 4000 $ and swag credits.
-- **Requirements**: Contestants are ranked based on the number of merged PRs.
-- **How to sign up**: [Link to signup page](https://hashnode.com/hackathons/airbyte#participate)
-- **Notes**: For more details visit [Airbyte](https://airbyte.com/blog/announcing-airbytes-tentaculous-hacktoberfest-2023-edition)
-
 #### **Akto**
 
 - **Swag**: T-shirt, hoodie and stickers.
