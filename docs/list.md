@@ -299,6 +299,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
 
+### L
+
+#### **Loft Labs**
+
+- **Swag**: Loft exclusive prizes.
+- **Requirements**: Contribute to the [vcluster](https://github.com/loft-sh/vcluster) and/or [devpod](https://github.com/loft-sh/devpod) projects of Loft Labs.
+- **How to sign up**: No special signup is known.
+- **Issues**:
+    -Checkout vcluster [Issues](https://github.com/loft-sh/vcluster/issues).
+    -Checkout devpod [Issues](https://github.com/loft-sh/devpod/issues).
+- **Notes**: Swag details and other rules available on [Loft Labs' Twitter](https://twitter.com/loft_sh/status/1710331345526800719).
+
 ### M
 
 #### **Mattermost**
