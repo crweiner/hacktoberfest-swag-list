@@ -305,9 +305,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Loft exclusive prizes.
 - **Requirements**:
-  - Contribute to vcluster and devpod project of Loft Labs.
-- **How to sign up**: Join the [loft labs slack channel](https://slack.loft.sh/)
-- **Notes**: Swag details and other rules available at [Loft labs twitter](https://twitter.com/loft_sh).
+    - Contribute to vcluster and devpod project of Loft Labs.
+- **How to sign up**: No special signup is known.
+- **Issues**: 
+    -Checkout vcluster [Issues](https://github.com/loft-sh/vcluster/issues).
+    -Checkout devpod [Issues](https://github.com/loft-sh/devpod/issues).
+- **Notes**: Swag details and other rules available at [Loft labs twitter](https://twitter.com/loft_sh/status/1710331345526800719).
 
 ### M
 
