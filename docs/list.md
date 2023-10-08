@@ -108,7 +108,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Ballerina**
 
 - **Swag**: Code contributions: Amazon voucher and stickers. Low/No Code contributions: Amazon vouchers, t-shirt, and stickers
-- **Requirements**: Code contributions: Accepted PR which fixes `hacktoberefest` labeled issue in the [GitHub project](https://github.com/orgs/ballerina-platform/projects/362).
+- **Requirements**: Code contributions: Accepted PR which fixes `hacktoberfest` labeled issue in the [GitHub project](https://github.com/orgs/ballerina-platform/projects/362).
 - **How to sign up**: Fill out [this form](https://forms.gle/EuekCiRMrpqmJE6K6) once your PR is merged.
 - **Notes**: Check out the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more information!
 
@@ -145,6 +145,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Make 4 meaningful PRs in any repo with >100 stars
 - **How to sign up**: Fill out [this form](https://tally.so/r/3xDxgJ).
 - **Notes**: [Visit Collectiv](https://chat.collectivai.com/hacktober-fest) blog post for more information.
+
+#### **Configu**
+
+- **Swag**: T-shirt and socks.
+- **Requirements**:
+    - Contributors making one valid pull request will receive Configu Socks.
+    - Contributors making two or more valid pull requests will secure a Configu Limited-Edition Hacktoberfest T-shirt.
+    - Only the person assigned by Configu's Team will be considered a valid contributor.
+- **How to sign up**: No special sign up required.
+- **Issues**:
+    - [Configu](https://github.com/configu/configu/issues)
+    - [Configu docs](https://github.com/configu/docs/issues)
+- **Notes**: For more details read the Configu [repo here](https://github.com/configu/configu/issues/266)
 
 ### D
 
@@ -298,6 +311,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
 
+### L
+
+#### **Loft Labs**
+
+- **Swag**: Loft exclusive prizes.
+- **Requirements**: Contribute to the [vcluster](https://github.com/loft-sh/vcluster) and/or [devpod](https://github.com/loft-sh/devpod) projects of Loft Labs.
+- **How to sign up**: No special signup is known.
+- **Issues**:
+    -Checkout vcluster [Issues](https://github.com/loft-sh/vcluster/issues).
+    -Checkout devpod [Issues](https://github.com/loft-sh/devpod/issues).
+- **Notes**: Swag details and other rules available on [Loft Labs' Twitter](https://twitter.com/loft_sh/status/1710331345526800719).
+
 ### M
 
 #### **Mattermost**
@@ -361,6 +386,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: [check out this tweet](https://twitter.com/TheOtterize/status/1708516300270793003) and the repositories of [Otterize](https://github.com/orgs/otterize/repositories)
 
+### Q
+
+### **QuestDB**
+
+- **Swag**: QuestDB t-shirt.
+- **Requirements**:
+    - Read the QuestDB [CONTRIBUTING.md](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md).
+    - Pick one issue from the open issues below that you plan to work on. Leave some for other contributors.
+    - Address any review comments before asking for another review.
+    - Successfully contribute and close the issue.
+- **How to sign up**: No special signup needed.
+- **Issues**: List of open issues [here](https://github.com/questdb/questdb/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) and [here](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen++label%3Ahacktoberfest+).
+- **Notes**: Full details are mentioned [here](https://questdb.io/blog/hacktoberfest-2023-questdb/).
+
 ### R
 
 #### **Ronin**
@@ -421,6 +460,33 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Issues**: Check the [curated issues board](https://github.com/orgs/unoplatform/projects/77/views/1) or you can request the addition of `hacktoberfest` label to [open issues](https://github.com/search?q=org%3Aunoplatform+is%3Aissue+is%3Aopen&type=issues) in any of the Uno platform repos.
 - **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
+
+### W
+
+#### **Weaviate**
+
+- **Swag**: No special swags disclosed so far.
+- **Requirements**: Submit PRs to solve one or more issues.
+- **How to sign up**: No special signup known.
+- **Issues**: See the [Weaviate Repository issues](https://github.com/weaviate/weaviate/issues)
+- **Notes**: To know more , read the [Hacktoberfest blog post by Weaviate](https://weaviate.io/blog/hacktoberfest-2023)
+
+#### **Widgetbook**
+
+- **Swag**: T-shirt, Stickers pack
+- **Requirements**: Contribute to any of the issues marked with `hacktoberfest` label.
+- **How to sign up**: No special signup known.
+- **Issues**: All the [open issues](https://github.com/widgetbook/widgetbook/labels/hacktoberfest).
+- **Notes**: More details [available here](https://github.com/widgetbook/widgetbook/issues/918/).
+
+#### **WireMock**
+
+- **Swag**: T-Shirts, Stickers, Special swag.
+- **Requirements**:
+    - [WireMock Ecosystem](https://github.com/wiremock/ecosystem) projects marked with a `hacktoberfest` topic by their maintainers.
+    - Judge contributions by the most active contributors, quality and value.
+- **How to sign up**: Sign up for [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeBiJSYV4PNFYOH1Jo9PSheOYKxqV2NJE3LELL9a_fYq4fpfw/viewform?usp=sf_link)
+- **Notes**: Read more at [event page](https://wiremock.org/events/hacktoberfest/) WireMock Hacktoberfest.
 
 ---
 
