@@ -154,6 +154,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Fill out [this form](https://tally.so/r/3xDxgJ).
 - **Notes**: [Visit Collectiv](https://chat.collectivai.com/hacktober-fest) blog post for more information.
 
+#### **Configu**
+
+- **Swag**: T-shirt and socks.
+- **Requirements**:
+    - Contributors making one valid pull request will receive Configu Socks.
+    - Contributors making two or more valid pull requests will secure a Configu Limited-Edition Hacktoberfest T-shirt.
+    - Only the person assigned by Configu's Team will be considered a valid contributor.
+- **How to sign up**: No special sign up required.
+- **Issues**:
+    - [Configu](https://github.com/configu/configu/issues)
+    - [Configu docs](https://github.com/configu/docs/issues)
+- **Notes**: For more details read the Configu [repo here](https://github.com/configu/configu/issues/266)
+
 ### D
 
 #### **DagsHub**
@@ -306,6 +319,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
 
+### L
+
+#### **Loft Labs**
+
+- **Swag**: Loft exclusive prizes.
+- **Requirements**: Contribute to the [vcluster](https://github.com/loft-sh/vcluster) and/or [devpod](https://github.com/loft-sh/devpod) projects of Loft Labs.
+- **How to sign up**: No special signup is known.
+- **Issues**:
+    -Checkout vcluster [Issues](https://github.com/loft-sh/vcluster/issues).
+    -Checkout devpod [Issues](https://github.com/loft-sh/devpod/issues).
+- **Notes**: Swag details and other rules available on [Loft Labs' Twitter](https://twitter.com/loft_sh/status/1710331345526800719).
+
 ### M
 
 #### **Mattermost**
@@ -445,6 +470,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
 
 ### W
+
+#### **Weaviate**
+
+- **Swag**: No special swags disclosed so far.
+- **Requirements**: Submit PRs to solve one or more issues.
+- **How to sign up**: No special signup known.
+- **Issues**: See the [Weaviate Repository issues](https://github.com/weaviate/weaviate/issues)
+- **Notes**: To know more , read the [Hacktoberfest blog post by Weaviate](https://weaviate.io/blog/hacktoberfest-2023)
 
 #### **Widgetbook**
 
