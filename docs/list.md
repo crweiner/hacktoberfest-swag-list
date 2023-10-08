@@ -153,10 +153,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: All the eligible projects at devICT, MakeICT and Wichita Community are listed in the [announcement post](https://hacktoberfest.devict.org).
 
 #### **Devtron**
-- **Swag**: Exclusive Swags
-- **Requirements**: Contribute at their [repo](https://github.com/devtron-labs/devtron).
+
+- **Swag**: Exclusive Hacktober swag and stickers. (Only available to India other regions will recieve equivalent gift card).
+- **Requirements**: Contribute at their [repo](https://github.com/devtron-labs/devtron) with a successful PR.
 - **How to sign up**: No special up known.
-- **Notes**: For more info check out their post at [twitter](https://twitter.com/DevtronL/status/1709402669767651466).
+- **Issues**: Check out their open issues at [github](https://github.com/devtron-labs/devtron/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22&ref=devtron.ai)
+- **Notes**: For more info check out their [blog](https://devtron.ai/blog/dive-into-open-source-joy-with-devtron-in-hacktoberfest-2023/).
 
 #### **DocsGPT**
 
