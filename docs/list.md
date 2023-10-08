@@ -430,6 +430,22 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
+#### **Stack Builders**
+
+- **Swag**: Gift cards upto 400€
+- **Requirements**:
+    - The description of the PR must include the line "As part of \[Stack Builders Inc.\]\(`https://www.stackbuilders.com`\) Hacktoberfest 2023 event."
+    - The PR link must be sent through their contribution’s [Google Form](https://forms.gle/rXJwxjGEnv6e1DbWA).
+    - Register your contributions anytime between October 1st and October 31st.
+    - They will assess it on the basis of quantity and quality.
+- **How to sign up**: Register at [this Google Form](https://docs.google.com/forms/d/1mjgfW25HCQQnXYmGuTL9W2ao-DFaeoYW7lWM_5E8QmQ/viewform?edit_requested=true)
+- **Issues**:
+    - [InflectionHS](https://github.com/stackbuilders/inflections-hs)
+    - [React-Native](https://github.com/stackbuilders/react-native-spotlight-tour)
+    - [hapistrano](https://github.com/stackbuilders/hapistrano)
+
+- **Notes**: To know more, visit [the Stack Builders Hacktoberfest page](https://www.stackbuilders.com/hacktoberfest/)
+
 #### **Swirl**
 
 - **Swag**: Gift cards up to $100.
