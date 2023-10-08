@@ -336,7 +336,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Native Script**
 
 - **Swag**: Free Swag
-- **Requirements**: 
+- **Requirements**:
     - Create a neat [StackBlitz](preview.nativescript.org) or Contribute a quality PR.
     - Tweet about it mentioning @NativeScript
     - DM your address to get the swag
