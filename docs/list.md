@@ -316,7 +316,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **KodaDot**
 
-- **Swag**: Cash Prizes not disclosed yet.
+- **Swag**: Cash Prizes
 - **Requirements**: Make PRs to solve the issue labeled under hacktoberfest.
 - **How to sign up**: No special signup is known.
 - **Issues**: [Eligible Issues](https://github.com/kodadot/nft-gallery/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
