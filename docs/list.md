@@ -471,6 +471,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Contribute to projects that have the hacktoberfest topic. This ensures your PR counts towards the official Hacktoberfest prizes.
 - **How to sign up**: Sign up for [developer.tbd.website](https://github.com/TBD54566975/developer.tbd.website)
 - **Notes**: Visit [TBD Hacktoberfest 2023 Guide](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2) for more insights.
+  
 #### **Treblle**
 
 - **Swag**: Stickers, hoodies, t-shirt, socks and cash prize pool of USD 6660.
