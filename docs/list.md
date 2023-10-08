@@ -38,13 +38,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
-#### **Airbyte**
-
-- **Swag**: Cash prizes upto 4000 $ and swag credits.
-- **Requirements**: Contestants are ranked based on the number of merged PRs.
-- **How to sign up**: [Link to signup page](https://hashnode.com/hackathons/airbyte#participate)
-- **Notes**: For more details visit [Airbyte](https://airbyte.com/blog/announcing-airbytes-tentaculous-hacktoberfest-2023-edition)
-
 #### **Akto**
 
 - **Swag**: T-shirt, hoodie and stickers.
@@ -429,6 +422,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Register at [ServiceNow DevProgram](https://devlink.sn/HacktoberfestRegistration/)
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
+
+#### **SurrealDB**
+
+- **Swag**: Official Swags from the [SurrealDB store](https://surrealdb.store/)
+- **Requirements**:
+    - Contribute Pull Requests against this [issue](https://github.com/surrealdb/awesome-surreal/issues/35) for the [Starter Kits section](https://github.com/surrealdb/awesome-surreal#starter-kits) of the repo
+    - Every paricipant that has PR against this [issue](https://github.com/surrealdb/awesome-surreal/issues/35) is eligible for the rewards.
+    - Your repository should have:
+        - Include a clear, step-by-step README for setup.
+        - Instructions to use your starter kit as a basis for other use cases.
+        - Provide straightforward Contribution Guides for others to contribute effectively.
+- **How to sign up**: No special sign up needed.
+- **Issues**: [Eligible issues](https://github.com/surrealdb/awesome-surreal/issues).
+- **Notes**: Read more details [here](https://github.com/surrealdb/awesome-surreal/issues/35).
 
 #### **Swirl**
 
