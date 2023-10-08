@@ -418,13 +418,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Stickers, hoodies, cap , beanie , bottle and mug.
 - **Requirements**:
-    - Submit PRs in trigger.dev repo and earn points to redeem swags.
+  - Submit PRs in [trigger.dev](https://github.com/triggerdotdev/trigger.dev) or [job-showcase](https://github.com/triggerdotdev/jobs-showcase) repos and earn points to redeem for swag.
     - Points for swag are given on the official website.
 - **How to sign up**: Sign up at [Trigger.dev Hacktoberfest](https://trigger.dev/hacktoberfest)
 - **Issues**: Find the issues at:
     - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev/issues)
     - [jobs-showcase](https://github.com/triggerdotdev/jobs-showcase/issues)
-- **Notes**: Visit the official site of [Trigger.dev](https://trigger.dev/hacktoberfest) for more information.
+- **Notes**: Visit the official site of [Trigger.dev's Hacktoberfest celebration](https://trigger.dev/hacktoberfest) for more information.
 
 #### **Turbot**
 
