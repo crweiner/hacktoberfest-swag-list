@@ -245,6 +245,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Submit a link to your git repository as a GitHub issue
 - **How to sign up**: No Special Sign Up required.
 - **Notes**: Find more information and instructions on this [GitHub Repo](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) and also check out this [article](https://hasura.io/blog/the-hasura-hacktoberfest-fiesta-build-a-supergraph-and-win-1000/)
+
 #### **Hyperswitch**
 
 - **Swag**: T-shirt and other goodies.
