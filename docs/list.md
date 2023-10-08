@@ -38,13 +38,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
-#### **Airbyte**
-
-- **Swag**: Cash prizes upto 4000 $ and swag credits.
-- **Requirements**: Contestants are ranked based on the number of merged PRs.
-- **How to sign up**: [Link to signup page](https://hashnode.com/hackathons/airbyte#participate)
-- **Notes**: For more details visit [Airbyte](https://airbyte.com/blog/announcing-airbytes-tentaculous-hacktoberfest-2023-edition)
-
 #### **Akto**
 
 - **Swag**: T-shirt, hoodie and stickers.
@@ -318,6 +311,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Be the first 50 people to submit a PR to their [Hacktoberfest repo](https://github.com/JavaScriptToday/hacktoberfest).
 - **How to sign up**: No special signup known.
 - **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
+
+### K
+
+#### **KodaDot**
+
+- **Swag**: Cash Prizes not disclosed yet.
+- **Requirements**: Make PRs to solve the issue labeled under hacktoberfest.
+- **How to sign up**: No special signup is known.
+- **Issues**: [Eligible Issues](https://github.com/kodadot/nft-gallery/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
+- **Notes**: Check more details at [KodaDot](https://twitter.com/KodaDot/status/1709221897081340131) twitter.
 
 ### L
 
