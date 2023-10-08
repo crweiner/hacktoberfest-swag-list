@@ -160,6 +160,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - [Configu docs](https://github.com/configu/docs/issues)
 - **Notes**: For more details read the Configu [repo here](https://github.com/configu/configu/issues/266)
 
+#### **Covalent**
+
+- **Swag**: Cash Prizes per merged PR ($25 for beginner, $50 for intermediate and $100 for expert level difficulty)
+- **Requirements**: 1+ merged PRs
+- **How to sign up**: Star the [Covalent GitHub Repository](https://github.com/AgnostiqHQ/covalent) and visit the "How do I Participate?" section in the [Covalent Hacktoberfest Blog](https://www.covalent.xyz/covalent-x-hacktoberfest-2023/) for more details. Additionally, you can also join the #hacktoberfest2023 channel in [Covalent Slack](https://covalentworkflows.slack.com/join/shared_invite/zt-1ew7f2rfk-dKSXVQmRniu5mQW4Z_eQuw#/).
+- **Notes**: Visit the [Covalent Hacktoberfest Blog](https://www.covalent.xyz/covalent-x-hacktoberfest-2023/) for more information.
+
 ### D
 
 #### **DagsHub**
