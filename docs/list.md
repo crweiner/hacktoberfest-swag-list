@@ -241,12 +241,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Winner: $1000, Runners-up: $750, $500
 - **Requirements**:
-    - Build a supergraph that processes a simple “top N” query that fetches data from 2 domain services (backed by 2 different databases) 
-    - Lowest P95 at 100 RPS wins!    
+    - Build a supergraph that processes a simple “top N” query that fetches data from 2 domain services (backed by 2 different databases)
+    - Lowest P95 at 100 RPS wins!
     - Use any stack or approach to build the GraphQL server. Eg: GraphQL federation or schema stitching or GraphQL gateway talking to 2 different REST/gRPC services.
     - Visit [The Supergraph Top-N Challenge](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) for more info.
 - **How to sign up**: No Special Sign Up required.
-- **Notes**: Refer to the [tweet](https://twitter.com/HasuraHQ/status/1709565871306227985) 
+- **Notes**: Refer to the [tweet](https://twitter.com/HasuraHQ/status/1709565871306227985)
 
 #### **Hyperswitch**
 
@@ -377,7 +377,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: T-shirt, stickers and coupons
 - **Requirements**:
-    - Make 4 successful PR  
+    - Make 4 successful PR
 - **How to sign up**: No special sign up required.
 - **Issues**: [SEF ScholarX Frontend](https://github.com/sef-global/scholarx-frontend/issues), [SEF ScholarX Backend](https://github.com/sef-global/scholarx-backend/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest), [SEF Site](https://github.com/sef-global/sef-site) and [SEF Handbook](https://github.com/sef-global/sef-handbook)
 - **Notes**: Read more details in the [article](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/).
