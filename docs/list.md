@@ -497,6 +497,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### W
 
+#### **WavePlay**
+
+- **Swag**: T-Shirt, One month of Discord Nitro and 3 months of free hosting via RoboPlay.
+- **Requirements**: Make PRs to solve the issue labeled under hacktoberfest or make plugin/bot using Robo.js.
+- **How to sign up**: No special signup is known.
+- **Issues**: [Eligible Issues](https://github.com/Wave-Play/robo.js/issues).
+- **Notes**: Check more details at [Blog post by WavePlay](https://blog.waveplay.com/hacktoberfest-with-robo-js-build-bots-or-plugins-win-cool-prizes/).
+
 #### **Weaviate**
 
 - **Swag**: No special swags disclosed so far.
