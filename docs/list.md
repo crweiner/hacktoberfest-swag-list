@@ -358,7 +358,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     -Checkout devpod [Issues](https://github.com/loft-sh/devpod/issues).
 - **Notes**: Swag details and other rules available on [Loft Labs' Twitter](https://twitter.com/loft_sh/status/1710331345526800719).
 
-
 ### M
 
 #### **Mattermost**
