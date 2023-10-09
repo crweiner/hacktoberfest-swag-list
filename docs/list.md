@@ -279,6 +279,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Submit your project by [clicking here](https://www.hanko.io/hackathon#form-hackathon).
 - **Notes**: For more Information visit [Hanko's Hackathon page here.](https://www.hanko.io/hackathon)
 
+#### **Hasura**
+
+- **Swag**: Winner: $1000, $750, $500 and t-shirt + sticker pack.
+- **Requirements**:
+    - For the cash award: Build and execute the fastest GraphQL gateway. Submit a link to your git repository as a GitHub issue and raise a PR to the `submissions.md` [file here](https://github.com/hasura/supergraph-top-n-challenge/blob/master/submissions.md) to be added to the competition.
+  - For the t-shirt + sticker pack: contribute to the Hasura Docs, [specifically issues tagged for](https://github.com/hasura/graphql-engine/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest+)  `hacktoberfest`.
+- **How to sign up**: You wil be contacted in your PR to fill out an order form, if your PRs are accepted.
+- **Notes**: Find more information and instructions on this [GitHub Repo](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) and also check out this [article](https://hasura.io/blog/the-hasura-hacktoberfest-fiesta-build-a-supergraph-and-win-1000/)
+
 #### **Hyperswitch**
 
 - **Swag**: T-shirt and other goodies.
