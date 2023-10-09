@@ -202,7 +202,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Dyrectorio**
 
-- **Swag**: Cap, stickers
+- **Swag**: Cap, stickers.
 - **Requirements**: Contribute to any of issues.
 - **How to sign up**: No special signup known.
 - **Issues**: Check open issues at [Dyrectorio](https://github.com/dyrector-io/dyrectorio/issues)
