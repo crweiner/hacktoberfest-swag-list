@@ -529,7 +529,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: 1st place 13 inch Macbook Air (M2), 2nd place Timbuk2 Backpack, 3rd place Custom TruffleHog Swag.
 - **Requirements**:
-  - There are two categories for the Detector Competiton: 
+  - There are two categories for the Detector Competiton:
       - adding new detectors (1 point)
       - fixing detectors (2 points)
   - Submit PRs in [Trufflehog](https://github.com/trufflesecurity/trufflehog) repo and earn points to win prizes.
