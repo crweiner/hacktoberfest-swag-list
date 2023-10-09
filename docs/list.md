@@ -38,13 +38,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
-#### **Airbyte**
-
-- **Swag**: Cash prizes upto 4000 $ and swag credits.
-- **Requirements**: Contestants are ranked based on the number of merged PRs.
-- **How to sign up**: [Link to signup page](https://hashnode.com/hackathons/airbyte#participate)
-- **Notes**: For more details visit [Airbyte](https://airbyte.com/blog/announcing-airbytes-tentaculous-hacktoberfest-2023-edition)
-
 #### **Akto**
 
 - **Swag**: T-shirt, hoodie and stickers.
@@ -139,6 +132,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup needed, however you can join the [community channel](https://discord.gg/Q3peDrPG95) for assistance.
 - **Issues**: Explore the list of issues in the [community repository](https://github.com/Chimoney/chimoney-community-projects/issues).
 - **Notes**: Check out the [Chimoney Hacktoberfest Blog](https://chimoney.io/blogs/Join-Chimoney-for-hacktoberfest-2023) and you can even register for skill-building workshops [here](https://forms.gle/KKk8GepQczzn2uMv7).
+
+#### **ClickVote**
+
+- **Swag**: A ClickVote T-shirt
+- **Requirements**: Made 3 PRs in the clickvote repo.(Maximum 10 T-shirts)
+- **How to sign up**: No special signup required.
+- **Issues**: Find all the issues [here](https://github.com/clickvote/clickvote/issues).
+- **Notes**: For more details, visit [ClickVote](https://github.com/clickvote/clickvote/blob/main/README.md).
 
 #### **Cloudinary**
 
