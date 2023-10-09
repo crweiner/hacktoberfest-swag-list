@@ -88,7 +88,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Swag package for 4 winners (top submission per category)
 - **Requirements**:
-    - Build an Appsmith App in one of the following catgeories: UI Building Block, Starter Templates, Full Apps, or Development Tools
+    - Build an Appsmith App in one of the following categories: UI Building Block, Starter Templates, Full Apps, or Development Tools
     - Submit your App
     - Be the top submission in your chosen category
 - **How to sign up**: Create an [Appsmith Account](https://www.appsmith.com/) and [Appsmith Community Account](https://community.appsmith.com/).
@@ -136,7 +136,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Cloudinary**
 
 - **Swag**: T-shirt, Stickers, Cloudinary unicorn.
-- **Requirements**: Make 4 or more valid PRs in Cloudinary libraries and SDKs with the `hacktoberefest` label.
+- **Requirements**: Make 4 or more valid PRs in Cloudinary libraries and SDKs with the `hacktoberfest` label.
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks) for the list of eligible libraries and SDKs.
 
@@ -469,7 +469,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Stack Builders**
 
-- **Swag**: Gift cards upto 400€
+- **Swag**: Gift cards up to 400€
 - **Requirements**:
     - The description of the PR must include the line "As part of \[Stack Builders Inc.\]\(`https://www.stackbuilders.com`\) Hacktoberfest 2023 event."
     - The PR link must be sent through their contribution’s [Google Form](https://forms.gle/rXJwxjGEnv6e1DbWA).
@@ -482,6 +482,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - [hapistrano](https://github.com/stackbuilders/hapistrano)
 
 - **Notes**: To know more, visit [the Stack Builders Hacktoberfest page](https://www.stackbuilders.com/hacktoberfest/)
+
+#### **SurrealDB**
+
+- **Swag**: Official Swags from the [SurrealDB store](https://surrealdb.store/)
+- **Requirements**:
+    - Contribute Pull Requests against this [issue](https://github.com/surrealdb/awesome-surreal/issues/35) for the [Starter Kits section](https://github.com/surrealdb/awesome-surreal#starter-kits) of the repo
+    - Every participant that has PR against this [issue](https://github.com/surrealdb/awesome-surreal/issues/35) is eligible for the rewards.
+    - Your repository should have:
+        - Include a clear, step-by-step README for setup.
+        - Instructions to use your starter kit as a basis for other use cases.
+        - Provide straightforward Contribution Guides for others to contribute effectively.
+- **How to sign up**: No special sign up needed.
+- **Issues**: [Eligible issues](https://github.com/surrealdb/awesome-surreal/issues).
+- **Notes**: Read more details [here](https://github.com/surrealdb/awesome-surreal/issues/35).
 
 #### **Swirl**
 
