@@ -435,6 +435,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### O
 
+#### **Odigos**
+
+- **Swag**: Swag (Specific Swags not mentioned)
+- **Requirements**: Make 3 successful merged PRs by October 20,2023  to win swags
+- **How to sign up**: No special signup known.
+- **Issues**: All the [open issues](https://github.com/keyval-dev/odigos/issues)
+- **Notes**: [Full details are mentioned [here](https://github.com/keyval-dev/odigos/blob/main/README.md).
+
 #### **Otterize**
 
 - **Swag**: Swag (Specific Swags not mentioned)
