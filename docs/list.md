@@ -39,6 +39,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 ### A
 
 #### **Akto**
+![image](https://github.com/Shivam250702/hacktoberfest-swag-list/assets/103785990/29420ebb-bc76-46e0-9802-00b302750ab8)
 
 - **Swag**: T-shirt, hoodie and stickers.
 - **Requirements**:
@@ -86,6 +87,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Appsmith**
 
+
+
 - **Swag**: Swag package for 4 winners (top submission per category)
 - **Requirements**:
     - Build an Appsmith App in one of the following categories: UI Building Block, Starter Templates, Full Apps, or Development Tools
@@ -126,6 +129,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 ### C
 
 #### **Chimoney**
+  ![image](https://github.com/Shivam250702/hacktoberfest-swag-list/assets/103785990/2736b9cc-cc74-4fe6-9286-06729723d9ec)
 
 - **Swag**: $25 for each merged PR, exclusive Chimoney T-shirts and Stickers
 - **Requirements**: 1+ merged PRs
@@ -134,6 +138,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: Check out the [Chimoney Hacktoberfest Blog](https://chimoney.io/blogs/Join-Chimoney-for-hacktoberfest-2023) and you can even register for skill-building workshops [here](https://forms.gle/KKk8GepQczzn2uMv7).
 
 #### **Cloudinary**
+ ![image](https://github.com/Shivam250702/hacktoberfest-swag-list/assets/103785990/bb5b17c6-7473-43f3-a71c-be0530c9ab2e)
 
 - **Swag**: T-shirt, Stickers, Cloudinary unicorn.
 - **Requirements**: Make 4 or more valid PRs in Cloudinary libraries and SDKs with the `hacktoberfest` label.
@@ -142,12 +147,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Collectiv**
 
+
 - **Swag**: T-shirt, Stickers and more swags.
 - **Requirements**: Make 4 meaningful PRs in any repo with >100 stars
 - **How to sign up**: Fill out [this form](https://tally.so/r/3xDxgJ).
 - **Notes**: [Visit Collectiv](https://chat.collectivai.com/hacktober-fest) blog post for more information.
 
 #### **Configu**
+![image](https://github.com/Shivam250702/hacktoberfest-swag-list/assets/103785990/d76124a6-3338-4d84-abd5-1325d736f985)
 
 - **Swag**: T-shirt and socks.
 - **Requirements**:
@@ -171,6 +178,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **DagsHub**
 
+
 - **Swag**: Swag package
 - **Requirements**: Be the first 10 participants with 10 accepted PRs.
 - **How to sign up**: Register at [DagsHub](https://dagshub.com/user/sign_up).
@@ -185,6 +193,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: All the eligible projects at devICT, MakeICT and Wichita Community are listed in the [announcement post](https://hacktoberfest.devict.org).
 
 #### **Devtron**
+
+     ![image](https://github.com/Shivam250702/hacktoberfest-swag-list/assets/103785990/6e9257c0-c790-458e-9e86-0fb962618c3a)
 
 - **Swag**: Exclusive Hacktober swag and stickers. (Only available to India, other regions will receive equivalent gift card).
 - **Requirements**: Contribute at their [repo](https://github.com/devtron-labs/devtron) with a successful PR.
@@ -211,6 +221,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 ### E
 
 #### **EMQ**
+![image](https://github.com/Shivam250702/hacktoberfest-swag-list/assets/103785990/f3a93bc9-1ed1-4054-b1ff-4bec46e8ada7)
 
 - **Swag**: T-shirt
 - **Requirements**: Get 2 or more PRs accepted in eKuiper or NanoMQ projects.
