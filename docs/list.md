@@ -346,6 +346,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
 
+### K
+
+#### **KodaDot**
+
+- **Swag**: Cash prizes
+- **Requirements**: Make PRs to solve the issue labeled under `hacktoberfest``.
+- **How to sign up**: No special signup is known.
+- **Issues**: [Eligible Issues](https://github.com/kodadot/nft-gallery/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
+- **Notes**: Check more details at [KodaDot](https://twitter.com/KodaDot/status/1709221897081340131) Twitter account.
+
 ### L
 
 #### **Loft Labs**
