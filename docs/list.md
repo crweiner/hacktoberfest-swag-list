@@ -368,6 +368,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     -Checkout devpod [Issues](https://github.com/loft-sh/devpod/issues).
 - **Notes**: Swag details and other rules available on [Loft Labs' Twitter](https://twitter.com/loft_sh/status/1710331345526800719).
 
+#### **Logto**
+
+- **Swag**: Sweater
+- **Requirements**: Submit PRs in [Logto](https://github.com/logto-io/logto) fixing issues.
+- **How to sign up**: No special signup known.
+- **Issues**: Find the issues at [the Logto repo here](https://github.com/logto-io/logto/issues)
+- **Notes**: More details [available here on the Lotgo repo](https://github.com/logto-io/logto/issues/4511).
+
 ### M
 
 #### **Mattermost**
