@@ -133,10 +133,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Explore the list of issues in the [community repository](https://github.com/Chimoney/chimoney-community-projects/issues).
 - **Notes**: Check out the [Chimoney Hacktoberfest Blog](https://chimoney.io/blogs/Join-Chimoney-for-hacktoberfest-2023) and you can even register for skill-building workshops [here](https://forms.gle/KKk8GepQczzn2uMv7).
 
-#### **ClickVote**
+#### **Clickvote**
 
-- **Swag**: A ClickVote T-shirt
-- **Requirements**: Made 3 PRs in the clickvote repo.(Maximum 10 T-shirts)
+- **Swag**: A Clickvote T-shirt (Maximum 10 T-shirts)
+- **Requirements**: Made 3 valuable PRs in the Clickvote repo.
 - **How to sign up**: No special signup required.
 - **Issues**: Find all the issues [here](https://github.com/clickvote/clickvote/issues).
 - **Notes**: For more details, visit [ClickVote](https://github.com/clickvote/clickvote/blob/main/README.md).
