@@ -27,6 +27,10 @@ Please take a look at the new [Contributing.md](docs/contributing.md) file as th
 [Appwrite](https://apwr.dev/3RHDflS) is a proud sponsor of *all of Hacktoberfest*, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
 Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
 
+<img alt="Appwrite logo" src="docs/img/DigitalOcean.png">
+
+[DigitalOcean](https://www.digitalocean.com/) 
+In the context of Hacktoberfest, DigitalOcean has been a prominent supporter of this annual event, which encourages open source contributions during the month of October. DigitalOcean often sponsors Hacktoberfest by providing resources, hosting events, and offering prizes to participants who contribute to open source projects on platforms like GitHub. This collaboration fosters community engagement and helps developers gain valuable experience while contributing to the open source ecosystem. DigitalOcean's commitment to Hacktoberfest reflects its dedication to supporting the developer community and promoting the growth of open source software.
 ---
 
 ## What is the Hacktoberfest Swag List?
