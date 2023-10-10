@@ -308,6 +308,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Illa Cloud**
 
+![image](https://github.com/aditya7302/hacktoberfest-swag-list/assets/110886184/5159baf7-d75e-4bb0-bcfd-f65007ee3c85)
+
 - **Swag**: Stickers, Fridge Magnet pack, OSS Pack.
 - **Requirements**:
     - Build an app using Illa or build an AI Agent using Illa and contribute to the Illa Marketplace to gain points.
