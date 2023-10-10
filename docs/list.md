@@ -433,7 +433,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **OVHcloud**
 
-- **Swag**: Eligible to a lottery to win a prize. 
+- **Swag**: Eligible to a lottery to win a prize.
 - **Requirements**: Fix at least 4 issues merged in the principal branch to be eligible to a lottery to win a prize.
 - **How to sign up**: No special signup needed.
 - **Issues**: Find eligible repositories having the hacktoberfest topic [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aovh+fork%3Atrue&type=repositories).
