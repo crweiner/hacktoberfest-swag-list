@@ -360,14 +360,11 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Logto**
 
-- **Swag**: Stickers, hoodies, cap , beanie , bottle and mug.
-- **Requirements**:
-    - Submit PRs in [logto](https://github.com/logto-io/logto) repos and earn points to redeem for swag.
-    - Points for swag are given on the official website.
-- **How to sign up**: No special Signup required
-- **Issues**: Find the issues at:
-    - [logto](https://github.com/logto-io/logto/issues)
-- **Notes**: More details [available here](https://logto.io/?utm_source=github&utm_medium=repo_logto).
+- **Swag**: Sweater
+- **Requirements**: Submit PRs in [Logto](https://github.com/logto-io/logto) fixing issues.
+- **How to sign up**: No special signup known.
+- **Issues**: Find the issues at [the Logto repo here](https://github.com/logto-io/logto/issues)
+- **Notes**: More details [available here on the Lotgo repo](https://github.com/logto-io/logto/issues/4511).
 
 ### M
 
