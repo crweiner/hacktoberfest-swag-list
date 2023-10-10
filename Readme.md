@@ -52,3 +52,52 @@ Participating in Hacktoberfest requires following the [official values](https://
 ---
 
 If you're looking for the Swag List from 2018 through 2022 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), and [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022) branches.
+
+<!-- A to Z Order of Companies
+A
+Akto
+Swag: T-shirt, hoodie and stickers.
+Requirements:
+1 merged PR: Akto sticker.
+2 merged PRs: Akto t-shirt.
+3 merged PRs: Akto hoodie.
+4+ merged PRs: all of the above.
+How to sign up: No special signup known.
+Issues: All the Hacktoberfest tagged issues
+Notes: Check out the Akto tweet for more information.
+Alby
+Swag: Stickers, Socks, Gadgets
+Requirements: Be the top 3 contributors with most accepts PRs/MRs.
+How to sign up: No special signup known.
+Issues: All the open issues.
+Notes: Read the announcement post for more details around contributing to Alby and other bitcoin-related projects.
+Amplication
+Swag: Stickers, t-shirt, gift cards up to USD $500.
+Requirements:
+Make up to 2 valid PRs to get a sticker sheet.
+Make 3 or more valid PRs to get a T-shirt.
+Build plugin to get gift cards worth up to USD 500.
+Only person assigned to an issue will be considered a valid contributor.
+How to sign up: No special signup known.
+Issues:
+Code and no-code open issues.
+Plugin Development.
+Build a Web App using Amplication.
+Notes: Check out the details in the Hacktoberfest announcement post and this GitHub Issue.
+Answer
+Swag: Bag, Stickers, Vaunt digital badge.
+Requirements:
+Build a plugin and merge PR
+Find a bug in current plugins and report it with issues.
+Be one of the top 3 accepted plugins contributors.
+How to sign up: No signup needed.
+Issues: Build a plugin repo.
+Notes: Other details available here.
+Appsmith
+Swag: Swag package for 4 winners (top submission per category)
+Requirements:
+Build an Appsmith App in one of the following categories: UI Building Block, Starter Templates, Full Apps, or Development Tools
+Submit your App
+Be the top submission in your chosen category
+How to sign up: Create an Appsmith Account and Appsmith Community Account.
+Notes: Other details in their announcement post and FAQ post. -->
