@@ -430,7 +430,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**:
     - To get both T-shirt and Cap:
         - Create 1 Custom OpenBB Extension.
-    -To get 1 of the both items, you need to do one of the following:
+    - To get 1 of the both items, you need to do one of the following:
         - 5 no-code contributions
         - 3 code/performance enhancements
         - 1 non-extension feature
