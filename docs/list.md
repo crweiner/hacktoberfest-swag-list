@@ -362,7 +362,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Stickers, hoodies, cap , beanie , bottle and mug.
 - **Requirements**:
-  - Submit PRs in [logto](https://github.com/logto-io/logto) repos and earn points to redeem for swag.
+    - Submit PRs in [logto](https://github.com/logto-io/logto) repos and earn points to redeem for swag.
     - Points for swag are given on the official website.
 - **How to sign up**: No special Signup required
 - **Issues**: Find the issues at:
