@@ -1,35 +1,34 @@
 # Contributing
 
-We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!
+We'd love it if you could help make the Hacktoberfest Swag List even better. 🌟 That's the spirit of open source after all! 🚀
+Check [Issues](https://github.com/crweiner/hacktoberfest-swag-list/issues) and current [Pull Requests](https://github.com/crweiner/hacktoberfest-swag-list/pulls) before contributing to avoid adding duplicates. 🧐
 
-Check [Issues](https://github.com/crweiner/hacktoberfest-swag-list/issues) and current [Pull Requests](https://github.com/crweiner/hacktoberfest-swag-list/pulls) before contributing to avoid adding duplicates.
-
-## Adding a new company to the list
+## Adding a new company to the list 🚀
 
 Please follow these rules regarding how to add a new company to the List:
 
-### Rules of Contributing
+### Rules of Contributing 📜
 
-If you wish to add something to the Hacktoberfest Swag List, that's great and we'd love to have you!
+f you wish to add something to the Hacktoberfest Swag List, that's great and we'd love to have you! 🙌
 
 Please be sure to follow the simple rules:
 
-1. Be sure you are looking to add something of substance to this project, not just spam PRs. PRs must meet the [Hacktoberfest Quality Standards](https://hacktoberfest.com/participation/).
-2. Verify that you have read the [home page](index.md), and [Readme.md on GitHub](https://github.com/crweiner/hacktoberfest-swag-list/blob/master/README.md). You understand that this project is to connect maintainers with developers, not a way to get all the swag you can.
-3. Please be available to make changes within 48 hours when requested to do so. If you don't, then your PR may be closed.
-4. Please fix all issues flagged by the bots, including CodeClimate, GH Actions, Netlify, CircleCI or any others as soon as possible, ideally right away.
-5. A company must have publicly posted about their swag. You should include a link back to the original blog post, tweet, GitHub issue, etc. where the swag can be verified.
-6. If adding a new company to the swag list, follow the formatting below:
+1. Be sure you are looking to add something of substance to this project, not just spam PRs. PRs must meet the [Hacktoberfest Quality Standards](https://hacktoberfest.com/participation/).🧐
+2. Verify that you have read the [home page](index.md), and [Readme.md on GitHub](https://github.com/crweiner/hacktoberfest-swag-list/blob/master/README.md). You understand that this project is to connect maintainers with developers, not a way to get all the swag you can.📖
+3. Please be available to make changes within 48 hours when requested to do so. If you don't, then your PR may be closed.⏰
+4. Please fix all issues flagged by the bots, including CodeClimate, GH Actions, Netlify, CircleCI or any others as soon as possible, ideally right away.🛠️
+5. A company must have publicly posted about their swag. You should include a link back to the original blog post, tweet, GitHub issue, etc. where the swag can be verified.🔍
+6. If adding a new company to the swag list, follow the formatting below :📋
 
 ## How to format your contribution
 
-Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [list.md](/docs/list.md) file located at /docs/list.md.
+Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [list.md](/docs/list.md) file located at /docs/list.md. 🚧
 
-We are using a very simple language called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familiarize yourself with Markdown [using this handy cheat sheet provided by GitHub (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf).
+We are using a very simple language called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familiarize yourself with Markdown [using this handy cheat sheet provided by GitHub (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf). 📄
 
-New for 2022, we are only adding companies in an A->Z list and do not have a "Least Involvement to Most Involvement" section anymore. Why? Because this repo isn't about doing the least amount of effort to get a sticker or socks, it's about connecting you to companies who go above and beyond for Hacktoberfest. Thus, only an alphabetical list will be maintained this year.
+New for 2022, we are only adding companies in an A->Z list and do not have a "Least Involvement to Most Involvement" section anymore. Why? Because this repo isn't about doing the least amount of effort to get a sticker or socks, it's about connecting you to companies who go above and beyond for Hacktoberfest. Thus, only an alphabetical list will be maintained this year. 🆕
 
-### A to Z Order of Companies
+### A to Z Order of Companies 📑
 
 Find the first letter of your company within the list, then add your information in the correct alphabetical order by using the following Markdown formatting:
 
@@ -52,14 +51,14 @@ Find the first letter of your company within the list, then add your information
 
 ---
 
-## Setting up the site locally
+## Setting up the site locally 🖥️
 
 You will need following dependencies already installed in your system to set up MkDocs locally:
 
 * [Python 3.8](https://www.python.org/downloads/release/python-380/), also tested and works with Python 3.11.4.
 * [pipenv](https://pypi.org/project/pipenv/)
 
-### Setting up the repository
+### Setting up the repository 🛠️
 
 To get the site up and running locally, follow the below steps:
 
@@ -77,7 +76,7 @@ To get the site up and running locally, follow the below steps:
   cd hacktoberfest-swag-list
   ```
 
-### Run MkDocs
+### Run MkDocs 🚀
 
 * Install the required dependencies
 
@@ -93,7 +92,7 @@ To get the site up and running locally, follow the below steps:
 
 Please make sure you are always making changes in the Markdown docs located in `/docs/` and do not edit the HTML that MkDocs builds in the `/site/` directory.
 
-### Setting up the site using Docker
+### Setting up the site using Docker 🐳
 
 Alternatively, you can use the native [Mkdocs-Material Docker imgage](https://hub.docker.com/r/squidfunk/mkdocs-material) to build this site locally. The Dockerfile found here pulls in the Mkdocs-Material Docker image and adds the `markdown-link-attr-modifier` plugin so that the links continue to open in new tabs without having to add the tags manually.
 
@@ -113,13 +112,13 @@ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 
 ```
 
-## Other Contributing Guidelines
+## Other Contributing Guidelines 📌
 
 * Issues are not assigned to any one person. Please don't ask for an Issue to be assigned to you. All meaningful PRs will be reviewed first-come-first-served due to Hacktoberfest only being a month long.
 
 ---
 
-Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
+Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.🚫
 
 ![Presented by DigitalOcean](img/hf10_icon_fcd_rgb.png)
 
