@@ -88,7 +88,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Swag package for 4 winners (top submission per category)
 - **Requirements**:
-    - Build an Appsmith App in one of the following catgeories: UI Building Block, Starter Templates, Full Apps, or Development Tools
+    - Build an Appsmith App in one of the following categories: UI Building Block, Starter Templates, Full Apps, or Development Tools
     - Submit your App
     - Be the top submission in your chosen category
 - **How to sign up**: Create an [Appsmith Account](https://www.appsmith.com/) and [Appsmith Community Account](https://community.appsmith.com/).
@@ -133,10 +133,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Explore the list of issues in the [community repository](https://github.com/Chimoney/chimoney-community-projects/issues).
 - **Notes**: Check out the [Chimoney Hacktoberfest Blog](https://chimoney.io/blogs/Join-Chimoney-for-hacktoberfest-2023) and you can even register for skill-building workshops [here](https://forms.gle/KKk8GepQczzn2uMv7).
 
+#### **Clickvote**
+
+- **Swag**: A Clickvote T-shirt (Maximum 10 T-shirts)
+- **Requirements**: Made 3 valuable PRs in the Clickvote repo.
+- **How to sign up**: No special signup required.
+- **Issues**: Find all the issues [here](https://github.com/clickvote/clickvote/issues).
+- **Notes**: For more details, visit [ClickVote](https://github.com/clickvote/clickvote/blob/main/README.md).
+
 #### **Cloudinary**
 
 - **Swag**: T-shirt, Stickers, Cloudinary unicorn.
-- **Requirements**: Make 4 or more valid PRs in Cloudinary libraries and SDKs with the `hacktoberefest` label.
+- **Requirements**: Make 4 or more valid PRs in Cloudinary libraries and SDKs with the `hacktoberfest` label.
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-celebrate-open-source-sdks) for the list of eligible libraries and SDKs.
 
@@ -183,6 +191,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Make 2 valid PRs against open issues or creating a new issue yourself.
 - **How to sign up**: Register at [devICT](https://hacktoberfest.devict.org/auth/github) to track your contributions.
 - **Notes**: All the eligible projects at devICT, MakeICT and Wichita Community are listed in the [announcement post](https://hacktoberfest.devict.org).
+
+#### **Devtron**
+
+- **Swag**: Exclusive Hacktober swag and stickers. (Only available to India, other regions will receive equivalent gift card).
+- **Requirements**: Contribute at their [repo](https://github.com/devtron-labs/devtron) with a successful PR.
+- **How to sign up**: [Fill out this form after your PRs are accepted](https://docs.google.com/forms/d/e/1FAIpQLSeNRM4CmYZRc29XVv48LUYGRYZJhfapXrZi2u4cx2toNE2UjQ/viewform?ref=devtron.ai).
+- **Issues**: Check out their [open issues here](https://github.com/devtron-labs/devtron/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22&ref=devtron.ai)
+- **Notes**: For more info check out their [blog post](https://devtron.ai/blog/dive-into-open-source-joy-with-devtron-in-hacktoberfest-2023/).
 
 #### **DocsGPT**
 
@@ -279,6 +295,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Submit your project by [clicking here](https://www.hanko.io/hackathon#form-hackathon).
 - **Notes**: For more Information visit [Hanko's Hackathon page here.](https://www.hanko.io/hackathon)
 
+#### **Hasura**
+
+- **Swag**: Winner: $1000, $750, $500 and t-shirt + sticker pack.
+- **Requirements**:
+    - For the cash award: Build and execute the fastest GraphQL gateway. Submit a link to your git repository as a GitHub issue and raise a PR to the `submissions.md` [file here](https://github.com/hasura/supergraph-top-n-challenge/blob/master/submissions.md) to be added to the competition.
+  - For the t-shirt + sticker pack: contribute to the Hasura Docs, [specifically issues tagged for](https://github.com/hasura/graphql-engine/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest+)  `hacktoberfest`.
+- **How to sign up**: You wil be contacted in your PR to fill out an order form, if your PRs are accepted.
+- **Notes**: Find more information and instructions on this [GitHub Repo](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) and also check out this [article](https://hasura.io/blog/the-hasura-hacktoberfest-fiesta-build-a-supergraph-and-win-1000/)
+
 #### **Hyperswitch**
 
 - **Swag**: T-shirt and other goodies.
@@ -329,6 +354,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
 
+### K
+
+#### **KodaDot**
+
+- **Swag**: Cash prizes
+- **Requirements**: Make PRs to solve the issue labeled under `hacktoberfest``.
+- **How to sign up**: No special signup is known.
+- **Issues**: [Eligible Issues](https://github.com/kodadot/nft-gallery/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
+- **Notes**: Check more details at [KodaDot](https://twitter.com/KodaDot/status/1709221897081340131) Twitter account.
+
 ### L
 
 #### **Loft Labs**
@@ -340,6 +375,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     -Checkout vcluster [Issues](https://github.com/loft-sh/vcluster/issues).
     -Checkout devpod [Issues](https://github.com/loft-sh/devpod/issues).
 - **Notes**: Swag details and other rules available on [Loft Labs' Twitter](https://twitter.com/loft_sh/status/1710331345526800719).
+
+#### **Logto**
+
+- **Swag**: Sweater
+- **Requirements**: Submit PRs in [Logto](https://github.com/logto-io/logto) fixing issues.
+- **How to sign up**: No special signup known.
+- **Issues**: Find the issues at [the Logto repo here](https://github.com/logto-io/logto/issues)
+- **Notes**: More details [available here on the Lotgo repo](https://github.com/logto-io/logto/issues/4511).
 
 ### M
 
@@ -386,6 +429,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
 ### N
+
+#### **Native Script**
+
+- **Swag**: Free Swag
+- **Requirements**:
+    - Create a neat [StackBlitz](https://preview.nativescript.org) or Contribute a quality PR.
+    - Tweet about it mentioning `@NativeScript`
+    - DM your address to Native Script to get the swag
+- **How to sign up**: No Special Sign Up required, DM once done.
+- **Notes**: For more information refer to [the Native Script tweet](https://twitter.com/NativeScript/status/1709066192605061392)
 
 #### **Novu**
 
@@ -442,7 +495,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Stack Builders**
 
-- **Swag**: Gift cards upto 400€
+- **Swag**: Gift cards up to 400€
 - **Requirements**:
     - The description of the PR must include the line "As part of \[Stack Builders Inc.\]\(`https://www.stackbuilders.com`\) Hacktoberfest 2023 event."
     - The PR link must be sent through their contribution’s [Google Form](https://forms.gle/rXJwxjGEnv6e1DbWA).
@@ -455,6 +508,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - [hapistrano](https://github.com/stackbuilders/hapistrano)
 
 - **Notes**: To know more, visit [the Stack Builders Hacktoberfest page](https://www.stackbuilders.com/hacktoberfest/)
+
+#### **SurrealDB**
+
+- **Swag**: Official Swags from the [SurrealDB store](https://surrealdb.store/)
+- **Requirements**:
+    - Contribute Pull Requests against this [issue](https://github.com/surrealdb/awesome-surreal/issues/35) for the [Starter Kits section](https://github.com/surrealdb/awesome-surreal#starter-kits) of the repo
+    - Every participant that has PR against this [issue](https://github.com/surrealdb/awesome-surreal/issues/35) is eligible for the rewards.
+    - Your repository should have:
+        - Include a clear, step-by-step README for setup.
+        - Instructions to use your starter kit as a basis for other use cases.
+        - Provide straightforward Contribution Guides for others to contribute effectively.
+- **How to sign up**: No special sign up needed.
+- **Issues**: [Eligible issues](https://github.com/surrealdb/awesome-surreal/issues).
+- **Notes**: Read more details [here](https://github.com/surrealdb/awesome-surreal/issues/35).
 
 #### **Swirl**
 
@@ -478,6 +545,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**: Participate as a solo developer or a team of 2-4 to build a SDK for the platform.
 - **How to sign up**: Sign up for [Treblle Hacktoberfest](https://docs.google.com/forms/d/e/1FAIpQLSfC_8mX8lpQNhksqQGUhsQ0zTvRzMC5YzufVVbVkPksxouLFw/viewform)
 - **Notes**: Visit [Treblle Hacktoberfest 2023](https://hacked.treblle.com/) for more details and the [announcement page](https://blog.treblle.com/treblle-hacktoberfest/) for complete list of prizes.
+
+#### **Trigger.dev**
+
+- **Swag**: Stickers, hoodies, cap , beanie , bottle and mug.
+- **Requirements**:
+  - Submit PRs in [trigger.dev](https://github.com/triggerdotdev/trigger.dev) or [job-showcase](https://github.com/triggerdotdev/jobs-showcase) repos and earn points to redeem for swag.
+    - Points for swag are given on the official website.
+- **How to sign up**: Sign up at [Trigger.dev Hacktoberfest](https://trigger.dev/hacktoberfest)
+- **Issues**: Find the issues at:
+    - [Trigger.dev](https://github.com/triggerdotdev/trigger.dev/issues)
+    - [jobs-showcase](https://github.com/triggerdotdev/jobs-showcase/issues)
+- **Notes**: Visit the official site of [Trigger.dev's Hacktoberfest celebration](https://trigger.dev/hacktoberfest) for more information.
 
 #### **Turbot**
 
@@ -503,6 +582,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
 
 ### W
+
+#### **WavePlay**
+
+- **Swag**: T-Shirt, One month of Discord Nitro and 3 months of free hosting via RoboPlay.
+- **Requirements**: Make PRs to solve the issue labeled under hacktoberfest or make plugin/bot using Robo.js.
+- **How to sign up**: [Submit your plugins in GitHub here](https://github.com/Wave-Play/robo.js/discussions/48?ref=blog.waveplay.com).
+- **Issues**: [Eligible Issues](https://github.com/Wave-Play/robo.js/issues).
+- **Notes**: Check more details at [Blog post by WavePlay](https://blog.waveplay.com/hacktoberfest-with-robo-js-build-bots-or-plugins-win-cool-prizes/).
 
 #### **Weaviate**
 
