@@ -368,13 +368,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Loft Labs**
 
-- **Swag**: Loft exclusive prizes.
-- **Requirements**: Contribute to the [vcluster](https://github.com/loft-sh/vcluster) and/or [devpod](https://github.com/loft-sh/devpod) projects of Loft Labs.
-- **How to sign up**: No special signup is known.
+- **Swag**: T-shirts, Mechanical Keyboard and Exclusive Swag Kit/Box
+- **Requirements**: Contribute to the [vcluster](https://github.com/loft-sh/vcluster) and/or [devpod](https://github.com/loft-sh/devpod) projects from Loft Labs.
+    - 1 merged/accepted PRs: T-shirt
+    - 2 merged/accepted PRs: A brand new Mechanical Keyboard
+    - 4+ merged/accepted PRs: An exclusive swag box from Loft Labs
+- **How to sign up**: [Submit this form](https://forms.gle/DubCAEBQcHRuWuraA) with links of merged/accepted PRs.
 - **Issues**:
     -Checkout vcluster [Issues](https://github.com/loft-sh/vcluster/issues).
     -Checkout devpod [Issues](https://github.com/loft-sh/devpod/issues).
-- **Notes**: Swag details and other rules available on [Loft Labs' Twitter](https://twitter.com/loft_sh/status/1710331345526800719).
+- **Notes**: Swag details and other rules available on [Loft Labs' Blog](https://loft.sh/blog/celebrating-the-spirit-of-hacktoberfest-at-loft/?utm_medium=reader&utm_source=hacktoberfest-list). Join [Community Slack](https://slack.loft.sh/) for any questions.
 
 #### **Logto**
 
