@@ -523,6 +523,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
+#### **Sia Foundation**
+
+- **Swag**: T-shirt.
+- **Requirements**: Be the first 20 to contribute to any [Sia Foundation repo](https://github.com/SiaFoundation).
+- **How to sign up**: No special signup known.
+- **Notes**: Check [their twitter](https://twitter.com/Sia__Foundation/status/1712134476149448778) for more information.
+
 #### **Stack Builders**
 
 - **Swag**: Gift cards up to 400€
