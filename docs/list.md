@@ -467,6 +467,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: [check out this tweet](https://twitter.com/TheOtterize/status/1708516300270793003) and the repositories of [Otterize](https://github.com/orgs/otterize/repositories)
 
+### P
+
+#### **Prefix.dev**
+
+- **Swag**: Shirts and stickers
+- **Requirements**: Make contributors to pixi and rattler-build repositories.
+- **How to sign up**: No special signup known.
+- **Issues**:
+    - Open issues at [prixi](https://github.com/prefix-dev/pixi/issues)
+    - Open issues at [rattler_build](https://github.com/prefix-dev/rattler-build/issues)
+- **Notes**: Check  their [twitter](https://twitter.com/prefix_dev/status/1711380876385292595) for more updates.
+
 ### Q
 
 ### **QuestDB**
