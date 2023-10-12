@@ -304,6 +304,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: You wil be contacted in your PR to fill out an order form, if your PRs are accepted.
 - **Notes**: Find more information and instructions on this [GitHub Repo](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) and also check out this [article](https://hasura.io/blog/the-hasura-hacktoberfest-fiesta-build-a-supergraph-and-win-1000/)
 
+#### **Haystack**
+
+- **Swag**: Exclusive swag package.
+- **Requirements**: Contribute to open issues with the tag `hacktoberfest` at the haystack repository.
+- **How to sign up**:  No special signup known.
+- **Issues**: Open issues at [haystack](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) with the `hacktoberfest` label.
+- **Notes**: Check [this tweet](https://twitter.com/bilgeycl/status/1712135054489444650) for more information about the swag package.
+
 #### **Hugging Face**
 
 - **Swag**: Prizes (Specific prizes not revealed yet).
