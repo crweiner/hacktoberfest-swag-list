@@ -133,6 +133,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Explore the list of issues in the [community repository](https://github.com/Chimoney/chimoney-community-projects/issues).
 - **Notes**: Check out the [Chimoney Hacktoberfest Blog](https://chimoney.io/blogs/Join-Chimoney-for-hacktoberfest-2023) and you can even register for skill-building workshops [here](https://forms.gle/KKk8GepQczzn2uMv7).
 
+#### **Clickvote**
+
+- **Swag**: A Clickvote T-shirt (Maximum 10 T-shirts)
+- **Requirements**: Made 3 valuable PRs in the Clickvote repo.
+- **How to sign up**: No special signup required.
+- **Issues**: Find all the issues [here](https://github.com/clickvote/clickvote/issues).
+- **Notes**: For more details, visit [ClickVote](https://github.com/clickvote/clickvote/blob/main/README.md).
+
 #### **Cloudinary**
 
 - **Swag**: T-shirt, Stickers, Cloudinary unicorn.
@@ -346,6 +354,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: Read more at [JavaScript Today](https://blog.javascripttoday.com/blog/hacktoberfest-2023/).
 
+### K
+
+#### **KodaDot**
+
+- **Swag**: Cash prizes
+- **Requirements**: Make PRs to solve the issue labeled under `hacktoberfest``.
+- **How to sign up**: No special signup is known.
+- **Issues**: [Eligible Issues](https://github.com/kodadot/nft-gallery/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
+- **Notes**: Check more details at [KodaDot](https://twitter.com/KodaDot/status/1709221897081340131) Twitter account.
+
 ### L
 
 ### **LeapFrog**
@@ -362,13 +380,24 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Loft Labs**
 
-- **Swag**: Loft exclusive prizes.
-- **Requirements**: Contribute to the [vcluster](https://github.com/loft-sh/vcluster) and/or [devpod](https://github.com/loft-sh/devpod) projects of Loft Labs.
-- **How to sign up**: No special signup is known.
+- **Swag**: T-shirts, Mechanical Keyboard and Exclusive Swag Kit/Box
+- **Requirements**: Contribute to the [vCluster](https://github.com/loft-sh/vcluster) and/or [DevPod](https://github.com/loft-sh/devpod) projects from Loft Labs.
+    - 1 merged/accepted PRs: T-shirt
+    - 2 merged/accepted PRs: A brand new Mechanical Keyboard
+    - 4+ merged/accepted PRs: An exclusive swag box from Loft Labs
+- **How to sign up**: [Submit this form](https://forms.gle/DubCAEBQcHRuWuraA) with links of merged/accepted PRs.
 - **Issues**:
-    -Checkout vcluster [Issues](https://github.com/loft-sh/vcluster/issues).
-    -Checkout devpod [Issues](https://github.com/loft-sh/devpod/issues).
-- **Notes**: Swag details and other rules available on [Loft Labs' Twitter](https://twitter.com/loft_sh/status/1710331345526800719).
+    -Checkout vCluster [Issues](https://github.com/loft-sh/vcluster/issues).
+    -Checkout DevPod [Issues](https://github.com/loft-sh/devpod/issues).
+- **Notes**: Swag details and other rules available on [Loft Labs' Blog](https://loft.sh/blog/celebrating-the-spirit-of-hacktoberfest-at-loft/?utm_medium=reader&utm_source=hacktoberfest-list). Join [Community Slack](https://slack.loft.sh/) for any questions.
+
+#### **Logto**
+
+- **Swag**: Sweater
+- **Requirements**: Submit PRs in [Logto](https://github.com/logto-io/logto) fixing issues.
+- **How to sign up**: No special signup known.
+- **Issues**: Find the issues at [the Logto repo here](https://github.com/logto-io/logto/issues)
+- **Notes**: More details [available here on the Lotgo repo](https://github.com/logto-io/logto/issues/4511).
 
 ### M
 
@@ -561,6 +590,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
 
 ### W
+
+#### **WavePlay**
+
+- **Swag**: T-Shirt, One month of Discord Nitro and 3 months of free hosting via RoboPlay.
+- **Requirements**: Make PRs to solve the issue labeled under hacktoberfest or make plugin/bot using Robo.js.
+- **How to sign up**: [Submit your plugins in GitHub here](https://github.com/Wave-Play/robo.js/discussions/48?ref=blog.waveplay.com).
+- **Issues**: [Eligible Issues](https://github.com/Wave-Play/robo.js/issues).
+- **Notes**: Check more details at [Blog post by WavePlay](https://blog.waveplay.com/hacktoberfest-with-robo-js-build-bots-or-plugins-win-cool-prizes/).
 
 #### **Weaviate**
 
