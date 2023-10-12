@@ -304,6 +304,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: You wil be contacted in your PR to fill out an order form, if your PRs are accepted.
 - **Notes**: Find more information and instructions on this [GitHub Repo](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) and also check out this [article](https://hasura.io/blog/the-hasura-hacktoberfest-fiesta-build-a-supergraph-and-win-1000/)
 
+#### **Hugging Face**
+
+- **Swag**: Prizes (Specific prizes not revealed yet).
+- **Requirements**: Submit a PR with a collection of projects or applications integrated with Hugging Face libraries.
+- **How to sign up**: No special signup known.
+- **Notes**: You can either submit a hand-curated collection or collections created using automatic techniques. For more information check the [huggingface challenge page](https://github.com/huggingface/awesome-huggingface/issues/28).
+
 #### **Hyperswitch**
 
 - **Swag**: T-shirt and other goodies.
