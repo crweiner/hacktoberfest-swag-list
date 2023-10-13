@@ -308,8 +308,8 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: Winner: $1000, $750, $500 and t-shirt + sticker pack.
 - **Requirements**:
     - For the cash award: Build and execute the fastest GraphQL gateway. Submit a link to your git repository as a GitHub issue and raise a PR to the `submissions.md` [file here](https://github.com/hasura/supergraph-top-n-challenge/blob/master/submissions.md) to be added to the competition.
-  - For the t-shirt + sticker pack: contribute to the Hasura Docs, [specifically issues tagged for](https://github.com/hasura/graphql-engine/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest+)  `hacktoberfest`.
-- **How to sign up**: You wil be contacted in your PR to fill out an order form, if your PRs are accepted.
+    - For the t-shirt + sticker pack: contribute to the Hasura Docs, [specifically issues tagged for](https://github.com/hasura/graphql-engine/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest+)  `hacktoberfest`.
+- **How to sign up**: You will be contacted in your PR to fill out an order form, if your PRs are accepted.
 - **Notes**: Find more information and instructions on this [GitHub Repo](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) and also check out this [article](https://hasura.io/blog/the-hasura-hacktoberfest-fiesta-build-a-supergraph-and-win-1000/)
 
 #### **Haystack**
@@ -621,7 +621,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**:
     - We will offer unique Turbot stickers and t-shirts for no-code, low-code and high-code contributions.
     - At least 1 accepted PR from any of our 200+ public GitHub repos, marked with topic `hacktoberfest`.
-- **How to sign up**: No required signup neccessary.
+- **How to sign up**: No required signup necessary.
 - **Issues**: [Eligible projects and issues](https://github.com/search?q=org%3Aturbot+topic%3Ahacktoberfest&type=repositories).
 - **Notes**: Read more details in the [announcement post](https://turbot.com/blog/2023/10/hacktoberfest-2023) and join our [Turbot community](https://turbot.com/community/join) `#contributors` channel with any questions.
 
