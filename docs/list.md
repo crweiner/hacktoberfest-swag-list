@@ -534,10 +534,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **TBD**
 
-- **Swag**: Exclusive swag from TBD shop for Top 20, and custom hacktoberfest swags for Top 3 contributors.
-- **Requirements**: Contribute to projects that have the hacktoberfest topic. This ensures your PR counts towards the official Hacktoberfest prizes.
+- **Swag**: Exclusive swag from the TBD shop for the Top 20 contributors and custom Hacktoberfest swag for the Top 3 contributors.
+- **Requirements**: Contribute to at least one of the following projects:
+    - [developer.tbd.website](https://github.com/TBD54566975/developer.tbd.website#tbd-developer-site)
+    - [dwn-server](https://github.com/TBD54566975/dwn-server#dwn-server-)
+    - [dwn-sdk-js](https://github.com/TBD54566975/dwn-sdk-js#decentralized-web-node-dwn-sdk-)
+    - [web5-js](https://github.com/TBD54566975/web5-js#web5-js-sdk)
 - **How to sign up**: No special signup known.
-- **Notes**: Visit [TBD Hacktoberfest 2023 Guide](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2) for more insights.
+- **Notes**: Visit [TBD Hacktoberfest 2023 Guide](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2) and review the [Leaderboard here](https://github.com/TBD54566975/developer.tbd.website/issues/721).
 
 #### **Treblle**
 
