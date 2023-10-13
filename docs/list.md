@@ -320,6 +320,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Open issues at [haystack](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) with the `hacktoberfest` label.
 - **Notes**: Check [this tweet](https://twitter.com/bilgeycl/status/1712135054489444650) for more information about the swag package.
 
+#### **Huddle01**
+
+- **Swag**: Based on issue category level:
+    - Advanced: $300 Pool Prize
+    - Intermediate: $100 Pool Prize & Merch
+    - Beginner: POAP & Merch
+- **Requirements**: Make PRs to solve the issue labeled under `hacktoberfest-accepted`.
+- **How to sign up**: No special signup known.
+- **Notes**: Check [this page](https://huddle01.hashnode.dev/huddle01-hacktoberfest-2023) for more information.
+
 #### **Hugging Face**
 
 - **Swag**: Prizes (Specific prizes not revealed yet).
