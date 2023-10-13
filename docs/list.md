@@ -84,6 +84,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**:  [Build a plugin repo](https://github.com/answerdev/plugins).
 - **Notes**: Other details available [here](https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023).
 
+#### **Appblocks**
+
+- **Swag**: Swags not disclosed yet.
+- **Requirements**: Make valid PRs in the Appblock [repo](https://github.com/appblocks-hub/Challenges)
+- **How to sign up**: Register for this at [Appblock](https://hacktoberfest.appblocks.com/) website and fill out the [Contributor License Agreement](https://cla.appblocks.com).
+- **Issues**:  Find the challenges [here](https://github.com/appblocks-hub/Challenges)
+- **Notes**: More details available [here](https://hacktoberfest.appblocks.com/).
+
 #### **Appsmith**
 
 - **Swag**: Swag package for 4 winners (top submission per category)
