@@ -562,6 +562,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - fixing detectors (2 points).
 
     Each merged PR with a `Hacktoberfest-Detector-Competition-New` or `Hacktoberfest-Detector-Competition-Fix` will be awarded 1 or 2 points, respectively. Submit PRs in the [Trufflehog Repository](https://github.com/trufflesecurity/trufflehog/) and earn points to win prizes.
+
 - **How to sign up**: No special sign up required.
 - **Issues**: Find issues in the [Trufflehog Repository](https://github.com/trufflesecurity/trufflehog/issues)
 - **Notes**: Check out the [Hacktoberfest Repository](https://github.com/trufflesecurity/hacktoberfest2023/blob/main/README.md), join the [Slack Community](https://trufflehog-community.slack.com/join/shared_invite/zt-pw2qbi43-Aa86hkiimstfdKH9UCpPzQ) and [Secret Scanning Discord](https://discord.gg/8Hzbrnkr7E) for more details.
