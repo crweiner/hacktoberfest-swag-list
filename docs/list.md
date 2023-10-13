@@ -84,6 +84,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**:  [Build a plugin repo](https://github.com/answerdev/plugins).
 - **Notes**: Other details available [here](https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023).
 
+#### **Appblocks**
+
+- **Swag**: Swags not disclosed yet.
+- **Requirements**: Make valid PRs in the Appblock [repo](https://github.com/appblocks-hub/Challenges)
+- **How to sign up**: Register for this at [Appblock](https://hacktoberfest.appblocks.com/) website and fill out the [Contributor License Agreement](https://cla.appblocks.com).
+- **Issues**:  Find the challenges [here](https://github.com/appblocks-hub/Challenges)
+- **Notes**: More details available [here](https://hacktoberfest.appblocks.com/).
+
 #### **Appsmith**
 
 - **Swag**: Swag package for 4 winners (top submission per category)
@@ -475,6 +483,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: [check out this tweet](https://twitter.com/TheOtterize/status/1708516300270793003) and the repositories of [Otterize](https://github.com/orgs/otterize/repositories)
 
+#### **OVHcloud**
+
+- **Swag**: Eligible for a lottery to win a prize (unspecified).
+- **Requirements**: Have at least 4 PRs merged into the principal branch of the OVH Repos below to be eligible to a lottery to win a prize.
+- **How to sign up**: No special signup needed.
+- **Issues**: Find eligible repositories having the hacktoberfest topic [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aovh+fork%3Atrue&type=repositories).
+- **Notes**: You may read the [OVH Cloud Hacktoberfest blog post here](https://blog.ovhcloud.com/ovhcloud-and-hacktober-fest-2023/).
+
 ### P
 
 #### **Prefix.dev**
@@ -568,6 +584,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Notes**: Visit [Swirl](https://swirl.today/contribute-to-swirl-this-hacktoberfest-2023/) for more details and the complete list of prizes.
 
 ### T
+
+#### **TBD**
+
+- **Swag**: Exclusive swag from the TBD shop for the Top 20 contributors and custom Hacktoberfest swag for the Top 3 contributors.
+- **Requirements**: Contribute to at least one of the following projects:
+    - [developer.tbd.website](https://github.com/TBD54566975/developer.tbd.website#tbd-developer-site)
+    - [dwn-server](https://github.com/TBD54566975/dwn-server#dwn-server-)
+    - [dwn-sdk-js](https://github.com/TBD54566975/dwn-sdk-js#decentralized-web-node-dwn-sdk-)
+    - [web5-js](https://github.com/TBD54566975/web5-js#web5-js-sdk)
+- **How to sign up**: No special signup known.
+- **Notes**: Visit [TBD Hacktoberfest 2023 Guide](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2) and review the [Leaderboard here](https://github.com/TBD54566975/developer.tbd.website/issues/721).
 
 #### **Treblle**
 
