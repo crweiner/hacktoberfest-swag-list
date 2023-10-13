@@ -312,6 +312,21 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: You wil be contacted in your PR to fill out an order form, if your PRs are accepted.
 - **Notes**: Find more information and instructions on this [GitHub Repo](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) and also check out this [article](https://hasura.io/blog/the-hasura-hacktoberfest-fiesta-build-a-supergraph-and-win-1000/)
 
+#### **Haystack**
+
+- **Swag**: Exclusive swag package.
+- **Requirements**: Contribute to open issues with the tag `hacktoberfest` at the haystack repository.
+- **How to sign up**:  No special signup known.
+- **Issues**: Open issues at [haystack](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) with the `hacktoberfest` label.
+- **Notes**: Check [this tweet](https://twitter.com/bilgeycl/status/1712135054489444650) for more information about the swag package.
+
+#### **Hugging Face**
+
+- **Swag**: Prizes (Specific prizes not revealed yet).
+- **Requirements**: Submit a PR with a collection of projects or applications integrated with Hugging Face libraries.
+- **How to sign up**: No special signup known.
+- **Notes**: You can either submit a hand-curated collection or collections created using automatic techniques. For more information check the [huggingface challenge page](https://github.com/huggingface/awesome-huggingface/issues/28).
+
 #### **Hyperswitch**
 
 - **Swag**: T-shirt and other goodies.
@@ -476,9 +491,21 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Find eligible repositories having the hacktoberfest topic [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aovh+fork%3Atrue&type=repositories).
 - **Notes**: You may read the [OVH Cloud Hacktoberfest blog post here](https://blog.ovhcloud.com/ovhcloud-and-hacktober-fest-2023/).
 
+### P
+
+#### **Prefix.dev**
+
+- **Swag**: Shirts and stickers
+- **Requirements**: Make contributors to pixi and rattler-build repositories.
+- **How to sign up**: No special signup known.
+- **Issues**:
+    - Open issues at [prixi](https://github.com/prefix-dev/pixi/issues)
+    - Open issues at [rattler_build](https://github.com/prefix-dev/rattler-build/issues)
+- **Notes**: Check  their [twitter](https://twitter.com/prefix_dev/status/1711380876385292595) for more updates.
+
 ### Q
 
-### **QuestDB**
+#### **QuestDB**
 
 - **Swag**: QuestDB t-shirt.
 - **Requirements**:
@@ -511,6 +538,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Register at [ServiceNow DevProgram](https://devlink.sn/HacktoberfestRegistration/)
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
+
+#### **Sia Foundation**
+
+- **Swag**: T-shirt.
+- **Requirements**: Be the first 20 to contribute to any [Sia Foundation repo](https://github.com/SiaFoundation).
+- **How to sign up**: No special signup known.
+- **Notes**: Check [their twitter](https://twitter.com/Sia__Foundation/status/1712134476149448778) for more information.
 
 #### **Stack Builders**
 
