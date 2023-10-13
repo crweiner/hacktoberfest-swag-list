@@ -468,6 +468,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: [check out this tweet](https://twitter.com/TheOtterize/status/1708516300270793003) and the repositories of [Otterize](https://github.com/orgs/otterize/repositories)
 
+#### **OVHcloud**
+
+- **Swag**: Eligible for a lottery to win a prize (unspecified).
+- **Requirements**: Have at least 4 PRs merged into the principal branch of the OVH Repos below to be eligible to a lottery to win a prize.
+- **How to sign up**: No special signup needed.
+- **Issues**: Find eligible repositories having the hacktoberfest topic [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aovh+fork%3Atrue&type=repositories).
+- **Notes**: You may read the [OVH Cloud Hacktoberfest blog post here](https://blog.ovhcloud.com/ovhcloud-and-hacktober-fest-2023/).
+
 ### Q
 
 ### **QuestDB**
