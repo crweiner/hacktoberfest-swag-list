@@ -84,6 +84,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**:  [Build a plugin repo](https://github.com/answerdev/plugins).
 - **Notes**: Other details available [here](https://answer.dev/blog/2023/09/27/celebrate-answer-first-anniversary-with-hacktoberfest-2023).
 
+#### **Appblocks**
+
+- **Swag**: Swags not disclosed yet.
+- **Requirements**: Make valid PRs in the Appblock [repo](https://github.com/appblocks-hub/Challenges)
+- **How to sign up**: Register for this at [Appblock](https://hacktoberfest.appblocks.com/) website and fill out the [Contributor License Agreement](https://cla.appblocks.com).
+- **Issues**:  Find the challenges [here](https://github.com/appblocks-hub/Challenges)
+- **Notes**: More details available [here](https://hacktoberfest.appblocks.com/).
+
 #### **Appsmith**
 
 - **Swag**: Swag package for 4 winners (top submission per category)
@@ -300,9 +308,24 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Swag**: Winner: $1000, $750, $500 and t-shirt + sticker pack.
 - **Requirements**:
     - For the cash award: Build and execute the fastest GraphQL gateway. Submit a link to your git repository as a GitHub issue and raise a PR to the `submissions.md` [file here](https://github.com/hasura/supergraph-top-n-challenge/blob/master/submissions.md) to be added to the competition.
-  - For the t-shirt + sticker pack: contribute to the Hasura Docs, [specifically issues tagged for](https://github.com/hasura/graphql-engine/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest+)  `hacktoberfest`.
-- **How to sign up**: You wil be contacted in your PR to fill out an order form, if your PRs are accepted.
+    - For the t-shirt + sticker pack: contribute to the Hasura Docs, [specifically issues tagged for](https://github.com/hasura/graphql-engine/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest+)  `hacktoberfest`.
+- **How to sign up**: You will be contacted in your PR to fill out an order form, if your PRs are accepted.
 - **Notes**: Find more information and instructions on this [GitHub Repo](https://github.com/hasura/supergraph-top-n-challenge/blob/master/README.md) and also check out this [article](https://hasura.io/blog/the-hasura-hacktoberfest-fiesta-build-a-supergraph-and-win-1000/)
+
+#### **Haystack**
+
+- **Swag**: Exclusive swag package.
+- **Requirements**: Contribute to open issues with the tag `hacktoberfest` at the haystack repository.
+- **How to sign up**:  No special signup known.
+- **Issues**: Open issues at [haystack](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) with the `hacktoberfest` label.
+- **Notes**: Check [this tweet](https://twitter.com/bilgeycl/status/1712135054489444650) for more information about the swag package.
+
+#### **Hugging Face**
+
+- **Swag**: Prizes (Specific prizes not revealed yet).
+- **Requirements**: Submit a PR with a collection of projects or applications integrated with Hugging Face libraries.
+- **How to sign up**: No special signup known.
+- **Notes**: You can either submit a hand-curated collection or collections created using automatic techniques. For more information check the [huggingface challenge page](https://github.com/huggingface/awesome-huggingface/issues/28).
 
 #### **Hyperswitch**
 
@@ -472,9 +495,29 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Notes**: [check out this tweet](https://twitter.com/TheOtterize/status/1708516300270793003) and the repositories of [Otterize](https://github.com/orgs/otterize/repositories)
 
+#### **OVHcloud**
+
+- **Swag**: Eligible for a lottery to win a prize (unspecified).
+- **Requirements**: Have at least 4 PRs merged into the principal branch of the OVH Repos below to be eligible to a lottery to win a prize.
+- **How to sign up**: No special signup needed.
+- **Issues**: Find eligible repositories having the hacktoberfest topic [here](https://github.com/search?q=topic%3Ahacktoberfest+org%3Aovh+fork%3Atrue&type=repositories).
+- **Notes**: You may read the [OVH Cloud Hacktoberfest blog post here](https://blog.ovhcloud.com/ovhcloud-and-hacktober-fest-2023/).
+
+### P
+
+#### **Prefix.dev**
+
+- **Swag**: Shirts and stickers
+- **Requirements**: Make contributors to pixi and rattler-build repositories.
+- **How to sign up**: No special signup known.
+- **Issues**:
+    - Open issues at [prixi](https://github.com/prefix-dev/pixi/issues)
+    - Open issues at [rattler_build](https://github.com/prefix-dev/rattler-build/issues)
+- **Notes**: Check  their [twitter](https://twitter.com/prefix_dev/status/1711380876385292595) for more updates.
+
 ### Q
 
-### **QuestDB**
+#### **QuestDB**
 
 - **Swag**: QuestDB t-shirt.
 - **Requirements**:
@@ -507,6 +550,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Register at [ServiceNow DevProgram](https://devlink.sn/HacktoberfestRegistration/)
 - **Issues**: [Eligible projects and issues](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 - **Notes**: Read more details in the [announcement post](https://developer.servicenow.com/blog.do?p=/post/hacktoberfest-2023/) and the [ServiceNow Hacktoberfest community repository](https://github.com/ServiceNowDevProgram/Hacktoberfest).
+
+#### **Sia Foundation**
+
+- **Swag**: T-shirt.
+- **Requirements**: Be the first 20 to contribute to any [Sia Foundation repo](https://github.com/SiaFoundation).
+- **How to sign up**: No special signup known.
+- **Notes**: Check [their twitter](https://twitter.com/Sia__Foundation/status/1712134476149448778) for more information.
 
 #### **Stack Builders**
 
@@ -547,6 +597,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### T
 
+#### **TBD**
+
+- **Swag**: Exclusive swag from the TBD shop for the Top 20 contributors and custom Hacktoberfest swag for the Top 3 contributors.
+- **Requirements**: Contribute to at least one of the following projects:
+    - [developer.tbd.website](https://github.com/TBD54566975/developer.tbd.website#tbd-developer-site)
+    - [dwn-server](https://github.com/TBD54566975/dwn-server#dwn-server-)
+    - [dwn-sdk-js](https://github.com/TBD54566975/dwn-sdk-js#decentralized-web-node-dwn-sdk-)
+    - [web5-js](https://github.com/TBD54566975/web5-js#web5-js-sdk)
+- **How to sign up**: No special signup known.
+- **Notes**: Visit [TBD Hacktoberfest 2023 Guide](https://dev.to/tbdevs/preptember-diaries-gearing-up-for-hacktoberfest-2023-8o2) and review the [Leaderboard here](https://github.com/TBD54566975/developer.tbd.website/issues/721).
+
 #### **Treblle**
 
 - **Swag**: Stickers, hoodies, t-shirt, socks and cash prize pool of USD 6660.
@@ -572,7 +633,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Requirements**:
     - We will offer unique Turbot stickers and t-shirts for no-code, low-code and high-code contributions.
     - At least 1 accepted PR from any of our 200+ public GitHub repos, marked with topic `hacktoberfest`.
-- **How to sign up**: No required signup neccessary.
+- **How to sign up**: No required signup necessary.
 - **Issues**: [Eligible projects and issues](https://github.com/search?q=org%3Aturbot+topic%3Ahacktoberfest&type=repositories).
 - **Notes**: Read more details in the [announcement post](https://turbot.com/blog/2023/10/hacktoberfest-2023) and join our [Turbot community](https://turbot.com/community/join) `#contributors` channel with any questions.
 
