@@ -393,13 +393,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: FrogtoberFest Swags.
 - **Requirements**:
-  - Create 8 pull requests (PRs) between Oct 1 to Oct 31, 2023.
-  - At least 5 PRs should be in repositories not owned by you.
-  - PRs can be made to any public repository on GitHub.
-  - PRs should not be labeled as ‘invalid.'
-  - The top 15 contributors who fulfill these requirements will become eligible to receive the coveted Frogtoberfest SWAG as a token of recognition for their valuable contributions. 
+    - Create 8 pull requests (PRs) between Oct 1 to Oct 31, 2023.
+    - At least 5 PRs should be in repositories not owned by you.
+    - PRs can be made to any public repository on GitHub.
+    - PRs should not be labeled as ‘invalid.'
+    - The top 15 contributors who fulfill these requirements will become eligible to receive the coveted Frogtoberfest SWAG as a token of recognition for their valuable contributions. 
 - **How to sign up**: Fill [this form](https://docs.google.com/forms/d/e/1FAIpQLSeqKyFPQ7QLAS01ew1tTSC-8rp893AFbRAscI2N4Lxn27sdKw/formrestricted) to participate.
-- **Notes**: For more information checkout [Frogtober Site](https://frogtoberfest.lftechnology.com/).
+- **Notes**: For more information checkout [Frogtober Site](https://frogtoberfest.lftechnology.com/), **currently they are not accepting new registrations**.
 
 #### **Loft Labs**
 
