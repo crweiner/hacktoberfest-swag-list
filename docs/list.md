@@ -519,11 +519,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Quine**
 
-- **Swag**: Top 50 contributors get exclusive Quine merch, all participants get a Hacktoberfest Badge on their Quine profile.
-- **Requirements**: Valid PRs starting from October 12th - October 31st. Contributions should be made in repos found on Quine (after clicking on "Contribute") and have the `hacktoberfest` label. It normally redirects to [this link](https://quine.sh/contribute) after logging in to Quine.
+- **Swag**: Exclusive Quine merch.
+- **Requirements**:
+    - Valid PRs starting from October 12th - October 31st. 
+    - Contributions should be made to issues  with the `hacktoberfest` label in repos found at Quine (after clicking on "Contribute"). 
+    - Be in the top 50 contributors of [this leaderboard](https://quine.sh/hacktoberfest?type=developers&sortBy=col1&taggedPrsOnly=true).
 - **How to sign up**: Log in to Quine via GitHub and click on the Contribute tab to search for repos to contribute.
-- **Issues**: Search for the list of issues [here](https://quine.sh/contribute) after logging in to Quine via GitHub.
-- **Notes**: Check out the [website](https://quine.sh/), [announcement](https://twitter.com/quine_sh/status/1712434350921322818) and [twitter thread](https://twitter.com/quine_sh/status/1712081594431782973) for details.
+- **Issues**: Open issues for eligible repos at the [Quine contribute page](https://quine.sh/contribute).
+- **Notes**: 
+    - Check out the [announcement tweet](https://twitter.com/quine_sh/status/1712434350921322818) and [this twitter thread](https://twitter.com/quine_sh/status/1712081594431782973) for details. 
+    - Quine Hacktoberfest [rules](https://docs.quine.sh/misc/hacktoberfest).
 
 ### R
 
