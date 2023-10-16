@@ -529,7 +529,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Collect as many spooky pumpkins before 31st October 2023
 - **How to sign up**: No special signup known.
 - **Issues**: All the [open issues](https://github.com/revertinc/revert/issues)
-- **Notes**: More details [available here](hhttps://twitter.com/revertdotdev/status/1712834581383233988).
+- **Notes**: More details [available here](https://twitter.com/revertdotdev/status/1712834581383233988).
 
 #### **Ronin**
 
