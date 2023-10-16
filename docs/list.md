@@ -673,6 +673,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up for [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeBiJSYV4PNFYOH1Jo9PSheOYKxqV2NJE3LELL9a_fYq4fpfw/viewform?usp=sf_link)
 - **Notes**: Read more at [event page](https://wiremock.org/events/hacktoberfest/) WireMock Hacktoberfest.
 
+### Z
+
+### **Zilliz**
+
+- **Swag**: T-shirt, Stickers.
+- **Requirements**: Contribute to issues with hacktoberfest label in any [Milvis-io Repo](https://github.com/orgs/milvus-io/repositories) and 3 merged PRs can get you swags.
+- **How To sign up**: No special sign up known.
+- **Issues**: All the [open issues](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest).
+- **Notes**: Read more at [Zilliz Hacktoberfest Page](https://zilliz.com/hacktoberfest).
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
