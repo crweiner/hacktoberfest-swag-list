@@ -678,10 +678,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 #### **Zilliz**
 
 - **Swag**: Swag Pack (t-shirts + stickers)
-- **Requirements**: 3 merged PRs in the Milvus project.
+- **Requirements**: Any of:
+    - 3 merged PRs in the Milvus project
+    - Building a demo app using Milvus
+    - Writing a blog post where Milvus was used in a recent project
+    - Creating a video/written tutorial to help new users/maintainers get started with Milvus.
 - **How to sign up**: No special signup known.
 - **Issues**: See the list of open issues [here](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest).
-- **Notes**: Check out [Zilliz Hacktoberfest page](https://zilliz.com/hacktoberfest) and the [Contribution Guide](https://github.com/milvus-io/milvus/blob/5ba158a3f559e424e8bd98f3c2032d53f8cf310c/CONTRIBUTING.md) for more details. Additionally, you can follow them on Twitter [here](https://twitter.com/zilliz_universe?s=21&t=N_U76Etz0LitZhkwlsp6qg) and join the Discord [here](https://discord.gg/vMaKFtEU).
+- **Notes**: Check out [Zilliz Hacktoberfest page](https://zilliz.com/hacktoberfest) and the [Contributing Guide](https://github.com/milvus-io/milvus/blob/5ba158a3f559e424e8bd98f3c2032d53f8cf310c/CONTRIBUTING.md) for more details. Additionally, you can follow them on Twitter [here](https://twitter.com/zilliz_universe?s=21&t=N_U76Etz0LitZhkwlsp6qg) and join the Discord [here](https://discord.gg/vMaKFtEU).
 
 ---
 
