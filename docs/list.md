@@ -528,7 +528,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - For every PR merged in revert, you get spooky pumpkins
     - Collect as many spooky pumpkins before 31st October 2023
 - **How to sign up**: No special signup known.
-- **Issues**: All the [open issues](https://github.com/revertinc/revert/issues)
+- **Issues**: All the open [hacktoberfest issues](https://github.com/revertinc/revert/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
 - **Notes**: More details [available here](https://twitter.com/revertdotdev/status/1712834581383233988).
 
 #### **Ronin**
