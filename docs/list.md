@@ -521,7 +521,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Revert**
 
-- **Swag**: Stickers (100 pumpkins), Mug (250 pumpkins), Cap (250 pumpkins), Tshirt (500 pumpkins), Hoodie (1000 pumpkins)
+- **Swag**: Stickers, Mug, Cap, T-shirt, and Hoodie.
 - **Requirements**:
     - Star our repo [here](https://github.com/revertinc/revert)
     - Go to issues tagged Hacktoberfest
