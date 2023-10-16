@@ -678,7 +678,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 ### **Zilliz**
 
 - **Swag**: T-shirt, Stickers.
-- **Requirements**: Contribute to issues with hacktoberfest label in any [Milvis-io Repo](https://github.com/orgs/milvus-io/repositories) and 3 merged PRs can get you swags.
+- **Requirements**:
+  Ways to Contribute:-
+    - Contribute to issues with hacktoberfest label in any [Milvis-io Repo](https://github.com/orgs/milvus-io/repositories) and 3 merged PRs can get you swags.
+    - Build a demo app of your choice using Milvus. Chatbots or any app that could use semantic search.
+    - Write a blog post, article or guide to help milvus reach a global audience.
+    - Create a video tutorial or a written one, help new users and maintainers get started with Milvus!
 - **How To sign up**: No special sign up known.
 - **Issues**: All the [open issues](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest).
 - **Notes**: Read more at [Zilliz Hacktoberfest Page](https://zilliz.com/hacktoberfest).
