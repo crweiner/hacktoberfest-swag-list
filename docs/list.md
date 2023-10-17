@@ -615,6 +615,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - [jobs-showcase](https://github.com/triggerdotdev/jobs-showcase/issues)
 - **Notes**: Visit the official site of [Trigger.dev's Hacktoberfest celebration](https://trigger.dev/hacktoberfest) for more information.
 
+#### **Truffle Security**
+
+- **Swag**: 13 inch MacBook Air (M2) for 1st place, Timbuk2 Backpack for 2nd place, and Custom TruffleHog Swag for the 3rd place in the Detector Competition.
+- **Requirements**: There are two categories for the Detector Competition:
+    - adding new detectors (1 point)
+    - fixing detectors (2 points).
+
+    Each merged PR with a `Hacktoberfest-Detector-Competition-New` or `Hacktoberfest-Detector-Competition-Fix` will be awarded 1 or 2 points, respectively. Submit PRs in the [Trufflehog Repository](https://github.com/trufflesecurity/trufflehog/) and earn points to win prizes.
+
+- **How to sign up**: No special sign up required.
+- **Issues**: Find issues in the [Trufflehog Repository](https://github.com/trufflesecurity/trufflehog/issues)
+- **Notes**: Check out the [Hacktoberfest Repository](https://github.com/trufflesecurity/hacktoberfest2023/blob/main/README.md), join the [Slack Community](https://trufflehog-community.slack.com/join/shared_invite/zt-pw2qbi43-Aa86hkiimstfdKH9UCpPzQ) and [Secret Scanning Discord](https://discord.gg/8Hzbrnkr7E) for more details.
+
 #### **Turbot**
 
 - **Swag**: Turbot & Steampipe T-shirts and Stickers
