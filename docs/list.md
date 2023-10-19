@@ -657,9 +657,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Swag Package containing a mug, backpack, t-shirt, hoodie, hat, and mascot doll.
 - **Requirements**:
-    - 1 Pull Request will receive a digital badge of the contributor to NebulaGraph.
-    - 3 Pull Requests will receive a digital badge of the Active Contributor 2023.
-    - 5 Pull Requests will receive a digital badge of the NebulaGraph Hacktoberfest MVP 2023 and the NebulaGraph Swag Package. The Swag Package contains a mug, backpack, t-shirt, hoodie, hat, and mascot doll.
+    - 5 Pull Requests will receive a digital badge of the NebulaGraph Hacktoberfest MVP 2023 and the NebulaGraph Swag Package.
 - **How to sign up**: No special signup known.
 - **Issues**: Available tasks are located [here](https://github.com/orgs/vesoft-inc/projects/84/views/1) and [here](https://github.com/orgs/nebula-contrib/projects/1/views/1)
 - **Notes**: Read the [announcement post](https://github.com/vesoft-inc/nebula-community/wiki/HACKTOBERFEST2023) for more details.
