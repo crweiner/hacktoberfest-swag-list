@@ -655,7 +655,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Vesoft**
 
-- **Swag**: Digital Badges, a Swag Package containing a mug, backpack, t-shirt, hoodie, hat, and mascot doll. One tree is also planted for the first 50,000 participants.
+- **Swag**: Swag Package containing a mug, backpack, t-shirt, hoodie, hat, and mascot doll.
 - **Requirements**:
     - 1 Pull Request will receive a digital badge of the contributor to NebulaGraph.
     - 3 Pull Requests will receive a digital badge of the Active Contributor 2023.
