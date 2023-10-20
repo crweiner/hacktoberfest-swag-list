@@ -228,12 +228,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Bottles, stickers
 - **Requirements**: Create and contribute to new issues.
-  - One bottle per merged PR for sample Applications
-  - Stickers for every relevant issue created.
-  - Bottle for every blog, tutorial or documentation contribution at [Dyte Docs](https://github.com/dyte-in/docs), send an [email](ritvi@dyte.io) to know more about blog/tutorial contribution.
+    - One bottle per merged PR for sample Applications
+    - Stickers for every relevant issue created.
+    - Bottle for every blog, tutorial or documentation contribution at [Dyte Docs](https://github.com/dyte-in/docs), send an [email](ritvi@dyte.io) to know more about blog/tutorial contribution.
 - **How to sign up**: Create a relevant issue in one of the open source repos.
 - **Issues**: Check open issues at [Dyte.io Repositories](https://dyte.io/repos)
-- **Notes**: Read more at the [Hacktoberfest](https://dyte.io/blog/dyte-hactoberfest/) Hacktoberfest post.
+- **Notes**: Read more at the [Hacktoberfest](https://dyte.io/blog/dyte-hactoberfest/) post.
 
 
 ### E
