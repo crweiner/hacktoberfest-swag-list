@@ -519,6 +519,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### R
 
+#### **Renumics**
+
+- **Swag**: T-Shirt.
+- **Requirements**: - 1 or more accepted and merged PRs
+- **How to sign up**: No special signup needed.
+- **Issues**: List of open issues [here](https://github.com/Renumics/spotlight/issues).
+- **Notes**: More details [here](https://renumics.com/blog/hacktoberfest_2023/).
+
 #### **Ronin**
 
 - **Swag**: Stickers
