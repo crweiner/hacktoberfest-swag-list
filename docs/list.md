@@ -669,6 +669,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: See the [Weaviate Repository issues](https://github.com/weaviate/weaviate/issues)
 - **Notes**: To know more , read the [Hacktoberfest blog post by Weaviate](https://weaviate.io/blog/hacktoberfest-2023)
 
+#### **Wevis**
+
+- **Swag**: Limited Edition Sticker
+- **Requirements**: One approved PR
+- **How to sign up**: No special signup required
+- **Issues**: List of active issues can be found [here](https://github.com/wevisdemo/parliament-watch/issues)
+- **Notes**: More details [available here](https://github.com/wevisdemo/parliament-watch/blob/main/README.md)
+
 #### **Widgetbook**
 
 - **Swag**: T-shirt, Stickers pack
