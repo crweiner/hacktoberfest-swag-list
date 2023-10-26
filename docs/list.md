@@ -523,10 +523,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Stickers, Mug, Cap, T-shirt, and Hoodie.
 - **Requirements**:
-    - Star our repo [here](https://github.com/revertinc/revert)
-    - Go to issues tagged Hacktoberfest
-    - For every PR merged in revert, you get spooky pumpkins
-    - Collect as many spooky pumpkins before 31st October 2023
+    - Star the repo [here](https://github.com/revertinc/revert).
+    - Go to issues tagged `hacktoberfest`.
+    - For every PR merged in Revert, you get spooky pumpkins.
+    - Collect as many spooky pumpkins as you can before 31st October 2023.
     - You can get swag based on spooky pumpkins: Stickers - 100 pumpkins | Mug - 250 pumpkins | Cap - 250 pumpkins | T-shirt - 500 pumpkins | Hoodie - 1000 pumpkins
 - **How to sign up**: No special signup known.
 - **Issues**: All the open [hacktoberfest issues](https://github.com/revertinc/revert/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
