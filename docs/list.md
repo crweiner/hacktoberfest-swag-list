@@ -204,6 +204,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: All the [Hacktoberfest tagged issues](https://github.com/DagsHub/Hacktoberfest-Issues).
 - **Notes**: Other issues and repos of various difficulty listed in the [announcement post](https://dagshub.com/blog/hacktoberfest-2023/).
 
+#### **Depths**
+
+- **Swag**: Unsure, Depths branded swag
+- **Requirements**:
+    - Complete the "#30DaysofOpenSource" Challenge by reading daily and writing comments based on what you learned.
+    - Have at least one pull request merged in October as part of Hacktoberfest.
+- **How to sign up**: Register at [Depths](https://www.depths.so/30daysopensource).
+- **Notes**: Visit the [Depths 30 Days of Open Source Learning Challenge page here](https://www.depths.so/30daysopensource).
+
 #### **devICT**
 
 - **Swag**: Stickers
