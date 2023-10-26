@@ -144,6 +144,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### C
 
+#### **Chainguard**
+
+- **Swag**: Wolfi swags
+- **Requirements**: 1+ merged PRs
+- **How to sign up**: No special signup required.
+- **Issues**: Explore the list of issues in the [community repository](https://github.com/chainguard-images/images/issues/1539).
+- **Notes**: Check out the [Chainguard Hacktoberfest Blog](https://dev.to/chainguard/get-involved-with-chainguard-projects-for-hacktoberfest-2023-4h7b).
+
 #### **Chimoney**
 
 - **Swag**: $25 for each merged PR, exclusive Chimoney T-shirts and Stickers
