@@ -235,6 +235,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Check open issues at [Dyrectorio](https://github.com/dyrector-io/dyrectorio/issues)
 - **Notes**: Read more at the [Hacktoberfest](https://github.com/dyrector-io/dyrectorio/issues/837) swag post.
 
+#### **Dyte.io**
+
+- **Swag**: Bottles, stickers
+- **Requirements**: Create and contribute to new issues.
+    - One bottle per merged PR for sample Applications
+    - Stickers for every relevant issue created.
+    - Bottle for every blog, tutorial or documentation contribution at [Dyte Docs](https://github.com/dyte-in/docs), send an [email](ritvi@dyte.io) to know more about blog/tutorial contribution.
+- **How to sign up**: Create a relevant issue in one of the open source repos.
+- **Issues**: Check open issues at [Dyte.io Repositories](https://dyte.io/repos)
+- **Notes**: Read more at the [Hacktoberfest](https://dyte.io/blog/dyte-hactoberfest/) post.
+
 ### E
 
 #### **EMQ**
