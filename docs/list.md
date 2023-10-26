@@ -40,10 +40,10 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Airbyte**
 
-- **Swag**: Cash prizes upto USD 9000 and swag credits for hats, t-shirts and more
-- **Requirements**: Contribute to different github projects:
-    - Write most Connector Improvements
-    - Get most github upvotes on Written Quickstarts
+- **Swag**: Cash prizes up to $9000 and swag credits for hats, t-shirts and more
+- **Requirements**: Contribute to different GitHub projects:
+    - Write the most Connector Improvements
+    - Get the most GitHub up-votes on Written Quickstarts
     - Make standalone contributions
 - **How to sign up**: [Register for the hackathon](https://hashnode.com/hackathons/airbyte)
 - **Issues**: [Connector Improvements](https://github.com/orgs/airbytehq/projects/46) and [Written Quickstarts](https://github.com/orgs/airbytehq/projects/57)
