@@ -38,6 +38,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### A
 
+#### **Airbyte**
+
+- **Swag**: Cash prizes up to $9000 and swag credits for hats, t-shirts and more
+- **Requirements**: Contribute to different GitHub projects:
+    - Write the most Connector Improvements
+    - Get the most GitHub up-votes on Written Quickstarts
+    - Make standalone contributions
+- **How to sign up**: [Register for the hackathon](https://hashnode.com/hackathons/airbyte)
+- **Issues**: [Connector Improvements](https://github.com/orgs/airbytehq/projects/46) and [Written Quickstarts](https://github.com/orgs/airbytehq/projects/57)
+- **Notes**: Checkout the related [blogpost](https://airbyte.com/blog/announcing-airbytes-tentaculous-hacktoberfest-2023-edition) along with their [docs](https://docs.airbyte.com/connector-development/connector-builder-ui/overview) and [existing quickstarts](https://airbyte.com/quickstarts) for further information
+
 #### **Akto**
 
 - **Swag**: T-shirt, hoodie and stickers.
@@ -193,6 +204,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: All the [Hacktoberfest tagged issues](https://github.com/DagsHub/Hacktoberfest-Issues).
 - **Notes**: Other issues and repos of various difficulty listed in the [announcement post](https://dagshub.com/blog/hacktoberfest-2023/).
 
+#### **Depths**
+
+- **Swag**: Unsure, Depths branded swag
+- **Requirements**:
+    - Complete the "#30DaysofOpenSource" Challenge by reading daily and writing comments based on what you learned.
+    - Have at least one pull request merged in October as part of Hacktoberfest.
+- **How to sign up**: Register at [Depths](https://www.depths.so/30daysopensource).
+- **Notes**: Visit the [Depths 30 Days of Open Source Learning Challenge page here](https://www.depths.so/30daysopensource).
+
 #### **devICT**
 
 - **Swag**: Stickers
@@ -223,6 +243,17 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Issues**: Check open issues at [Dyrectorio](https://github.com/dyrector-io/dyrectorio/issues)
 - **Notes**: Read more at the [Hacktoberfest](https://github.com/dyrector-io/dyrectorio/issues/837) swag post.
+
+#### **Dyte.io**
+
+- **Swag**: Bottles, stickers
+- **Requirements**: Create and contribute to new issues.
+    - One bottle per merged PR for sample Applications
+    - Stickers for every relevant issue created.
+    - Bottle for every blog, tutorial or documentation contribution at [Dyte Docs](https://github.com/dyte-in/docs), send an [email](ritvi@dyte.io) to know more about blog/tutorial contribution.
+- **How to sign up**: Create a relevant issue in one of the open source repos.
+- **Issues**: Check open issues at [Dyte.io Repositories](https://dyte.io/repos)
+- **Notes**: Read more at the [Hacktoberfest](https://dyte.io/blog/dyte-hactoberfest/) post.
 
 ### E
 
@@ -476,6 +507,24 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### O
 
+#### **OpenBB**
+
+- **Swag**: T-shirt, Cap
+- **Requirements**:
+    - To get both T-shirt and Cap:
+        - Create 1 Custom OpenBB Extension.
+    - To get 1 of the both items, you need to do one of the following:
+        - 5 no-code contributions
+        - 3 code/performance enhancements
+        - 1 non-extension feature
+    Once you've completed your contribution, please follow these steps:
+    - Sign up on the OpenBB Hub at [OpenBB](my.openbb.co.)
+    - Either DM us (or Didier) on Twitter, email us at hello@openbb.co, or hop into our Discord with your PR (or PyPi extension link).
+    - Let us know what swag you'd like us to ship and where.
+- **How to sign up**: Sign up [here](https://my.openbb.co./login)
+- **Issues**: Find the available issues [here](https://github.com/OpenBB-finance/OpenBBTerminal/issues)
+- **Notes**: For More details, visit [OpenBB](https://openbb.co/blog/hacktoberfest-join-us-in-celebrating-open-source).
+
 #### **Otterize**
 
 - **Swag**: Swag (Specific Swags not mentioned)
@@ -517,6 +566,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of open issues [here](https://github.com/questdb/questdb/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) and [here](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen++label%3Ahacktoberfest+).
 - **Notes**: Full details are mentioned [here](https://questdb.io/blog/hacktoberfest-2023-questdb/).
 
+#### **Quine**
+
+- **Swag**: Exclusive Quine merch.
+- **Requirements**:
+    - Valid PRs starting from October 12th - October 31st.
+    - Contributions should be made to issues  with the `hacktoberfest` label in repos found at Quine (after clicking on "Contribute").
+    - Be in the top 50 contributors of [this leaderboard](https://quine.sh/hacktoberfest?type=developers&sortBy=col1&taggedPrsOnly=true).
+- **How to sign up**: Log in to Quine via GitHub and click on the Contribute tab to search for repos to contribute.
+- **Issues**: Open issues for eligible repos at the [Quine contribute page](https://quine.sh/contribute).
+- **Notes**:
+    - Check out the [announcement tweet](https://twitter.com/quine_sh/status/1712434350921322818) and [this twitter thread](https://twitter.com/quine_sh/status/1712081594431782973) for details.
+    - Quine Hacktoberfest [rules](https://docs.quine.sh/misc/hacktoberfest).
+
 ### R
 
 #### **Renumics**
@@ -526,6 +588,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup needed.
 - **Issues**: List of open issues [here](https://github.com/Renumics/spotlight/issues).
 - **Notes**: More details [here](https://renumics.com/blog/hacktoberfest_2023/).
+
+#### **Revert**
+
+- **Swag**: Stickers, Mug, Cap, T-shirt, and Hoodie.
+- **Requirements**:
+    - Star the repo [here](https://github.com/revertinc/revert).
+    - Go to issues tagged `hacktoberfest`.
+    - For every PR merged in Revert, you get spooky pumpkins.
+    - Collect as many spooky pumpkins as you can before 31st October 2023.
+    - You can get swag based on spooky pumpkins: Stickers - 100 pumpkins | Mug - 250 pumpkins | Cap - 250 pumpkins | T-shirt - 500 pumpkins | Hoodie - 1000 pumpkins
+- **How to sign up**: No special signup known.
+- **Issues**: All the open [hacktoberfest issues](https://github.com/revertinc/revert/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
+- **Notes**: More details [available here](https://twitter.com/revertdotdev/status/1712834581383233988).
 
 #### **Ronin**
 
@@ -593,6 +668,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### T
 
+#### **Taipy**
+
+- **Swag**: T-shirt (10 available)
+- **Requirements**: At least one merged PR.
+- **How to sign up**: No special signup known.
+- **Issues**: Find the `hacktoberfest` issues at:
+    - [Taipy's front-end repo](https://github.com/Avaiga/taipy-gui)
+    - [Taipy's back-end repo](https://github.com/Avaiga/taipy-core)
+- **Notes**: Visit the [Taipy Hacktoberfest 2023 Guide](https://github.com/Avaiga/taipy/issues/330) for more information.
+
 #### **TBD**
 
 - **Swag**: Exclusive swag from the TBD shop for the Top 20 contributors and custom Hacktoberfest swag for the Top 3 contributors.
@@ -659,6 +744,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Check the [curated issues board](https://github.com/orgs/unoplatform/projects/77/views/1) or you can request the addition of `hacktoberfest` label to [open issues](https://github.com/search?q=org%3Aunoplatform+is%3Aissue+is%3Aopen&type=issues) in any of the Uno platform repos.
 - **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
 
+### V
+
+#### **Vesoft**
+
+- **Swag**: Swag Package containing a mug, backpack, t-shirt, hoodie, hat, mascot doll, and a digital badge.
+- **Requirements**: 5 accepted PRs on the within [vesoft-inc](https://github.com/vesoft-inc) or [nebula-contrib](https://github.com/nebula-contrib) repos will receive a digital badge of the NebulaGraph Hacktoberfest MVP 2023 and the NebulaGraph Swag Package.
+- **How to sign up**: No special signup known.
+- **Issues**: Available tasks are located [here](https://github.com/orgs/vesoft-inc/projects/84/views/1) and [here](https://github.com/orgs/nebula-contrib/projects/1/views/1)
+- **Notes**: Read the [announcement post](https://github.com/vesoft-inc/nebula-community/wiki/HACKTOBERFEST2023) for more details.
+
 ### W
 
 #### **WavePlay**
@@ -693,6 +788,20 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Judge contributions by the most active contributors, quality and value.
 - **How to sign up**: Sign up for [registration form](https://docs.google.com/forms/d/e/1FAIpQLSeBiJSYV4PNFYOH1Jo9PSheOYKxqV2NJE3LELL9a_fYq4fpfw/viewform?usp=sf_link)
 - **Notes**: Read more at [event page](https://wiremock.org/events/hacktoberfest/) WireMock Hacktoberfest.
+
+### Z
+
+#### **Zilliz**
+
+- **Swag**: Swag Pack (t-shirts + stickers)
+- **Requirements**: Any of:
+    - 3 merged PRs in the Milvus project
+    - Building a demo app using Milvus
+    - Writing a blog post where Milvus was used in a recent project
+    - Creating a video/written tutorial to help new users/maintainers get started with Milvus.
+- **How to sign up**: No special signup known.
+- **Issues**: See the list of open issues [here](https://github.com/milvus-io/milvus/issues?q=is%3Aopen+is%3Aissue+label%3AHacktoberfest).
+- **Notes**: Check out [Zilliz Hacktoberfest page](https://zilliz.com/hacktoberfest) and the [Contributing Guide](https://github.com/milvus-io/milvus/blob/5ba158a3f559e424e8bd98f3c2032d53f8cf310c/CONTRIBUTING.md) for more details. Additionally, you can follow them on Twitter [here](https://twitter.com/zilliz_universe?s=21&t=N_U76Etz0LitZhkwlsp6qg) and join the Discord [here](https://discord.gg/vMaKFtEU).
 
 ---
 
