@@ -195,15 +195,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Depths**
 
-- **Swag**: Depth's T-shirt,Cap,Sticker and Notebook
+- **Swag**: Unsure, Depths branded swag
 - **Requirements**:
-    - Complete the "#30DaysofOpenSource" Challenge by reading daily and giving insights into it.
-    - Have at least one pull request merged in October as part of the Hacktoberfest challenge.
+    - Complete the "#30DaysofOpenSource" Challenge by reading daily and writing comments based on what you learned.
+    - Have at least one pull request merged in October as part of Hacktoberfest.
 - **How to sign up**: Register at [Depths](https://www.depths.so/30daysopensource).
-- **Issues**:
-    - All the Hacktoberfest tagged issues in any GitHub repository with the `hacktoberfest` label are eligible. You can find repos and issues [here](https://github.com/topics/hacktoberfest).
-    - Make sure your contribution is meaningful and adheres to the repository's contribution guidelines.
-- **Notes**: To Know More Visit [Depths](https://www.depths.so/30daysopensource).
+- **Notes**: Visit the [Depths 30 Days of Open Source Learning Challenge page here](https://www.depths.so/30daysopensource).
 
 #### **devICT**
 
