@@ -546,6 +546,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: List of open issues [here](https://github.com/questdb/questdb/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) and [here](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen++label%3Ahacktoberfest+).
 - **Notes**: Full details are mentioned [here](https://questdb.io/blog/hacktoberfest-2023-questdb/).
 
+#### **Quine**
+
+- **Swag**: Exclusive Quine merch.
+- **Requirements**:
+    - Valid PRs starting from October 12th - October 31st.
+    - Contributions should be made to issues  with the `hacktoberfest` label in repos found at Quine (after clicking on "Contribute").
+    - Be in the top 50 contributors of [this leaderboard](https://quine.sh/hacktoberfest?type=developers&sortBy=col1&taggedPrsOnly=true).
+- **How to sign up**: Log in to Quine via GitHub and click on the Contribute tab to search for repos to contribute.
+- **Issues**: Open issues for eligible repos at the [Quine contribute page](https://quine.sh/contribute).
+- **Notes**:
+    - Check out the [announcement tweet](https://twitter.com/quine_sh/status/1712434350921322818) and [this twitter thread](https://twitter.com/quine_sh/status/1712081594431782973) for details.
+    - Quine Hacktoberfest [rules](https://docs.quine.sh/misc/hacktoberfest).
+
 ### R
 
 #### **Ronin**
