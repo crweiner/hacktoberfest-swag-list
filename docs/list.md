@@ -235,7 +235,6 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Check open issues at [Dyte.io Repositories](https://dyte.io/repos)
 - **Notes**: Read more at the [Hacktoberfest](https://dyte.io/blog/dyte-hactoberfest/) post.
 
-
 ### E
 
 #### **EMQ**
