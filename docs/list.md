@@ -736,6 +736,16 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Check the [curated issues board](https://github.com/orgs/unoplatform/projects/77/views/1) or you can request the addition of `hacktoberfest` label to [open issues](https://github.com/search?q=org%3Aunoplatform+is%3Aissue+is%3Aopen&type=issues) in any of the Uno platform repos.
 - **Notes**: Visit [Uno Platform Hacktoberfest 2023](https://platform.uno/blog/hacktoberfest-2023-contributing-as-a-net-developer/) for more details and the complete list of prizes.
 
+### V
+
+#### **Vesoft**
+
+- **Swag**: Swag Package containing a mug, backpack, t-shirt, hoodie, hat, mascot doll, and a digital badge.
+- **Requirements**: 5 accepted PRs on the within [vesoft-inc](https://github.com/vesoft-inc) or [nebula-contrib](https://github.com/nebula-contrib) repos will receive a digital badge of the NebulaGraph Hacktoberfest MVP 2023 and the NebulaGraph Swag Package.
+- **How to sign up**: No special signup known.
+- **Issues**: Available tasks are located [here](https://github.com/orgs/vesoft-inc/projects/84/views/1) and [here](https://github.com/orgs/nebula-contrib/projects/1/views/1)
+- **Notes**: Read the [announcement post](https://github.com/vesoft-inc/nebula-community/wiki/HACKTOBERFEST2023) for more details.
+
 ### W
 
 #### **WavePlay**
