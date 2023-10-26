@@ -587,14 +587,13 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 #### **Taipy**
 
-- **Swag**: Win a limited edition t-shirt!
-- **Requirements**: There should be a merged PR.
+- **Swag**: T-shirt (10 available)
+- **Requirements**: At least one merged PR.
 - **How to sign up**: No special signup known.
-- **Issues**: Find the issues at:
-  - [front-end](https://github.com/Avaiga/taipy-gui)
-  - [back-end](https://github.com/Avaiga/taipy-core)
-  - Or find them all [here](https://github.com/Avaiga/taipy-gui/labels/hacktoberfest)
-- **Notes**: Visit [Taipy Hacktoberfest 2023 Guide](https://github.com/Avaiga/taipy/issues/330)
+- **Issues**: Find the `hacktoberfest` issues at:
+    - [Taipy's front-end repo](https://github.com/Avaiga/taipy-gui)
+    - [Taipy's back-end repo](https://github.com/Avaiga/taipy-core)
+- **Notes**: Visit the [Taipy Hacktoberfest 2023 Guide](https://github.com/Avaiga/taipy/issues/330) for more information.
 
 #### **TBD**
 
