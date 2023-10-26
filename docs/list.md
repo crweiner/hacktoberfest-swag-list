@@ -487,6 +487,24 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### O
 
+#### **OpenBB**
+
+- **Swag**: T-shirt, Cap
+- **Requirements**:
+    - To get both T-shirt and Cap:
+        - Create 1 Custom OpenBB Extension.
+    - To get 1 of the both items, you need to do one of the following:
+        - 5 no-code contributions
+        - 3 code/performance enhancements
+        - 1 non-extension feature
+    Once you've completed your contribution, please follow these steps:
+    - Sign up on the OpenBB Hub at [OpenBB](my.openbb.co.)
+    - Either DM us (or Didier) on Twitter, email us at hello@openbb.co, or hop into our Discord with your PR (or PyPi extension link).
+    - Let us know what swag you'd like us to ship and where.
+- **How to sign up**: Sign up [here](https://my.openbb.co./login)
+- **Issues**: Find the available issues [here](https://github.com/OpenBB-finance/OpenBBTerminal/issues)
+- **Notes**: For More details, visit [OpenBB](https://openbb.co/blog/hacktoberfest-join-us-in-celebrating-open-source).
+
 #### **Otterize**
 
 - **Swag**: Swag (Specific Swags not mentioned)
