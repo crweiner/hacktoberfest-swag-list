@@ -514,6 +514,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Issues**: Find the available issues [here](https://github.com/keyval-dev/odigos/issues).
 - **Notes**: For more details, visit the [Odigos repo](https://github.com/keyval-dev/odigos/blob/main/README.md).
+
 #### **OpenBB**
 
 - **Swag**: T-shirt, Cap
