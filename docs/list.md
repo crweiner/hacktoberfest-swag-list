@@ -148,8 +148,25 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Wolfi swags
 - **Requirements**: 1+ merged PRs
+    Contributors can contribute in three different ways:
+    -**Identifying Broken PRs**:- [Repo Link](https://github.com/wolfi-dev/os).
+        - Choose an issue tagged as ```hacktoberfest``` from the [list](https://github.com/wolfi-dev/os/issues/7017). Make sure to leave a comment on the issue so that others know you are working on it.
+        - Create a new PR with your changes, so that we can tag it with the ```hacktoberfest-accepted``` label and make it a valid PR for Hacktoberfest.
+    -**Contributing to Chainguard Images**:- [Repo Link](https://dev.tochainguard-images/images).
+        -Choose one of the [listed issues](https://github.com/chainguard-images/images/issues/1539).
+        -Test the image on your local environment.
+        -Update the image README with instructions on how to use it and any other important information that you think users should know. You should follow the [README template](https://github.com/chainguard-images/images/blob/main/.github/readme-template.md) for keeping READMEs consistent.
+        -Optionally, write a test for the image. Check the "Tests" section of our Best Practices doc for more details on how to go about that.
+        -create a PR to the Chainguard Images repository with your updated README
+    -**Contributing to Chainguard Academy**:- [Repo Link](https://github.com/chainguard-dev/edu).
+        **For Documentation PRs**
+            - create an issue.
+            - Send PR.
 - **How to sign up**: No special signup required.
-- **Issues**: Explore the list of issues in the [community repository](https://github.com/chainguard-images/images/issues/1539).
+- **Issues**:
+    -For **Identifying Broken PRs**:- Refer to this [Issue list](https://github.com/wolfi-dev/os/issues/7017)
+    -For **Contributing to Chainguard Images**:- Refer to this [Issue list](https://github.com/chainguard-images/images/issues/1539)
+    -For **Contributing to Chainguard Academy**:- Refer to this [Issue list](https://github.com/chainguard-dev/edu/issues)
 - **Notes**: Check out the [Chainguard Hacktoberfest Blog](https://dev.to/chainguard/get-involved-with-chainguard-projects-for-hacktoberfest-2023-4h7b).
 
 #### **Chimoney**
