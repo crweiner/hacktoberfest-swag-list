@@ -548,6 +548,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Find the available issues [here](https://github.com/OpenBB-finance/OpenBBTerminal/issues)
 - **Notes**: For More details, visit [OpenBB](https://openbb.co/blog/hacktoberfest-join-us-in-celebrating-open-source).
 
+#### **OpenSign**
+
+- **Swag**: T-shirts for everyone who does 7 or more contributions
+- **Requirements**:
+    - To get the T-shirt:
+        - Start contributing with code or non-code issues.
+        - You can start your own issues suggesting how you can add value to the project.
+    - DM them on Twitter [OpenSignLabs](https://twitter.com/opensignlabs)
+    - Or you can message them on their Discord server [OpenSignLabs](https://discord.com/invite/xe9TDuyAyj) with your PR list.
+- **Issues**: Find the available issues [here](https://github.com/opensignlabs/opensign/issues)
+- **Notes**: For more details, visit [this OpenSign Medium post](https://nxglabs.medium.com/announcing-swag-rewards-for-opensign-contributors-716bbd2ab0b1).
+
 #### **Otterize**
 
 - **Swag**: Swag (Specific Swags not mentioned)
