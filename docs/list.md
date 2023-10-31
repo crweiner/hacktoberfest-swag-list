@@ -359,6 +359,21 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**: Open issues at [haystack](https://github.com/deepset-ai/haystack/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) with the `hacktoberfest` label.
 - **Notes**: Check [this tweet](https://twitter.com/bilgeycl/status/1712135054489444650) for more information about the swag package.
 
+#### **Huddle01**
+
+- **Swag**: Based on issue category level:
+    - Advanced: $300 Pool Prize
+    - Intermediate: $100 Pool Prize & Merch
+    - Beginner: POAP & Merch
+- **Requirements**: Contribute to issues labeled under `hacktoberfest-accepted` tag.
+- **How to sign up**: No special signup known.
+- **Issues**: Repositories to contribute:
+    - [customize-iframe-example](https://github.com/Huddle01/customize-iframe-example/issues)
+    - [selective-consuming-example](https://github.com/Huddle01/selective-consuming-example/issues)
+    - [Audio-spaces-example-app](https://github.com/Huddle01/Audio-spaces-example-app/issues)
+    - [Sample-Apps-Monorepo](https://github.com/Huddle01/Sample-Apps-Monorepo/issues)
+- **Notes**: Check [this page](https://huddle01.hashnode.dev/huddle01-hacktoberfest-2023) for more information.
+
 #### **Hugging Face**
 
 - **Swag**: Prizes (Specific prizes not revealed yet).
@@ -455,7 +470,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Limited-Edition Swag.
 - **Requirements**:
-    - Contribute to any of the Mattermost projects or improve the documentation or improve accessibility with better translations.
+    - Contribute to any of the [Mattermost projects](https://github.com/orgs/mattermost/repositories) or improve the documentation or improve accessibility with better translations.
     - Make valid contribution to QA during Hacktoberfest for an extra swag.
 - **How to sign up**:  Join the [Mattermost channel](https://community.mattermost.com/landing#/core/channels/qa-contributors).
 - **Notes**: The Custom QA swag will be awarded with any other Mattermost swag you earn through other contributions. Check the Mattermost [Hacktoberfest 2023 page](https://mattermost.com/hacktoberfest/) for more details.
@@ -515,6 +530,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### O
 
+#### **Odigos**
+
+- **Swag**: T-shirt
+- **Requirements**: Make 3 successful merged PRs to win one of twenty Odigos t-shirts.
+- **How to sign up**: No special signup known.
+- **Issues**: Find the available issues [here](https://github.com/keyval-dev/odigos/issues).
+- **Notes**: For more details, visit the [Odigos repo](https://github.com/keyval-dev/odigos/blob/main/README.md).
+
 #### **OpenBB**
 
 - **Swag**: T-shirt, Cap
@@ -532,6 +555,18 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: Sign up [here](https://my.openbb.co./login)
 - **Issues**: Find the available issues [here](https://github.com/OpenBB-finance/OpenBBTerminal/issues)
 - **Notes**: For More details, visit [OpenBB](https://openbb.co/blog/hacktoberfest-join-us-in-celebrating-open-source).
+
+#### **OpenSign**
+
+- **Swag**: T-shirts for everyone who does 7 or more contributions
+- **Requirements**:
+    - To get the T-shirt:
+        - Start contributing with code or non-code issues.
+        - You can start your own issues suggesting how you can add value to the project.
+    - DM them on Twitter [OpenSignLabs](https://twitter.com/opensignlabs)
+    - Or you can message them on their Discord server [OpenSignLabs](https://discord.com/invite/xe9TDuyAyj) with your PR list.
+- **Issues**: Find the available issues [here](https://github.com/opensignlabs/opensign/issues)
+- **Notes**: For more details, visit [this OpenSign Medium post](https://nxglabs.medium.com/announcing-swag-rewards-for-opensign-contributors-716bbd2ab0b1).
 
 #### **Otterize**
 
@@ -779,6 +814,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Issues**: See the [Weaviate Repository issues](https://github.com/weaviate/weaviate/issues)
 - **Notes**: To know more , read the [Hacktoberfest blog post by Weaviate](https://weaviate.io/blog/hacktoberfest-2023)
+
+#### **Wevis**
+
+- **Swag**: Sticker.
+- **Requirements**: One approved PR.
+- **How to sign up**: No special signup known.
+- **Issues**: See the [parliament-watch repository issues](https://github.com/wevisdemo/parliament-watch/issues).
+- **Notes**: Check out their [Readme](https://github.com/wevisdemo/parliament-watch/blob/main/README.md) for more details.
 
 #### **Widgetbook**
 
