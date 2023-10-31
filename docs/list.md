@@ -462,7 +462,7 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 - **Swag**: Limited-Edition Swag.
 - **Requirements**:
-    - Contribute to any of the Mattermost projects or improve the documentation or improve accessibility with better translations.
+    - Contribute to any of the [Mattermost projects](https://github.com/orgs/mattermost/repositories) or improve the documentation or improve accessibility with better translations.
     - Make valid contribution to QA during Hacktoberfest for an extra swag.
 - **How to sign up**:  Join the [Mattermost channel](https://community.mattermost.com/landing#/core/channels/qa-contributors).
 - **Notes**: The Custom QA swag will be awarded with any other Mattermost swag you earn through other contributions. Check the Mattermost [Hacktoberfest 2023 page](https://mattermost.com/hacktoberfest/) for more details.
