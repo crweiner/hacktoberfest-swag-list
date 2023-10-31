@@ -507,6 +507,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### O
 
+#### **Odigos**
+
+- **Swag**: T-shirt
+- **Requirements**: Make 3 successful merged PRs to win one of twenty Odigos t-shirts.
+- **How to sign up**: No special signup known.
+- **Issues**: Find the available issues [here](https://github.com/keyval-dev/odigos/issues).
+- **Notes**: For more details, visit the [Odigos repo](https://github.com/keyval-dev/odigos/blob/main/README.md).
+
 #### **OpenBB**
 
 - **Swag**: T-shirt, Cap
@@ -771,6 +779,14 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **How to sign up**: No special signup known.
 - **Issues**: See the [Weaviate Repository issues](https://github.com/weaviate/weaviate/issues)
 - **Notes**: To know more , read the [Hacktoberfest blog post by Weaviate](https://weaviate.io/blog/hacktoberfest-2023)
+
+#### **Wevis**
+
+- **Swag**: Sticker.
+- **Requirements**: One approved PR.
+- **How to sign up**: No special signup known.
+- **Issues**: See the [parliament-watch repository issues](https://github.com/wevisdemo/parliament-watch/issues).
+- **Notes**: Check out their [Readme](https://github.com/wevisdemo/parliament-watch/blob/main/README.md) for more details.
 
 #### **Widgetbook**
 
