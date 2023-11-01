@@ -144,6 +144,26 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ### C
 
+#### **Chainguard**
+
+- **Swag**: Wolfi swags
+- **Requirements**: 1+ merged PRs. Contributors can contribute in three different ways:
+    - Identifying Broken PRs: [Repo Link](https://github.com/wolfi-dev/os).
+        - Choose an issue tagged as ```hacktoberfest``` from the [list](https://github.com/wolfi-dev/os/issues/7017). Make sure to leave a comment on the issue so that others know you are working on it.
+        - Create a new PR with your changes.
+    - Contributing to Chainguard Images: [Repo Link](https://dev.tochainguard-images/images).
+        - Choose one of the [listed issues](https://github.com/chainguard-images/images/issues/1539) and test the image on your local environment.
+        - Update the image README with instructions on how to use it and any other important information that you think users should know. You should follow the [README template](https://github.com/chainguard-images/images/blob/main/.github/readme-template.md) for keeping READMEs consistent.
+        - Optionally, write a test for the image. Check the "Tests" section of the Best Practices doc for more details on how to go about that.
+        - Create a PR to the Chainguard Images repository with your updated README
+    - Contributing to Chainguard Academy: [Repo Link](https://github.com/chainguard-dev/edu). Create an Issue and submit a PR to improve the documentation.
+- **How to sign up**: Reviewers will leave instructions for you in the eligible PR.
+- **Issues**:
+    - For Identifying Broken PRs, refer to this [Issue list](https://github.com/wolfi-dev/os/issues/7017)
+    - For Contributing to Chainguard Images, refer to this [Issue list](https://github.com/chainguard-images/images/issues/1539)
+    - For Contributing to Chainguard Academy, refer to this [Issue list](https://github.com/chainguard-dev/edu/issues)
+- **Notes**: Check out the [Chainguard Hacktoberfest blog post](https://dev.to/chainguard/get-involved-with-chainguard-projects-for-hacktoberfest-2023-4h7b).
+
 #### **Chimoney**
 
 - **Swag**: $25 for each merged PR, exclusive Chimoney T-shirts and Stickers
