@@ -34,6 +34,19 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
     - Merged, OR
     - Approved
 
+
+### The Original - DigitalOcean, Cloudflare, and Quira
+
+- **Swag**: [Digital Rewards Kit](https://hacktoberfest.com/about/#rewards)
+- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
+- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com)
+- **Notes**: For your PR to count it must be:
+  - Submitted in a public repo, AND
+    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
+  - Submitted in a repo labelled ```hacktoberfest```, AND
+    - Merged, OR
+    - Approved
+
 ## A to Z Order of Companies
 
 ### A
@@ -42,11 +55,12 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 
 ![appwrite logomark](img/appwrite-logomark-pink.svg)
 
-- **Swag**: Appwrite hoodie and stickers
-- **Requirements**: 1 accepted pull request in the [Appwrite repo](https://github.com/appwrite/appwrite).
-- **How to sign up**: Sign up via the Hacktoberfest website, no separate swag form right now.
-- **Issues**: [See all of the Issues in the Appwrite repo](https://github.com/appwrite/appwrite/issues)
-- **Notes**: Check out [the dedicated Appwrite Hacktoberfest page](https://hacktoberfest.appwrite.io) for events and to learn more about Appwrite!
+- **Swag**:
+  - 1st place team: [The Appwriter keyboard](https://appwrite.store/products/preorder-the-appwriter)
+  - 2nd and 3rd place teams: an Appwrite swag kit.
+- **Requirements**: Create a brand-new project using Appwrite, specifically one that is creative and innovative.
+- **How to sign up**: Join the hackathon with up to 4 people total [by going here](https://hacktoberfest.appwrite.io/).
+- **Notes**: Read the [Hacktoberfest 2024 hackathon blog post here](https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024).
 
 ---
 

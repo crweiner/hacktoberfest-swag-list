@@ -34,11 +34,11 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 ---
 
-### I understand, let's get started helping for Hacktoberfest 2023!
+### I understand, let's get started helping for Hacktoberfest 2024!
 
 This year, the Swag List is a little different, so be sure to read about how to [Contribute before submitting a PR](contributing.md).
 
-## [Click here to be taken to the 2023 Hacktoberfest Swag List!](list.md)
+## [Click here to be taken to the 2024 Hacktoberfest Swag List!](list.md)
 
 ---
 
@@ -48,4 +48,4 @@ _Disclaimer_: This website is a fan and community made creation. It is not affil
 
 ---
 
-If you're looking for the Swag List from 2018 through 2022 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), and [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022) branches.
+If you're looking for the Swag List from 2018 through 2023 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), and [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023) branches.
