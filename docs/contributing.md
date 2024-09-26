@@ -121,7 +121,7 @@ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
-![Presented by DigitalOcean](/docs/img/vertical_dark_green.png)
+![Presented by DigitalOcean](img/vertical_deep_pink.png)
 
 ---
 

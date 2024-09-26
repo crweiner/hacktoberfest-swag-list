@@ -46,7 +46,7 @@ plugins:
 nav:
   - "Home": "index.md"
   - "Contributing": "contributing.md"
-  - "2023 Hacktoberfest Swag List": "list.md"
+  - "2024 Hacktoberfest Swag List": "list.md"
 
   # Customization
 extra_javascript:

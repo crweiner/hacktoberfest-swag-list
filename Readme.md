@@ -1,6 +1,6 @@
 # Hacktoberfest Swag List 2024
 
-![Hacktoberfest logo](docs/img/horizontal_dark_green.png)
+![Hacktoberfest logo](/docs/img/horizontal_deep_pink.png)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)! at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)
 
@@ -49,7 +49,7 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![Presented by DigitalOcean](/docs/img/vertical_dark_green.png)
+![Presented by DigitalOcean](/docs/img/horizontal_deep_pink.png)
 
 ---
 

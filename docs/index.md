@@ -1,8 +1,8 @@
-# Hacktoberfest Swag List - 2023
+# Hacktoberfest Swag List - 2024
 
-## Hacktoberfest 2023 Is Here
+## Hacktoberfest 2024 Is Here
 
-[![Hacktoberfest 2023 Banner](img/hf10_horz_fcd_rgb.png)](list.md)
+[![Hacktoberfest 2024 Banner](img/horizontal_deep_pink.png)](list.md)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)!
 
@@ -44,7 +44,7 @@ This year, the Swag List is a little different, so be sure to read about how to 
 
 _Disclaimer_: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![Presented by DigitalOcean](img/hf10_icon_fcd_rgb.png)
+![Presented by DigitalOcean](img/vertical_deep_pink.png)
 
 ---
 
