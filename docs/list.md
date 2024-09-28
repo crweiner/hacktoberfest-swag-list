@@ -90,6 +90,7 @@ No one currently! Interested in having a prominent placement for your open sourc
     - Code contribution (high-code): Turbot Hacktoberfest T-shirt
 - **How to sign up**: No known signup link.
 - **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
