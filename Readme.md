@@ -18,7 +18,7 @@ Please take a look at the new [Contributing.md](docs/contributing.md) file as th
 
 ## Sponsored By
 
-No one currently! Interested in having a prominent placement for your open source project on one of the highest-trafficed Hacktoberfest-related sites? [Find my links here](https://chandlerweiner.com/aboutme/).
+No one currently! Interested in having a prominent placement for your open source project on one of the highest-trafficked Hacktoberfest-related sites? [Find my links here](https://chandlerweiner.com/aboutme/).
 
 ---
 
