@@ -18,16 +18,7 @@ Please take a look at the new [Contributing.md](docs/contributing.md) file as th
 
 ## Sponsored By
 
-<a href="<https://apwr.dev/3RHDflS">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/img/appwrite-logotype-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="docs/img/appwrite-logotype-dark.svg">
-  <img alt="Appwrite logo" src="docs/img/appwrite-logotype-light.svg">
-</picture>
-</a>
-
-[Appwrite](https://apwr.dev/3RHDflS) is a proud sponsor of *all of Hacktoberfest*, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
-Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
+No one currently! Interested in having a prominent placement for your open source project on one of the highest-trafficed Hacktoberfest-related sites? [Find my links here](https://chandlerweiner.com/aboutme/).
 
 ---
 

@@ -15,7 +15,7 @@ If you wish to add something to the Hacktoberfest Swag List, that's great and we
 Please be sure to follow the simple rules:
 
 1. Be sure you are looking to add something of substance to this project, not just spam PRs. PRs must meet the [Hacktoberfest Quality Standards](https://hacktoberfest.com/participation/).
-2. Verify that you have read the [home page](index.md), and [Readme.md on GitHub](https://github.com/crweiner/hacktoberfest-swag-list/blob/master/README.md). You understand that this project is to connect maintainers with developers, not a way to get all the swag you can.
+2. Verify that you have read the [home page](index.md), and [Readme.md on GitHub](https://github.com/crweiner/hacktoberfest-swag-list/blob/master/Readme.md). You understand that this project is to connect maintainers with developers, not a way to get all the swag you can.
 3. Please be available to make changes within 48 hours when requested to do so. If you don't, then your PR may be closed.
 4. Please fix all issues flagged by the bots, including CodeClimate, GH Actions, Netlify, CircleCI or any others as soon as possible, ideally right away.
 5. A company must have publicly posted about their swag. You should include a link back to the original blog post, tweet, GitHub issue, etc. where the swag can be verified.

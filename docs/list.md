@@ -10,32 +10,13 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 ---
 
-## Sponsored By
+## Sponsored By:
 
-[![Appwrite](img/appwrite-logotype-dark.svg#only-light)](https://apwr.dev/3RHDflS)
-[![Appwrite](img/appwrite-logotype-light.svg#only-dark)](https://apwr.dev/3RHDflS)
-
-[Appwrite](https://apwr.dev/3RHDflS) is a proud sponsor of _all of Hacktoberfest_, as well as the Hacktoberfest Swag List! They understand the importance of connecting developers to open-source projects that could use some help.
-Appwrite is a self-hosted backend-as-a-service platform that provides developers with all the core APIs required to build any application.
-
----
+No one currently! Interested in having a prominent placement for your open source project on one of the highest-trafficed Hacktoberfest-related sites? [Find my links here](https://chandlerweiner.com/aboutme/).
 
 ## Swag List 2024
 
 ### **The Original - DigitalOcean, Cloudflare, and Quira**
-
-- **Swag**: [Digital Rewards Kit](https://hacktoberfest.com/about/#rewards)
-- **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
-- **How to sign up**: [Hacktoberfest Website](https://hacktoberfest.com)
-- **Notes**: For your PR to count it must be:
-  - Submitted in a public repo, AND
-    - The PR is labelled as ```hacktoberfest-accepted``` by a maintainer, OR
-  - Submitted in a repo labelled ```hacktoberfest```, AND
-    - Merged, OR
-    - Approved
-
-
-### The Original - DigitalOcean, Cloudflare, and Quira
 
 - **Swag**: [Digital Rewards Kit](https://hacktoberfest.com/about/#rewards)
 - **Requirements**: 4 pull requests in any eligible [repository](https://github.com/topics/hacktoberfest)
