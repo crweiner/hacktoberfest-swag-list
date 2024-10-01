@@ -82,6 +82,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### T
 
+#### **tscircuit**
+
+- **Swag**: Hats and Hoodies
+- **Requirements**: Star [tscircuit](https://github.com/tscircuit/tscircuit) on Github. Join their [discord](https://discord.com/invite/V7FGE5ZCbA). Subscribe to this [blog](https://blog.tscircuit.com/p/build-electronics-with-typescript).
+    - Contribute to their following repos [Schematic symbols](https://github.com/tscircuit/schematic-symbols), [Footprinter](https://github.com/tscircuit/footprinter), [jscad electronics](https://github.com/tscircuit/jscad-electronics), [tscircuit-cli](https://github.com/tscircuit/cli), [tscircuit-snippets](https://github.com/tscircuit/snippets), [tscircuit-core](https://github.com/tscircuit/core) and [tscircuit-docs](https://github.com/tscircuit/docs).
+    - 5 contributions of any impact level across 2 projects: Hats
+    - At least 20 contributions in 5 different repos, at least 5 major contributions: Hoodies
+- **How to sign up**: No know signup link.
+- **Notes**: [Check out their blog post here](https://blog.tscircuit.com/p/build-electronics-with-typescript)
+
 #### **Turbot**
 
 - **Swag**: Stickers and T-shirt
@@ -89,7 +99,7 @@ No one currently! Interested in having a prominent placement for your open sourc
     - No-code and low-code contributions: Stickers
     - Code contribution (high-code): Turbot Hacktoberfest T-shirt
 - **How to sign up**: No known signup link.
-- **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
+- **Notes**: [Check out their blog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
 
 ---
 
