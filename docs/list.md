@@ -47,7 +47,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Submit two pull requests in the Identity and Security space shortlisted on the authoberfest projects page. First 100 valid submissions which are accepted or merged by October 31 will qualify to win the swag.
 - **How to sign up**: No signup required.
 - **Issues**: [Featured Projects](https://authtoberfest.io/#g-430503226)
-- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to authoberfest@auth0.co. Submissions can be sent until 30th November.
+- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to authoberfest@auth0.co. Submissions can be sent until 30th November. Read more at [authoberfest](https://authtoberfest.io/).
 
 ### D
 
