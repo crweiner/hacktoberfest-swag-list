@@ -49,6 +49,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: [Featured Projects](https://authtoberfest.io/#g-430503226)
 - **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to authoberfest@auth0.co. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
 
+### C
+
+#### **Cloudinary**
+
+- **Swag**: T-shirt, Stickers, Cloudinary unicorn.
+- **Requirements**: Make a valid PRs in eligible Cloudinary libraries and SDKs. The first 50 eligible submissions will receive a Swag Kit.
+- **How to sign up**: No special signup known.
+- **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
+
 ### D
 
 #### **devICT**
