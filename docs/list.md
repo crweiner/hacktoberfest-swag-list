@@ -50,6 +50,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: [Sign into your GitHub account here](https://hacktoberfest.devict.org/) and submit two meaningful PRs to the projects on that page.
 - **Notes**: N/A
 
+### F
+
+#### **Flyte**
+
+- **Swag**: T-shirts, stickers, sweatshirts, watter bottles and a pair of Airpods Pro 2
+- **Requirements**: at least one merged PR or content contribution (blog post, recorded demo). The more contributions you make, and the more significant the contribution, the greater the prize.
+- **How to sign up**: If your PR is merged, then [submit this form](https://tally.so/r/mJJ14r)
+- **Notes**: read the blog post with all the details [here](https://flyte.org/blog/flyte-at-hacktoberfest-2024)
+
+
 ### H
 
 #### **Hyperswitch**
