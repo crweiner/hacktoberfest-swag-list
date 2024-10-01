@@ -97,7 +97,6 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
-
 ### S
 
 #### **ServiceNow**
