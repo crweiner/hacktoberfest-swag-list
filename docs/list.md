@@ -62,6 +62,17 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: Specifically look for issues [tagged  as "hacktoberfest" here](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
 - **Notes**: [Check out their dev.to post here for all the details!](https://dev.to/hyperswitchio/hacktoberfest-2024-with-hyperswitch-47dk)
 
+### L
+
+#### **LambdaTest**
+
+- **Swag**: Amazon Vouchers and LambdaTest Licenses
+- **Requirements**:
+    - 3 Contributions: Amazon Vouchers (up to $10) + LambdaTest Licenses (90 days)
+    - 5+ Contributions: Amazon Vouchers (up to $20) + LambdaTest Licenses (90 days)
+- **How to sign up**: Register for Hacktoberfest at [Hacktoberfest](https://hacktoberfest.com/) and start contributing to LambdaTest projects by forking the repos and submitting PRs.
+- **Notes**:  [Check out LambdaTest blog post here](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024)
+
 ### M
 
 #### **MindsDB**
