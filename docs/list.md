@@ -53,6 +53,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: Look for issues [labeled with "Hacktoberfest" by going here](https://github.com/bitwarden/repo/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
 - **Notes**: [Blog post with details](https://blog.bitwarden.com)
 - **Hashtags**: #Hacktoberfest2024 #Bitwarden #OpenSource
+
 ### D
 
 #### **devICT**
@@ -73,7 +74,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No known signup link
 - **Issues**: Specifically look for issues [tagged  as "hacktoberfest" here](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
 - **Notes**: [Check out their dev.to post here for all the details!](https://dev.to/hyperswitchio/hacktoberfest-2024-with-hyperswitch-47dk)
- 
+
 ### I
 
 #### **IBM**
