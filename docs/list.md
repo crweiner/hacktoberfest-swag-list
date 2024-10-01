@@ -41,6 +41,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: Join the hackathon with up to 4 people total [by going here](https://hacktoberfest.appwrite.io/).
 - **Notes**: Read the [Hacktoberfest 2024 hackathon blog post here](https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024).
 
+### B
+
+#### **Ballerina**
+
+- **Swag**: Swag from [Ballerina Swage store](https://store.covver.io/wso2/collections/ballerina-swag-store)
+- **Requirements**: Collect credits by [fixing issues in their Hacktoberfest 2024 project](https://github.com/orgs/ballerina-platform/projects/376). Spend those credits in their [swag store](https://store.covver.io/wso2/collections/ballerina-swag-store).
+- **How to sign up**: If your PR is merged, then [submit this form](https://forms.gle/517ebK579YwmPfRY6) to earn your credits.
+- **Notes**: [Check out the Ballerina Hacktoberfest page here](https://ballerina.io/hacktoberfest/).
+
 ### D
 
 #### **devICT**
