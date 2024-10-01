@@ -72,7 +72,7 @@ No one currently! Interested in having a prominent placement for your open sourc
     - >= 2 merged PRs: Chance to win a Langfuse t-shirt
 - **How to sign up**: Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe_GNazlvZSkHJ-WdnWOCfplZULY3GTOzCBwZgX7X_mLjlK2A/viewform) if you have >=2 merged PRs in the Langfuse Repo to get your swag
 - **Issues**: Look for issues [tagged  as "hacktoberfest" here](https://github.com/langfuse/langfuse/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
-- **Notes**: Thank you for contributing to the world of Langfuse LLM Engineering.
+- **Notes**: Thank you for contributing to [Langfuse](https://langfuse.com/).
 
 ### M
 
