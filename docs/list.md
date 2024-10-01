@@ -40,7 +40,19 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Create a brand-new project using Appwrite, specifically one that is creative and innovative.
 - **How to sign up**: Join the hackathon with up to 4 people total [by going here](https://hacktoberfest.appwrite.io/).
 - **Notes**: Read the [Hacktoberfest 2024 hackathon blog post here](https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024).
+ 
+### B
 
+#### **Bitwarden**
+
+- **Swag**: T-shirts, stickers, and more.
+- **Requirements**:
+  - Contribute to Bitwarden open-source projects with meaningful PRs.
+  - Indented lists require a Tab or 4 spaces instead of 2 spaces due to MkDocs formatting weirdness.
+- **How to sign up**: Check Bitwarden's Hacktoberfest page for more information.
+- **Issues**: Look for issues [labeled with "Hacktoberfest" by going here](https://github.com/bitwarden/repo/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **Notes**: [Blog post with details](https://blog.bitwarden.com)
+- **Hashtags**: #Hacktoberfest2024 #Bitwarden #OpenSource
 ### D
 
 #### **devICT**
@@ -61,6 +73,19 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No known signup link
 - **Issues**: Specifically look for issues [tagged  as "hacktoberfest" here](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
 - **Notes**: [Check out their dev.to post here for all the details!](https://dev.to/hyperswitchio/hacktoberfest-2024-with-hyperswitch-47dk)
+ 
+### I
+
+#### **IBM**
+
+- **Swag**: T-shirts, stickers, and other items.
+- **Requirements**:
+  - Contribute to IBM open-source projects.
+  - Indented lists require a Tab or 4 spaces instead of 2 spaces due to MkDocs formatting weirdness.
+- **How to sign up**: Visit [IBM's Hacktoberfest page](https://developer.ibm.com/blogs/hacktoberfest-2023/) for more information.
+- **Issues**: Specifically look for issues [tagged as "hacktoberfest" here](https://github.com/ibm/repo/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **Notes**: Check out their Hacktoberfest [blog post](https://developer.ibm.com/blogs/hacktoberfest-2023/) for more details.
+- **Hashtags**: #Hacktoberfest2024 #IBM #OpenSource
 
 ### M
 
@@ -70,6 +95,19 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Collect credits by [fixing `hacktoberfest` tagged issues in their repo](https://github.com/mindsdb/mindsdb/labels/hacktoberfest). Spend those credits in their swag store. Each 100 credits you earn puts you into the drawing for a laptop.
 - **How to sign up**: If your PR is merged, then [submit this form](https://docs.google.com/forms/d/e/1FAIpQLSdk4x-lul0fEeBRTRS7-9Aplr0WOCndOODiZMLCZdrCe1ggEg/viewform) to earn your points.
 - **Notes**: [Check out the MindsDB Hacktoberfest page here](https://mindsdb.com/hacktoberfest).
+
+### R
+
+#### **Red Hat**
+
+- **Swag**: T-shirts, stickers, and more.
+- **Requirements**:
+  - Contribute to Red Hat open-source projects.
+  - Indented lists require a Tab or 4 spaces instead of 2 spaces due to MkDocs formatting weirdness.
+- **How to sign up**: Visit [Red Hat's Hacktoberfest page](https://www.redhat.com/en/blog).
+- **Issues**: Specifically look for issues [tagged as "hacktoberfest" here](https://github.com/redhat/repo/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **Notes**: [Blog post with details](https://www.redhat.com/en/blog)
+- **Hashtags**: #Hacktoberfest2024 #RedHat #OpenSource
 
 ### S
 
