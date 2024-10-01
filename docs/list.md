@@ -64,10 +64,10 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### I
 
-#### **Instill AI** 
+#### **Instill AI**
 
 - **Swag**:
-  - Accepted PR: Swag package including physical stickers, Instill bottle or mug 
+  - Accepted PR: Swag package including physical stickers, Instill bottle or mug.
   - Top Five based on points: 50$ USD Amazon gift card
 
 - **Requirements**: Earn points by completing tasks including
