@@ -49,6 +49,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: [Featured Projects](https://authtoberfest.io/#g-430503226)
 - **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to authoberfest@auth0.co. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
 
+### B
+
+#### **Ballerina**
+
+- **Swag**: Swag from [Ballerina Swage store](https://store.covver.io/wso2/collections/ballerina-swag-store)
+- **Requirements**: Collect credits by [fixing issues in their Hacktoberfest 2024 project](https://github.com/orgs/ballerina-platform/projects/376). Spend those credits in their [swag store](https://store.covver.io/wso2/collections/ballerina-swag-store).
+- **How to sign up**: If your PR is merged, then [submit this form](https://forms.gle/517ebK579YwmPfRY6) to earn your credits.
+- **Notes**: [Check out the Ballerina Hacktoberfest page here](https://ballerina.io/hacktoberfest/).
+
 ### C
 
 #### **Cloudinary**
