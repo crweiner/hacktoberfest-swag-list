@@ -123,6 +123,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: Look for issues [tagged  as "hacktoberfest" here](https://github.com/langfuse/langfuse/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
 - **Notes**: Learn more about [Langfuse on their website](https://langfuse.com/) and [in their repo here](https://github.com/langfuse/langfuse-docs/issues/827).
 
+#### **LambdaTest**
+
+- **Swag**: Amazon Vouchers and LambdaTest Licenses
+- **Requirements**:
+    - Submit a PR to fix an issue tagged `hacktoberfest` or `good-first-issue` to one of their [supporting projects](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024?tab=readme-ov-file#-projects-you-can-contribute-to)
+    - 3 Contributions: Amazon Vouchers (up to $10) + LambdaTest Licenses (90 days)
+    - 5+ Contributions: Amazon Vouchers (up to $20) + LambdaTest Licenses (90 days)
+- **How to sign up**: No signup link known.
+- **Notes**:  [Check out the LambdaTest blog post here](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024).
+
 ### M
 
 #### **MindsDB**
