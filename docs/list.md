@@ -41,6 +41,23 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: Join the hackathon with up to 4 people total [by going here](https://hacktoberfest.appwrite.io/).
 - **Notes**: Read the [Hacktoberfest 2024 hackathon blog post here](https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024).
 
+#### **Auth0 by Okta**
+
+- **Swag**: T-shirt
+- **Requirements**: Submit two pull requests in the Identity and Security space shortlisted on the authoberfest projects page. First 100 valid submissions which are accepted or merged by October 31 will qualify to win the swag.
+- **How to sign up**: No signup required.
+- **Issues**: [Featured Projects](https://authtoberfest.io/#g-430503226)
+- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to authoberfest@auth0.co. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
+
+### C
+
+#### **Cloudinary**
+
+- **Swag**: T-shirt, Stickers, Cloudinary unicorn.
+- **Requirements**: Make a valid PRs in eligible Cloudinary libraries and SDKs. The first 50 eligible submissions will receive a Swag Kit.
+- **How to sign up**: No special signup known.
+- **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
+
 ### D
 
 #### **devICT**
@@ -62,6 +79,20 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: Specifically look for issues [tagged  as "hacktoberfest" here](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
 - **Notes**: [Check out their dev.to post here for all the details!](https://dev.to/hyperswitchio/hacktoberfest-2024-with-hyperswitch-47dk)
 
+### I
+
+#### **Instill AI**
+
+- **Swag**:
+  - Accepted PR: Swag package including physical stickers, Instill bottle or mug.
+  - Top Five based on points: $50 USD Amazon gift card
+- **Requirements**: Earn points by completing tasks including:
+    - GitHub issues from  the [Component Improvements issue list](https://github.com/orgs/instill-ai/projects/14/views/1)
+    - New application shared on GitHub
+    - Creating Cookbook and PR merged into [Cookbook Repo](https://github.com/instill-ai/cookbook)
+- **How to sign up**: Submit work using the [Hacktoberfest Contribution Form](https://forms.gle/YzM5gKVDrjQcJwvD7).
+- **Notes**:[Check out their dev.to post for more information](https://dev.to/shihchun-h/announcing-instill-ais-tentaculous-hacktoberfest-2024-3991)
+
 ### L
 
 #### **Langfuse**
@@ -82,6 +113,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Collect credits by [fixing `hacktoberfest` tagged issues in their repo](https://github.com/mindsdb/mindsdb/labels/hacktoberfest). Spend those credits in their swag store. Each 100 credits you earn puts you into the drawing for a laptop.
 - **How to sign up**: If your PR is merged, then [submit this form](https://docs.google.com/forms/d/e/1FAIpQLSdk4x-lul0fEeBRTRS7-9Aplr0WOCndOODiZMLCZdrCe1ggEg/viewform) to earn your points.
 - **Notes**: [Check out the MindsDB Hacktoberfest page here](https://mindsdb.com/hacktoberfest).
+
+#### **Modtoberfest**
+
+- **Swag**: Stickers. They will also plant [1 tree](https://modtoberfest.com/modtoberforest) for each participant.
+- **Requirements**:
+    - Only pull requests made in the [participating projects](https://modtoberfest.com/repositories) count towards your progress.
+    - You must submit at least 4 PRs to any of the [participating repositories](https://modtoberfest.com/repositories).
+- **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
+- **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
 ### S
 
