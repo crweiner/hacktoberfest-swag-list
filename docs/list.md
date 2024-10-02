@@ -68,11 +68,10 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 - **Swag**:
   - Accepted PR: Swag package including physical stickers, Instill bottle or mug.
-  - Top Five based on points: 50$ USD Amazon gift card
-
-- **Requirements**: Earn points by completing tasks including
-  - Github issue from [Component Improvements issue list](https://github.com/orgs/instill-ai/projects/14/views/1)
-  - New application shared on Github
+  - Top Five based on points: $50 USD Amazon gift card
+- **Requirements**: Earn points by completing tasks including:
+  - GitHub issues from  the [Component Improvements issue list](https://github.com/orgs/instill-ai/projects/14/views/1)
+  - New application shared on GitHub
   - Creating Cookbook and PR merged into [Cookbook Repo](https://github.com/instill-ai/cookbook)
 - **How to sign up**: Submit work using the [Hacktoberfest Contribution Form](https://forms.gle/YzM5gKVDrjQcJwvD7).
 - **Notes**:[Check out their dev.to post for more information](https://dev.to/shihchun-h/announcing-instill-ais-tentaculous-hacktoberfest-2024-3991)
