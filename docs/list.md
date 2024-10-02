@@ -152,6 +152,21 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No specific signup mentioned. Contribute to participating repos.
 - **Notes**: [Checkout their Hacktoberfest Github page for additional info](https://github.com/TBD54566975/developer.tbd.website/issues/1680).
 
+#### **tscircuit**
+
+- **Swag**: Hats, Hoodies
+- **Requirements**:
+    - **Hats**:
+        - Star [tscircuit](https://github.com/tscircuit/tscircuit) on GitHub
+        - Join [Discord](https://tscircuit.com/join)
+        - Subscribe to the [blog](https://blog.tscircuit.com/p/build-electronics-with-typescript)
+        - Make 5 contributions of any impact level across 2 projects
+    - **Hoodie**:
+        - Make at least 20 contributions in 5 different repos
+        - At least 5 major contributions are required
+- **How to sign up**: Every contribution you make is automatically tracked in their [contribution-tracker](https://github.com/tscircuit/contribution-tracker)
+- **Notes**: Check out their blog post [here](https://blog.tscircuit.com/p/build-electronics-with-typescript) for more details.
+
 #### **Turbot**
 
 - **Swag**: Stickers and T-shirt
