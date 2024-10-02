@@ -91,6 +91,41 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No known signup link.
 - **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
 
+
+#### **Tolgee**
+
+- **Swag**: Stickers, Socks, and T-shirts
+- **Requirements**: Submit a pull request addressing issues tagged with #hacktoberfest tag.
+- **Pull Requests**: Submit a pull request addressing issues tagged with #hacktoberfest tag
+  - **Demo Projects**:
+    - Create a demo showcasing your contribution or use of Tolgee
+    - React App using Tolgee
+    - Angular App using Tolgee
+    - Vue App using Tolgee
+    - Svelte App using Tolgee
+    - PHP App
+    - Flutter App (Native SDK)
+    - Flutter App (Build in localization)
+    - Ruby App
+    - iOS app
+    - Android App
+- Submit the demo into the [/demos](https://github.com/tolgee/tolgee-platform/blob/main/demos) folder in the repository
+- There is an example of [React app in the folder](https://github.com/tolgee/tolgee-platform/blob/main/demos/react-demo-example)
+- It has to be different from the official examples we have published in [Tolgee JS repository](https://github.com/tolgee/tolgee-js/tree/main/testapps)
+- For React, Angular, Vue, and Svelte, we prefer using Tolgee Native SDKs
+- For other technologies, you can use [Tolgee CLI](https://tolgee.io/tolgee-cli) to push and pull strings
+
+- Quality Criteria Your submissions will be evaluated based on the following criteria, with each project receiving a score between 10-50 points:
+  - **Quality**: Is the code well-written, tested, and maintainable?
+  - **User Experience (UX)**: How intuitive and user-friendly is the implementation?
+  - **Creativity**: Does the project offer a unique approach or innovative features?
+  - **Usefulness**: How valuable is the contribution to the users?
+- According to the points, you'll get this amount of swag:
+  - 30 - 40 points - Tolgee Sticker set
+  - 40 - 45 points - Tolgee Sticker set + Tolgee Socks
+  - 45 - 50 points - Tolgee Sticker set + Tolgee Socks + Tolgee T-shirt
+- **Learn More**: Visit [Tolgee GitHub Repo](https://github.com/tolgee/tolgee-platform/blob/main/Hacktobefest2024.md) to learn more and get started.
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
