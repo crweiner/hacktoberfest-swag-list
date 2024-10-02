@@ -68,10 +68,11 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 - **Swag**: Amazon Vouchers and LambdaTest Licenses
 - **Requirements**:
+    - Submit a PR to fix an issue tagged `hacktoberfest` or `good-first-issue` to one of their [supporting projects](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024?tab=readme-ov-file#-projects-you-can-contribute-to)
     - 3 Contributions: Amazon Vouchers (up to $10) + LambdaTest Licenses (90 days)
     - 5+ Contributions: Amazon Vouchers (up to $20) + LambdaTest Licenses (90 days)
-- **How to sign up**: Register for Hacktoberfest at [Hacktoberfest](https://hacktoberfest.com/) and start contributing to LambdaTest projects by forking the repos and submitting PRs.
-- **Notes**:  [Check out LambdaTest blog post here](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024)
+- **How to sign up**: No signup link known.
+- **Notes**:  [Check out the LambdaTest blog post here](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024).
 
 ### M
 
