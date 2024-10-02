@@ -50,6 +50,16 @@ Find the first letter of your company within the list, then add your information
 ### A
 ```
 
+### C
+
+#### **Composio**
+
+- **Swag**: Stickers, T-shirt
+- **Requirements**: Make 4 good PRs against 'hacktoberfest' topics in any of the Composio repositories.
+- **How to sign up**: Register for Hacktoberfest [here](https://hacktoberfest.com/).
+- **Issues**: Optional link to Hacktoberfest tagged issues in Composio repositories.
+- **Notes**: Ensure to submit PRs before October 31, 2024, for swag eligibility.
+
 ---
 
 ## Setting up the site locally
