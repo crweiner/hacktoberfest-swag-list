@@ -102,6 +102,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: Submit work using the [Hacktoberfest Contribution Form](https://forms.gle/YzM5gKVDrjQcJwvD7).
 - **Notes**:[Check out their dev.to post for more information](https://dev.to/shihchun-h/announcing-instill-ais-tentaculous-hacktoberfest-2024-3991)
 
+#### **JSToday**
+
+- **Swag**: Stickers
+- **Requirements**: Submit at least four valid pull requests to any public repository on GitHub:
+      - Your pull requests must be accepted and merged or approved according to Hacktoberfest 
+      - Once you’ve made your contributions, post a tweet or a social media post tagging @todayJavaScript with the hashtag #Hacktoberfest2024. -Don’t forget to include a link to your GitHub profile or a snapshot of your pull request contributions.
+      - Send us an email with your contributions: (contact@javascripttoday.com). We’ll send you a free JavaScript Today sticker as a token of appreciation for your hard work in supporting open source.
+- **Notes**: [JSToday website](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) for more information
+
 ### L
 
 #### **Langfuse**
