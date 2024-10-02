@@ -67,7 +67,6 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
 
-
 ### D
 
 #### **devICT**
