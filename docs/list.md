@@ -91,7 +91,6 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No known signup link.
 - **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
 
-
 #### **Tolgee**
 
 - **Swag**: Stickers, Socks, and T-shirts
