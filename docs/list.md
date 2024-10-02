@@ -67,6 +67,14 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
 
+#### **composio**
+
+- **Swag**: T-shirt, stickers
+- **Requirements**: Participants with four accepted pull/merge requests between October 1 and October 31 will receive a swag pack from Composio and Holopin badge from Hacktoberfest!
+- **How to sign up**: No special signup known.
+- **Issues**: [Link for hacktoberfest topic on their github](https://github.com/ComposioHQ/composio/labels/hacktoberfest).
+- **Notes**: N/A.
+
 ### D
 
 #### **devICT**
