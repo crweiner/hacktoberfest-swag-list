@@ -67,6 +67,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
 
+#### **Crawlee for Python**
+
+- **Swag**: Sticker Sheet and Hoodie.
+- **Requirements**:
+    - 1-2 Accepted Pull Request: Crawlee Exclusive Sticker Sheet.
+    - 2 or more Accepted Pull Requests: Crawlee Exclusive Hoodie.
+- **How to sign up**: No signup link known.
+- **Issues**: Look for issues tagged  as "hacktoberfest" [here](https://github.com/apify/crawlee-python/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3Ahacktoberfest).
+- **Notes**:  [Check out the Crawlee for Python blog post here](https://github.com/apify/crawlee-python/issues/555).
+
 ### D
 
 #### **devICT**
