@@ -41,6 +41,32 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: Join the hackathon with up to 4 people total [by going here](https://hacktoberfest.appwrite.io/).
 - **Notes**: Read the [Hacktoberfest 2024 hackathon blog post here](https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024).
 
+#### **Auth0 by Okta**
+
+- **Swag**: T-shirt
+- **Requirements**: Submit two pull requests in the Identity and Security space shortlisted on the authoberfest projects page. First 100 valid submissions which are accepted or merged by October 31 will qualify to win the swag.
+- **How to sign up**: No signup required.
+- **Issues**: [Featured Projects](https://authtoberfest.io/#g-430503226)
+- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to authoberfest@auth0.co. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
+
+### B
+
+#### **Ballerina**
+
+- **Swag**: Swag from [Ballerina Swage store](https://store.covver.io/wso2/collections/ballerina-swag-store)
+- **Requirements**: Collect credits by [fixing issues in their Hacktoberfest 2024 project](https://github.com/orgs/ballerina-platform/projects/376). Spend those credits in their [swag store](https://store.covver.io/wso2/collections/ballerina-swag-store).
+- **How to sign up**: If your PR is merged, then [submit this form](https://forms.gle/517ebK579YwmPfRY6) to earn your credits.
+- **Notes**: [Check out the Ballerina Hacktoberfest page here](https://ballerina.io/hacktoberfest/).
+
+### C
+
+#### **Cloudinary**
+
+- **Swag**: T-shirt, Stickers, Cloudinary unicorn.
+- **Requirements**: Make a valid PRs in eligible Cloudinary libraries and SDKs. The first 50 eligible submissions will receive a Swag Kit.
+- **How to sign up**: No special signup known.
+- **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
+
 ### D
 
 #### **devICT**
@@ -49,6 +75,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Submit two pull requests to qualifying Wichita projects
 - **How to sign up**: [Sign into your GitHub account here](https://hacktoberfest.devict.org/) and submit two meaningful PRs to the projects on that page.
 - **Notes**: N/A
+
+### F
+
+#### **Flyte**
+
+- **Swag**: T-shirts, stickers, sweatshirts, watter bottles and a pair of Airpods Pro 2
+- **Requirements**: At least one merged PR or content contribution (blog post, recorded demo). The more contributions you make, and the more significant the contribution, the greater the prize.
+- **How to sign up**: If your PR is merged, then [submit this form](https://tally.so/r/mJJ14r)
+- **Notes**: Read the blog post with all the details [here](https://flyte.org/blog/flyte-at-hacktoberfest-2024) and check out the [Flyte Hacktoberfest issues and guidelines here](https://github.com/flyteorg/flyte/issues/5783).
 
 ### H
 
@@ -62,7 +97,31 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: Specifically look for issues [tagged  as "hacktoberfest" here](https://github.com/juspay/hyperswitch/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest).
 - **Notes**: [Check out their dev.to post here for all the details!](https://dev.to/hyperswitchio/hacktoberfest-2024-with-hyperswitch-47dk)
 
+### I
+
+#### **Instill AI**
+
+- **Swag**:
+  - Accepted PR: Swag package including physical stickers, Instill bottle or mug.
+  - Top Five based on points: $50 USD Amazon gift card
+- **Requirements**: Earn points by completing tasks including:
+    - GitHub issues from  the [Component Improvements issue list](https://github.com/orgs/instill-ai/projects/14/views/1)
+    - New application shared on GitHub
+    - Creating Cookbook and PR merged into [Cookbook Repo](https://github.com/instill-ai/cookbook)
+- **How to sign up**: Submit work using the [Hacktoberfest Contribution Form](https://forms.gle/YzM5gKVDrjQcJwvD7).
+- **Notes**:[Check out their dev.to post for more information](https://dev.to/shihchun-h/announcing-instill-ais-tentaculous-hacktoberfest-2024-3991)
+
 ### L
+
+#### **Langfuse**
+
+- **Swag**: Stickers and T-shirt
+- **Requirements**:
+    - 2+ merged PRs: Pack of new Langfuse stickers
+    - 2+ merged PRs: Chance to win a Langfuse t-shirt
+- **How to sign up**: Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe_GNazlvZSkHJ-WdnWOCfplZULY3GTOzCBwZgX7X_mLjlK2A/viewform) if you have >=2 merged PRs in the Langfuse Repo to get your swag
+- **Issues**: Look for issues [tagged  as "hacktoberfest" here](https://github.com/langfuse/langfuse/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
+- **Notes**: Learn more about [Langfuse on their website](https://langfuse.com/) and [in their repo here](https://github.com/langfuse/langfuse-docs/issues/827).
 
 #### **LambdaTest**
 
@@ -83,6 +142,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: If your PR is merged, then [submit this form](https://docs.google.com/forms/d/e/1FAIpQLSdk4x-lul0fEeBRTRS7-9Aplr0WOCndOODiZMLCZdrCe1ggEg/viewform) to earn your points.
 - **Notes**: [Check out the MindsDB Hacktoberfest page here](https://mindsdb.com/hacktoberfest).
 
+#### **Modtoberfest**
+
+- **Swag**: Stickers. They will also plant [1 tree](https://modtoberfest.com/modtoberforest) for each participant.
+- **Requirements**:
+    - Only pull requests made in the [participating projects](https://modtoberfest.com/repositories) count towards your progress.
+    - You must submit at least 4 PRs to any of the [participating repositories](https://modtoberfest.com/repositories).
+- **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
+- **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
+
 ### S
 
 #### **ServiceNow**
@@ -93,6 +161,30 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Notes**: Read the [full Hacktoberfest blog post here for the offical rules and additional info](https://www.servicenow.com/community/developer-advocate-blog/servicenow-hacktoberfest-2024/ba-p/3052690). Also, check out their [Hacktoberfest leaderboard on GitHub here](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
 ### T
+
+#### **TBD**
+
+- **Swag**:
+    - Top 10 contributors: TBD x Hacktoberfest 2024 swag from TBD shop.
+    - Top 3 contributors: Limited, customized TBD x Hacktoberfest 2024 swag with your name on it.
+- **Requirements**: Earn points by merging PRs in their participating [repos](https://github.com/TBD54566975/developer.tbd.website/issues/1680) (5 points for small tasks, 10 for medium, 15 for large). Look for issues labeled `good-first-issue`, `no-code`, and `hacktoberfest` in participating repos.
+- **How to sign up**: No specific signup mentioned. Contribute to participating repos.
+- **Notes**: [Checkout their Hacktoberfest Github page for additional info](https://github.com/TBD54566975/developer.tbd.website/issues/1680).
+
+#### **tscircuit**
+
+- **Swag**: Hats, Hoodies
+- **Requirements**:
+    - **Hats**:
+        - Star [tscircuit](https://github.com/tscircuit/tscircuit) on GitHub
+        - Join [Discord](https://tscircuit.com/join)
+        - Subscribe to the [blog](https://blog.tscircuit.com/p/build-electronics-with-typescript)
+        - Make 5 contributions of any impact level across 2 projects
+    - **Hoodie**:
+        - Make at least 20 contributions in 5 different repos
+        - At least 5 major contributions are required
+- **How to sign up**: Every contribution you make is automatically tracked in their [contribution-tracker](https://github.com/tscircuit/contribution-tracker)
+- **Notes**: Check out their blog post [here](https://blog.tscircuit.com/p/build-electronics-with-typescript) for more details.
 
 #### **Turbot**
 
