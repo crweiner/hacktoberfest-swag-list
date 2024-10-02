@@ -93,6 +93,18 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: Submit work using the [Hacktoberfest Contribution Form](https://forms.gle/YzM5gKVDrjQcJwvD7).
 - **Notes**:[Check out their dev.to post for more information](https://dev.to/shihchun-h/announcing-instill-ais-tentaculous-hacktoberfest-2024-3991)
 
+### L
+
+#### **Langfuse**
+
+- **Swag**: Stickers and T-shirt
+- **Requirements**:
+    - 2+ merged PRs: Pack of new Langfuse stickers
+    - 2+ merged PRs: Chance to win a Langfuse t-shirt
+- **How to sign up**: Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe_GNazlvZSkHJ-WdnWOCfplZULY3GTOzCBwZgX7X_mLjlK2A/viewform) if you have >=2 merged PRs in the Langfuse Repo to get your swag
+- **Issues**: Look for issues [tagged  as "hacktoberfest" here](https://github.com/langfuse/langfuse/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
+- **Notes**: Learn more about [Langfuse on their website](https://langfuse.com/) and [in their repo here](https://github.com/langfuse/langfuse-docs/issues/827).
+
 ### M
 
 #### **MindsDB**
