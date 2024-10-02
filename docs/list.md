@@ -143,6 +143,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### T
 
+#### **TBD**
+
+- **Swag**:
+    - Top 10 contributors: TBD x Hacktoberfest 2024 swag from TBD shop.
+    - Top 3 contributors: Limited, customized TBD x Hacktoberfest 2024 swag with your name on it.
+- **Requirements**: Earn points by merging PRs in their participating [repos](https://github.com/TBD54566975/developer.tbd.website/issues/1680) (5 points for small tasks, 10 for medium, 15 for large). Look for issues labeled `good-first-issue`, `no-code`, and `hacktoberfest` in participating repos.
+- **How to sign up**: No specific signup mentioned. Contribute to participating repos.
+- **Notes**: [Checkout their Hacktoberfest Github page for additional info](https://github.com/TBD54566975/developer.tbd.website/issues/1680).
+
 #### **Turbot**
 
 - **Swag**: Stickers and T-shirt
