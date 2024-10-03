@@ -151,6 +151,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
+### R
+
+#### **Robo.js**
+
+- **Swag**: Discord Nitro, T-Shirt, RoboPlay.
+- **Requirements**: Contribute bug fixes (1 point), templates (2 points), plugins (5 points), video content (5 points), or even features to the core framework (7 points). You can contribute as many times as you want, and each contribution counts as an entry for the prizes. The more you contribute, the more likely you are to win.
+- **How to sign up**: No signup required.
+- **Notes**: Read the [full Hacktoberfest blog post here](https://blog.waveplay.com/hacktoberfest-2024/) for the offical rules and additional info and [join the Discord community](https://roboplay.dev/discord?ref=blog.waveplay.com).
+
 ### S
 
 #### **ServiceNow**
