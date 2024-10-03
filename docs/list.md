@@ -69,11 +69,11 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 #### **composio**
 
-- **Swag**: T-shirt, stickers
-- **Requirements**: Participants with four accepted pull/merge requests between October 1 and October 31 will receive a swag pack from Composio and Holopin badge from Hacktoberfest!
-- **How to sign up**: No special signup known.
-- **Issues**: [Link for hacktoberfest topic on their github](https://github.com/ComposioHQ/composio/labels/hacktoberfest).
-- **Notes**: N/A.
+- **Swag**: Stickers, T-shirt
+- **Requirements**: Make 4 good PRs against 'hacktoberfest' topics in any of the Composio repositories.
+- **How to sign up**: Register for Hacktoberfest [here](https://hacktoberfest.com/).
+- **Issues**: Optional link to Hacktoberfest tagged issues in Composio repositories.
+- **Notes**: [Check out their announcement post for more information.](https://github.com/ComposioHQ/composio/blob/master/HACKTOBER_FEST_2024.md)
 
 ### D
 
