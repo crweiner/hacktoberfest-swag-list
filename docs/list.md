@@ -92,7 +92,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Swag**: Special edition Gradle T-shirts, Stickers, Caps or Mugs
 - **Requirements**:
     - Top-20 Contributors: Swag Pack (T-shirts, Stickers)
-    - Cups and Mugs for substantial contributions
+    - Caps and Mugs for substantial contributions
 - **How to sign up**: See [Hacktoberfest in Gradle: Getting Started](https://community.gradle.org/events/hacktoberfest/2024/#quick-start)
 - **Notes**: The team prepared some [Featured Projects](https://community.gradle.org/events/hacktoberfest/2024/#featured-projects) you can participate in.
   For swag, the team will review contributions in early November and reach out to the winners.
