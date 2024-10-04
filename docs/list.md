@@ -151,6 +151,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
+### O
+
+#### **onchain**
+
+- **Swag**: $500 OP prize pool
+- **Requirements**: Contribute to crypto, web3, or Ethereum-based open-source projects. Code, no-code, tutorials, documentation are all welcome.
+- **How to sign up**: Register for Hacktoberfest [here](https://hacktoberfest.com/participation/).
+- **Issues**: N/A
+- **Notes**: Month-long event rewarding contributions with a $500 OP prize pool
+
 ### S
 
 #### **ServiceNow**
