@@ -47,7 +47,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Submit two pull requests in the Identity and Security space shortlisted on the authoberfest projects page. First 100 valid submissions which are accepted or merged by October 31 will qualify to win the swag.
 - **How to sign up**: No signup required.
 - **Issues**: [Featured Projects](https://authtoberfest.io/#g-430503226)
-- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to authoberfest@auth0.co. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
+- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to <authoberfest@auth0.co>. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
 
 ### B
 
@@ -105,12 +105,11 @@ No one currently! Interested in having a prominent placement for your open sourc
 #### **JSToday**
 
 - **Swag**: Stickers
-- **Requirements**: Submit at least four valid pull requests to any public repository on GitHub:
-      - Your pull requests must be accepted and merged or approved according to Hacktoberfest. 
-      - Once you’ve made your contributions, tweet or post on social media tagging @todayJavaScript with the hashtag #Hacktoberfest2024. 
-      - Be sure to include a link to your GitHub profile or a snapshot of your pull request contributions!
-      - Send us an email with your contributions: (contact@javascripttoday.com). We’ll send you a free JavaScript Today sticker as a token of appreciation for your hard work in supporting open source.
-- **Notes**: [JSToday website](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) for more information
+- **Requirements**: Submit at least four merged or accepted pull requests to any public repository on GitHub.
+- - **How to sign up**:
+      - Once you’ve made your contributions, tweet or post on social media tagging @todayJavaScript with the hashtag #Hacktoberfest2024, and a link to your GH profile or PRs.
+      - Send them an email with your contributions at: <contact@javascripttoday.com>.
+- **Notes**: See the [JSToday Hacktoberfest blog post](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) for more information
 
 ### L
 
