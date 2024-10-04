@@ -67,6 +67,17 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
 
+#### **Configu**
+
+- **Swag**: T-shirt and/or Beer Glass.
+- **Requirements**:
+    - 1 Valid Pull Request: Receive an exclusive Configu Beer Glass.
+    - 2 Valid Pull Requests: Secure a LIMITED-EDITION Configu Hacktoberfest T-shirt.
+    - 3+ Valid Pull Requests: Get both the Configu Beer Glass and the LIMITED-EDITION Hacktoberfest T-shirt!
+- **How to sign up**: No special signup known.
+- **Issues**: Contribute to any issue in the [Configu Repository](https://github.com/configu/configu).
+- **Notes**: Check out this [GitHub Issue](https://github.com/configu/configu/issues/465) for more details.
+
 ### D
 
 #### **devICT**
