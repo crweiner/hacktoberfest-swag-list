@@ -140,6 +140,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: Contributors will be picked from those who completed the requirements above.
 - **Notes**: Know more on the [open issues](https://github.com/smallcloudai/refact-lsp/issues)
 
+### S
 
 #### **ServiceNow**
 
