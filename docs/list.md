@@ -97,6 +97,21 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: [Sign into your GitHub account here](https://hacktoberfest.devict.org/) and submit two meaningful PRs to the projects on that page.
 - **Notes**: N/A
 
+### E
+
+#### **Esri**
+
+- **Swag**: Esri Developer and Technology Summit registration and discounts:
+  - 1st Place: A free registration to one Developer Summit of your choice (Esri European Developer Summit 2024, Esri Developer Summit 2025, or Esri European Developer Summit 2025).
+  - 2nd Place: 75% discount on Developer Summit registration (choice of the same events).
+  - 3rd Place: 50% discount on Developer Summit registration (choice of the same events).
+- **Requirements**:
+  - At least one merged PR solving either "good first issue" or "help wanted" issue on any of the Esri-designated projects.
+  - You can earn points for only one “good first issue” per person.
+  - [Detailed contest rules](https://www.esri.com/arcgis-blog/wp-content/uploads/2024/10/2024-Esri-Hacktoberfest-Contest-Official-Rules-2.pdf)
+- **How to sign up**: No signup required. 
+- **Notes**: Read the blog post with all the details [here](https://www.esri.com/arcgis-blog/products/developers/developers/hacktoberfest-2024-contribute-to-open-source-and-win/) 
+
 ### F
 
 #### **Flyte**
