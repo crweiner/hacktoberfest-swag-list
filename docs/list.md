@@ -102,11 +102,13 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: Submit work using the [Hacktoberfest Contribution Form](https://forms.gle/YzM5gKVDrjQcJwvD7).
 - **Notes**:[Check out their dev.to post for more information](https://dev.to/shihchun-h/announcing-instill-ais-tentaculous-hacktoberfest-2024-3991)
 
+### J
+
 #### **JSToday**
 
 - **Swag**: Stickers
 - **Requirements**: Submit at least four merged or accepted pull requests to any public repository on GitHub.
-- - **How to sign up**:
+- **How to sign up**:
       - Once you’ve made your contributions, tweet or post on social media tagging @todayJavaScript with the hashtag #Hacktoberfest2024, and a link to your GH profile or PRs.
       - Send them an email with your contributions at: <contact@javascripttoday.com>.
 - **Notes**: See the [JSToday Hacktoberfest blog post](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) for more information
