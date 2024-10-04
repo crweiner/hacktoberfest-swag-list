@@ -101,16 +101,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 #### **Esri**
 
-- **Swag**: Esri Developer and Technology Summit registration and discounts:
-  - 1st Place: A free registration to one Developer Summit of your choice (Esri European Developer Summit 2024, Esri Developer Summit 2025, or Esri European Developer Summit 2025).
-  - 2nd Place: 75% discount on Developer Summit registration (choice of the same events).
-  - 3rd Place: 50% discount on Developer Summit registration (choice of the same events).
+- **Swag**: Esri Summit registration and discounts
+  - 1st Place: Free registration to one Esri Summit of your choice from the following: Esri European Developer Summit 2024, Esri Developer & Technology Summit 2025, or Esri European Developer Summit 2025.Developer Summit 2025.
+  - 2nd Place: 75% discount on Esri Summit registration (same event options as above).
+  - 3rd Place: 50% discount on Esri Summit registration (same event options as above).
 - **Requirements**:
-  - At least one merged PR solving either "good first issue" or "help wanted" issue on any of the Esri-designated projects.
+  - At least one merged PR solving either "good first issue" or "help wanted" issue in any Esri-designated project
   - You can earn points for only one “good first issue” per person.
-  - [Detailed contest rules](https://www.esri.com/arcgis-blog/wp-content/uploads/2024/10/2024-Esri-Hacktoberfest-Contest-Official-Rules-2.pdf)
+  - [See detailed contest rules](https://www.esri.com/arcgis-blog/wp-content/uploads/2024/10/2024-Esri-Hacktoberfest-Contest-Official-Rules-2.pdf).
 - **How to sign up**: No signup required. 
-- **Notes**: Read the blog post with all the details [here](https://www.esri.com/arcgis-blog/products/developers/developers/hacktoberfest-2024-contribute-to-open-source-and-win/) 
+- **Notes**: Read the full blog post with all the details [here](https://www.esri.com/arcgis-blog/products/developers/developers/hacktoberfest-2024-contribute-to-open-source-and-win/) 
 
 ### F
 
