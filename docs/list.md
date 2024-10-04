@@ -147,7 +147,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Swag**: A community bag and ServiceNow merch
 - **Requirements**: Have 4 accepted PR's to ServiceNow's [projects](https://github.com/ServiceNowDevProgram/Hacktoberfest). Then, submit a short post/video/infographic about your PRs on social media using `#ServiceNowHacktoberfest` and [in the comments section of this blog post](https://www.servicenow.com/community/developer-advocate-blog/servicenow-hacktoberfest-2024/ba-p/3052690).
 - **How to sign up**: Contributors will be picked from those who completed the requirements above.
-- **Notes**: Checkout the [open issues here](https://github.com/smallcloudai/refact-lsp/issues).
+- **Notes**: Read the [full Hacktoberfest blog post here for the offical rules and additional info](https://www.servicenow.com/community/developer-advocate-blog/servicenow-hacktoberfest-2024/ba-p/3052690). Also, check out their [Hacktoberfest leaderboard on GitHub here](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
 ### T
 
