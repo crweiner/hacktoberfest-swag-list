@@ -214,6 +214,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### T
 
+#### **Taipy**
+
+- **Swag**: Stickers, Bottle, Hoodie, Mousepad, and Bag.
+- **Requirements**: Contribute to issues labled "hacktoberfest" in [Taipy GitHub Repository](https://github.com/Avaiga/taipy) to earn points.
+    - 100 points: Stickers + Bottle 
+    - 200 points: Stickers + Scott Hoodie + Mousepad
+    - 300 points: Stickers + Jack & Jones Hoodie + Bag
+- **How to sign up**: No specific signup mentioned.
+- **Notes**: [Checkout their HacktoberFest notion page for additional info](https://assorted-son-815.notion.site/HacktoberFest-2024-with-Taipy-2a5032a3f01642709e88ffaa5d0d169e).
+- 
 #### **TBD**
 
 - **Swag**:
