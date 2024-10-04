@@ -78,6 +78,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: Contribute to any issue in the [Configu Repository](https://github.com/configu/configu).
 - **Notes**: Check out this [GitHub Issue](https://github.com/configu/configu/issues/465) for more details.
 
+#### **Crawlee for Python**
+
+- **Swag**: Sticker Sheet and Hoodie.
+- **Requirements**:
+    - 1-2 Accepted Pull Requests: Crawlee Exclusive Sticker Sheet.
+    - 2 or more Accepted Pull Requests: Crawlee Exclusive Hoodie.
+- **How to sign up**: No signup link known.
+- **Issues**: Look for issues tagged  as `hacktoberfest` [here](https://github.com/apify/crawlee-python/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3Ahacktoberfest).
+- **Notes**:  [Check out the Crawlee for Python GitHub issue here](https://github.com/apify/crawlee-python/issues/555).
+
 ### D
 
 #### **devICT**
