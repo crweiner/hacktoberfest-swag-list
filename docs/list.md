@@ -47,7 +47,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Submit two pull requests in the Identity and Security space shortlisted on the authoberfest projects page. First 100 valid submissions which are accepted or merged by October 31 will qualify to win the swag.
 - **How to sign up**: No signup required.
 - **Issues**: [Featured Projects](https://authtoberfest.io/#g-430503226)
-- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to authoberfest@auth0.co. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
+- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to <authoberfest@auth0.co>. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
 
 ### B
 
@@ -67,6 +67,17 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
 
+#### **Configu**
+
+- **Swag**: T-shirt and/or Beer Glass.
+- **Requirements**:
+    - 1 Valid Pull Request: Receive an exclusive Configu Beer Glass.
+    - 2 Valid Pull Requests: Secure a LIMITED-EDITION Configu Hacktoberfest T-shirt.
+    - 3+ Valid Pull Requests: Get both the Configu Beer Glass and the LIMITED-EDITION Hacktoberfest T-shirt!
+- **How to sign up**: No special signup known.
+- **Issues**: Contribute to any issue in the [Configu Repository](https://github.com/configu/configu).
+- **Notes**: Check out this [GitHub Issue](https://github.com/configu/configu/issues/465) for more details.
+
 #### **Crawlee for Python**
 
 - **Swag**: Sticker Sheet and Hoodie.
@@ -74,7 +85,7 @@ No one currently! Interested in having a prominent placement for your open sourc
     - 1-2 Accepted Pull Request: Crawlee Exclusive Sticker Sheet.
     - 2 or more Accepted Pull Requests: Crawlee Exclusive Hoodie.
 - **How to sign up**: No signup link known.
-- **Issues**: Look for issues tagged  as "hacktoberfest" [here](https://github.com/apify/crawlee-python/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3Ahacktoberfest).
+- **Issues**: Look for issues tagged  as `hacktoberfest` [here](https://github.com/apify/crawlee-python/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3Ahacktoberfest).
 - **Notes**:  [Check out the Crawlee for Python blog post here](https://github.com/apify/crawlee-python/issues/555).
 
 ### D
@@ -120,6 +131,17 @@ No one currently! Interested in having a prominent placement for your open sourc
     - Creating Cookbook and PR merged into [Cookbook Repo](https://github.com/instill-ai/cookbook)
 - **How to sign up**: Submit work using the [Hacktoberfest Contribution Form](https://forms.gle/YzM5gKVDrjQcJwvD7).
 - **Notes**:[Check out their dev.to post for more information](https://dev.to/shihchun-h/announcing-instill-ais-tentaculous-hacktoberfest-2024-3991)
+
+### J
+
+#### **JSToday**
+
+- **Swag**: Stickers
+- **Requirements**: Submit at least four merged or accepted pull requests to any public repository on GitHub.
+- **How to sign up**:
+      - Once you’ve made your contributions, tweet or post on social media tagging @todayJavaScript with the hashtag #Hacktoberfest2024, and a link to your GH profile or PRs.
+      - Send them an email with your contributions at: <contact@javascripttoday.com>.
+- **Notes**: See the [JSToday Hacktoberfest blog post](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) for more information
 
 ### L
 
