@@ -134,10 +134,11 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### R
 
-#### **Refact-lsp**
-- **Swag**: 3 months of free access to the Refact.ai tool! 🚀
-- **Requirements**: Have 1 accepted PR's to [React-lsp repository](https://github.com/smallcloudai/refact-lsp) 
-- **How to sign up**: Contributors will be picked from those who completed the requirements above.
+#### **Refact.ai**
+
+- **Swag**: 3 months of free access to the Refact.ai tool
+- **Requirements**: Have 1 accepted PR's to [React-lsp repository](https://github.com/smallcloudai/refact-lsp)
+- **How to sign up**: No separate signup known.
 - **Notes**: Know more on the [open issues](https://github.com/smallcloudai/refact-lsp/issues)
 
 ### S
