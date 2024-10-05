@@ -332,6 +332,22 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No separate signup known.
 - **Notes**: Know more on the [open issues](https://github.com/smallcloudai/refact-lsp/issues)
 
+#### **Reflex**
+
+- **Swag**: Multiple cash rewards between $50 to $300, swag, and pro hosting service voucher.
+- **Requirements**: Complete any of the tasks to win
+    - Best use of AG Grid component.
+    - Build the most aesthetic Reflex app.
+    - Build an app that improves DX of developer workflow.
+    - Wrap various React components in Reflex.
+- **How to sign up**: No signup needed
+- **Issues**:
+    - [$300 Wrap Reactflow](https://github.com/reflex-dev/reactflow).
+    - [$250 Wrap React Email](https://github.com/resend/react-email).
+    - [$200 Wrap Altair Charts](https://altair-viz.github.io/)
+    - [$200 Wrap Bokeh Charts](https://bokeh.org/)
+- **Notes**: Read the [Reflex Dev Hacktoberfest](https://github.com/reflex-dev/hacktoberfest) for more details.
+
 #### **Robo.js**
 
 - **Swag**: Discord Nitro, T-Shirt, RoboPlay, Stickers (as prizes)
