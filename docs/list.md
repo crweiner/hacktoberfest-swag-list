@@ -32,6 +32,20 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### A
 
+#### **Animata**
+
+- **Swag**: $50 reward through a raffle system
+- **Requirements**:
+    - Contribute to the open issues labeled `hacktoberfest`.
+    - Ensure your PR follows the [contributing guidelines](https://www.animata.design/docs/contributing).
+    - Link to the issue number in your PR and add relevant labels.
+    - Based on the difficulty of easy, medium, hard or advanced, earn 1,2,3 or 4 entries respectively in the raffle.
+    - Maximum of 5 entries per user for the raffle.
+    - You must be able to receive international payments via platforms like PayPal.
+- **How to sign up**: No signup needed.
+- **Issues**: Open issues with label `hacktoberfest` on the [Github Project Board](https://github.com/orgs/codse/projects/37/views/2).
+- **Notes**: Read the [Animata Design Blog post](https://animata.design/blog/hacktoberfest-2024) for more details.
+
 #### **Appwrite**
 
 - **Swag**:
