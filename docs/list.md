@@ -223,6 +223,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No specific signup mentioned. Contribute to participating repos.
 - **Notes**: [Checkout their Hacktoberfest Github page for additional info](https://github.com/TBD54566975/developer.tbd.website/issues/1680).
 
+#### **Tolgee**
+
+- **Swag**: Stickers, Socks, T-shirts
+- **Requirements**: Submit a pull request addressing issues tagged with `#hacktoberfest` and create a demo project (e.g. React, Angular, Vue, Svelte, PHP, Flutter, Ruby, iOS, Android) using Tolgee. Projects will be scored 10-50 based on quality, UX, creativity, and usefulness:
+  - 30 - 40 points - Sticker
+  - 40 - 45 points - Sticker + Socks
+  - 45 - 50 points - Sticker + Socks + T-shirt
+- **Learn More**: Check [Tolgee GitHub Repo](https://github.com/tolgee/tolgee-platform/blob/main/Hacktobefest2024.md)
+
 #### **tscircuit**
 
 - **Swag**: Hats, Hoodies
