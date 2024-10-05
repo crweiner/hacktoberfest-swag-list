@@ -276,6 +276,15 @@ Appwrite is a self-hosted backend-as-a-service platform that provides developers
 - **Issues**:
     - [Gain points via Code contributions](https://github.com/formbricks/formbricks/issues)
     - [Gain points via Social Media/Design/Documentation](https://formbricks.notion.site/FormTribe-Side-Quests-4ab3b294cfa04e94b77dfddd66378ea2)
+### G
+
+#### **GUAC**
+- **Swag**: GUAC swag.
+- **Requirements**:
+    - Submit a PR to solve one or more issues in the GUAC project of these 2 repositories [GUAC Docs](https://github.com/guacsec/guac-docs) and [GUAC Visualizer](https://github.com/guacsec/guac-visualizer).
+- **How to sign up**: No special signup nedded.
+- **Issues**: If you’re looking for an issue to get started on, check the [good first issue](https://github.com/search?q=user%3Aguacsec+label%3A%22good+first+issue%22++&type=Issues&ref=advsearch&l=&l=&state=open) and [help wanted](https://github.com/search?q=user%3Aguacsec+label%3A%22help+wanted%22++&type=Issues&ref=advsearch&l=&l=&state=open) tags in GitHub.
+- **Notes**: More details are availble [here](https://guac.sh/blog/2024-09-25-hacktoberfest/).
 
 ### H
 
