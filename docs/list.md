@@ -181,6 +181,14 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### H
 
+#### **Hiero**
+
+- **Swag**: T-shirt
+- **Requirements**: Contribute to any of the open issues of varied difficulty.
+- **How to sign up**: No signup needed.
+- **Issues**: List of available [open issues](https://hiero.org/hacktoberfest/)
+- **Notes**: Check out the [announcement post](https://hiero.org/hacktoberfest/) for more details or join their [GitHub discussion](https://github.com/orgs/LFDT-Hiero/discussions) to get any of your questions answered.
+
 #### **Hyperswitch**
 
 - **Swag**: Stickers, T-shirt, and/or hoodie
