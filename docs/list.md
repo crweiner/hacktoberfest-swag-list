@@ -111,6 +111,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: Contribute to any issue in the [Configu Repository](https://github.com/configu/configu).
 - **Notes**: Check out this [GitHub Issue](https://github.com/configu/configu/issues/465) for more details.
 
+#### **CopilotKit**
+
+- **Swag**: CopilotKit swag
+- **Requirements**:
+    - Create innovative demos for CopilitKit to earn points from 0 to 100 based on creativity, practicality, quality and UI/UX.
+    - Swag is only available if you complete a demo.
+- **How to sign up**: No signup needed.
+- **Issues**: [Open issues](https://github.com/CopilotKit/CopilotKit/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3Ahacktoberfest) with demo ideas with label `hacktoberfest`.
+- **Notes**: Check out the [announcement post](https://github.com/CopilotKit/CopilotKit/tree/main/community/content) for more details.
+
 #### **Crawlee for Python**
 
 - **Swag**: Sticker Sheet and Hoodie.
