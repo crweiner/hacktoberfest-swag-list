@@ -223,7 +223,6 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No specific signup mentioned. Contribute to participating repos.
 - **Notes**: [Checkout their Hacktoberfest Github page for additional info](https://github.com/TBD54566975/developer.tbd.website/issues/1680).
 
-
 #### **Tolgee**
 
 - **Swag**: Stickers, Socks, T-shirts
