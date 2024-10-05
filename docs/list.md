@@ -67,6 +67,14 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
 
+#### **Composio**
+
+- **Swag**: Stickers, T-shirt
+- **Requirements**: 4 accepted/merged PRs against `hacktoberfest` topics in any of the Composio repositories.
+- **How to sign up**: No signup link known
+- **Issues**: [Hacktoberfest tagged issues in the Composio repo](https://github.com/ComposioHQ/composio/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+- **Notes**: [Check out their announcement post for more information.](https://github.com/ComposioHQ/composio/blob/master/HACKTOBER_FEST_2024.md)
+
 #### **Configu**
 
 - **Swag**: T-shirt and/or Beer Glass.
