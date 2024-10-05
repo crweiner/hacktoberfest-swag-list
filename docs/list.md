@@ -130,6 +130,20 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: [Sign into your GitHub account here](https://hacktoberfest.devict.org/) and submit two meaningful PRs to the projects on that page.
 - **Notes**: N/A
 
+#### **DocsGPT**
+
+- **Swag**: T-shirt
+- **Requirements**: Top contributors will be rewarded with swag. You can contribute in various ways:
+    - Make meaningful contributions through PRs.
+    - Build an app using DocsGPT API.
+    - Make non-code contributions like improving docs or creating a guide.
+    - Improve UI/UX or design a new feature.
+    - Blog or create a video showcasing DOcsGPT
+    - After contributing fill this [form](https://airtable.com/appikMaJwdHhC1SDP/pagoblCJ9W29wf6Hf/form)
+- **How to sign up**: No signup needed.
+- **Issues**: Check out [open issues](https://github.com/arc53/DocsGPT/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) and [roadmap](https://github.com/orgs/arc53/projects/2).
+- **Notes**: Read the [announcement post](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
+
 ### E
 
 #### **Esri**
