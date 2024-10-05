@@ -116,6 +116,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: [Sign into your GitHub account here](https://hacktoberfest.devict.org/) and submit two meaningful PRs to the projects on that page.
 - **Notes**: N/A
 
+#### **Dstack**
+
+- **Swag**: GPU credits to use with dstack Sky for AI development
+- **Requirements**: Have a PR merged
+    - Every contributor whose PR is merged will receive GPU credits
+- **How to sign up**: No signup link known
+- **Issues**: you can check for issues[here](https://github.com/dstackai/dstack/issues)
+- **Notes**: Every contributor whose PR is merged will receive GPU credits to use with [dstack Sky](https://sky.dstack.ai/) for AI development!
+
 ### E
 
 #### **Esri**
