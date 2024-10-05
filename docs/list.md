@@ -152,6 +152,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Notes**: See their [full Hacktoberfest page here](https://community.gradle.org/events/hacktoberfest/2024/). The team prepared some [Featured Projects](https://community.gradle.org/events/hacktoberfest/2024/#featured-projects) you can participate in.
 
 #### **GUAC**
+
 - **Swag**: GUAC swag.
 - **Requirements**:
     - Submit a PR to solve one or more issues in the GUAC project of these 2 repositories [GUAC Docs](https://github.com/guacsec/guac-docs) and [GUAC Visualizer](https://github.com/guacsec/guac-visualizer).
