@@ -217,8 +217,8 @@ No one currently! Interested in having a prominent placement for your open sourc
 #### **Taipy**
 
 - **Swag**: Stickers, Bottle, Hoodie, Mousepad, and Bag.
-- **Requirements**: Contribute to issues labled "hacktoberfest" in [Taipy GitHub Repository](https://github.com/Avaiga/taipy) to earn points.
-    - 100 points: Stickers + Bottle 
+- **Requirements**: Contribute to issues labled `hacktoberfest` in [Taipy GitHub Repository](https://github.com/Avaiga/taipy) to earn points.
+    - 100 points: Stickers + Bottle
     - 200 points: Stickers + Scott Hoodie + Mousepad
     - 300 points: Stickers + Jack & Jones Hoodie + Bag
 - **How to sign up**: No specific signup mentioned.
