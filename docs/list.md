@@ -82,6 +82,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### T
 
+#### **Tolgee**
+
+- **Swag**: Stickers, Socks, T-shirts
+- **Requirements**: Submit a pull request addressing issues tagged with `#hacktoberfest` and create a demo project (e.g. React, Angular, Vue, Svelte, PHP, Flutter, Ruby, iOS, Android) using Tolgee. Projects will be scored 10-50 based on quality, UX, creativity, and usefulness:
+  - 30 - 40 points - Sticker
+  - 40 - 45 points - Sticker + Socks
+  - 45 - 50 points - Sticker + Socks + T-shirt
+- **Learn More**: Check [Tolgee GitHub Repo](https://github.com/tolgee/tolgee-platform/blob/main/Hacktobefest2024.md)
+
 #### **Turbot**
 
 - **Swag**: Stickers and T-shirt
@@ -90,16 +99,6 @@ No one currently! Interested in having a prominent placement for your open sourc
     - Code contribution (high-code): Turbot Hacktoberfest T-shirt
 - **How to sign up**: No known signup link.
 - **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
-
-#### **Tolgee**
-
-- **Swag**: Stickers, Socks, T-shirts
-- **Requirements**: Submit a pull request addressing issues tagged with #hacktoberfest tag and create a demo project (e.g. React, Angular, Vue, Svelte, PHP, Flutter, Ruby, iOS, Android) using Tolgee
-- **Quality Criteria**: Projects are scored (10-50) based on quality, UX, creativity, and usefulness:
-  - 30 - 40 points - Sticker
-  - 40 - 45 points - Sticker + Socks
-  - 45 - 50 points - Sticker + Socks + T-shirt
-- **Learn More**: Check [Tolgee GitHub Repo](https://github.com/tolgee/tolgee-platform/blob/main/Hacktobefest2024.md)
 
 ---
 
