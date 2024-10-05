@@ -47,7 +47,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Submit two pull requests in the Identity and Security space shortlisted on the authoberfest projects page. First 100 valid submissions which are accepted or merged by October 31 will qualify to win the swag.
 - **How to sign up**: No signup required.
 - **Issues**: [Featured Projects](https://authtoberfest.io/#g-430503226)
-- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to authoberfest@auth0.co. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
+- **Notes**:  Once you have two merged requests, send the merge confirmation emails and the Hacktoberfest Digital Badge showing the progress to <authoberfest@auth0.co>. Submissions can be sent until 30th November. Read more at [Authoberfest](https://authtoberfest.io/).
 
 ### B
 
@@ -67,6 +67,27 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: No special signup known.
 - **Notes**: [Visit Cloudinary](https://cloudinary.com/blog/hacktoberfest-open-source-celebration-cloudinary) for the list of eligible libraries and SDKs.
 
+#### **Configu**
+
+- **Swag**: T-shirt and/or Beer Glass.
+- **Requirements**:
+    - 1 Valid Pull Request: Receive an exclusive Configu Beer Glass.
+    - 2 Valid Pull Requests: Secure a LIMITED-EDITION Configu Hacktoberfest T-shirt.
+    - 3+ Valid Pull Requests: Get both the Configu Beer Glass and the LIMITED-EDITION Hacktoberfest T-shirt!
+- **How to sign up**: No special signup known.
+- **Issues**: Contribute to any issue in the [Configu Repository](https://github.com/configu/configu).
+- **Notes**: Check out this [GitHub Issue](https://github.com/configu/configu/issues/465) for more details.
+
+#### **Crawlee for Python**
+
+- **Swag**: Sticker Sheet and Hoodie.
+- **Requirements**:
+    - 1-2 Accepted Pull Requests: Crawlee Exclusive Sticker Sheet.
+    - 2 or more Accepted Pull Requests: Crawlee Exclusive Hoodie.
+- **How to sign up**: No signup link known.
+- **Issues**: Look for issues tagged  as `hacktoberfest` [here](https://github.com/apify/crawlee-python/issues?q=sort%3Aupdated-desc+is%3Aopen+label%3Ahacktoberfest).
+- **Notes**:  [Check out the Crawlee for Python GitHub issue here](https://github.com/apify/crawlee-python/issues/555).
+
 #### **Composio**
 
 - **Swag**: Stickers, T-shirt
@@ -83,6 +104,26 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Submit two pull requests to qualifying Wichita projects
 - **How to sign up**: [Sign into your GitHub account here](https://hacktoberfest.devict.org/) and submit two meaningful PRs to the projects on that page.
 - **Notes**: N/A
+
+### F
+
+#### **Flyte**
+
+- **Swag**: T-shirts, stickers, sweatshirts, watter bottles and a pair of Airpods Pro 2
+- **Requirements**: At least one merged PR or content contribution (blog post, recorded demo). The more contributions you make, and the more significant the contribution, the greater the prize.
+- **How to sign up**: If your PR is merged, then [submit this form](https://tally.so/r/mJJ14r)
+- **Notes**: Read the blog post with all the details [here](https://flyte.org/blog/flyte-at-hacktoberfest-2024) and check out the [Flyte Hacktoberfest issues and guidelines here](https://github.com/flyteorg/flyte/issues/5783).
+
+### G
+
+#### **Gradle**
+
+- **Swag**: Special edition Gradle T-shirts, Stickers, Caps or Mugs
+- **Requirements**:
+    - Top-20 Contributors: Swag Pack (T-shirts, Stickers)
+    - Caps and Mugs for substantial contributions
+- **How to sign up**: [Fill out this form](https://forms.gle/go2VESj7kDG1QUqV7).
+- **Notes**: See their [full Hacktoberfest page here](https://community.gradle.org/events/hacktoberfest/2024/). The team prepared some [Featured Projects](https://community.gradle.org/events/hacktoberfest/2024/#featured-projects) you can participate in.
 
 ### H
 
@@ -110,6 +151,17 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: Submit work using the [Hacktoberfest Contribution Form](https://forms.gle/YzM5gKVDrjQcJwvD7).
 - **Notes**:[Check out their dev.to post for more information](https://dev.to/shihchun-h/announcing-instill-ais-tentaculous-hacktoberfest-2024-3991)
 
+### J
+
+#### **JSToday**
+
+- **Swag**: Stickers
+- **Requirements**: Submit at least four merged or accepted pull requests to any public repository on GitHub.
+- **How to sign up**:
+      - Once you’ve made your contributions, tweet or post on social media tagging @todayJavaScript with the hashtag #Hacktoberfest2024, and a link to your GH profile or PRs.
+      - Send them an email with your contributions at: <contact@javascripttoday.com>.
+- **Notes**: See the [JSToday Hacktoberfest blog post](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) for more information
+
 ### L
 
 #### **Langfuse**
@@ -121,6 +173,16 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe_GNazlvZSkHJ-WdnWOCfplZULY3GTOzCBwZgX7X_mLjlK2A/viewform) if you have >=2 merged PRs in the Langfuse Repo to get your swag
 - **Issues**: Look for issues [tagged  as "hacktoberfest" here](https://github.com/langfuse/langfuse/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest).
 - **Notes**: Learn more about [Langfuse on their website](https://langfuse.com/) and [in their repo here](https://github.com/langfuse/langfuse-docs/issues/827).
+
+#### **LambdaTest**
+
+- **Swag**: Amazon Vouchers and LambdaTest Licenses
+- **Requirements**:
+    - Submit a PR to fix an issue tagged `hacktoberfest` or `good-first-issue` to one of their [supporting projects](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024?tab=readme-ov-file#-projects-you-can-contribute-to)
+    - 3 Contributions: Amazon Vouchers (up to $10) + LambdaTest Licenses (90 days)
+    - 5+ Contributions: Amazon Vouchers (up to $20) + LambdaTest Licenses (90 days)
+- **How to sign up**: No signup link known.
+- **Notes**:  [Check out the LambdaTest blog post here](https://github.com/LambdaTest/lambdatest-hacktoberfest-2024).
 
 ### M
 
@@ -139,6 +201,15 @@ No one currently! Interested in having a prominent placement for your open sourc
     - You must submit at least 4 PRs to any of the [participating repositories](https://modtoberfest.com/repositories).
 - **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
+
+### R
+
+#### **Robo.js**
+
+- **Swag**: Discord Nitro, T-Shirt, RoboPlay, Stickers (as prizes)
+- **Requirements**: Contribute bug fixes (1 point), templates (2 points), plugins (5 points), video content (5 points), or even features to the core framework (7 points). You can contribute as many times as you want, and each contribution counts as an entry for the prizes. The more you contribute, the more likely you are to win.
+- **How to sign up**: No signup required.
+- **Notes**: Read the [full Hacktoberfest blog post here](https://blog.waveplay.com/hacktoberfest-2024/) for the offical rules and additional info and [join the Discord community](https://roboplay.dev/discord?ref=blog.waveplay.com).
 
 ### S
 
@@ -159,6 +230,21 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Earn points by merging PRs in their participating [repos](https://github.com/TBD54566975/developer.tbd.website/issues/1680) (5 points for small tasks, 10 for medium, 15 for large). Look for issues labeled `good-first-issue`, `no-code`, and `hacktoberfest` in participating repos.
 - **How to sign up**: No specific signup mentioned. Contribute to participating repos.
 - **Notes**: [Checkout their Hacktoberfest Github page for additional info](https://github.com/TBD54566975/developer.tbd.website/issues/1680).
+
+#### **tscircuit**
+
+- **Swag**: Hats, Hoodies
+- **Requirements**:
+    - **Hats**:
+        - Star [tscircuit](https://github.com/tscircuit/tscircuit) on GitHub
+        - Join [Discord](https://tscircuit.com/join)
+        - Subscribe to the [blog](https://blog.tscircuit.com/p/build-electronics-with-typescript)
+        - Make 5 contributions of any impact level across 2 projects
+    - **Hoodie**:
+        - Make at least 20 contributions in 5 different repos
+        - At least 5 major contributions are required
+- **How to sign up**: Every contribution you make is automatically tracked in their [contribution-tracker](https://github.com/tscircuit/contribution-tracker)
+- **Notes**: Check out their blog post [here](https://blog.tscircuit.com/p/build-electronics-with-typescript) for more details.
 
 #### **Turbot**
 
