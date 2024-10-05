@@ -140,6 +140,17 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**: [Sign into your GitHub account here](https://hacktoberfest.devict.org/) and submit two meaningful PRs to the projects on that page.
 - **Notes**: N/A
 
+#### **DevFest AI**
+
+- **Swag**: Hoddie, backpack, bottle, cap etc
+- **Requirements**:
+    - Contribute as a solo member or as a squad.
+    - Contribute to AI-based repositories or repositories that have AI features created before October with more than 200 stars.
+    - Earn a point with each merged PR.
+    - Top 20 squads will be announced winners.
+- **How to sign up**: Sign up at [DevFestAI](https://devfest.ai/) with a maximum of 5 members.
+- **Notes**: Read more at [DevFest AI](https://devfest.ai/) for more information and attend exclusive events..
+
 #### **DocsGPT**
 
 - **Swag**: T-shirt
