@@ -108,9 +108,9 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**:
     - At least one merged PR solving either "good first issue" or "help wanted" issue in any Esri-designated project
     - You can earn points for only one “good first issue” per person.
-    - [See detailed contest rules](https://www.esri.com/arcgis-blog/wp-content/uploads/2024/10/2024-Esri-Hacktoberfest-Contest-Official-Rules-2.pdf).
-- **How to sign up**: No signup required. 
-- **Notes**: Read the full blog post with all the details [here](https://www.esri.com/arcgis-blog/products/developers/developers/hacktoberfest-2024-contribute-to-open-source-and-win/) 
+- **Requirements**: [See detailed contest rules here](https://www.esri.com/arcgis-blog/wp-content/uploads/2024/10/2024-Esri-Hacktoberfest-Contest-Official-Rules-2.pdf).
+- **How to sign up**: No signup required.
+- **Notes**: Read the full blog post with all the details [here](https://www.esri.com/arcgis-blog/products/developers/developers/hacktoberfest-2024-contribute-to-open-source-and-win/)
 
 ### F
 
