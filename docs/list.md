@@ -161,6 +161,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: N/A
 - **Notes**: Month-long event rewarding contributions with a $500 OP prize pool.
 
+### Q
+
+#### **QuestDB**
+
+- **Swag**: T-shirt for contributors
+- **Requirements**: Contribute to one of the three participating repositories during Hacktoberfest 2024.
+- **How to sign up**: Register for Hacktoberfest [here](https://hacktoberfest.com/participation/).
+- **Notes**: QuestDB is participating in Hacktoberfest 2024, and contributors to any of the three repos are eligible to win a T-shirt. Check their GitHub repository [here](https://github.com/questdb/questdb).
+
 ### S
 
 #### **ServiceNow**
