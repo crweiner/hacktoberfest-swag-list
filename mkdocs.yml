@@ -1,5 +1,5 @@
 # Project information
-site_name: "Hacktoberfest Swag List 2023"
+site_name: "Hacktoberfest Swag List 2024"
 site_description: "Connecting contributors to open-source projects during Hacktoberfest"
 site_author: "crweiner"
 site_url: "https://hacktoberfestswaglist.com"
@@ -9,7 +9,7 @@ docs_dir: "docs"
 theme:
   favicon: img/favicon.ico
   name: material
-  logo: img/hf10_icon_fcd_rgb.png
+  logo: img/horizontal_deep_pink.png
   features: 
     - navigation.tracking
     - content.code.annotate
@@ -46,7 +46,7 @@ plugins:
 nav:
   - "Home": "index.md"
   - "Contributing": "contributing.md"
-  - "2023 Hacktoberfest Swag List": "list.md"
+  - "2024 Hacktoberfest Swag List": "list.md"
 
   # Customization
 extra_javascript:
