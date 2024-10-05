@@ -277,6 +277,17 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
+#### **Multiwoven**
+
+- **Swag**: Merch and certificate of contribution
+- **Requirements**:
+    - Fix issues tagged with `hacktoberfest`
+    - Complete three approved PRs to earn the Multiwoven swag.
+    - Top contributors will be rewared special rewards.
+- **How to sign up**: No signup needed.
+- **Issues**: Issues [tagged for hacktoberfest](https://github.com/Multiwoven/multiwoven/issues?ref=blog.squared.ai).
+- **Notes**: Read the [ai squared blog](https://blog.squared.ai/hacktoberfest-2024-celebrate-open-source-with-multiwoven/) for details..
+
 ### R
 
 #### **Refact.ai**
