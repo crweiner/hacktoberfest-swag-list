@@ -60,6 +60,17 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### C
 
+#### **Chimoney**
+
+- **Swag**: Digital Badge, Reward of $10, T-shirt.
+- **Requirements**: All contributions earn a digital badge, meaningful PRs earn $10, and 4 merged PRs for substantial contributions earn a t-shirt.
+- **How to sign up**:
+    - Sign up for an Chimoney Developer Account to get the API Keys to get started. [For more info](https://community-chimoney.hashnode.dev/getting-started-with-chimoneys-api-chiconnect).
+    - For technical writers, please submit your PR in the [submissions/dev-focused-articles](https://github.com/Chimoney/chimoney-community-projects/tree/main/submissions/Dev%20focused%20articles) folder.
+    - For other contributions, submit your PR in the general [submissions](https://github.com/Chimoney/chimoney-community-projects/tree/main/submissions) folder
+- **Issues**: List of available [issues](https://github.com/Chimoney/chimoney-community-projects/issues).
+- **Notes**: Check out their [README](https://github.com/Chimoney/chimoney-community-projects?tab=readme-ov-file#chimoney-rewards) for more info.
+
 #### **Cloudinary**
 
 - **Swag**: T-shirt, Stickers, Cloudinary unicorn.
