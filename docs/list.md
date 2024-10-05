@@ -144,6 +144,19 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: Check out [open issues](https://github.com/arc53/DocsGPT/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) and [roadmap](https://github.com/orgs/arc53/projects/2).
 - **Notes**: Read the [announcement post](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
 
+#### **dstack**
+
+- **Swag**: upto $500 GPU credits to use with dstack Sky
+- **Requirements**:
+    - Fix eligible open issues.
+    - Only quality contributions will be reviewed and merged.
+    - $15 bounty to fix a minor issue
+    - $100 bounty to fix a major issue
+    - $500 bounty to fix an advanced issue
+- **How to sign up**: No signup needed
+- **Issues**: [Open issues](https://github.com/dstackai/dstack/issues/1735) of all levels.
+- **Notes**: Checkout [announcement post](https://github.com/dstackai/dstack/issues/1735) for more details.
+
 ### E
 
 #### **Esri**
