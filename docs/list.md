@@ -215,6 +215,13 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 ### R
 
+#### **Refact.ai**
+
+- **Swag**: 3 months of free access to the Refact.ai tool
+- **Requirements**: Have 1 accepted PR's to [Refact-lsp repository](https://github.com/smallcloudai/refact-lsp)
+- **How to sign up**: No separate signup known.
+- **Notes**: Know more on the [open issues](https://github.com/smallcloudai/refact-lsp/issues)
+
 #### **Robo.js**
 
 - **Swag**: Discord Nitro, T-Shirt, RoboPlay, Stickers (as prizes)
