@@ -298,6 +298,21 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Issues**: Issues [tagged for hacktoberfest](https://github.com/Multiwoven/multiwoven/issues?ref=blog.squared.ai).
 - **Notes**: Read the [ai squared blog](https://blog.squared.ai/hacktoberfest-2024-celebrate-open-source-with-multiwoven/) for details..
 
+### O
+
+#### **oss.gg**
+
+- **Swag**: MacBook, iPhone, PlayStation, AirPods, Keyboard and a brick
+- **Requirements**:
+    - Complete [code](https://oss.gg/code) and [non-code](https://oss.gg/non-code) contributions to get points.
+    - Each point is a lottery ticket.
+    - Lottery happens on 31st October 2024
+- **How to sign up**: Sign up at [oss.gg](https://oss.gg/signup)
+- **Issues**:
+    - All [open issues](https://oss.gg/oss-issues).
+    - [Side quests and challenges](https://oss.gg/)
+- **Notes**: Read [oss.gg](https://oss.gg/) for more information.
+
 ### R
 
 #### **Refact.ai**
