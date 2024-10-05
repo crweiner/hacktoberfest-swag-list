@@ -297,6 +297,19 @@ No one currently! Interested in having a prominent placement for your open sourc
   - 45 - 50 points - Sticker + Socks + T-shirt
 - **Learn More**: Check [Tolgee GitHub Repo](https://github.com/tolgee/tolgee-platform/blob/main/Hacktobefest2024.md)
 
+#### **TruffleHog**
+
+- **Swag**: Laptop, backpack, swag or equal value Amazon gift card.
+- **Requirements**:
+    - Contribute to improving their existing Detectors in the [trufflehog](https://github.com/trufflesecurity/trufflehog) repo.
+    - Each merged PR will be rewarded with 1 point.
+    - Top three point earners will be announced as the winners.
+    - First Prize: 13-inch MacBook Air(M3) or $1,000 Amazon Gift Card.
+    - Second Prize: Timbuk2 Backpack or $300 Amazon Gift Card.
+    - Third Prize: Custom TruffleHog Swag or $100 Amazon Gift Card.
+- **How to sign up**: No specific signup mentioned.
+- **Notes**: Read the [Truffle Security blog post](https://trufflesecurity.com/blog/hacktoberfest-2024-detector-improvement-competition-at-truffle-security) for more details.
+
 #### **tscircuit**
 
 - **Swag**: Hats, Hoodies
