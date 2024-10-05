@@ -149,7 +149,7 @@ No one currently! Interested in having a prominent placement for your open sourc
     - Earn a point with each merged PR.
     - Top 20 squads will be announced winners.
 - **How to sign up**: Sign up at [DevFestAI](https://devfest.ai/) with a maximum of 5 members.
-- **Notes**: Read more at [DevFest AI](https://devfest.ai/) for more information and attend exclusive events..
+- **Notes**: Read more at [DevFest AI](https://devfest.ai/) for more information and attend exclusive events.
 
 #### **DocsGPT**
 
@@ -159,8 +159,8 @@ No one currently! Interested in having a prominent placement for your open sourc
     - Build an app using DocsGPT API.
     - Make non-code contributions like improving docs or creating a guide.
     - Improve UI/UX or design a new feature.
-    - Blog or create a video showcasing DOcsGPT
-    - After contributing fill this [form](https://airtable.com/appikMaJwdHhC1SDP/pagoblCJ9W29wf6Hf/form)
+    - Blog or create a video showcasing DocsGPT
+    - After contributing fill this [form](https://airtable.com/appikMaJwdHhC1SDP/pagoblCJ9W29wf6Hf/form).
 - **How to sign up**: No signup needed.
 - **Issues**: Check out [open issues](https://github.com/arc53/DocsGPT/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen) and [roadmap](https://github.com/orgs/arc53/projects/2).
 - **Notes**: Read the [announcement post](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
@@ -228,7 +228,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 #### **Hiero**
 
 - **Swag**: T-shirt
-- **Requirements**: Contribute to any of the open issues of varied difficulty.
+- **Requirements**: Contribute to any of the open issues from Heiro repos from beginner to advanced difficulty.
 - **How to sign up**: No signup needed.
 - **Issues**: List of available [open issues](https://hiero.org/hacktoberfest/)
 - **Notes**: Check out the [announcement post](https://hiero.org/hacktoberfest/) for more details or join their [GitHub discussion](https://github.com/orgs/LFDT-Hiero/discussions) to get any of your questions answered.
@@ -314,10 +314,10 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**:
     - Fix issues tagged with `hacktoberfest`
     - Complete three approved PRs to earn the Multiwoven swag.
-    - Top contributors will be rewared special rewards.
+    - Top contributors will be rewarded special rewards.
 - **How to sign up**: No signup needed.
 - **Issues**: Issues [tagged for hacktoberfest](https://github.com/Multiwoven/multiwoven/issues?ref=blog.squared.ai).
-- **Notes**: Read the [ai squared blog](https://blog.squared.ai/hacktoberfest-2024-celebrate-open-source-with-multiwoven/) for details..
+- **Notes**: Read the [ai squared blog](https://blog.squared.ai/hacktoberfest-2024-celebrate-open-source-with-multiwoven/) for details.
 
 ### O
 
@@ -349,7 +349,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Complete any of the tasks to win
     - Best use of AG Grid component.
     - Build the most aesthetic Reflex app.
-    - Build an app that improves DX of developer workflow.
+    - Build an app that improves DX of the dev workflow.
     - Wrap various React components in Reflex.
 - **How to sign up**: No signup needed
 - **Issues**:
