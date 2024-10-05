@@ -159,7 +159,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Requirements**: Contribute to crypto, web3, or Ethereum-based open-source projects. Code, no-code, tutorials, documentation are all welcome.
 - **How to sign up**: Register for Hacktoberfest [here](https://hacktoberfest.com/participation/).
 - **Issues**: N/A
-- **Notes**: Month-long event rewarding contributions with a $500 OP prize pool
+- **Notes**: Month-long event rewarding contributions with a $500 OP prize pool.
 
 ### S
 
