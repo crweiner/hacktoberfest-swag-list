@@ -132,6 +132,15 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
+### Q
+
+#### **QuestDB**
+
+- **Swag**: T-shirt for contributors.
+- **Requirements**: Contribute to one of the three participating repositories during Hacktoberfest 2024.
+- **How to sign up**: Register for Hacktoberfest [here](https://hacktoberfest.com/participation/).
+- **Notes**: QuestDB is participating in Hacktoberfest 2024. Contributors to any of the three repositories are eligible to win a T-shirt. Check their GitHub repository [here](https://github.com/questdb/questdb).
+
 ### S
 
 #### **ServiceNow**
