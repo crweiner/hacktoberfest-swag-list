@@ -167,7 +167,7 @@ No one currently! Interested in having a prominent placement for your open sourc
 
 #### **dstack**
 
-- **Swag**: upto $500 GPU credits to use with dstack Sky
+- **Swag**: up to $500 GPU credits to use with dstack Sky.
 - **Requirements**:
     - Fix eligible open issues.
     - Only quality contributions will be reviewed and merged.
@@ -176,7 +176,7 @@ No one currently! Interested in having a prominent placement for your open sourc
     - $500 bounty to fix an advanced issue
 - **How to sign up**: No signup needed
 - **Issues**: [Open issues](https://github.com/dstackai/dstack/issues/1735) of all levels.
-- **Notes**: Checkout [announcement post](https://github.com/dstackai/dstack/issues/1735) for more details.
+- **Notes**: Checkout the [announcement post](https://github.com/dstackai/dstack/issues/1735) for more details.
 
 ### E
 
