@@ -14,7 +14,7 @@ Remember, [low-code or no-code contributions are encouraged](https://hacktoberfe
 
 ## Sponsored By
 
-[![tscircuit logo](img/tscircuit.png)](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=logo)
+[![tscircuit logo](img/tscircuit-transparent.png)](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=logo)
 
 [tscircuit](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=home) [(GitHub)](https://github.com/tscircuit/tscircuit)
 is a framework that allows you to build electronic circuit boards,
