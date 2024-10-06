@@ -315,31 +315,37 @@ MIT-licensed open-source
 - **How to sign up**:  Sign up at [Modtoberfest](https://modtoberfest.com/api/auth/signin) to track your progress.
 - **Notes**: FAQ and rules available at [Modtoberfest](https://modtoberfest.com/).
 
-#### **Multiwoven**
-
-- **Swag**: Merch and certificate of contribution
-- **Requirements**:
-    - Fix issues tagged with `hacktoberfest`
-    - Complete three approved PRs to earn the Multiwoven swag.
-    - Top contributors will be rewarded special rewards.
-- **How to sign up**: No signup needed.
-- **Issues**: Issues [tagged for hacktoberfest](https://github.com/Multiwoven/multiwoven/issues?ref=blog.squared.ai).
-- **Notes**: Read the [ai squared blog](https://blog.squared.ai/hacktoberfest-2024-celebrate-open-source-with-multiwoven/) for details.
-
 ### O
+
+#### **onchain**
+
+- **Swag**: $500 OP prize pool
+- **Requirements**: Contribute to crypto, web3, or Ethereum-based open-source projects. Code, no-code, tutorials, documentation are all welcome.
+- **How to sign up**: Register for Hacktoberfest [here](https://hacktoberfest.com/participation/).
+- **Issues**: N/A
+- **Notes**: Month-long event rewarding contributions with a $500 OP prize pool.
 
 #### **oss.gg**
 
-- **Swag**: MacBook, iPhone, PlayStation, AirPods, Keyboard and a brick
+- **Swag**: MacBook, iPhone, PlayStation, AirPods, Keyboard, and a brick.
 - **Requirements**:
     - Complete [code](https://oss.gg/code) and [non-code](https://oss.gg/non-code) contributions to get points.
     - Each point is a lottery ticket.
-    - Lottery happens on 31st October 2024
-- **How to sign up**: Sign up at [oss.gg](https://oss.gg/signup)
-- **Issues**:
+    - Lottery happens on 31st October 2024.
+- **How to sign up**: Sign up at [oss.gg](https://oss.gg/signup).
+- **Issues**: 
     - All [open issues](https://oss.gg/oss-issues).
-    - [Side quests and challenges](https://oss.gg/)
-- **Notes**: Read [oss.gg](https://oss.gg/) for more information.
+    - [Side quests and challenges](https://oss.gg/).
+- **Notes**: Read more at [oss.gg](https://oss.gg/).
+
+### Q
+
+#### **QuestDB**
+
+- **Swag**: T-shirt for contributors.
+- **Requirements**: Contribute to one of the three participating repositories during Hacktoberfest 2024.
+- **How to sign up**: Register for Hacktoberfest [here](https://hacktoberfest.com/participation/).
+- **Notes**: QuestDB is participating in Hacktoberfest 2024. Contributors to any of the three repositories are eligible to win a T-shirt. Check their GitHub repository [here](https://github.com/questdb/questdb).
 
 ### R
 
