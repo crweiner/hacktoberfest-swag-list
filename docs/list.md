@@ -12,7 +12,14 @@ See [**Contributing.md**](./contributing.md) to see how to format your pull requ
 
 ## Sponsored By:
 
-No one currently! Interested in having a prominent placement for your open source project on one of the highest-trafficed Hacktoberfest-related sites? [Find my links here](https://chandlerweiner.com/aboutme/).
+[![tscircuit logo](img/tscircuit-transparent.png)](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=logo)
+
+[tscircuit](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=list) [(GitHub)](https://github.com/tscircuit/tscircuit)
+is a framework that allows you to build electronic circuit boards,
+schematics and PCB layouts with React, Typescript and AI tools. We do live stream
+development and love to chat with contributors on our [discord](https://tscircuit.com/join).
+Check out our [Hacktoberfest Getting Started Guide](https://blog.tscircuit.com/p/build-electronics-with-typescript).
+MIT-licensed open-source
 
 ## Swag List 2024
 
@@ -284,6 +291,8 @@ No one currently! Interested in having a prominent placement for your open sourc
 - **Learn More**: Check [Tolgee GitHub Repo](https://github.com/tolgee/tolgee-platform/blob/main/Hacktobefest2024.md)
 
 #### **tscircuit**
+
+[![tscircuit small logo](img/tscircuit-small-removebg-preview.png)](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=logolist)
 
 - **Swag**: Hats, Hoodies
 - **Requirements**:
