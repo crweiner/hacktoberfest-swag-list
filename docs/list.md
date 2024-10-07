@@ -341,6 +341,17 @@ MIT-licensed open-source
     - [Side quests and challenges](https://oss.gg/)
 - **Notes**: Read [oss.gg](https://oss.gg/) for more information.
 
+#### **Owncast**
+
+- **Swag**: Digital badge, Owncast t-shirt
+- **Requirements**: 
+    - Register for Hacktoberfest 2024 by clicking [here](https://hacktoberfest.com/)
+    - Make quality contributions to Owncast (e.g. fix a bug, write useful documentation, create content around Owncast)
+    - Get 4 pull/merge requests accepted during Hacktoberfest to level up your digital badge
+- **How to sign up**: Register for Hacktoberfest 2024 starting September 26th
+- **Issues**: [Good First Issues](https://github.com/owncast/owncast/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- **Notes**: Read the [Owncast Contributor Guide](https://owncast.online/docs/contributing/) and [Hacktoberfest Values](https://hacktoberfest.com/participation/)
+
 ### R
 
 #### **Refact.ai**
