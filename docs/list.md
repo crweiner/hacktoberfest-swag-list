@@ -62,6 +62,16 @@ MIT-licensed open-source
 - **How to sign up**: Join the hackathon with up to 4 people total [by going here](https://hacktoberfest.appwrite.io/).
 - **Notes**: Read the [Hacktoberfest 2024 hackathon blog post here](https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024).
 
+#### **Asgardeo React SDK**
+
+- **Swag**: Amazon vouchers, WSO2 Practitioner/Developer certification vouchers, $1,000 Asgardeo credits (valid for 12 months).
+- **Requirements**:
+    - $25 Amazon voucher: Issues marked as good first issue.
+    - $50 Amazon voucher: For other issues.
+- **How to sign up**: No signup link known.
+- **Issues**: Look for issues tagged  as `hacktoberfest` [here](https://github.com/asgardeo/asgardeo-auth-react-sdk/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **Notes**:  Read the [announcement post](https://github.com/asgardeo/asgardeo-auth-react-sdk/blob/main/HACKTOBERFEST.md) for more details.
+
 #### **Auth0 by Okta**
 
 - **Swag**: T-shirt
