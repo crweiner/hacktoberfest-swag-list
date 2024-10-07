@@ -45,3 +45,14 @@ Participating in Hacktoberfest requires following the [official values](https://
 ---
 
 If you're looking for the Swag List from 2018 through 2023 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), and [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023) branches.
+
+
+## 👀 Our Contributors
+- We extend our heartfelt gratitude for your invaluable contribution to our project! Your efforts play a pivotal role in elevating Ratna-Supermarket to greater heights.
+- Make sure you show some love by giving ⭐ to our repository.
+<div align="center">
+  <a href="https://github.com/crweiner/hacktoberfest-swag-list">
+    <img src="https://contrib.rocks/image?repo=crweiner/hacktoberfest-swag-list&&max=1000" />
+  </a>
+</div>
+---
