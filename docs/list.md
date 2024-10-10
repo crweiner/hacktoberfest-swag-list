@@ -341,6 +341,18 @@ MIT-licensed open-source
     - [Side quests and challenges](https://oss.gg/)
 - **Notes**: Read [oss.gg](https://oss.gg/) for more information.
 
+### P
+
+#### **Portkey**
+
+- **Swag**: AirPods Pro (2nd generation) and a Portkey AI Swag Box with T-shirts and more!
+- **Requirements**:
+    - 2+ successfull contributions: Portkey AI Swag Box with T-shirts and more
+    - Top contributors: A pair of AirPods Pro (2nd Generation)
+- **How to sign up**: No signup needed
+- **Issues**: Look for issues [tagged for hacktober fest](https://github.com/Portkey-AI/gateway/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+- **Notes**: visit [Portkey blog](https://portkey.ai/blog/portkey-hacktoberfest-24/) for more information
+
 ### R
 
 #### **Refact.ai**
