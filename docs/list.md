@@ -345,13 +345,13 @@ MIT-licensed open-source
 
 #### **Portkey**
 
-- **Swag**: AirPods Pro (2nd generation) and a Portkey AI Swag Box with T-shirts and more!
+- **Swag**: AirPods Pro (2nd generation), Portkey AI Swag Box, T-shirts and more.
 - **Requirements**:
-    - 2+ successfull contributions: Portkey AI Swag Box with T-shirts and more
-    - Top contributors: A pair of AirPods Pro (2nd Generation)
+    - Make 2+ successful contributions to win a Portkey AI Swag Box with T-shirts and more.
+    - Top contributors will win a pair of AirPods Pro (2nd Generation).
 - **How to sign up**: No signup needed
-- **Issues**: Look for issues [tagged for hacktober fest](https://github.com/Portkey-AI/gateway/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
-- **Notes**: visit [Portkey blog](https://portkey.ai/blog/portkey-hacktoberfest-24/) for more information
+- **Issues**: Issues [tagged with hacktoberfest](https://github.com/Portkey-AI/gateway/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) label.
+- **Notes**: Visit [Portkey blog](https://portkey.ai/blog/portkey-hacktoberfest-24/) for more information.
 
 ### R
 
