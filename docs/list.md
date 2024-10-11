@@ -451,6 +451,18 @@ MIT-licensed open-source
 - **How to sign up**: No known signup link.
 - **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
 
+### K
+
+#### **KitOps**
+
+- **Swag**: T-Shirt
+- **Requirements**:
+    - Star [KitOps](https://github.com/jozu-ai/kitops) on GitHub
+    - Join [Discord](https://discord.gg/Tapeh8agYy)
+    - Make successful contributions on issues tagged with `hacktoberfest` to win a KitOps branded T-shirt
+- **How to sign up**: No signup needed, KitOps team will be raffling off swag to community members who contribute to project all month.
+- **Issues**: Issues [tagged with hacktoberfest](https://github.com/jozu-ai/kitops/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) label.
+- **Notes**: Visit [KitOps Anoouncement Post](https://x.com/Kit_Ops/status/1844426229266653412)
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
