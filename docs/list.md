@@ -62,6 +62,7 @@ MIT-licensed open-source
     - Both *code or no-code contributions are accepted
 - **How to sign up**: Sign up for Hacktoberfest on the [official site](https://hacktoberfest.com/auth/)
 - **Notes**: Check out their [blog](https://antennapod.org/blog/2024/10/hacktoberfest-2024) for more details
+
 #### **Appwrite**
 
 - **Swag**:
