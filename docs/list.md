@@ -355,6 +355,17 @@ MIT-licensed open-source
 
 ### R
 
+#### **Razorpay**
+
+- **Swag**:  Razorpay special goodies.
+- **Requirements**:
+    - Contribute to any of the [Razorpay repositories.](https://github.com/orgs/razorpay/repositories)
+    - After your PR is accepted, [fill this form](https://forms.gle/fFNqHE4q88E2orrK7) to receive your swag.
+    - Swag will be shipped only within India.
+- **How to sign up**: No signup needed.
+- **Issues**: All the open [open issues](https://github.com/search?q=org%3Arazorpay+is%3Aissue+is%3Aopen&type=issues) at Razorpay.
+- **Notes**: Read the [Razorpay Hacktoberfest](https://opensource.razorpay.com/hacktoberfest-2024/) page for more details.
+
 #### **Refact.ai**
 
 - **Swag**: 3 months of free access to the Refact.ai tool
