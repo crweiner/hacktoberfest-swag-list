@@ -275,6 +275,18 @@ MIT-licensed open-source
       - Send them an email with your contributions at: <contact@javascripttoday.com>.
 - **Notes**: See the [JSToday Hacktoberfest blog post](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) for more information
 
+### K
+
+#### Kairos
+
+- **Swag**: T-shirt and stickers.
+- **Requirements**:
+    - Make any successful PR in any of their repos or raise a PR for any ticket with `hacktoberfest` label.
+    - First 10 contributions will be rewarded with Kairos t-shirts and stickers.
+- **How to sign up**: No signup known.
+- **Issues**: Issues with [`hacktoberfest` label.](https://github.com/kairos-io/kairos/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+- **Notes**: Read the [announcement post](https://kairos.io/blog/2024/10/07/hacktoberfest-2024/) for more details.
+
 ### L
 
 #### **Langfuse**
