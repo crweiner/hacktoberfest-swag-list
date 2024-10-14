@@ -326,6 +326,18 @@ MIT-licensed open-source
 - **Issues**: Issues [tagged for hacktoberfest](https://github.com/Multiwoven/multiwoven/issues?ref=blog.squared.ai).
 - **Notes**: Read the [ai squared blog](https://blog.squared.ai/hacktoberfest-2024-celebrate-open-source-with-multiwoven/) for details.
 
+### N
+
+#### **Nuclei**
+- **Swag**: PD stickers
+- **Requirements**:
+    - Send PR, Create issues and submit new [template](https://github.com/projectdiscovery/nuclei-templates).
+    - On successfully completing you will receive stickers.
+- **How to sign up**: No signup needed.
+- **Issues**:
+    - All [open issues](https://github.com/projectdiscovery/nuclei-templates/issues).
+- **Notes**: Read [contribution](https://github.com/projectdiscovery/nuclei-templates/blob/main/CONTRIBUTING.md) for more information.
+
 ### O
 
 #### **oss.gg**
