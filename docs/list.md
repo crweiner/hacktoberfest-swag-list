@@ -122,7 +122,7 @@ MIT-licensed open-source
 
 - **Swag**: CopilotKit swag
 - **Requirements**:
-    - Create innovative demos for CopilitKit to earn points from 0 to 100 based on creativity, practicality, quality and UI/UX.
+    - Create innovative demos for CopilotKit to earn points from 0 to 100 based on creativity, practicality, quality and UI/UX.
     - Swag is only available if you complete a demo.
 - **How to sign up**: No signup needed.
 - **Issues**: [Open issues](https://github.com/CopilotKit/CopilotKit/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3Ahacktoberfest) with demo ideas with label `hacktoberfest`.
@@ -235,7 +235,7 @@ MIT-licensed open-source
 #### **Hiero**
 
 - **Swag**: T-shirt
-- **Requirements**: Contribute to any of the open issues from Heiro repos from beginner to advanced difficulty.
+- **Requirements**: Contribute to any of the open issues from Hiero repos from beginner to advanced difficulty.
 - **How to sign up**: No signup needed.
 - **Issues**: List of available [open issues](https://hiero.org/hacktoberfest/)
 - **Notes**: Check out the [announcement post](https://hiero.org/hacktoberfest/) for more details or join their [GitHub discussion](https://github.com/orgs/LFDT-Hiero/discussions) to get any of your questions answered.
