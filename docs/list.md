@@ -353,6 +353,20 @@ MIT-licensed open-source
     - [Side quests and challenges](https://oss.gg/)
 - **Notes**: Read [oss.gg](https://oss.gg/) for more information.
 
+### Q
+
+#### **QuickBlok**
+
+- **Swag**: T-shirt, hoodie, backpack and bottle.
+- **Requirements**:
+    - Create a Project using QuickBlok.
+    - Create a short demo video demonstrating your project's functionality.
+    - Upload your project to Github in a public repo.
+    - Submit your project repo at [QuickBlok Hacktoberfest Challenge repo.](https://github.com/QuickBlox/quickblox-hacktoberfest-challenge)
+    - Once your PR is successfully merged, [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSc5g4um52B-8MQOVXgse_V3JMgyX6dIC7hVbrl_Uck4IcLEiQ/viewform) to claim your prize.
+- **How to sign up**: Register for the [QuickBlok Hacktoberest Challenge.](https://quickblox-26787421.hs-sites-eu1.com/hacktoberfest-challenge24)
+- **Notes**: Read the [QuickBlok Hacktoberfest Challenge page](https://quickblox.com/blog/quickblox-hacktoberfest-challenge/) for more getting started, submission guide and FAQs.
+
 ### R
 
 #### **Razorpay**
