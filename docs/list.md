@@ -463,6 +463,21 @@ MIT-licensed open-source
 - **How to sign up**: No known signup link.
 - **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
 
+### W
+
+#### **WrenAI**
+
+- **Swag**: T-shirt and cap.
+- **Requirements**: Contribute to WrenAI in any of the following ways
+    - Fix open issues with [`hacktoberfest` label.](https://github.com/Canner/WrenAI/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - Add new data sources from the list of [requested sources.](https://github.com/Canner/WrenAI/discussions/327)
+    - Start a discussion on their [Discord](https://discord.gg/Eg7VY6nYY5) to contribute to UI/UX improvements or features.
+    - Make sure you resolve all the suggestions made by the Wren AI contributors to finalize your contribution.
+- **How to sign up**: No known signup link.
+- **Notes**:
+    - Read the [contribution guidelines](https://github.com/Canner/WrenAI/blob/main/CONTRIBUTING.md) before you start developing.
+    - Read the [announcement](https://getwren.ai/wren-ai-hacktoberfest-2024) for more details.
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
