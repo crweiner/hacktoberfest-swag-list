@@ -39,6 +39,21 @@ MIT-licensed open-source
 
 ### A
 
+#### **Airbyte**
+
+- **Swag**: Cash prizes or swag(Mug, cap, windbreaker,etc) from their store.
+- **Requirements**:
+    - Build a connector from the [pre-defined list](https://github.com/orgs/airbytehq/projects/46) or suggest a new connector.
+    - Build the connector using Connector Builder in Airbyte Cloud using AI assistant.
+    - Each merged connector will be rewarded $50.
+    - Top 6 most connectors merged will receive cash prizes starting from $4,000 to $400 to the 6th place winner.
+    - Each cash prize can be redeemed as swag or cash.
+- **How to sign up**: No special signup required.
+- **Issues**:
+    - [Pre-defined list](https://github.com/orgs/airbytehq/projects/46) of required connectors.
+    - [Instructions](https://github.com/airbytehq/airbyte/discussions/46267) to suggest a new connector for the Hackathon.
+- **Notes**: Check [Airbyte 1.0 Hacktoberfest: Connector Builder Challenge](https://airbyte.com/community/connector-hackathon) for more details.
+
 #### **Animata**
 
 - **Swag**: $50 reward through a raffle system
