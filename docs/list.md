@@ -341,6 +341,31 @@ MIT-licensed open-source
     - [Side quests and challenges](https://oss.gg/)
 - **Notes**: Read [oss.gg](https://oss.gg/) for more information.
 
+#### **Owncast**
+
+- **Swag**: Digital badge, Owncast [t-shirt](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online), the contributors thank-you video on [Owncast TV](https://watch.owncast.online/)
+- **Requirements**:
+    - Make quality contributions to Owncast (e.g. fix a bug, write useful documentation, create content around Owncast)
+    - Get 4 pull/merge requests accepted during Hacktoberfest to level up your digital badge
+    - Quality contributions earn a t-shirt
+- **How to sign up**: [Sign up to get your t-shirt swag here.](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online)
+- **Issues**: Look for [Good First Issues](https://github.com/owncast/owncast/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- **Notes**: Read the [Owncast Contributor Guide](https://owncast.online/docs/contributing/) and for more info check their blog post [here](https://owncast.online/hacktoberfest/).
+
+### P
+
+#### **Postiz**
+
+- **Swag**: T-shirt.
+- **Requirements**:
+  - You must create an issue before making a pull request.
+  - You can also ask to be assigned to an issue. During Hacktoberfest, each issue can have multiple assignees.
+  - We have to approve the issue and add a "hacktoberfest" tag.
+  - We encourage everybody to contribute to all types of issues. We will only send swag for issues with features and bug fixes (no typos, sorry).
+- **How to sign up**: No separate signup known
+- **Issues**: All [open issues](https://github.com/gitroomhq/postiz-app/issues)
+- **Notes**: Read the [announcement post](https://github.com/gitroomhq/postiz-app#we-participate-in-hacktoberfest-2024-) for more information.
+
 ### Q
 
 #### **QuestDB**
