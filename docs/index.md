@@ -14,7 +14,14 @@ Remember, [low-code or no-code contributions are encouraged](https://hacktoberfe
 
 ## Sponsored By
 
-No one currently! Interested in having a prominent placement for your open source project on one of the highest-trafficked Hacktoberfest-related sites? [Find my links here](https://chandlerweiner.com/aboutme/).
+[![tscircuit logo](img/tscircuit-transparent.png)](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=logo)
+
+[tscircuit](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=website&utm_campaign=home) [(GitHub)](https://github.com/tscircuit/tscircuit)
+is a framework that allows you to build electronic circuit boards,
+schematics and PCB layouts with React, Typescript and AI tools. We do live stream
+development and love to chat with contributors on our [discord](https://tscircuit.com/join).
+Check out our [Hacktoberfest Getting Started Guide](https://blog.tscircuit.com/p/build-electronics-with-typescript).
+MIT-licensed open-source
 
 ---
 
