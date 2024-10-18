@@ -68,6 +68,15 @@ MIT-licensed open-source
 - **Issues**: Open issues with label `hacktoberfest` on the [Github Project Board](https://github.com/orgs/codse/projects/37/views/2).
 - **Notes**: Read the [Animata Design Blog post](https://animata.design/blog/hacktoberfest-2024) for more details.
 
+#### **AntennaPod**
+
+- **Swag**: Stickers
+- **Requirements**:
+    - Two/more PRs that close an issue.
+    - Both code or no-code contributions are accepted
+- **How to sign up**: No known signup steps.
+- **Notes**: Check out their [blog](https://antennapod.org/blog/2024/10/hacktoberfest-2024) for more details
+
 #### **Appwrite**
 
 - **Swag**:
