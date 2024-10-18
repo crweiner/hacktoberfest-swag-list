@@ -137,9 +137,12 @@ No one currently! Interested in having a prominent placement for your open sourc
 #### **QuestDB**
 
 - **Swag**: T-shirt for contributors.
-- **Requirements**: Contribute to one of the three participating repositories during Hacktoberfest 2024.
-- **How to sign up**: Register for Hacktoberfest [here](https://hacktoberfest.com/participation/).
-- **Notes**: QuestDB is participating in Hacktoberfest 2024. Contributors to any of the three repositories are eligible to win a T-shirt. Check their GitHub repository [here](https://github.com/questdb/questdb).
+- **Requirements**: Contribute to one of the three participating repositories:
+    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: No known signup method.
+- **Notes**: QuestDB is participating in Hacktoberfest 2024. Contributors to any of the three repositories are eligible to win a T-shirt. Check their Hacktoberfest blog post [here](https://questdb.io/blog/hacktoberfest-2024-questdb/).
 
 ### S
 
