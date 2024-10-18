@@ -457,12 +457,12 @@ MIT-licensed open-source
 
 - **Swag**: T-Shirt
 - **Requirements**:
-    - Star [KitOps](https://github.com/jozu-ai/kitops) on GitHub
-    - Join [Discord](https://discord.gg/Tapeh8agYy)
-    - Make successful contributions on issues tagged with `hacktoberfest` to win a KitOps branded T-shirt
-- **How to sign up**: No signup needed, KitOps team will be raffling off swag to community members who contribute to project all month.
+    - Join KitOps on [Discord](https://discord.gg/Tapeh8agYy).
+    - Make successful contributions on issues tagged with `hacktoberfest` to enter a raffle.
+    - KitOps team will be raffling off swag to community members who contribute to project all month.
+- **How to sign up**: No signup needed,
 - **Issues**: Issues [tagged with hacktoberfest](https://github.com/jozu-ai/kitops/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) label.
-- **Notes**: Visit [KitOps Anoouncement Post](https://x.com/Kit_Ops/status/1844426229266653412)
+- **Notes**: Check the [KitOps announcement on X](https://x.com/Kit_Ops/status/1844426229266653412) for more details.
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
