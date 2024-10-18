@@ -64,7 +64,7 @@ MIT-licensed open-source
 
 #### **Asgardeo React SDK**
 
-- **Swag**: Amazon vouchers, WSO2 Practitioner/Developer certification vouchers, $1,000 Asgardeo credits (valid for 12 months).
+- **Swag**: Amazon vouchers, WSO2 Practitioner/Developer certification vouchers, $1,000 Asgardeo credits (valid for 12 months) based on the complexity of the issue.
 - **Requirements**:
     - $25 Amazon voucher: Issues marked as good first issue.
     - $50 Amazon voucher: For other issues.
