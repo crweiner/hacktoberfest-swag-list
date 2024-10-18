@@ -366,6 +366,18 @@ MIT-licensed open-source
 - **Issues**: All [open issues](https://github.com/gitroomhq/postiz-app/issues)
 - **Notes**: Read the [announcement post](https://github.com/gitroomhq/postiz-app#we-participate-in-hacktoberfest-2024-) for more information.
 
+### Q
+
+#### **QuestDB**
+
+- **Swag**: T-shirt for contributors.
+- **Requirements**: Contribute to one of the three participating repositories:
+    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: No known signup method.
+- **Notes**: QuestDB is participating in Hacktoberfest 2024. Contributors to any of the three repositories are eligible to win a T-shirt. Check their Hacktoberfest blog post [here](https://questdb.io/blog/hacktoberfest-2024-questdb/).
+
 ### R
 
 #### **Refact.ai**
