@@ -41,7 +41,7 @@ MIT-licensed open-source
 
 #### **Airbyte**
 
-- **Swag**: Cash prizes or swag(Mug, cap, windbreaker,etc) from their store.
+- **Swag**: Cash prizes or swag (Mug, cap, windbreaker,etc) from their store.
 - **Requirements**:
     - Build a connector from the [pre-defined list](https://github.com/orgs/airbytehq/projects/46) or suggest a new connector.
     - Build the connector using Connector Builder in Airbyte Cloud using AI assistant.
