@@ -453,7 +453,7 @@ MIT-licensed open-source
 #### **Tolgee**
 
 - **Swag**: Stickers, Socks, T-shirts
-- **Requirements**: Submit a pull request addressing issues tagged with `#hacktoberfest` and create a demo project (e.g. React, Angular, Vue, Svelte, PHP, Flutter, Ruby, iOS, Android) using Tolgee. Projects will be scored 10-50 based on quality, UX, creativity, and usefulness:
+- **Requirements**: Submit a pull request addressing issues tagged with `#hacktoberfest` or create a demo project (e.g. React, Angular, Vue, Svelte, PHP, Flutter, Ruby, iOS, Android) using Tolgee. Projects will be scored 10-50 based on quality, UX, creativity, and usefulness:
   - 30 - 40 points - Sticker
   - 40 - 45 points - Sticker + Socks
   - 45 - 50 points - Sticker + Socks + T-shirt
