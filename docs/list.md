@@ -77,6 +77,16 @@ MIT-licensed open-source
 - **How to sign up**: Join the hackathon with up to 4 people total [by going here](https://hacktoberfest.appwrite.io/).
 - **Notes**: Read the [Hacktoberfest 2024 hackathon blog post here](https://appwrite.io/blog/post/appwrite-hacktoberfest-hackathon-2024).
 
+#### **Asgardeo React SDK**
+
+- **Swag**: Amazon vouchers, WSO2 Practitioner/Developer certification vouchers, $1,000 Asgardeo credits (valid for 12 months) based on the complexity of the issue.
+- **Requirements**:
+    - $25 Amazon voucher: Issues marked as good first issue.
+    - $50 Amazon voucher: For other issues.
+- **How to sign up**: No signup link known.
+- **Issues**: Look for issues tagged  as `hacktoberfest` [here](https://github.com/asgardeo/asgardeo-auth-react-sdk/issues?q=is%3Aissue+is%3Aopen+label%3AHacktoberfest).
+- **Notes**:  Read the [announcement post](https://github.com/asgardeo/asgardeo-auth-react-sdk/blob/main/HACKTOBERFEST.md) for more details.
+
 #### **Auth0 by Okta**
 
 - **Swag**: T-shirt
@@ -368,7 +378,52 @@ MIT-licensed open-source
     - [Side quests and challenges](https://oss.gg/)
 - **Notes**: Read [oss.gg](https://oss.gg/) for more information.
 
+### P
+
+#### **Portkey**
+
+- **Swag**: AirPods Pro (2nd generation), Portkey AI Swag Box, T-shirts and more.
+- **Requirements**:
+    - Make 2+ successful contributions to win a Portkey AI Swag Box with T-shirts and more.
+    - Top contributors will win a pair of AirPods Pro (2nd Generation).
+- **How to sign up**: No signup needed
+- **Issues**: Issues [tagged with hacktoberfest](https://github.com/Portkey-AI/gateway/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) label.
+- **Notes**: Visit [Portkey blog](https://portkey.ai/blog/portkey-hacktoberfest-24/) for more information.
+
+#### **Postiz**
+
+- **Swag**: T-shirt.
+- **Requirements**:
+  - You must create an issue before making a pull request.
+  - You can also ask to be assigned to an issue. During Hacktoberfest, each issue can have multiple assignees.
+  - We have to approve the issue and add a "hacktoberfest" tag.
+  - We encourage everybody to contribute to all types of issues. We will only send swag for issues with features and bug fixes (no typos, sorry).
+- **How to sign up**: No separate signup known
+- **Issues**: All [open issues](https://github.com/gitroomhq/postiz-app/issues)
+- **Notes**: Read the [announcement post](https://github.com/gitroomhq/postiz-app#we-participate-in-hacktoberfest-2024-) for more information.
+
 ### Q
+
+#### **Owncast**
+
+- **Swag**: Digital badge, Owncast [t-shirt](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online), the contributors thank-you video on [Owncast TV](https://watch.owncast.online/)
+- **Requirements**:
+    - Make quality contributions to Owncast (e.g. fix a bug, write useful documentation, create content around Owncast)
+    - Get 4 pull/merge requests accepted during Hacktoberfest to level up your digital badge
+    - Quality contributions earn a t-shirt
+- **How to sign up**: [Sign up to get your t-shirt swag here.](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online)
+- **Issues**: Look for [Good First Issues](https://github.com/owncast/owncast/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- **Notes**: Read the [Owncast Contributor Guide](https://owncast.online/docs/contributing/) and for more info check their blog post [here](https://owncast.online/hacktoberfest/).
+
+#### **QuestDB**
+
+- **Swag**: T-shirt for contributors.
+- **Requirements**: Contribute to one of the three participating repositories:
+    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: No known signup method.
+- **Notes**: QuestDB is participating in Hacktoberfest 2024. Contributors to any of the three repositories are eligible to win a T-shirt. Check their Hacktoberfest blog post [here](https://questdb.io/blog/hacktoberfest-2024-questdb/).
 
 #### **QuickBlok**
 
@@ -458,7 +513,7 @@ MIT-licensed open-source
 #### **Tolgee**
 
 - **Swag**: Stickers, Socks, T-shirts
-- **Requirements**: Submit a pull request addressing issues tagged with `#hacktoberfest` and create a demo project (e.g. React, Angular, Vue, Svelte, PHP, Flutter, Ruby, iOS, Android) using Tolgee. Projects will be scored 10-50 based on quality, UX, creativity, and usefulness:
+- **Requirements**: Submit a pull request addressing issues tagged with `#hacktoberfest` or create a demo project (e.g. React, Angular, Vue, Svelte, PHP, Flutter, Ruby, iOS, Android) using Tolgee. Projects will be scored 10-50 based on quality, UX, creativity, and usefulness:
   - 30 - 40 points - Sticker
   - 40 - 45 points - Sticker + Socks
   - 45 - 50 points - Sticker + Socks + T-shirt
