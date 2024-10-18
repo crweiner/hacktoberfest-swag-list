@@ -345,12 +345,12 @@ MIT-licensed open-source
 
 - **Swag**: Digital badge, Owncast [t-shirt](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online), the contributors thank-you video on [Owncast TV](https://watch.owncast.online/)
 - **Requirements**:
-    - Register for Hacktoberfest 2024 by clicking [here](https://hacktoberfest.com/participation/)
     - Make quality contributions to Owncast (e.g. fix a bug, write useful documentation, create content around Owncast)
     - Get 4 pull/merge requests accepted during Hacktoberfest to level up your digital badge
-- **How to sign up**: No seperate signup known
+    - Quality contributions earn a t-shirt
+- **How to sign up**: [Sign up to get your t-shirt swag here.](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online)
 - **Issues**: Look for [Good First Issues](https://github.com/owncast/owncast/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- **Notes**: Read the [Owncast Contributor Guide](https://owncast.online/docs/contributing/) and for more info check [here](https://owncast.online/hacktoberfest/#content-no-code-or-low-code-contributions)
+- **Notes**: Read the [Owncast Contributor Guide](https://owncast.online/docs/contributing/) and for more info check their blog post [here](https://owncast.online/hacktoberfest/).
 
 ### P
 
