@@ -39,6 +39,21 @@ MIT-licensed open-source
 
 ### A
 
+#### **Airbyte**
+
+- **Swag**: Cash prizes or swag (Mug, cap, windbreaker,etc) from their store.
+- **Requirements**:
+    - Build a connector from the [pre-defined list](https://github.com/orgs/airbytehq/projects/46) or suggest a new connector.
+    - Build the connector using Connector Builder in Airbyte Cloud using AI assistant.
+    - Each merged connector will be rewarded $50.
+    - Top 6 most connectors merged will receive cash prizes starting from $4,000 to $400 to the 6th place winner.
+    - Each cash prize can be redeemed as swag or cash.
+- **How to sign up**: No special signup required.
+- **Issues**:
+    - [Pre-defined list](https://github.com/orgs/airbytehq/projects/46) of required connectors.
+    - [Instructions](https://github.com/airbytehq/airbyte/discussions/46267) to suggest a new connector for the Hackathon.
+- **Notes**: Check [Airbyte 1.0 Hacktoberfest: Connector Builder Challenge](https://airbyte.com/community/connector-hackathon) for more details.
+
 #### **Animata**
 
 - **Swag**: $50 reward through a raffle system
@@ -132,7 +147,7 @@ MIT-licensed open-source
 
 - **Swag**: CopilotKit swag
 - **Requirements**:
-    - Create innovative demos for CopilitKit to earn points from 0 to 100 based on creativity, practicality, quality and UI/UX.
+    - Create innovative demos for CopilotKit to earn points from 0 to 100 based on creativity, practicality, quality and UI/UX.
     - Swag is only available if you complete a demo.
 - **How to sign up**: No signup needed.
 - **Issues**: [Open issues](https://github.com/CopilotKit/CopilotKit/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen+label%3Ahacktoberfest) with demo ideas with label `hacktoberfest`.
@@ -245,7 +260,7 @@ MIT-licensed open-source
 #### **Hiero**
 
 - **Swag**: T-shirt
-- **Requirements**: Contribute to any of the open issues from Heiro repos from beginner to advanced difficulty.
+- **Requirements**: Contribute to any of the open issues from Hiero repos from beginner to advanced difficulty.
 - **How to sign up**: No signup needed.
 - **Issues**: List of available [open issues](https://hiero.org/hacktoberfest/)
 - **Notes**: Check out the [announcement post](https://hiero.org/hacktoberfest/) for more details or join their [GitHub discussion](https://github.com/orgs/LFDT-Hiero/discussions) to get any of your questions answered.
@@ -284,6 +299,18 @@ MIT-licensed open-source
       - Once you’ve made your contributions, tweet or post on social media tagging @todayJavaScript with the hashtag #Hacktoberfest2024, and a link to your GH profile or PRs.
       - Send them an email with your contributions at: <contact@javascripttoday.com>.
 - **Notes**: See the [JSToday Hacktoberfest blog post](https://javascripttoday.com/blog/hacktoberfest-2024-free-sticker/) for more information
+
+### K
+
+#### Kairos
+
+- **Swag**: T-shirt and stickers.
+- **Requirements**:
+    - Make any successful PR in any of their repos or raise a PR for any ticket with `hacktoberfest` label.
+    - First 10 contributions will be rewarded with Kairos t-shirts and stickers.
+- **How to sign up**: No signup known.
+- **Issues**: Issues with [`hacktoberfest` label.](https://github.com/kairos-io/kairos/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+- **Notes**: Read the [announcement post](https://kairos.io/blog/2024/10/07/hacktoberfest-2024/) for more details.
 
 ### L
 
@@ -351,17 +378,6 @@ MIT-licensed open-source
     - [Side quests and challenges](https://oss.gg/)
 - **Notes**: Read [oss.gg](https://oss.gg/) for more information.
 
-#### **Owncast**
-
-- **Swag**: Digital badge, Owncast [t-shirt](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online), the contributors thank-you video on [Owncast TV](https://watch.owncast.online/)
-- **Requirements**:
-    - Make quality contributions to Owncast (e.g. fix a bug, write useful documentation, create content around Owncast)
-    - Get 4 pull/merge requests accepted during Hacktoberfest to level up your digital badge
-    - Quality contributions earn a t-shirt
-- **How to sign up**: [Sign up to get your t-shirt swag here.](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online)
-- **Issues**: Look for [Good First Issues](https://github.com/owncast/owncast/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-- **Notes**: Read the [Owncast Contributor Guide](https://owncast.online/docs/contributing/) and for more info check their blog post [here](https://owncast.online/hacktoberfest/).
-
 ### P
 
 #### **Portkey**
@@ -388,6 +404,17 @@ MIT-licensed open-source
 
 ### Q
 
+#### **Owncast**
+
+- **Swag**: Digital badge, Owncast [t-shirt](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online), the contributors thank-you video on [Owncast TV](https://watch.owncast.online/)
+- **Requirements**:
+    - Make quality contributions to Owncast (e.g. fix a bug, write useful documentation, create content around Owncast)
+    - Get 4 pull/merge requests accepted during Hacktoberfest to level up your digital badge
+    - Quality contributions earn a t-shirt
+- **How to sign up**: [Sign up to get your t-shirt swag here.](https://gabekangas.typeform.com/to/Wfx9UHVZ?typeform-source=owncast.online)
+- **Issues**: Look for [Good First Issues](https://github.com/owncast/owncast/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- **Notes**: Read the [Owncast Contributor Guide](https://owncast.online/docs/contributing/) and for more info check their blog post [here](https://owncast.online/hacktoberfest/).
+
 #### **QuestDB**
 
 - **Swag**: T-shirt for contributors.
@@ -398,7 +425,30 @@ MIT-licensed open-source
 - **How to sign up**: No known signup method.
 - **Notes**: QuestDB is participating in Hacktoberfest 2024. Contributors to any of the three repositories are eligible to win a T-shirt. Check their Hacktoberfest blog post [here](https://questdb.io/blog/hacktoberfest-2024-questdb/).
 
+#### **QuickBlok**
+
+- **Swag**: T-shirt, hoodie, backpack and bottle.
+- **Requirements**:
+    - Create a Project using QuickBlok.
+    - Create a short demo video demonstrating your project's functionality.
+    - Upload your project to Github in a public repo.
+    - Submit your project repo at [QuickBlok Hacktoberfest Challenge repo.](https://github.com/QuickBlox/quickblox-hacktoberfest-challenge)
+    - Once your PR is successfully merged, [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSc5g4um52B-8MQOVXgse_V3JMgyX6dIC7hVbrl_Uck4IcLEiQ/viewform) to claim your prize.
+- **How to sign up**: Register for the [QuickBlok Hacktoberest Challenge.](https://quickblox-26787421.hs-sites-eu1.com/hacktoberfest-challenge24)
+- **Notes**: Read the [QuickBlok Hacktoberfest Challenge page](https://quickblox.com/blog/quickblox-hacktoberfest-challenge/) for more getting started, submission guide and FAQs.
+
 ### R
+
+#### **Razorpay**
+
+- **Swag**:  Razorpay special goodies.
+- **Requirements**:
+    - Contribute to any of the [Razorpay repositories.](https://github.com/orgs/razorpay/repositories)
+    - After your PR is accepted, [fill this form](https://forms.gle/fFNqHE4q88E2orrK7) to receive your swag.
+    - Swag will be shipped only within India.
+- **How to sign up**: No signup needed.
+- **Issues**: All the open [open issues](https://github.com/search?q=org%3Arazorpay+is%3Aissue+is%3Aopen&type=issues) at Razorpay.
+- **Notes**: Read the [Razorpay Hacktoberfest](https://opensource.razorpay.com/hacktoberfest-2024/) page for more details.
 
 #### **Refact.ai**
 
@@ -507,6 +557,21 @@ MIT-licensed open-source
     - Code contribution (high-code): Turbot Hacktoberfest T-shirt
 - **How to sign up**: No known signup link.
 - **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
+
+### W
+
+#### **WrenAI**
+
+- **Swag**: T-shirt and cap.
+- **Requirements**: Contribute to WrenAI in any of the following ways
+    - Fix open issues with [`hacktoberfest` label.](https://github.com/Canner/WrenAI/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - Add new data sources from the list of [requested sources.](https://github.com/Canner/WrenAI/discussions/327)
+    - Start a discussion on their [Discord](https://discord.gg/Eg7VY6nYY5) to contribute to UI/UX improvements or features.
+    - Make sure you resolve all the suggestions made by the Wren AI contributors to finalize your contribution.
+- **How to sign up**: No known signup link.
+- **Notes**:
+    - Read the [contribution guidelines](https://github.com/Canner/WrenAI/blob/main/CONTRIBUTING.md) before you start developing.
+    - Read the [announcement](https://getwren.ai/wren-ai-hacktoberfest-2024) for more details.
 
 ---
 
