@@ -348,7 +348,7 @@ MIT-licensed open-source
   - Submit a PR to fix an issue tagged `hacktoberfest`, `help wanted`, or `good-first-issue` in one of their [supporting projects](https://github.com/layer5io).
   - 3 Contributions: Layer5 Contributor badge + Community recognition.
   - 5+ Contributions: Additional Layer5 badges and deeper involvement in the Layer5 community.
-- **How to sign up**: No signup link known.
+- **How to sign up**: Sign up [here](https://meshery.layer5.io/registration?flow=044992ae-1e93-43a7-8868-3d616672a8be)
 - **Notes**: [Check out the Layer5 Hacktoberfest Guide here](https://layer5.io/community/hacktoberfest) for more details.
 
 ### M
