@@ -113,6 +113,14 @@ MIT-licensed open-source
 - **How to sign up**: If your PR is merged, then [submit this form](https://forms.gle/517ebK579YwmPfRY6) to earn your credits.
 - **Notes**: [Check out the Ballerina Hacktoberfest page here](https://ballerina.io/hacktoberfest/).
 
+#### **Brisa**
+
+- **Swag**: T-shirt.
+- **Requirements**: Contribute to open issues at Brisa to win a t-shirt.
+- **How to sign up**: No signup required.
+- **Issues**: Open issues at [Brisa build.](https://github.com/brisa-build/brisa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- **Notes**: Check the [post on X](https://x.com/brisadotbuild/status/1849724008876400993) for more details.
+
 ### C
 
 #### **Chimoney**
