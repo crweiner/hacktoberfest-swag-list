@@ -411,6 +411,17 @@ MIT-licensed open-source
 - **Issues**: All [open issues](https://github.com/gitroomhq/postiz-app/issues)
 - **Notes**: Read the [announcement post](https://github.com/gitroomhq/postiz-app#we-participate-in-hacktoberfest-2024-) for more information.
 
+#### **Project Discovery**
+
+- **Swag**: Stickers, t-shirts and cash rewards.
+- **Requirements**:
+  - Contribute to Nuclei templates, every first-time contributor will receive stickers.
+  - Contribute to issues labeled `bounty` to win cash prizes between $50 to $250.
+  - Stay on top of the leaderboard of contributors to win more swag like t-shirt and stickers.
+- **How to sign up**: No separate signup known.
+- **Issues**: Issues [labeled `bounty`.](https://github.com/projectdiscovery/nuclei-templates/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22%F0%9F%92%8E%20Bounty%22)
+- **Notes**: Read the [announcement blog post](https://blog.projectdiscovery.io/announcing-the-nuclei-templates-community-leaderboard-and-rewards/) for more information.
+
 ### Q
 
 #### **Owncast**
