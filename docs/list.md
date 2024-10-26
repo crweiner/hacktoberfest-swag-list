@@ -569,6 +569,14 @@ MIT-licensed open-source
 
 ### W
 
+#### **Widgetbook**
+
+- **Swag**: Widgetbook Merch
+- **Requirements**: Contribute to one of the open issues to stand a chance to win some merch.
+- **How to sign up**: No known signup link.
+- **Issues**: Issues [labeled `hacktoberfest`.](https://github.com/widgetbook/widgetbook/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: No details of the merch provided but check their [post on X](https://x.com/widgetbook_io/status/1846506614284497260) for more details.
+
 #### **WrenAI**
 
 - **Swag**: T-shirt and cap.
