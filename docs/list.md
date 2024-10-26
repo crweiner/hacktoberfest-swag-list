@@ -108,7 +108,7 @@ MIT-licensed open-source
 
 #### **Ballerina**
 
-- **Swag**: Swag from [Ballerina Swage store](https://store.covver.io/wso2/collections/ballerina-swag-store)
+- **Swag**: Swag from [Ballerina Swag store](https://store.covver.io/wso2/collections/ballerina-swag-store)
 - **Requirements**: Collect credits by [fixing issues in their Hacktoberfest 2024 project](https://github.com/orgs/ballerina-platform/projects/376). Spend those credits in their [swag store](https://store.covver.io/wso2/collections/ballerina-swag-store).
 - **How to sign up**: If your PR is merged, then [submit this form](https://forms.gle/517ebK579YwmPfRY6) to earn your credits.
 - **Notes**: [Check out the Ballerina Hacktoberfest page here](https://ballerina.io/hacktoberfest/).
