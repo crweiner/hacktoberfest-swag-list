@@ -1,6 +1,8 @@
 [build]
-  command = "pip3 install mkdocs"
-  command = "mkdocs build --config-file mkdocs.yml"
+  command = """
+  pip3 install -q poetry &&
+  mkdocs build --config-file mkdocs.yml
+  """
   publish = "site"
 
 [build.environment]
