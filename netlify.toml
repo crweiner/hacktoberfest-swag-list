@@ -1,6 +1,6 @@
 [build]
   command = """
-  pip3 install -q mkdocs &&
+  pip3 install -q mkdocs mkdocs-material &&
   mkdocs build --config-file mkdocs.yml
   """
   publish = "site"
