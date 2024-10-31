@@ -1,6 +1,6 @@
 [build]
   command = """
-  pip3 install mkdocs mkdocs-material[imaging] &&
+  pip3 install mkdocs mkdocs-material[imaging] markdown_link_attr_modifier &&
   mkdocs build --config-file mkdocs.yml
   """
   publish = "site"
