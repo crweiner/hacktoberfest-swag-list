@@ -329,14 +329,11 @@ MIT-licensed open-source
 ### N
 
 #### **Nuclei**
-- **Swag**: PD stickers
-- **Requirements**:
-    - Send PR, Create issues and submit new [template](https://github.com/projectdiscovery/nuclei-templates).
-    - On successfully completing you will receive stickers.
+- **Swag**: Stickers
+- **Requirements**: Send a PR, create issues, and submit new [template](https://github.com/projectdiscovery/nuclei-templates).
 - **How to sign up**: No signup needed.
-- **Issues**:
-    - All [open issues](https://github.com/projectdiscovery/nuclei-templates/issues).
-- **Notes**: Read [contribution](https://github.com/projectdiscovery/nuclei-templates/blob/main/CONTRIBUTING.md) for more information.
+- **Issues**: All [open issues](https://github.com/projectdiscovery/nuclei-templates/issues).
+- **Notes**: Read the [contribution file](https://github.com/projectdiscovery/nuclei-templates/blob/main/CONTRIBUTING.md) for more information.
 
 ### O
 
