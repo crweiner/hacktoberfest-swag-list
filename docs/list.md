@@ -329,6 +329,17 @@ MIT-licensed open-source
 - **Issues**: Issues with [`hacktoberfest` label.](https://github.com/kairos-io/kairos/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
 - **Notes**: Read the [announcement post](https://kairos.io/blog/2024/10/07/hacktoberfest-2024/) for more details.
 
+#### **KitOps**
+
+- **Swag**: T-Shirt
+- **Requirements**:
+    - Join KitOps on [Discord](https://discord.gg/Tapeh8agYy).
+    - Make successful contributions on issues tagged with `hacktoberfest` to enter a raffle.
+    - KitOps team will be raffling off swag to community members who contribute to project all month.
+- **How to sign up**: No signup needed,
+- **Issues**: Issues [tagged with hacktoberfest](https://github.com/jozu-ai/kitops/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest) label.
+- **Notes**: Check the [KitOps announcement on X](https://x.com/Kit_Ops/status/1844426229266653412) for more details.
+
 ### L
 
 #### **Langfuse**
