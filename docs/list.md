@@ -108,10 +108,18 @@ MIT-licensed open-source
 
 #### **Ballerina**
 
-- **Swag**: Swag from [Ballerina Swage store](https://store.covver.io/wso2/collections/ballerina-swag-store)
+- **Swag**: Swag from [Ballerina Swag store](https://store.covver.io/wso2/collections/ballerina-swag-store)
 - **Requirements**: Collect credits by [fixing issues in their Hacktoberfest 2024 project](https://github.com/orgs/ballerina-platform/projects/376). Spend those credits in their [swag store](https://store.covver.io/wso2/collections/ballerina-swag-store).
 - **How to sign up**: If your PR is merged, then [submit this form](https://forms.gle/517ebK579YwmPfRY6) to earn your credits.
 - **Notes**: [Check out the Ballerina Hacktoberfest page here](https://ballerina.io/hacktoberfest/).
+
+#### **Brisa**
+
+- **Swag**: T-shirt.
+- **Requirements**: Contribute to open issues at Brisa to win a t-shirt.
+- **How to sign up**: No signup required.
+- **Issues**: Open issues at [Brisa build.](https://github.com/brisa-build/brisa/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- **Notes**: Check the [post on X](https://x.com/brisadotbuild/status/1849724008876400993) for more details.
 
 ### C
 
@@ -411,6 +419,17 @@ MIT-licensed open-source
 - **Issues**: All [open issues](https://github.com/gitroomhq/postiz-app/issues)
 - **Notes**: Read the [announcement post](https://github.com/gitroomhq/postiz-app#we-participate-in-hacktoberfest-2024-) for more information.
 
+#### **Project Discovery**
+
+- **Swag**: Stickers, t-shirts and cash rewards.
+- **Requirements**:
+    - Contribute to Nuclei templates, every first-time contributor will receive stickers.
+    - Contribute to issues labeled `bounty` to win cash prizes between $50 to $250.
+    - Stay on top of the leaderboard of contributors to win more swag like t-shirt and stickers.
+- **How to sign up**: No separate signup known.
+- **Issues**: Issues [labeled `bounty`.](https://github.com/projectdiscovery/nuclei-templates/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22%F0%9F%92%8E%20Bounty%22)
+- **Notes**: Read the [announcement blog post](https://blog.projectdiscovery.io/announcing-the-nuclei-templates-community-leaderboard-and-rewards/) for more information.
+
 ### Q
 
 #### **Owncast**
@@ -568,6 +587,14 @@ MIT-licensed open-source
 - **Notes**: [Check out theirblog post here](https://turbot.com/blog/2024/09/hacktoberfest-2024).
 
 ### W
+
+#### **Widgetbook**
+
+- **Swag**: Widgetbook Merch
+- **Requirements**: Contribute to one of the open issues to stand a chance to win some merch.
+- **How to sign up**: No known signup link.
+- **Issues**: Issues [labeled `hacktoberfest`.](https://github.com/widgetbook/widgetbook/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: No details of the merch provided but check their [post on X](https://x.com/widgetbook_io/status/1846506614284497260) for more details.
 
 #### **WrenAI**
 
