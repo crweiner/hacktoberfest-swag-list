@@ -7,7 +7,7 @@ verify_ssl = true
 mkdocs = "==1.6.1"
 mkdocs-material = "==9.6.15"
 python-markdown-math = "==0.8"
-Pygments = "==2.19.1"
+Pygments = "==2.19.2"
 prompt_toolkit = "==3.0.51"
 pyyaml = "==6.0.2"
 Jinja2 = "==3.1.6"
