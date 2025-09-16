@@ -10,3 +10,6 @@
 
 # Mac
 .DS_Store
+
+# Dev tools
+devcontainer.json
