@@ -1,0 +1,13 @@
+# Markdownlint configuration
+# See https://github.com/DavidAnson/markdownlint/blob/main/doc/Rules.md for rule details
+
+# Disable specific rules that don't fit this project's style
+MD005: false  # Inconsistent indentation for list items within the same list
+MD007: false  # Unordered list indentation (allows flexible indentation)
+MD013: false  # Line length (allows long lines for URLs and content)
+MD024: false  # Multiple headings with the same content (common in contribution lists)
+MD026: false  # Trailing punctuation in headings (allows ! and : in headings)
+MD059: false  # Descriptive link text (allows "here", "click here" for brevity)
+
+# Keep all other rules enabled for quality markdown
+default: true
