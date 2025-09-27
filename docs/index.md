@@ -2,7 +2,8 @@
 
 ## Hacktoberfest 2025 Is Here
 
-[![Hacktoberfest 2025 Banner](img/HF-Horizontal-Color-Light.png)](list.md)
+[![Hacktoberfest 2025 Banner](img/HF-Horizontal-Color-Light.svg#only-dark)](list.md)
+[![Hacktoberfest 2025 Banner](img/HF-Horizontal-Color-dark.svg#only-light)](list.md)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)!
 
