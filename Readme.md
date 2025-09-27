@@ -1,31 +1,24 @@
-# Hacktoberfest Swag List 2024
+# Hacktoberfest Swag List 2025
 
-![Hacktoberfest logo](/docs/img/horizontal_deep_pink.png)
+![Hacktoberfest logo](docs/img/HF-Stacked-Color-Light.png)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)! at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)
 
-## [Click here to be taken to the 2024 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
+## [Click here to be taken to the 2025 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
 
-[As the official website states](https://hacktoberfest.com/#prepare-to-hack), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 9th, everyone can contribute to making open-source software even better!
+[As the official website states](https://hacktoberfest.com/participation/), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 9th, everyone can contribute to making open-source software even better!
 
-[Low-code or no-code contributions are encouraged](https://hacktoberfest.com/about/#low-or-non-code), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
+[Low-code or no-code contributions are encouraged](https://hacktoberfest.com/participation/#:~:text=them%20as%20%E2%80%9Cinvalid.%E2%80%9D-,Low%20or%20Non%20Code%20Contributions,-At%20its%20core), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
 
-New to git and GitHub? [Use the git cheat sheet (PDF)](docs/files/DigitalOcean-Hacktoberfest2024-GitCheatSheet.pdf) created by the Hacktoberfest team to learn how to contribute!
+New to git and GitHub? [Use the git cheat sheet (PDF)](docs/files/Hacktoberfest2025-GitCheatSheet.pdf) created by the Hacktoberfest team to learn how to contribute!
 
 Please take a look at the new [Contributing.md](docs/contributing.md) file as the way to add organizations to the list has changed.
 
 ---
 
-## Sponsored By tscircuit
+## Sponsored By: Your Name Here!
 
-[![tscircuit logo](docs/img/tscircuit.png)](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=github&utm_campaign=logo)
-
-[tscircuit](https://tscircuit.com/?utm_source=hacktoberfestswaglist&utm_medium=github&utm_campaign=readme) [(GitHub)](https://github.com/tscircuit/tscircuit)
-is a framework that allows you to build electronic circuit boards,
-schematics and PCB layouts with React, Typescript and AI tools. We do live stream
-development and love to chat with contributors on our [discord](https://tscircuit.com/join).
-Check out our [Hacktoberfest Getting Started Guide](https://blog.tscircuit.com/p/build-electronics-with-typescript).
-MIT-licensed open-source
+Do you want to put your project in front of tens of thousands of developers during Hacktoberfest? Sponsor the Hacktoberfest Swag List to get your logo and message on the repo, site, and swag listing for an entire year!
 
 ---
 
@@ -41,7 +34,7 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 ---
 
-## [Click here to be taken to the 2024 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
+## [Click here to be taken to the 2025 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
 
 ---
 
@@ -51,4 +44,4 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 ---
 
-If you're looking for the Swag List from 2018 through 2023 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), and [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023) branches.
+If you're looking for the Swag List from 2018 through 2024 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023), and [2024](https://github.com/crweiner/hacktoberfest-swag-list/tree/2024) branches.
