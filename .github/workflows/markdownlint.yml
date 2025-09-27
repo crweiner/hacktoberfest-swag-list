@@ -11,7 +11,6 @@ on:
 
 permissions:
   contents: read
-  pull-requests: write
 
 jobs:
   markdownlint:
@@ -23,11 +22,9 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Run markdownlint with reviewdog
-        uses: reviewdog/action-markdownlint@v0
+      - name: Run markdownlint-cli2
+        uses: DavidAnson/markdownlint-cli2-action@v20
+        continue-on-error: true
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          reporter: github-pr-review
-          filter_mode: added
-          fail_on_error: false
-          markdownlint_flags: '--config .markdownlint.yml **/*.md'
+          config: '.markdownlint.yml'
+          globs: '**/*.{md,markdown}'
