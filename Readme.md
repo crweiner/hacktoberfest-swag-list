@@ -1,6 +1,7 @@
 # Hacktoberfest Swag List 2025
 
-![Hacktoberfest logo](docs/img/HF-Stacked-Color-Light.png)
+![Hacktoberfest logo](docs/img/HF-Stacked-Color-Light.png#gh-light-mode-only)
+![Hacktoberfest logo](docs/img/HF-Stacked-Color-Dark.png#gh-dark-mode-only)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)! at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)
 
