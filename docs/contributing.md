@@ -27,14 +27,12 @@ Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/f
 
 We are using a very simple language called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familiarize yourself with Markdown [using this handy cheat sheet provided by GitHub (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf).
 
-New for 2022, we are only adding companies in an A->Z list and do not have a "Least Involvement to Most Involvement" section anymore. Why? Because this repo isn't about doing the least amount of effort to get a sticker or socks, it's about connecting you to companies who go above and beyond for Hacktoberfest. Thus, only an alphabetical list will be maintained this year.
-
 ### A to Z Order of Companies
 
 Find the first letter of your company within the list, then add your information in the correct alphabetical order by using the following Markdown formatting:
 
 ```markdown
-#### **Company Name**
+#### Company Name
 
 - **Swag**: (T-shirt, stickers, etc)
 - **Requirements**: What do I have to complete? Are there different requirements per swag item? Are the PRs merged or just submitted?
@@ -121,8 +119,8 @@ docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
 
 Disclaimer: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.digitalocean.com/) or any company offering swag.
 
-![Presented by DigitalOcean](img/vertical_deep_pink.png)
+![HF 2025](img/HF-Icon-Color-Dark.png)
 
 ---
 
-If you're looking for the Swag List from 2018 through 2023 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), and [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023) branches.
+If you're looking for the Swag List from 2018 through 2024 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023), and [2024](https://github.com/crweiner/hacktoberfest-swag-list/tree/2024) branches.

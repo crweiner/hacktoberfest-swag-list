@@ -1,5 +1,5 @@
 # Project information
-site_name: "Hacktoberfest Swag List 2024"
+site_name: "Hacktoberfest Swag List 2025"
 site_description: "Connecting contributors to open-source projects during Hacktoberfest"
 site_author: "crweiner"
 site_url: "https://hacktoberfestswaglist.com"
@@ -9,11 +9,11 @@ docs_dir: "docs"
 theme:
   favicon: img/favicon.ico
   name: material
-  logo: img/horizontal_deep_pink.png
-  features: 
+  logo: img/HF-Icon-Color-Light.png
+  features:
     - navigation.tracking
     - content.code.annotate
-  palette: 
+  palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -27,7 +27,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  
+
 # Repository
 repo_name: "GitHub"
 repo_url: "https://github.com/crweiner/hacktoberfest-swag-list"
@@ -46,7 +46,7 @@ plugins:
 nav:
   - "Home": "index.md"
   - "Contributing": "contributing.md"
-  - "2024 Hacktoberfest Swag List": "list.md"
+  - "2025 Hacktoberfest Swag List": "list.md"
 
   # Customization
 extra_javascript:
