@@ -40,7 +40,7 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![Presented by DigitalOcean](/docs/img/horizontal_deep_pink.png)
+![HF 2025](/docs/img/HF-Icon-Color-Dark.png)
 
 ---
 
