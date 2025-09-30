@@ -4,7 +4,6 @@ site_description: "Connecting contributors to open-source projects during Hackto
 site_author: "crweiner"
 site_url: "https://hacktoberfestswaglist.com"
 
-site_name: Hacktoberfest Swag List
 docs_dir: "docs"
 theme:
   favicon: img/favicon.ico
@@ -51,8 +50,6 @@ nav:
   # Customization
 extra_javascript:
   - "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-MML-AM_CHTML"
-extra_css:
-  - "assets/css/custom.css"
 extra:
   manifest: "manifest.json"
   social:
