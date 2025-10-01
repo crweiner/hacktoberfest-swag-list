@@ -36,11 +36,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### **Ballerina**
 
-- **Swag**:
-  - Amazon vouchers (1 point = US$1)  
-  - Goodie pack with exclusive Ballerina-branded swag  
-  - Free vouchers for WSO2 Practitioner & Developer certifications  
-  - US$1,000 credits for WSO2 cloud products (Choreo, Asgardeo, Devant, Bijira) 
+- **Swag**: Ballerina swag kit (Amazon vouchers, exclusive swag pack, WSO2 certification vouchers, $1,000 WSO2 cloud credits)
 - **Requirements**: Contribute to the open issues of the [Ballerina projects](https://github.com/orgs/ballerina-platform/projects/376/views/8)
 - **How to sign up**: Once your **PR is merged**, [submit this form](https://forms.gle/rs5kBkk25ikhgHBg6).
 - **Notes**: Check the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more details.
