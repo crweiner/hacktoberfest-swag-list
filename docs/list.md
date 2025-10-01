@@ -36,12 +36,14 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### **Ballerina**
 
-- **Swag**: [Ballerina Swage store](https://store.covver.io/wso2/collections/ballerina-swag-store)
-- **Requirements**:
-  1. Collect credits by fixing issue in the [Hacktoberfest 2025 project](https://github.com/orgs/ballerina-platform/projects/376).
-  2. Spend those credits in their [swag store](https://store.covver.io/wso2/collections/ballerina-swag-store).
+- **Swag**:
+  - Amazon vouchers (1 point = US$1)  
+  - Goodie pack with exclusive Ballerina-branded swag  
+  - Free vouchers for WSO2 Practitioner & Developer certifications  
+  - US$1,000 credits for WSO2 cloud products (Choreo, Asgardeo, Devant, Bijira) 
+- **Requirements**: Contribute to the open issues of the [Ballerina projects](https://github.com/orgs/ballerina-platform/projects/376/views/8)
 - **How to sign up**: Once your **PR is merged**, [submit this form](https://forms.gle/rs5kBkk25ikhgHBg6).
-- **Notes**: Visit the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/).
+- **Notes**: Check the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more details.
   
 *To be filled in as Hacktoberfest 2025 progresses!*
 
