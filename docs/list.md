@@ -37,12 +37,10 @@ Do you want to put your project in front of tens of thousands of developers duri
 #### **QuestDB**
 
 - **Swag**: Free T-shirt.
-- **Requirements**: 
-  1. Contribute to one of the three participating repositories:
-     - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-     - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-     - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-  2. Get your PR(s) merged. 
+- **Requirements**:  Contribute to one of the three participating repositories:
+    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **How to sign up**: No known signup method.
 - **Notes**: Check the [Quest Hactoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/).
 
