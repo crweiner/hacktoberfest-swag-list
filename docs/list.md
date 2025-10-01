@@ -34,19 +34,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### Appwrite
 
-- **Swag**: The top 5 projects are each rewarded:
-  - Customized hoodie with GitHub username
-  - T-shirt
-  - Mouse pad
-  - Sticker sheet
+- **Swag**: Appwrite Swag kit (Customized hoodie, T-shirt, Mouse pad, and Stickers)
 - **Requirements**:
+  - Build and deploy a project from scratch using Appwrite Cloud
   - Add a project submission to [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions)
-  - Submit PR details on the [hackathon website](https://hacktoberfest.appwrite.network/?dub_id=nEskrw56mGlug4xD)
-  - Follow Hacktoberfest 2025 rules and guidelines
+  - Submit PR details on the [hackathon website](https://hacktoberfest.appwrite.network/)
 - **How to sign up**:
   - [Register](https://hacktoberfest.com/) for Hacktoberfest.
-  - [Sign up](https://apwr.dev/hf2025-hackathon) for the Hackathon.
-- **Notes**: Project submissions are judged on: impact, design, technical execution and use of Appwrite
+  - [Sign up](https://hacktoberfest.appwrite.network/) for the Hackathon.
+- **Notes**: Check out the rules and FAQ at the [Appwrite Hacktoberfest Hackathon page](https://hacktoberfest.appwrite.network/#rules)
 
 *To be filled in as Hacktoberfest 2025 progresses!*
 
