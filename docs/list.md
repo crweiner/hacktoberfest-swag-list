@@ -34,6 +34,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 *To be filled in as Hacktoberfest 2025 progresses!*
 
+### G
+
+#### **goose**
+
+- **Swag**: Gift cards to goose swag shop and LLM credits
+- **Requirements**: Submit merged PRs with the `hacktoberfest-accepted` label to `hacktoberfest`-labeled issues in the [goose repository](https://github.com/block/goose). Points are awarded based on contribution size (small: 5 points, medium: 10 points, large: 15 points). Top 20 contributors win prizes.
+    - Top 1-5 Contributors: $100 gift card to goose swag shop + $100 LLM credits
+    - Top 6-10 Contributors: $50 gift card to goose swag shop + $50 LLM credits
+    - Top 11-20 Contributors: $25 LLM credits
+- **How to sign up**: [Register](https://hacktoberfest.com/) for Hacktoberfest and start contributing.
+- **Issues**: Find issues in the [goose Hacktoberfest 2025 Project Hub](https://github.com/block/goose/issues/4705)
+- **Notes**: [Check out the goose Hacktoberfest 2025 blog post for full details](https://block.github.io/goose/blog/2025/09/26/hacktoberfest-2025/)
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
