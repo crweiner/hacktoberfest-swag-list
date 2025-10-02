@@ -36,7 +36,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### M
 
-#### **mindsdb**
+#### **MindsDB**
 
 - **Swag**: Github Sponsorship, MindsDB T-shirt, Macbook Pro
 - **Requirements**: 
