@@ -84,10 +84,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### **LambdaTest**
 
-- **Swag**: Amazon vouchers and LambdaTest licenses
-- **Requirements**: Contribute to LambdaTest projects during Hacktoberfest 2025
-- **How to sign up**: Visit the [LambdaTest Hacktoberfest 2025 repository](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025) for participation details
-- **Notes**: Check the [LambdaTest Hacktoberfest 2025 repository](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025) for complete rules and contribution guidelines.
+- **Swag**: Amazon vouchers (up to $10 or $20) and LambdaTest licenses (90 days)
+- **Requirements**: 
+    - Register for [Hacktoberfest 2025](https://hacktoberfest.com)
+    - Submit merged pull requests to [LambdaTest's participating repositories](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025#-projects-you-can-contribute-to)
+    - 3 merged contributions: Amazon vouchers (up to $10) + 90-day LambdaTest license
+    - 5+ merged contributions: Amazon vouchers (up to $20) + 90-day LambdaTest license
+    - PRs must be merged by October 31, 2025
+- **How to sign up**: Register at [Hacktoberfest](https://hacktoberfest.com), then contribute to LambdaTest repositories. Join [LambdaTest Discord](https://discord.gg/nTsCr6Dr) for support.
+- **Issues**: Find issues labeled `Hacktoberfest` or `good-first-issue` in the [participating repositories](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025#-projects-you-can-contribute-to)
+- **Notes**: Check the [LambdaTest Hacktoberfest 2025 repository](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025) for complete rules, contribution guidelines, and the full list of participating projects.
 
 ### Q
 
