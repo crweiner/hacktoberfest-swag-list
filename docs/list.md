@@ -51,6 +51,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup method.
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
+#### Appwrite
+
+- **Swag**: Appwrite Swag kit (Customized hoodie, T-shirt, Mouse pad, and Stickers)
+- **Requirements**:
+  - Build and deploy a project from scratch using Appwrite Cloud
+  - Add a project submission to the [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions) repo.
+  - Submit PR details on the [hackathon portal (when logged in).](https://hacktoberfest.appwrite.network/hacker/submit)
+- **How to sign up**: [Sign up](https://hacktoberfest.appwrite.network/) for the Hackathon.
+- **Notes**: Check out the rules and FAQ at the [Appwrite Hacktoberfest Hackathon page](https://hacktoberfest.appwrite.network/#rules), and [a video for how to join the hackathon](https://www.youtube.com/watch?v=fyQOT93O8Do).
+
 *To be filled in as Hacktoberfest 2025 progresses!*
 
 ---
