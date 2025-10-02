@@ -40,13 +40,13 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 - **Swag**: Github Sponsorship, MindsDB T-shirt, Macbook Pro
 - **Requirements**: 
-    - MindsDB challenges you to build RAG apps using Knowledge Bases.
-    - Pick a use case where there is unstructured data and can benefit from making it searchable via natural language: (For example analyzing CRM Unstructured data: Notes, Emails, Calls, Meetings, Tasks, Conversations → transcripts, attachments, Tickets → Descriptions, associated notes/emails)
-    - Pick the datasources that you will need for these use cases
-    - Write a blog post (Medium, Hashnode, dev.to, LinkedIn) explaining your use case.
-    - Write a pull request with your use-case implementation in the use-cases folder (create a folder for your use case with a descriptive name)
+    - Build an application with MindsDB Knowledge Bases, write a blog post explaining your use case and a demo video.
     - Your use case implementation can be either a notebook or an app, that uses MindsDB + Knowledge bases
-    - Promote your use case on Linkedin, and X/Twitter with a post mentioning @mindsdb.
+    - Write a pull request with your use-case implementation in the use-cases folder (create a folder for your use case with a descriptive name)
+    - Post it on Linkedin, and X/Twitter with a post mentioning @mindsdb.
+    - Top 3 PRs, top 3 social media posts and 3 best blog posts will receive cash prizes as Github sponsorship and T-Shirt
+    - Every winner will get 1 entry into the Apple MacBook Pro prize draw.
+    - PRs with 10 positive reactions will get 1 entry into the Apple MacBook Pro prize draw.
 - **How to sign up**: [Register](https://hacktoberfest.com/) for Hacktoberfest and start contributing.
 - **Notes**: [Check out the mindsdb Hacktoberfest 2025 for full details](https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest)
 ---
