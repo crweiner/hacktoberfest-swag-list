@@ -75,7 +75,7 @@ To get the site up and running locally, follow the below steps:
   cd hacktoberfest-swag-list
   ```
 
-### Run MkDocs
+### Method 1: Setting up MkDocs locally
 
 * Install the required dependencies
 
@@ -91,7 +91,7 @@ To get the site up and running locally, follow the below steps:
 
 Please make sure you are always making changes in the Markdown docs located in `/docs/` and do not edit the HTML that MkDocs builds in the `/site/` directory.
 
-### Setting up the site using Docker
+### Method 2: Setting up the site using Docker
 
 Alternatively, you can use the native [Mkdocs-Material Docker imgage](https://hub.docker.com/r/squidfunk/mkdocs-material) to build this site locally. The Dockerfile found here pulls in the Mkdocs-Material Docker image and adds the `markdown-link-attr-modifier` plugin so that the links continue to open in new tabs without having to add the tags manually.
 
@@ -108,6 +108,14 @@ Run the Docker instance:
 ```bash
 
 docker run --rm -it -p 8000:8000 -v ${PWD}:/docs squidfunk/mkdocs-material
+
+```
+
+This command works on Windows when using PowerShell. If you are using  Command Prompt (cmd), use the following command instead:
+
+```bash
+
+docker run --rm -it -p 8000:8000 -v %cd%:/docs squidfunk/mkdocs-material
 
 ```
 
