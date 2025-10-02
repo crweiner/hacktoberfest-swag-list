@@ -42,7 +42,7 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
     - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **How to sign up**: No known signup method.
-- **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hactoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
+- **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
 *To be filled in as Hacktoberfest 2025 progresses!*
 
