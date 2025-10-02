@@ -2,7 +2,7 @@
 
 ## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of swag will not be tolerated
 
-First, [sign up for Hacktoberfest 2025 by clicking this link](https://hacktoberfest.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.com/participation/#beginner-resources).
+First, [sign up for Hacktoberfest 2025 by clicking this link](https://hacktoberfest.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.com/participation/).
 
 See [**Contributing.md**](./contributing.md) to see how to format your pull request to add a company's swag to the List!
 
@@ -40,14 +40,14 @@ Do you want to put your project in front of tens of thousands of developers duri
   - Add a project submission to the [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions) repo.
   - Submit PR details on the [hackathon portal (when logged in).](https://hacktoberfest.appwrite.network/hacker/submit)
 - **How to sign up**: [Sign up](https://hacktoberfest.appwrite.network/) for the Hackathon.
-- **Notes**: Check out the rules and FAQ at the [Appwrite Hacktoberfest Hackathon page](https://hacktoberfest.appwrite.network/#rules), and [a video for how to join the hackathon](https://www.youtube.com/watch?v=TplWpYF6hFQ).
+- **Notes**: Check out the rules and FAQ at the [Appwrite Hacktoberfest Hackathon page](https://hacktoberfest.appwrite.network/#rules), and [a video for how to join the hackathon](https://www.youtube.com/watch?v=fyQOT93O8Do).
 
 ### B
 
 #### **Ballerina**
 
 - **Swag**: Ballerina swag kit (Amazon vouchers, exclusive swag pack, WSO2 certification vouchers, $1,000 WSO2 cloud credits)
-- **Requirements**: Contribute to the open issues of the [Ballerina projects](https://github.com/orgs/ballerina-platform/projects/376/views/8) or submit a Low Code / No Code contributions, such as videos, blog posts, social media content, etc.
+- **Requirements**: Contribute to the open issues of the [Ballerina projects](https://github.com/orgs/ballerina-platform/projects/376/views/8) or submit a Low Code / No Code contributions, such as written tutorials or instructional videos.
 - **How to sign up**: Once your PR is merged or Low Code / No Code contribution is published, [submit this form](https://forms.gle/rs5kBkk25ikhgHBg6).
 - **Notes**: Check the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more details.
 
@@ -82,15 +82,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### L
 
-#### **LambdaTest**
+#### **LambdaTest**  
 
 - **Swag**: Amazon vouchers (up to $10 or $20) and LambdaTest licenses (90 days)
-- **Requirements**: 
-    - Register for [Hacktoberfest 2025](https://hacktoberfest.com)
-    - Submit merged pull requests to [LambdaTest's participating repositories](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025#-projects-you-can-contribute-to)
-    - 3 merged contributions: Amazon vouchers (up to $10) + 90-day LambdaTest license
-    - 5+ merged contributions: Amazon vouchers (up to $20) + 90-day LambdaTest license
-    - PRs must be merged by October 31, 2025
+- **Requirements**:
+  - Register for [Hacktoberfest 2025](https://hacktoberfest.com)
+  - Submit merged pull requests to [LambdaTest's participating repositories](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025#-projects-you-can-contribute-to)
+  - 3 merged contributions: Amazon vouchers (up to $10) + 90-day LambdaTest license
+  - 5+ merged contributions: Amazon vouchers (up to $20) + 90-day LambdaTest license
+  - PRs must be merged by October 31, 2025
 - **How to sign up**: Register at [Hacktoberfest](https://hacktoberfest.com), then contribute to LambdaTest repositories. Join [LambdaTest Discord](https://discord.gg/nTsCr6Dr) for support.
 - **Issues**: Find issues labeled `Hacktoberfest` or `good-first-issue` in the [participating repositories](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025#-projects-you-can-contribute-to)
 - **Notes**: Check the [LambdaTest Hacktoberfest 2025 repository](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025) for complete rules, contribution guidelines, and the full list of participating projects.
