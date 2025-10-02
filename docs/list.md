@@ -51,6 +51,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Once your PR is merged or Low Code / No Code contribution is published, [submit this form](https://forms.gle/rs5kBkk25ikhgHBg6).
 - **Notes**: Check the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more details.
 
+### G
+
+#### **goose**
+
+- **Swag**: Gift cards to the goose swag shop and LLM credits.
+- **Requirements**: PRs must be merged with the `hacktoberfest-accepted` label to `hacktoberfest`-labeled issues in the [goose repository](https://github.com/block/goose). Grab issues by commenting ".take". Points are awarded based on contribution size (small: 5 points, medium: 10 points, large: 15 points). Top 20 contributors win prizes.
+    - Top 1-5 Contributors: $100 gift card to goose swag shop + $100 LLM credits
+    - Top 6-10 Contributors: $50 gift card to goose swag shop + $50 LLM credits
+    - Top 11-20 Contributors: $25 LLM credits
+- **How to sign up**: No known signup link, but it seems to be automated. [Check the Leaderboard here](https://github.com/block/goose/issues/4775).
+- **Issues**: Find issues in the [goose Hacktoberfest 2025 Project Hub](https://github.com/block/goose/issues/4705).
+- **Notes**: [Check out the goose Hacktoberfest 2025 blog post for full details](https://block.github.io/goose/blog/2025/09/26/hacktoberfest-2025/) and the [pinned Hacktoberfest issue](https://github.com/block/goose/issues/4705).
+
 ### Q
 
 #### **QuestDB**
