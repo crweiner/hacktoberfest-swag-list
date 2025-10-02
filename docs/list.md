@@ -2,7 +2,7 @@
 
 ## Hacktoberfest is about making meaningful contributions to open source projects. SPAM for the sake of swag will not be tolerated
 
-First, [sign up for Hacktoberfest 2025 by clicking this link](https://hacktoberfest.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.com/participation/).
+First, [sign up for Hacktoberfest 2025 by clicking this link](https://hacktoberfest.com/) Then, [read about how to participate in a meaningful way in the FAQ](https://hacktoberfest.com/participation/#beginner-resources).
 
 See [**Contributing.md**](./contributing.md) to see how to format your pull request to add a company's swag to the List!
 
@@ -40,14 +40,14 @@ Do you want to put your project in front of tens of thousands of developers duri
   - Add a project submission to the [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions) repo.
   - Submit PR details on the [hackathon portal (when logged in).](https://hacktoberfest.appwrite.network/hacker/submit)
 - **How to sign up**: [Sign up](https://hacktoberfest.appwrite.network/) for the Hackathon.
-- **Notes**: Check out the rules and FAQ at the [Appwrite Hacktoberfest Hackathon page](https://hacktoberfest.appwrite.network/#rules), and [a video for how to join the hackathon](https://www.youtube.com/watch?v=fyQOT93O8Do).
+- **Notes**: Check out the rules and FAQ at the [Appwrite Hacktoberfest Hackathon page](https://hacktoberfest.appwrite.network/#rules), and [a video for how to join the hackathon](https://www.youtube.com/watch?v=TplWpYF6hFQ).
 
 ### B
 
 #### **Ballerina**
 
 - **Swag**: Ballerina swag kit (Amazon vouchers, exclusive swag pack, WSO2 certification vouchers, $1,000 WSO2 cloud credits)
-- **Requirements**: Contribute to the open issues of the [Ballerina projects](https://github.com/orgs/ballerina-platform/projects/376/views/8) or submit a Low Code / No Code contributions, such as written tutorials or instructional videos.
+- **Requirements**: Contribute to the open issues of the [Ballerina projects](https://github.com/orgs/ballerina-platform/projects/376/views/8) or submit a Low Code / No Code contributions, such as videos, blog posts, social media content, etc.
 - **How to sign up**: Once your PR is merged or Low Code / No Code contribution is published, [submit this form](https://forms.gle/rs5kBkk25ikhgHBg6).
 - **Notes**: Check the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more details.
 
@@ -79,6 +79,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup link, but it seems to be automated. [Check the Leaderboard here](https://github.com/block/goose/issues/4775).
 - **Issues**: Find issues in the [goose Hacktoberfest 2025 Project Hub](https://github.com/block/goose/issues/4705).
 - **Notes**: [Check out the goose Hacktoberfest 2025 blog post for full details](https://block.github.io/goose/blog/2025/09/26/hacktoberfest-2025/) and the [pinned Hacktoberfest issue](https://github.com/block/goose/issues/4705).
+
+### L
+
+#### **LambdaTest**
+
+- **Swag**: Amazon vouchers and LambdaTest licenses
+- **Requirements**: Contribute to LambdaTest projects during Hacktoberfest 2025
+- **How to sign up**: Visit the [LambdaTest Hacktoberfest 2025 repository](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025) for participation details
+- **Notes**: Check the [LambdaTest Hacktoberfest 2025 repository](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025) for complete rules and contribution guidelines.
 
 ### Q
 
