@@ -30,8 +30,6 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ## A to Z Order of Companies
 
-### A
-
 ### B
 
 #### **Ballerina**
@@ -40,6 +38,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Requirements**: Contribute to the open issues of the [Ballerina projects](https://github.com/orgs/ballerina-platform/projects/376/views/8) or submit a Low Code / No Code contributions, such as written tutorials or instructional videos.
 - **How to sign up**: Once your PR is merged or Low Code / No Code contribution is published, [submit this form](https://forms.gle/rs5kBkk25ikhgHBg6).
 - **Notes**: Check the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more details.
+
+### Q
+
+#### **QuestDB**
+
+- **Swag**: T-shirt and stickers.
+- **Requirements**:  Contribute to open issues at one of the three participating repositories:
+    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: No known signup method.
+- **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
 *To be filled in as Hacktoberfest 2025 progresses!*
 
