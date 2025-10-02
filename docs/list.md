@@ -32,6 +32,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### A
 
+### B
+
+#### **Ballerina**
+
+- **Swag**: Ballerina swag kit (Amazon vouchers, exclusive swag pack, WSO2 certification vouchers, $1,000 WSO2 cloud credits)
+- **Requirements**: Contribute to the open issues of the [Ballerina projects](https://github.com/orgs/ballerina-platform/projects/376/views/8) or submit a Low Code / No Code contributions, such as written tutorials or instructional videos.
+- **How to sign up**: Once your PR is merged or Low Code / No Code contribution is published, [submit this form](https://forms.gle/rs5kBkk25ikhgHBg6).
+- **Notes**: Check the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more details.
+
 *To be filled in as Hacktoberfest 2025 progresses!*
 
 ---
