@@ -36,24 +36,17 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### Cloudinary
 
-- **Swag**: The first 30 paticipants to submit a valid pull request to one of the Cloudinary SDK repos (see below) are rewarded with:
+- **Swag**: The first 30 participants to submit a valid pull request to one of the Cloudinary SDK repos (see below) are rewarded with:
   - 1 Cloudinary Hacktoberfest T-shirt (Limited Edition)
   - 2 Cloudinary Hacktoberfest Stickers (Limited Edition)
   - 3 Cloudinary Stickers
   - 1 Cloudinary Unicorn
 - **Requirements**:
-  - Make a valid PR to the [Official SDK](https://cloudinary.com/blog/hacktoberfest-2025#official_sdks) or [Community SDK](https://cloudinary.com/blog/hacktoberfest-2025#community_sdks) repos.
-  - DO NOT submit spammy PRs. These will immediately be marked as invalid.
-  - DO NOT submit typo fixes. These might be merged (thank you), but won’t count towards swag.
-  - DO NOT submit a PR without an active Issue that has been approved. While we appreciate your eagerness to contribute, please first find an Issue or file a new Issue where we can discuss before digging into a PR.
-  - DO NOT submit a PR for an Issue assigned to someone else. We want to make sure everyone has a timely opportunity to contribute, but don’t hesitate to ask the assignee if they’re still working on it.
-  - DO have fun!
-  - Follow Hacktoberfest 2025 rules and guidelines
-- **How to sign up**:
-  - [Register](https://hacktoberfest.com/) for Hacktoberfest.
+  - Open an Issue on the [Official SDK](https://cloudinary.com/blog/hacktoberfest-2025#official_sdks) or [Community SDK](https://cloudinary.com/blog/hacktoberfest-2025#community_sdks) repos
+  - Make a valid PR to fix the issue
+  - Spam PRs or small changes do not count towards swag.
+- **How to sign up**: Once your contribution is accepted and merged, they'll provide you with an address form.
 - **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
-
-*To be filled in as Hacktoberfest 2025 progresses!*
 
 ---
 
