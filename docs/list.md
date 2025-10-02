@@ -51,6 +51,22 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Once your PR is merged or Low Code / No Code contribution is published, [submit this form](https://forms.gle/rs5kBkk25ikhgHBg6).
 - **Notes**: Check the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more details.
 
+### C
+
+#### Cloudinary
+
+- **Swag**: The first 30 participants to submit a valid pull request to one of the Cloudinary SDK repos (see below) are rewarded with:
+    - 1 Cloudinary Hacktoberfest T-shirt (Limited Edition)
+    - 2 Cloudinary Hacktoberfest Stickers (Limited Edition)
+    - 3 Cloudinary Stickers
+    - 1 Cloudinary Unicorn
+- **Requirements**:
+    - Open an Issue on the [Official SDK](https://cloudinary.com/blog/hacktoberfest-2025#official_sdks) or [Community SDK](https://cloudinary.com/blog/hacktoberfest-2025#community_sdks) repos
+    - Make a valid PR to fix the issue
+    - Spam PRs or small changes do not count towards swag.
+- **How to sign up**: Once your contribution is accepted and merged, they'll provide you with an address form.
+- **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
+
 ### G
 
 #### **goose**
