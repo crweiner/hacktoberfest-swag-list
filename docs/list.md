@@ -48,7 +48,7 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Every winner will get 1 entry into the Apple MacBook Pro prize draw.
     - PRs with 10 positive reactions will get 1 entry into the Apple MacBook Pro prize draw.
 - **How to sign up**: [Register](https://hacktoberfest.com/) for Hacktoberfest and start contributing.
-- **Notes**: [Check out the mindsdb Hacktoberfest 2025 for full details](https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest)
+- **Notes**: [Check out the MindsDB Hacktoberfest 2025 for full details](https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest)
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
