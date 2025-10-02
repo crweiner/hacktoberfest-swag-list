@@ -67,6 +67,24 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Once your contribution is accepted and merged, they'll provide you with an address form.
 - **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
 
+#### CopilotKit packages
+
+- **Swag**:
+    - Every contributor who gets a PR merged will receive an official **CopilotKit Hactoberfest Certificate**.
+    - The **Top 5 projects** will get to pick from CopilotKit's exclusive swag list.
+- **Requirements**:
+    - **Project Setup and Guidelines**: Check out the [CONTRIBUTING.md](https://github.com/CopilotKit/CopilotKit/blob/main/community/content/CONTRIBUTING.md) for detailed setup instructions and contribution guidelines.
+    - **Choose a Topic**: Browse [Issues section](https://github.com/CopilotKit/CopilotKit/issues) tagged with `hacktoberfest`. CopilotKit allows multi-assignment!
+    - **Prepare Your Demo Submission**: Use the [Template](https://github.com/CopilotKit/CopilotKit/blob/main/community/content/TEMPLATE.md) and fill all the details.
+    - **Save Your File**: Add your completed template as a new `.md` file in the `demos_2025` folder. Name the file after your project in lowercase(e.g.,`my-demo.md`)
+- **How to sign up**:
+    - **Submit Your Demo**: Build and submit your project following the steps in the `CONTRIBUTING.md`.
+    - **Share Your Project**: Post your project on Twitter/X tagging `@Copilotkit` and adding the hashtag `#CopilotKitHacktoberfest` at the bottom of the post. The projects with the **most likes** will be crowned winners!
+    - **Open a Pull Request**: Submit a PR that includes your demo file in the `demos_2025` folder. In the PR description, link the issue you worked on.
+- **Notes**: For help:
+    - **Questions**: Join our [Discord support channel](https://discord.com/invite/6dffbvGU3D).
+    - **Resources**: Explore the [CopilotKit documentation](https://docs.copilotkit.ai/?ref=github_readme).
+
 ### G
 
 #### **goose**
