@@ -32,6 +32,25 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### A
 
+#### Appwrite
+
+- **Swag**: Appwrite Swag kit (Customized hoodie, T-shirt, Mouse pad, and Stickers)
+- **Requirements**:
+  - Build and deploy a project from scratch using Appwrite Cloud
+  - Add a project submission to the [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions) repo.
+  - Submit PR details on the [hackathon portal (when logged in).](https://hacktoberfest.appwrite.network/hacker/submit)
+- **How to sign up**: [Sign up](https://hacktoberfest.appwrite.network/) for the Hackathon.
+- **Notes**: Check out the rules and FAQ at the [Appwrite Hacktoberfest Hackathon page](https://hacktoberfest.appwrite.network/#rules), and [a video for how to join the hackathon](https://www.youtube.com/watch?v=fyQOT93O8Do).
+
+### B
+
+#### **Ballerina**
+
+- **Swag**: Ballerina swag kit (Amazon vouchers, exclusive swag pack, WSO2 certification vouchers, $1,000 WSO2 cloud credits)
+- **Requirements**: Contribute to the open issues of the [Ballerina projects](https://github.com/orgs/ballerina-platform/projects/376/views/8) or submit a Low Code / No Code contributions, such as written tutorials or instructional videos.
+- **How to sign up**: Once your PR is merged or Low Code / No Code contribution is published, [submit this form](https://forms.gle/rs5kBkk25ikhgHBg6).
+- **Notes**: Check the [Ballerina Hacktoberfest page](https://ballerina.io/hacktoberfest/) for more details.
+
 ### G
 
 #### **goose**
@@ -44,6 +63,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup link, but it seems to be automated. [Check the Leaderboard here](https://github.com/block/goose/issues/4775).
 - **Issues**: Find issues in the [goose Hacktoberfest 2025 Project Hub](https://github.com/block/goose/issues/4705).
 - **Notes**: [Check out the goose Hacktoberfest 2025 blog post for full details](https://block.github.io/goose/blog/2025/09/26/hacktoberfest-2025/) and the [pinned Hacktoberfest issue](https://github.com/block/goose/issues/4705).
+
+### Q
+
+#### **QuestDB**
+
+- **Swag**: T-shirt and stickers.
+- **Requirements**:  Contribute to open issues at one of the three participating repositories:
+    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: No known signup method.
+- **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
 ---
 
