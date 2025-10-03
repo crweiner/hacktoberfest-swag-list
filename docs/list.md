@@ -80,6 +80,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: Find issues in the [goose Hacktoberfest 2025 Project Hub](https://github.com/block/goose/issues/4705).
 - **Notes**: [Check out the goose Hacktoberfest 2025 blog post for full details](https://block.github.io/goose/blog/2025/09/26/hacktoberfest-2025/) and the [pinned Hacktoberfest issue](https://github.com/block/goose/issues/4705).
 
+### H
+
+#### Hyperswitch
+
+- **Swag**: T-shirt and Hoodie
+- **Requirements**: Star and fork the [Hyperswitch Repo](https://github.com/juspay/hyperswitch) and contribute to open issues with good first issue and help wanted tags. Valid contributions gets rewarded with :-
+    - 1 merged PR: T-shirt
+    - 3+ merged PRs: T-shirt and Hoodie
+- **How to sign up**: No known signup method.
+- **Issues**: Find issues in the [Hyperswitch GitHub Repository](https://github.com/juspay/hyperswitch/issues?q=is%3Aissue%20state%3Aopen%20hacktoberfest%20label%3Ahacktoberfest)
+- **Notes**: Check out the [Hyperswitch Hacktoberfest 2025 page for full details](https://hyperswitch.io/hacktoberfest)
+
 ### Q
 
 #### **QuestDB**
