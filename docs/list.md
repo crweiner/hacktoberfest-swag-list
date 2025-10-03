@@ -72,13 +72,12 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### .NET Foundation(dotnet)
 
-- **Swag**: Contribute to an official .NET Foundation project this October and claim a digital certificate for Hacktoberfest First 200 valid signups.
+- **Swag**: Digital certificate for Hacktoberfest.
 - **Requirements**:
-    - You qualify if you have at least one meaningful pull request (PR) to an official .NET Foundation repository that is either:
-    - Approved by a maintainer between Oct 1–31, 2025 (UTC). Approval counts even if the PR is not merged yet.
-    - Merged between Oct 1–31, 2025 (UTC).
+    - Make at least one meaningful pull request (PR) to an official .NET Foundation repository.
     - Substantive contributions include examples such as code, documentation, tests, CI or configuration, samples, tutorials, and localization.
-- **How to sign up**: Once your contribution is accepted and merged, theen you can fill this [Claim form](https://forms.cloud.microsoft/pages/responsepage.aspx?id=3G8HFsH8FUqxyjLJolWQDuT547dRm1xNufKTQeS66YVUM1JCT0JQRjFNQjZIMTdJTDhZVk1QVUJRVi4u&utm_source=chatgpt.com&route=shorturl) which will open from 27th Oct to 31st Oct.
+    - On accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
+- **How to sign up**: No special signup known.
 - **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest)
 
 
