@@ -117,18 +117,6 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [Lamatic Agent Kits Issues](https://github.com/Lamatic/AgentKit/issues)
 - **Notes**: Read the [announcement](https://lamatic.ai/docs/hacktoberfest) for more details.
 
-### Q
-
-#### **QuestDB**
-
-- **Swag**: T-shirt and stickers.
-- **Requirements**:  Contribute to open issues at one of the three participating repositories:
-    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **How to sign up**: No known signup method.
-- **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
-
 ### M
 
 #### **MindsDB**
@@ -141,6 +129,18 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Every winner will get 1 entry into the Apple MacBook Pro prize draw.
 - **How to sign up**: No known dedicated signup list.
 - **Notes**: [Check out the MindsDB Hacktoberfest GitHub folder in their repo for full details](https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest).
+
+### Q
+
+#### **QuestDB**
+
+- **Swag**: T-shirt and stickers.
+- **Requirements**:  Contribute to open issues at one of the three participating repositories:
+    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **How to sign up**: No known signup method.
+- **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
 ---
 
