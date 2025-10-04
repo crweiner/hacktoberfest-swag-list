@@ -85,8 +85,8 @@ Do you want to put your project in front of tens of thousands of developers duri
 #### Hyperswitch
 
 - **Swag**: T-shirt and Hoodie
-- **Requirements**: 
-    - Contribute to open issues with good first issue and help wanted tags. 
+- **Requirements**:
+    - Contribute to open issues with good first issue and help wanted tags.
     - 1 merged PR: T-shirt
     - 3+ merged PRs: T-shirt and Hoodie
 - **How to sign up**: No known signup method.
