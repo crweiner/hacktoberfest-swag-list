@@ -38,17 +38,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### **MindsDB**
 
-- **Swag**: Github Sponsorship, MindsDB T-shirt, Macbook Pro
-- **Requirements**: 
-    - Build an application with MindsDB Knowledge Bases, write a blog post explaining your use case and a demo video.
-    - Your use case implementation can be either a notebook or an app, that uses MindsDB + Knowledge bases
+- **Swag**: Github Sponsorship, MindsDB T-shirt, MacBook Pro
+- **Requirements**:
+    - Build an application with MindsDB Knowledge Bases + MindsDB, and write a blog post explaining how it works. Share it on Linkedin, and X/Twitter with a post mentioning @MindsDB.
     - Write a pull request with your use-case implementation in the use-cases folder (create a folder for your use case with a descriptive name)
-    - Post it on Linkedin, and X/Twitter with a post mentioning @mindsdb.
-    - Top 3 PRs, top 3 social media posts and 3 best blog posts will receive cash prizes as Github sponsorship and T-Shirt
+    - Top 3 PRs, top 3 social media posts and 3 best blog posts will receive cash prizes as GitHub sponsorships and T-Shirt.
     - Every winner will get 1 entry into the Apple MacBook Pro prize draw.
-    - PRs with 10 positive reactions will get 1 entry into the Apple MacBook Pro prize draw.
-- **How to sign up**: [Register](https://hacktoberfest.com/) for Hacktoberfest and start contributing.
-- **Notes**: [Check out the MindsDB Hacktoberfest 2025 for full details](https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest)
+- **How to sign up**: No known dedicated signup list.
+- **Notes**: [Check out the MindsDB Hacktoberfest GitHub folder in their repo for full details](https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest).
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
