@@ -170,6 +170,37 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Join via the ["Sign Up Here" button on the home page](https://modtoberfest.com/).
 - **Notes**: Read all of the [Modtoberfest Rules](https://modtoberfest.com/rules) and the [FAQ](https://modtoberfest.com/faq) to learn more.
 
+### O
+
+#### 🟠 Olake
+
+- **🎁 Swag:**  
+  - 🧥 **Exclusive Olake Jacket**  
+  - 📝 Diaries, ✍️ Pens, 🔥 Stickers  
+  - Plus official **Hacktoberfest goodies** for contributors!
+
+- **📌 Requirements:**  
+  - Contribute to Olake’s **UI** or **Core** repositories during **Hacktoberfest 2025**.  
+  - Make sure your **PRs are merged** — not just submitted.  
+  - Ideal for all skill levels:
+    - ✅ **Beginners:** Start with “good first issues.”  
+    - 🧠 **Advanced:** Explore deeper parts of the codebase.  
+  - Tech stack: **TypeScript**, **JavaScript**, and **Golang**.  
+  - Active contributors may also get **priority for future openings** at Olake.
+
+- **🚀 How to Sign Up:**  
+  1. Join the [Olake Slack](https://olake.io/slack/) to connect with the community.  
+  2. Pick an issue from their repositories:
+     - UI Repo: [https://github.com/datazip-inc/olake-ui/issues](https://github.com/datazip-inc/olake-ui/issues)  
+     - Core Repo: [https://github.com/datazip-inc/olake/issues](https://github.com/datazip-inc/olake/issues)  
+  3. Start contributing and submit your PRs during Hacktoberfest.
+
+- **🔍 Issues:**  
+  Explore their [Hacktoberfest-tagged issues](https://github.com/crweiner/hacktoberfest-swag-list/issues/1015) to find beginner-friendly and technical challenges.
+
+- **📝 Notes:**  
+  [Original Announcement](https://twitter.com/_olake) — _“This Hacktoberfest, help build the world’s fastest data replication tool with Olake!”_
+
 ### Q
 
 #### **QuestDB**
