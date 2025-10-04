@@ -88,6 +88,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: When your PR is accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
 - **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest).
 
+### F
+
+#### Flexprice
+
+- **Swag**: T-shirt, stickers, other merch  
+- **Requirements**:  
+    - Open-source contributions (pull requests) should be made during October to Flexprice or associated repos  
+    - PRs should be non-draft and substantive (not just trivial changes)  
+    - Maintain quality; standout or top contributors are more likely to receive swag  
+- **How to sign up**: No known signup link. 
+- **Issues**: Check out the [active issues](https://github.com/flexprice/flexprice/issues) in the Flexprice GitHub repository.
+- **Notes**: N/A
+
 ### G
 
 #### **goose**
