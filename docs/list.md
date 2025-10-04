@@ -88,24 +88,6 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: When your PR is accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
 - **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest).
 
-### F
-
-#### Flexprice
-
-- **Swag**: Flexprice Hacktoberfest swag pack (stickers, T-shirt, and tote bag) + social media shoutouts for top contributors.  
-- **Requirements**:  
-    - Join the [Flexprice Slack community](https://join.slack.com/t/flexpricecommunity/shared_invite/zt-39uat51l0-n8JmSikHZP~bHJNXladeaQ).  
-    - Contribute between **Oct 1–31, 2025** to any of the following repositories:
-        - [Flexprice](https://github.com/flexprice/flexprice)  
-        - [Flexprice Dashboard](https://github.com/flexprice/flexprice-front/issues)  
-        - [Flexprice Docs](https://github.com/flexprice/flexprice-docs/issues)  
-        - [Flexprice SDKs (TS/Python/Go)](https://github.com/flexprice/javascript-sdk/issues)  
-    - Pick an issue labeled `hacktoberfest`, `good first issue`, `help wanted`, `bug`, `enhancement`, or `documentation`.  
-    - Comment “I’m on it”, open a PR that passes checks, and follows the contribution template.  
-- **How to sign up**: No separate signup form — contributions are tracked automatically via merged PRs and Slack participation.  
-- **Issues**: [Flexprice Hacktoberfest issues](https://github.com/flexprice/flexprice/issues?q=is%3Aissue+label%3Ahacktoberfest)  
-- **Notes**: [Official announcement on X (Twitter)](https://twitter-thread.com/t/1974412729990701385).  
-
 ### G
 
 #### **goose**
@@ -208,6 +190,27 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Requirements**: Complete all of the 6 PRs for the main Hacktoberfest event, plus [write a comment on this blog post](https://www.servicenow.com/community/developer-advocate-blog/hacktoberfest-2025-building-with-servicenow-giving-with/ba-p/3386849) talking about your contributions and experience
 - **How to sign up**: You'll need a ServiceNow community account to comment. [Register on the site here](https://account.servicenow.com/sign-up).
 - **Notes**: Read their [full Hacktoberfest blog post here](https://www.servicenow.com/community/developer-advocate-blog/hacktoberfest-2025-building-with-servicenow-giving-with/ba-p/3386849) and [review the Hacktoberfest repo here](https://github.com/ServiceNowDevProgram/Hacktoberfest).
+
+### T
+
+#### Twenty
+
+- **Swag**: Amazon gift cards for top extensions  
+    - 🥇 $500 for best extension  
+    - 🥈 $300 for second-best  
+    - 🥉 $200 for third-best  
+    - 🎉 $100 for funniest integration  
+- **Requirements**:  
+    - Register a solo or team entry via the [Twenty Discord](https://discord.com/invite/Zu6y7E5f).  
+    - Build and publish an **extension app** for Twenty CRM between **Oct 1–31, 2025**.  
+    - Use **Serverless Functions** or **Triggers** to extend Twenty’s capabilities.  
+    - Follow the [local setup guide](https://twenty.com/developers/local-setup) and the [twenty-cli README](https://github.com/twentyhq/twenty/tree/main/packages/twenty-cli).  
+    - Submit your project by opening a PR on the [main Twenty repository](https://github.com/twentyhq/twenty).  
+    - Team submissions are encouraged but optional.  
+- **How to sign up**: Join the [Twenty Discord community](https://discord.com/invite/Zu6y7E5f) and register your team with the core team there.  
+- **Issues**: [Open issues on Twenty GitHub](https://github.com/twentyhq/twenty/issues?q=is%3Aissue+label%3Ahacktoberfest).  
+- **Notes**: Full event details and project ideas are available in the [official Hacktoberfest 2025 Notion page](https://twentycrm.notion.site/Hacktoberfest-27711d8417038037a149d4638a9cc510).  
+
 
 ---
 
