@@ -152,6 +152,32 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### M
 
+#### Major League Hacking (MLH)
+
+- **🎁 Swag:**  
+  - Character Sticker 🖼️  
+  - Sticker Pack 🎨  
+  - Postcard 💌  
+  - Hex Sticker 🔷  
+  - Bonus stickers for attending **5+ live sessions** at Global Hack Week
+
+- **📌 Requirements:**  
+  - Attend **Global Hack Week**  
+  - Join the [MLH Community Discord](https://discord.com/invite/mlh)  
+  - Submit your mailing address at [mlh.link/Address](https://mlh.link/Address)  
+  - Complete all registration challenges
+
+- **🚀 How to Sign Up:**  
+  1. Register for Global Hack Week at [https://ghw.mlh.io/swag](https://events.mlh.io/events/12714)  
+  2. Follow the steps above to earn your swag
+
+- **🔍 Issues:**  
+  N/A
+
+- **📝 Notes:**  
+  Swag includes stickers and postcards you can use to decorate laptops, water bottles, or other devices. Each Global Hack Week features a new character sticker.
+
+
 #### **MindsDB**
 
 - **Swag**: Github Sponsorship, MindsDB T-shirt, MacBook Pro
@@ -169,6 +195,37 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Requirements**: Submit 4 high-quality pull requests to [a participating project.](https://modtoberfest.com/repositories)
 - **How to sign up**: Join via the ["Sign Up Here" button on the home page](https://modtoberfest.com/).
 - **Notes**: Read all of the [Modtoberfest Rules](https://modtoberfest.com/rules) and the [FAQ](https://modtoberfest.com/faq) to learn more.
+
+### O
+
+#### 🟠 Olake
+
+- **🎁 Swag:**  
+  - 🧥 **Exclusive Olake Jacket**  
+  - 📝 Diaries, ✍️ Pens, 🔥 Stickers  
+  - Plus official **Hacktoberfest goodies** for contributors!
+
+- **📌 Requirements:**  
+  - Contribute to Olake’s **UI** or **Core** repositories during **Hacktoberfest 2025**.  
+  - Make sure your **PRs are merged** — not just submitted.  
+  - Ideal for all skill levels:
+    - ✅ **Beginners:** Start with “good first issues.”  
+    - 🧠 **Advanced:** Explore deeper parts of the codebase.  
+  - Tech stack: **TypeScript**, **JavaScript**, and **Golang**.  
+  - Active contributors may also get **priority for future openings** at Olake.
+
+- **🚀 How to Sign Up:**  
+  1. Join the [Olake Slack](https://olake.io/slack/) to connect with the community.  
+  2. Pick an issue from their repositories:
+     - UI Repo: [https://github.com/datazip-inc/olake-ui/issues](https://github.com/datazip-inc/olake-ui/issues)  
+     - Core Repo: [https://github.com/datazip-inc/olake/issues](https://github.com/datazip-inc/olake/issues)  
+  3. Start contributing and submit your PRs during Hacktoberfest.
+
+- **🔍 Issues:**  
+  Explore their [Hacktoberfest-tagged issues](https://github.com/crweiner/hacktoberfest-swag-list/issues/1015) to find beginner-friendly and technical challenges.
+
+- **📝 Notes:**  
+  [Original Announcement](https://twitter.com/_olake) — _“This Hacktoberfest, help build the world’s fastest data replication tool with Olake!”_
 
 ### Q
 
