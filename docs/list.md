@@ -92,6 +92,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup method.
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
+### M
+
+#### **MindsDB**
+
+- **Swag**: Github Sponsorship, MindsDB T-shirt, MacBook Pro
+- **Requirements**:
+    - Build an application with MindsDB Knowledge Bases + MindsDB, and write a blog post explaining how it works. Share it on Linkedin, and X/Twitter with a post mentioning @MindsDB.
+    - Write a pull request with your use-case implementation in the use-cases folder (create a folder for your use case with a descriptive name)
+    - Top 3 PRs, top 3 social media posts and 3 best blog posts will receive cash prizes as GitHub sponsorships and T-Shirt.
+    - Every winner will get 1 entry into the Apple MacBook Pro prize draw.
+- **How to sign up**: No known dedicated signup list.
+- **Notes**: [Check out the MindsDB Hacktoberfest GitHub folder in their repo for full details](https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest).
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
