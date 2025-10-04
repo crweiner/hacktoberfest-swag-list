@@ -114,6 +114,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: Find issues in the [Hyperswitch GitHub Repository](https://github.com/juspay/hyperswitch/issues?q=is%3Aissue%20state%3Aopen%20hacktoberfest%20label%3Ahacktoberfest)
 - **Notes**: Check out the [announcement page](https://hyperswitch.io/hacktoberfest) for more details.
 
+### I
+
+#### Interledger
+
+- **Swag**: Unclear, "Interledger Swag"
+- **Requirements**: Unclear, but some kind of "tiered rewards system"
+- **How to sign up**: No known signup link.
+- **Issues**: [This link shows the included repos and issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ainterledger+fork%3Atrue+repo%3Awicg%2Fwebmonetization&type=repositories).
+- **Notes**: See their [Hacktoberfest page here](https://interledger.org/hacktoberfest).
+
 ### L
 
 #### Lamatic
@@ -130,6 +140,16 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [Lamatic Agent Kits Issues](https://github.com/Lamatic/AgentKit/issues)
 - **Notes**: Read the [announcement](https://lamatic.ai/docs/hacktoberfest) for more details.
 
+#### LambdaTest
+
+- **Swag**: Amazon gift cards and LambdaTest Licenses
+- **Requirements**:
+    - Have 3+ merged PRs into a [LambdaTest project](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025?tab=readme-ov-file#-projects-you-can-contribute-to).
+    - 3 Contributions – Amazon Vouchers (up to $10) and a LambdaTest License (90 days).
+    - 5 Contributions or More – Amazon Vouchers (up to $20) and a LambdaTest License (90 days).
+- **How to sign up**: No known signup link.
+- **Notes**: Find out more details [in their Hacktoberfest repo](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025).
+
 ### M
 
 #### **MindsDB**
@@ -143,6 +163,13 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known dedicated signup list.
 - **Notes**: [Check out the MindsDB Hacktoberfest GitHub folder in their repo for full details](https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest).
 
+#### Modtoberfest
+
+- **Swag**: Sticker pack
+- **Requirements**: Submit 4 high-quality pull requests to [a participating project.](https://modtoberfest.com/repositories)
+- **How to sign up**: Join via the ["Sign Up Here" button on the home page](https://modtoberfest.com/).
+- **Notes**: Read all of the [Modtoberfest Rules](https://modtoberfest.com/rules) and the [FAQ](https://modtoberfest.com/faq) to learn more.
+
 ### Q
 
 #### **QuestDB**
@@ -154,6 +181,15 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **How to sign up**: No known signup method.
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
+
+### S
+
+#### Service Now
+
+- **Swag**: ServiceNow merch store codes, and a Community Badge
+- **Requirements**: Complete all of the 6 PRs for the main Hacktoberfest event, plus [write a comment on this blog post](https://www.servicenow.com/community/developer-advocate-blog/hacktoberfest-2025-building-with-servicenow-giving-with/ba-p/3386849) talking about your contributions and experience
+- **How to sign up**: You'll need a ServiceNow community account to comment. [Register on the site here](https://account.servicenow.com/sign-up).
+- **Notes**: Read their [full Hacktoberfest blog post here](https://www.servicenow.com/community/developer-advocate-blog/hacktoberfest-2025-building-with-servicenow-giving-with/ba-p/3386849) and [review the Hacktoberfest repo here](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
 ---
 
