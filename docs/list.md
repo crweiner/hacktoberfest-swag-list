@@ -85,12 +85,13 @@ Do you want to put your project in front of tens of thousands of developers duri
 #### Hyperswitch
 
 - **Swag**: T-shirt and Hoodie
-- **Requirements**: Star and fork the [Hyperswitch Repo](https://github.com/juspay/hyperswitch) and contribute to open issues with good first issue and help wanted tags. Valid contributions gets rewarded with :-
+- **Requirements**: 
+    - Contribute to open issues with good first issue and help wanted tags. 
     - 1 merged PR: T-shirt
     - 3+ merged PRs: T-shirt and Hoodie
 - **How to sign up**: No known signup method.
 - **Issues**: Find issues in the [Hyperswitch GitHub Repository](https://github.com/juspay/hyperswitch/issues?q=is%3Aissue%20state%3Aopen%20hacktoberfest%20label%3Ahacktoberfest)
-- **Notes**: Check out the [Hyperswitch Hacktoberfest 2025 page for full details](https://hyperswitch.io/hacktoberfest)
+- **Notes**: Check out the [announcement page](https://hyperswitch.io/hacktoberfest) for more details.
 
 ### Q
 
