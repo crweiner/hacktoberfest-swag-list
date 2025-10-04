@@ -80,6 +80,22 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: Find issues in the [goose Hacktoberfest 2025 Project Hub](https://github.com/block/goose/issues/4705).
 - **Notes**: [Check out the goose Hacktoberfest 2025 blog post for full details](https://block.github.io/goose/blog/2025/09/26/hacktoberfest-2025/) and the [pinned Hacktoberfest issue](https://github.com/block/goose/issues/4705).
 
+### L
+
+#### Lamatic
+
+- **Swag**: T-shirt, stickers, exclusive Lamatic swag
+- **Requirements**:
+    - Make 4 valid PRs to any of the three repositories.
+    - PRs must be valid and follow project guidelines.
+    - Add `hacktoberfest` tag to PR title or description.
+- **How to sign up**: No known signup link.
+- **Issues**:
+    - [Lamatic SDK Issues](https://github.com/Lamatic/lamatic-sdk/issues)
+    - [Lamatic Docs Issues](https://github.com/Lamatic/Lamatic-Docs/issues)
+    - [Lamatic Agent Kits Issues](https://github.com/Lamatic/AgentKit/issues)
+- **Notes**: Read the [announcement](https://lamatic.ai/docs/hacktoberfest) for more details.
+
 ### Q
 
 #### **QuestDB**
