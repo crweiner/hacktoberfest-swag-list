@@ -191,6 +191,27 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: You'll need a ServiceNow community account to comment. [Register on the site here](https://account.servicenow.com/sign-up).
 - **Notes**: Read their [full Hacktoberfest blog post here](https://www.servicenow.com/community/developer-advocate-blog/hacktoberfest-2025-building-with-servicenow-giving-with/ba-p/3386849) and [review the Hacktoberfest repo here](https://github.com/ServiceNowDevProgram/Hacktoberfest).
 
+### T
+
+#### Twenty
+
+- **Swag**: Amazon gift cards for top extensions  
+    - 🥇 $500 for best extension  
+    - 🥈 $300 for second-best  
+    - 🥉 $200 for third-best  
+    - 🎉 $100 for funniest integration  
+- **Requirements**:  
+    - Register a solo or team entry via the [Twenty Discord](https://discord.com/invite/Zu6y7E5f).  
+    - Build and publish an **extension app** for Twenty CRM between **Oct 1–31, 2025**.  
+    - Use **Serverless Functions** or **Triggers** to extend Twenty’s capabilities.  
+    - Follow the [local setup guide](https://twenty.com/developers/local-setup) and the [twenty-cli README](https://github.com/twentyhq/twenty/tree/main/packages/twenty-cli).  
+    - Submit your project by opening a PR on the [main Twenty repository](https://github.com/twentyhq/twenty).  
+    - Team submissions are encouraged but optional.  
+- **How to sign up**: Join the [Twenty Discord community](https://discord.com/invite/Zu6y7E5f) and register your team with the core team there.  
+- **Issues**: [Open issues on Twenty GitHub](https://github.com/twentyhq/twenty/issues?q=is%3Aissue+label%3Ahacktoberfest).  
+- **Notes**: Full event details and project ideas are available in the [official Hacktoberfest 2025 Notion page](https://twentycrm.notion.site/Hacktoberfest-27711d8417038037a149d4638a9cc510).  
+
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
