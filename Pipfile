@@ -5,7 +5,7 @@ verify_ssl = true
 
 [packages]
 mkdocs = "==1.6.1"
-mkdocs-material = "==9.6.20"
+mkdocs-material = "==9.6.21"
 python-markdown-math = "==0.9"
 Pygments = "==2.19.2"
 prompt_toolkit = "==3.0.52"
