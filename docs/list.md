@@ -67,6 +67,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Once your contribution is accepted and merged, they'll provide you with an address form.
 - **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
 
+### D
+
+#### DocsGPT
+
+- **Swag**: T-shirt
+- **Requirements**:
+    - Make one meaningful PR for an issue with the `hacktoberfest` label.
+    - Contributions can include code, API extensions, documentation, or design improvements.
+- **How to sign up**: Fill out [this form](https://forms.gle/Npaba4n9Epfyx56S8) after your PR is merged.
+- **Issues**: [DocsGPT/issues](https://github.com/arc53/DocsGPT/issues)
+- **Notes**:
+    - Check the [announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
+
 ### G
 
 #### **goose**
