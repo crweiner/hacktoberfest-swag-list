@@ -152,6 +152,32 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### M
 
+#### Major League Hacking (MLH)
+
+- **🎁 Swag:**  
+  - Character Sticker 🖼️  
+  - Sticker Pack 🎨  
+  - Postcard 💌  
+  - Hex Sticker 🔷  
+  - Bonus stickers for attending **5+ live sessions** at Global Hack Week
+
+- **📌 Requirements:**  
+  - Attend **Global Hack Week**  
+  - Join the [MLH Community Discord](https://discord.com/invite/mlh)  
+  - Submit your mailing address at [mlh.link/Address](https://mlh.link/Address)  
+  - Complete all registration challenges
+
+- **🚀 How to Sign Up:**  
+  1. Register for Global Hack Week at [https://ghw.mlh.io/swag](https://events.mlh.io/events/12714)  
+  2. Follow the steps above to earn your swag
+
+- **🔍 Issues:**  
+  N/A
+
+- **📝 Notes:**  
+  Swag includes stickers and postcards you can use to decorate laptops, water bottles, or other devices. Each Global Hack Week features a new character sticker.
+
+
 #### **MindsDB**
 
 - **Swag**: Github Sponsorship, MindsDB T-shirt, MacBook Pro
