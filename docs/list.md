@@ -85,15 +85,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 #### Lamatic
 
 - **Swag**: T-shirt, stickers, exclusive Lamatic swag
-- **Requirements**: 
+- **Requirements**:
     - Make 4 valid PRs to any of the three repositories.
     - PRs must be valid and follow project guidelines.
     - Add `hacktoberfest` tag to PR title or description.
-- **How to sign up**: [Register for Hacktoberfest](https://hacktoberfest.com)
-- **Issues**: 
-		- [Lamatic SDK Issues](https://github.com/Lamatic/lamatic-sdk/issues) 
-		- [Lamatic Docs Issues](https://github.com/Lamatic/Lamatic-Docs/issues) 
-		- [Lamatic Agent Kits Issues](https://github.com/Lamatic/AgentKit/issues)
+- **How to sign up**: No known signup link.
+- **Issues**:
+    - [Lamatic SDK Issues](https://github.com/Lamatic/lamatic-sdk/issues)
+    - [Lamatic Docs Issues](https://github.com/Lamatic/Lamatic-Docs/issues)
+    - [Lamatic Agent Kits Issues](https://github.com/Lamatic/AgentKit/issues)
 - **Notes**: Read the [announcement](https://lamatic.ai/docs/hacktoberfest) for more details.
 
 ### Q
