@@ -170,6 +170,33 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Join via the ["Sign Up Here" button on the home page](https://modtoberfest.com/).
 - **Notes**: Read all of the [Modtoberfest Rules](https://modtoberfest.com/rules) and the [FAQ](https://modtoberfest.com/faq) to learn more.
 
+### O
+
+#### Olake
+
+- **Swag:**  
+  Exclusive Jacket, Diaries, Pens, Stickers, Hacktoberfest goodies
+
+- **Requirements:**  
+    - Contribute to UI or Core repos during Hacktoberfest 2025  
+    - PRs must be merged  
+    - Tech: TypeScript, JavaScript, Golang  
+    - Beginners: “good first issues”; Advanced: deeper exploration  
+    - Active contributors may get priority for future openings
+
+- **How to sign up:**  
+  Join [Olake Slack](https://olake.io/slack/) and pick issues from:  
+    - [UI Repo](https://github.com/datazip-inc/olake-ui/issues)  
+    - [Core Repo](https://github.com/datazip-inc/olake/issues)  
+  Submit PRs during Hacktoberfest
+
+- **Issues:**  
+  All open Hacktoberfest-tagged issues
+
+- **Notes:**  
+  [Original Announcement](https://twitter.com/_olake)
+
+
 ### Q
 
 #### **QuestDB**
