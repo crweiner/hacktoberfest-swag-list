@@ -71,17 +71,14 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### Dodo Payments
 
-- **Swag**: Major contributors will receive limited Dodo “Tracks” swag packs: t-shirts, caps, and stickers. We’ll also maintain a Hall of Fame and give shout-outs across our channels.
-- **Requirements**: Recipients are picked on the basis of:
-    - Impact: Is the contribution used by developers or merchants right away?
-    - Completeness: Are there tests, docs, and examples?
-    - Collaboration: Was the contributor responsive in reviews and helpful in discussion?
-    - Scope: Multiple small PRs or one large, well-scoped PR, both count.
+- **Swag**: Swag pack (T-shirt, cap, and stickers).
+- **Requirements**:
+                - Claim the issue and outline your approach.
+                - Work on the issue and implement code or docs and add tests.
+	              - Make meaningful PRs which include everything that is needed. 
 - **How to sign up**: Sign up here [Dodo Payments Sign up](https://app.dodopayments.com/signup)
-- **Issues**: Open an Issue on the follwing repos - [Billing SDK](https://github.com/dodopayments/billingsdk)
-                                                  - [Docs](https://github.com/dodopayments/dodo-docs)
-                                                  - [Dodo Payments Migrate](https://github.com/dodopayments/dodo-migrate)
-- **Notes**: Read rules regarding Hacktoberfest here [Blog post](https://dodopayments.com/blogs/hacktoberfest-2025-dodo-payments)
+- **Issues**: Check open issues or open one in the participating repositories 
+- **Notes**: Read the rules and find all the participating repositories on the [announcement page](https://dodopayments.com/blogs/hacktoberfest-2025-dodo-payments)
 
 ### G
 
