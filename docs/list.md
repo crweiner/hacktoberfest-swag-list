@@ -72,10 +72,14 @@ Do you want to put your project in front of tens of thousands of developers duri
 #### DocsGPT
 
 - **Swag**: T-shirt
-- **Requirements**: Have one meaningful pull request merged. The PR must be for an issue with the `hacktoberfest` label (set by our maintainer team). Contributions can include code, API extensions, documentation, or design improvements.
-- **How to sign up**: Fill out [this form](https://forms.gle/Npaba4n9Epfyx56S8) after your PR is merged.
-- **Issues**: [https://github.com/arc53/DocsGPT/issues](https://github.com/arc53/DocsGPT/issues)
-- **Notes**: Read the full Hacktoberfest announcement [here](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md). Join the community on [Discord](https://discord.gg/fdh8Gune5e) for help and discussion. T-shirt design will be revealed later in October.
+- **Requirements**: 
+    - Make one meaningful PR for an issue with the `hacktoberfest` label. 
+		- Contributions can include code, API extensions, documentation, or design improvements.
+- **How to sign up**: No special sign up required. 
+- **Issues**: [DocsGPT/issues](https://github.com/arc53/DocsGPT/issues)
+- **Notes**: 
+    - Fill out [this form](https://forms.gle/Npaba4n9Epfyx56S8) after your PR is merged.
+		- Check the [announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
 
 ### G
 
