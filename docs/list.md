@@ -67,8 +67,17 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Once your contribution is accepted and merged, they'll provide you with an address form.
 - **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
 
-
 ### D
+
+#### DocsGPT
+
+- **Swag**: T-shirt
+- **Requirements**:
+    - Make one meaningful PR for an issue with the `hacktoberfest` label.
+    - Contributions can include code, API extensions, documentation, or design improvements.
+- **How to sign up**: Fill out [this form](https://forms.gle/Npaba4n9Epfyx56S8) after your PR is merged.
+- **Issues**: [DocsGPT/issues](https://github.com/arc53/DocsGPT/issues)
+- **Notes**: Check the [announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
 
 #### .NET Foundation(dotnet)
 
@@ -79,7 +88,6 @@ Do you want to put your project in front of tens of thousands of developers duri
     - On accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
 - **How to sign up**: No special signup known.
 - **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest)
-
 
 ### G
 
@@ -94,6 +102,22 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: Find issues in the [goose Hacktoberfest 2025 Project Hub](https://github.com/block/goose/issues/4705).
 - **Notes**: [Check out the goose Hacktoberfest 2025 blog post for full details](https://block.github.io/goose/blog/2025/09/26/hacktoberfest-2025/) and the [pinned Hacktoberfest issue](https://github.com/block/goose/issues/4705).
 
+### L
+
+#### Lamatic
+
+- **Swag**: T-shirt, stickers, exclusive Lamatic swag
+- **Requirements**:
+    - Make 4 valid PRs to any of the three repositories.
+    - PRs must be valid and follow project guidelines.
+    - Add `hacktoberfest` tag to PR title or description.
+- **How to sign up**: No known signup link.
+- **Issues**:
+    - [Lamatic SDK Issues](https://github.com/Lamatic/lamatic-sdk/issues)
+    - [Lamatic Docs Issues](https://github.com/Lamatic/Lamatic-Docs/issues)
+    - [Lamatic Agent Kits Issues](https://github.com/Lamatic/AgentKit/issues)
+- **Notes**: Read the [announcement](https://lamatic.ai/docs/hacktoberfest) for more details.
+
 ### Q
 
 #### **QuestDB**
@@ -105,6 +129,19 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **How to sign up**: No known signup method.
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
+
+### M
+
+#### **MindsDB**
+
+- **Swag**: Github Sponsorship, MindsDB T-shirt, MacBook Pro
+- **Requirements**:
+    - Build an application with MindsDB Knowledge Bases + MindsDB, and write a blog post explaining how it works. Share it on Linkedin, and X/Twitter with a post mentioning @MindsDB.
+    - Write a pull request with your use-case implementation in the use-cases folder (create a folder for your use case with a descriptive name)
+    - Top 3 PRs, top 3 social media posts and 3 best blog posts will receive cash prizes as GitHub sponsorships and T-Shirt.
+    - Every winner will get 1 entry into the Apple MacBook Pro prize draw.
+- **How to sign up**: No known dedicated signup list.
+- **Notes**: [Check out the MindsDB Hacktoberfest GitHub folder in their repo for full details](https://github.com/mindsdb/mindsdb/tree/main/mindsdb%20hacktoberfest).
 
 ---
 
