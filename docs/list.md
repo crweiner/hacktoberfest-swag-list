@@ -77,8 +77,16 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Contributions can include code, API extensions, documentation, or design improvements.
 - **How to sign up**: Fill out [this form](https://forms.gle/Npaba4n9Epfyx56S8) after your PR is merged.
 - **Issues**: [DocsGPT/issues](https://github.com/arc53/DocsGPT/issues)
-- **Notes**:
-    - Check the [announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
+- **Notes**: Check the [announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
+
+#### .NET Foundation (dotnet)
+
+- **Swag**: Digital certificate for Hacktoberfest.
+- **Requirements**:
+    - Make at least one meaningful pull request (PR) to an official .NET Foundation repository.
+    - Substantive contributions include examples such as code, documentation, tests, CI or configuration, samples, tutorials, and localization.
+- **How to sign up**: When your PR is accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
+- **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest).
 
 ### G
 
