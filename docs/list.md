@@ -79,15 +79,14 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: [DocsGPT/issues](https://github.com/arc53/DocsGPT/issues)
 - **Notes**: Check the [announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
 
-#### .NET Foundation(dotnet)
+#### .NET Foundation (dotnet)
 
 - **Swag**: Digital certificate for Hacktoberfest.
 - **Requirements**:
     - Make at least one meaningful pull request (PR) to an official .NET Foundation repository.
     - Substantive contributions include examples such as code, documentation, tests, CI or configuration, samples, tutorials, and localization.
-    - On accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
-- **How to sign up**: No special signup known.
-- **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest)
+- **How to sign up**: When your PR is accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
+- **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest).
 
 ### G
 
