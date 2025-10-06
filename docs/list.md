@@ -88,24 +88,6 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: When your PR is accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
 - **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest).
 
-### F
-
-#### Flexprice
-
-- **Swag**: Flexprice Hacktoberfest swag pack (stickers, T-shirt, and tote bag) + social media shoutouts for top contributors.  
-- **Requirements**:  
-    - Join the [Flexprice Slack community](https://join.slack.com/t/flexpricecommunity/shared_invite/zt-39uat51l0-n8JmSikHZP~bHJNXladeaQ).  
-    - Contribute between **Oct 1–31, 2025** to any of the following repositories:
-        - [Flexprice](https://github.com/flexprice/flexprice)  
-        - [Flexprice Dashboard](https://github.com/flexprice/flexprice-front/issues)  
-        - [Flexprice Docs](https://github.com/flexprice/flexprice-docs/issues)  
-        - [Flexprice SDKs (TS/Python/Go)](https://github.com/flexprice/javascript-sdk/issues)  
-    - Pick an issue labeled `hacktoberfest`, `good first issue`, `help wanted`, `bug`, `enhancement`, or `documentation`.  
-    - Comment “I’m on it”, open a PR that passes checks, and follows the contribution template.  
-- **How to sign up**: No separate signup form — contributions are tracked automatically via merged PRs and Slack participation.  
-- **Issues**: [Flexprice Hacktoberfest issues](https://github.com/flexprice/flexprice/issues?q=is%3Aissue+label%3Ahacktoberfest)  
-- **Notes**: [Official announcement on X (Twitter)](https://twitter-thread.com/t/1974412729990701385).  
-
 ### G
 
 #### **goose**
