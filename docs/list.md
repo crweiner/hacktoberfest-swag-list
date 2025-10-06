@@ -200,6 +200,25 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup method.
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
+### R
+
+#### Requestly
+
+- **Swag**: Swag Kit, Amazon Gift Card, Digital Certificate, LinkedIn Shout-out
+- **Requirements**:  
+    - Earn **100+ points** during Hacktoberfest 2025 by contributing to Requestly’s open-source repositories or making no-code contributions.  
+    - Points can be earned through PRs, blog posts, API collections, or social media shares.  
+    - **Rewards tiers:**  
+        - **Bronze (≥100 pts)**: Certificate + Shout-out  
+        - **Silver (≥175 pts)**: ₹500 Amazon Gift Card + Bronze perks  
+        - **Gold (≥275 pts)**: Swag Kit + ₹2000 Gift Card  
+        - **Grand Winner (≥400 pts)**: Swag Kit + ₹5000 Gift Card + Feature on landing page  
+    - PRs and contributions must be accepted before **Nov 1, 2025 (IST)**.  
+    - Shipping available **only within India**.  
+- **How to sign up**: [Hacktoberfest 2025 × Requestly](https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/)
+- **Issues**: [Requestly GitHub Issues](https://github.com/requestly/requestly/issues)
+- **Notes**: Join [Requestly Discord](https://discord.gg/requestly) for updates, leaderboard access, and contribution guidance.
+
 ### S
 
 #### Service Now
