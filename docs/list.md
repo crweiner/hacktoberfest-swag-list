@@ -211,6 +211,17 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Join via the ["Sign Up Here" button on the home page](https://modtoberfest.com/).
 - **Notes**: Read all of the [Modtoberfest Rules](https://modtoberfest.com/rules) and the [FAQ](https://modtoberfest.com/faq) to learn more.
 
+#### **Major League Hacking (MLH)**
+
+- **Swag**: Sticker pack and postcard
+- **Requirements**:
+    - Join the **[MLH Community Discord Server](https://discord.com/invite/mlh)**
+    - Check in on the **[event registration page](https://events.mlh.io/events/12714)**
+    - Submit your mailing address at [mlh.link/Address](https://mlh.link/Address)
+    - Attend **at least 5 live sessions** during Global Hack Week to earn bonus stickers
+- **How to sign up**: Register for [Global Hack Week](https://ghw.mlh.io) and complete the full check-in steps listed above.
+- **Notes**: Please see [more swag details here](https://ghw.mlh.io/swag).
+
 ### Q
 
 #### **QuestDB**
