@@ -246,6 +246,39 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup method.
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
+### R
+
+#### Robo.js  
+
+- **Swag**:  
+    -  **Exclusive Robo.js Hacktoberfest 2025 T-Shirt** for the **top 3 contributors**  
+    -  **Free Discord Nitro** for everyone who makes a meaningful contribution (while supplies last)  
+    -  **$25 USD** optional alternative for the **top contributor**  
+
+- **Stretch Rewards**:  
+    - **Over 10 participants**: Add a **free month of RoboPlay** for the top 3 contributors.  
+    - **Over 25 participants**: Expand top-contributor rewards to top 5; cash prize increases to **$50 USD**.  
+    - **Over 50 participants**: Top 5 may upgrade their T-Shirt to a higher prize tier; cash prize increases to **$100 USD**.  
+    - **Over 75 participants**: All top participants receive **event stickers**.  
+    - **Over 100 participants**: Expand top-contributor rewards to top 10; **cash prizes extend to top 3**.  
+
+- **Requirements**:  
+    - **Contribute plugins, templates, video content, or features** to the Robo.js core framework.  
+    - Every **meaningful contribution** counts as an entry — submit more to **increase your odds**.  
+    - Getting started is easy:  
+      ```bash
+      npx create-robo <project-name>
+      ```  
+    - Ensure contributions are valuable — spam or low-effort PRs will not be counted.  
+    - Pull requests must be **merged between Oct 1–31, 2025 (IST)** to qualify.  
+    - Follow Robo.js’s **contribution guidelines** and **code of conduct**.  
+
+- **How to sign up**: [Hacktoberfest 2025 × Robo.js](https://robojs.dev/getting-started) *(official announcements and participation details will appear here)*  
+
+- **Issues**: [Robo.js GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues) 
+
+- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for collaboration, support, and live prize updates throughout Hacktoberfest 2025.  
+
 ### S
 
 #### Service Now
