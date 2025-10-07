@@ -129,18 +129,18 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [Lamatic Docs Issues](https://github.com/Lamatic/Lamatic-Docs/issues)
     - [Lamatic Agent Kits Issues](https://github.com/Lamatic/AgentKit/issues)
 - **Notes**: Read the [announcement](https://lamatic.ai/docs/hacktoberfest) for more details.
-- 
+
 #### LocalStack
 
-- **Swag**: T-shirt, stickers, merch  
-- **Requirements**:  
-    - Participants must submit contributions during HacktoberFest (October) via PRs to LocalStack repos (e.g. `localstack-pro-samples`, `localstack-docs`)  
-    - The PRs should be non-draft (ready for review) so they count for HacktoberFest rules  
-- **How to sign up**: No known signup link.
+- **Swag**: Unknown
+- **Requirements**:
+    - Participants must submit contributions during HacktoberFest (October) via PRs to LocalStack repos (e.g. `localstack-pro-samples`, `localstack-docs`)
+    - The PRs should be non-draft (ready for review) so they count for HacktoberFest rules
+- **How to sign up**: [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSd4BJXu6KbXZZ2afekxkm35j60otB_pkj5s7hJRAzTk9j9Njg/viewform?usp=header) after your PR is merged.
 - **Issues**:
     - [localstack-pro-samples](https://github.com/localstack-samples/localstack-pro-samples/issues)
     - [localstack-docs](https://github.com/localstack/localstack-docs/issues)
-- **Notes**: Check out the [announcement](https://blog.localstack.cloud/hacktoberfest-2025/) for more details.
+- **Notes**: Check out the [announcement](https://blog.localstack.cloud/hacktoberfest-2025/) for more details. Only for the first 20 contributors.
 
 ### M
 
