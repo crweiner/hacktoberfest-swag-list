@@ -238,11 +238,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### **Olake**
 
-- **Swag**: Exclusive Olake Jacket, Diaries, Pens, Stickers, Hacktoberfest goodies.
-- **Requirements**:  Contribute to open issues at [UI Repo](https://github.com/datazip-inc/olake-ui/issues)
-- **How to sign up**:  Join the [Olake Slack](https://olake.io/slack/) 
-- **Issues**: Check the repos for Hacktoberfest-tagged issues.
-- **Notes**: Read the [Original Announcement](https://twitter.com/_olake)
+- **Swag**: Jacket, diaries, pens and stickers.
+- **Requirements**: 
+		- Contribute to open issues in olake-UI or olake-Core repos. 
+		- Get your PR merged and join [Olake at Slack](https://olake.io/slack/) to get support.
+- **How to sign up**: No known sign up link.
+- **Issues**: 
+		- [Olake - UI](https://github.com/datazip-inc/olake-ui/issues)
+    - [Olake - Core](https://github.com/datazip-inc/olake/issues)
+- **Notes**: Read the [pinned post](https://x.com/cappybaradeploy/status/1973027154041729331) for more details.
 
 
 ### Q
