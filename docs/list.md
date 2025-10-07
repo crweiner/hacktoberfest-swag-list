@@ -195,22 +195,17 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### Twenty
 
-- **Swag**: Amazon gift cards for top extensions  
-    - 🥇 $500 for best extension  
-    - 🥈 $300 for second-best  
-    - 🥉 $200 for third-best  
-    - 🎉 $100 for funniest integration  
-- **Requirements**:  
-    - Register a solo or team entry via the [Twenty Discord](https://discord.com/invite/Zu6y7E5f).  
-    - Build and publish an **extension app** for Twenty CRM between **Oct 1–31, 2025**.  
-    - Use **Serverless Functions** or **Triggers** to extend Twenty’s capabilities.  
-    - Follow the [local setup guide](https://twenty.com/developers/local-setup) and the [twenty-cli README](https://github.com/twentyhq/twenty/tree/main/packages/twenty-cli).  
-    - Submit your project by opening a PR on the [main Twenty repository](https://github.com/twentyhq/twenty).  
-    - Team submissions are encouraged but optional.  
-- **How to sign up**: Join the [Twenty Discord community](https://discord.com/invite/Zu6y7E5f) and register your team with the core team there.  
-- **Issues**: [Open issues on Twenty GitHub](https://github.com/twentyhq/twenty/issues?q=is%3Aissue+label%3Ahacktoberfest).  
-- **Notes**: Full event details and project ideas are available in the [official Hacktoberfest 2025 Notion page](https://twentycrm.notion.site/Hacktoberfest-27711d8417038037a149d4638a9cc510).  
-
+- **Swag**: Amazon gift cards ($100 - $500), based on the top 3 extensions and the funniest extension.
+- **Requirements**:
+    - Register a solo or team entry via the [Twenty Discord](https://discord.com/invite/Zu6y7E5f).
+    - Build and publish an **extension app** for Twenty CRM between **Oct 1–31, 2025**.
+    - Use **Serverless Functions** or **Triggers** to extend Twenty’s capabilities.
+    - Follow the [local setup guide](https://twenty.com/developers/local-setup) and the [twenty-cli README](https://github.com/twentyhq/twenty/tree/main/packages/twenty-cli).
+    - Submit your project by opening a PR on the [main Twenty repository](https://github.com/twentyhq/twenty).
+    - Team submissions are encouraged but optional.
+- **How to sign up**: Join the [Twenty Discord community](https://discord.com/invite/Zu6y7E5f) and register your team with the core team there.
+- **Issues**: [Open issues on Twenty GitHub](https://github.com/twentyhq/twenty/issues?q=is%3Aissue+label%3Ahacktoberfest).
+- **Notes**: Full event details and project ideas are available in the [official Hacktoberfest 2025 Notion page](https://twentycrm.notion.site/Hacktoberfest-27711d8417038037a149d4638a9cc510).
 
 ---
 
