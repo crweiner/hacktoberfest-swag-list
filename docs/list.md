@@ -182,6 +182,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup method.
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
+### R
+
+#### Repello AI
+
+- **Swag**: Exclusive Repello AI merch and swags.
+- **Requirements**: Contribute to open issues at one of the two participating repositories:
+    - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz/issues)
+    - [Whistleblower](https://github.com/Repello-AI/whistleblower/issues)
+
+- **How to sign up**: No known signup method.
+
+- **Notes**: Check out the [Hacktoberfest blog](https://repello.ai/blog/hacktoberfest-2025-contribute-to-ai-security-with-repello-ai) for full details on how to get started.
+
 ### S
 
 #### Service Now
