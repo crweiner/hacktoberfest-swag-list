@@ -89,6 +89,24 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: See the list of open `hacktoberfest` [issues here](https://github.com/CopilotKit/CopilotKit/issues?q=sort:updated-desc+is:issue+is:open+label:hacktoberfest).
 - **Notes**: Check out the [announcement post](https://github.com/CopilotKit/CopilotKit/tree/main/community/content) for more details.
 
+ #### Chimoney  
+
+- **Swag**: Digital Badges, Limited-Edition *Hacktoberfest 2025* T-Shirts (for the first 10,000 contributors with 6 merged PRs), Additional Chimoney Rewards (extra badges & monetary incentives for selected contributions)  
+
+- **Requirements**:  
+    - Explore **open issues** in the [Chimoney Community Projects](https://github.com/Chimoney/chimoney-community-projects/issues) repository or **propose your own idea**.  
+    - **Fork the repository**, create a **new branch**, make your changes, and **open a pull request**.  
+    - Follow the **folder structure:** contributions go into the `submissions/` directory, with subfolders for SDKs, articles, etc.  
+    - Review Chimoney’s **[contribution guidelines](https://github.com/Chimoney/chimoney-community-projects/blob/main/CONTRIBUTING.md)** for details and examples.  
+    - Ensure PRs are merged between **Oct 1–31, 2025 (IST)** to qualify for Hacktoberfest and Chimoney rewards.  
+
+- **How to sign up**: Sign up here [Hacktoberfest 2025 × Chimoney](https://chimoney.io/blogs)  
+
+- **Issues**: [Chimoney Community Projects – GitHub Issues](https://github.com/Chimoney/chimoney-community-projects/issues)  
+
+- **Notes**: Follow [Chimoney on X (Twitter)](https://twitter.com/ChimoneyIO) and join their [GitHub Discussions](https://github.com/Chimoney/chimoney-community-projects/discussions) for project updates, contribution guidance, and reward details.  
+
+
 ### D
 
 #### devICT
