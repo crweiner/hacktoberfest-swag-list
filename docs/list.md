@@ -53,6 +53,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### C
 
+#### Cebu Community
+
+- **Swag**: Top contributors, best local contributions, and winning teams get special recognition and prizes.  Swag currently unknown.
+- **Requirements**:
+    - Form or join teams (up to 4 members) during the kickoff or through community channels.
+    - The hackathon runs from **October 5 to 26, 2025**
+    - Contributions to **Cebu-based projects** count double (or carry extra weight)
+- **How to sign up**: Create an event-specific account via “OneCebby” to stay updated, find teams, and track participation.
+- **Notes**: Full details on the [Cebu Community blog here](https://hacktoberfest.jscebu.org)
+
 #### Cloudinary
 
 - **Swag**: The first 30 participants to submit a valid pull request to one of the Cloudinary SDK repos (see below) are rewarded with:
@@ -68,6 +78,13 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
 
 ### D
+
+#### devICT
+
+- **Swag**: Stickers
+- **Requirements**: Two pull requests to qualifying Wichita projects. Projects include [devICT](https://github.com/devict), [Groover Labs](https://github.com/grooverlabs), [Lake Afton Public Observatory](https://github.com/lake-afton-public-observatory), [MakeICT](https://github.com/makeict), and others.
+- **How to sign up**: Sign up at their Hacktoberfest webpage below.
+- **Notes**: Full details on the [devICT website here](https://hacktoberfest.devict.org/)
 
 #### DocsGPT
 
