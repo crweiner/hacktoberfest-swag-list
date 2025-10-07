@@ -53,6 +53,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### C
 
+#### Cebu Community
+
+- **Swag**: Top contributors, best local contributions, and winning teams get special recognition and prizes.  Swag currently unknown.
+- **Requirements**:
+    - Form or join teams (up to 4 members) during the kickoff or through community channels.
+    - The hackathon runs from **October 5 to 26, 2025**
+    - Contributions to **Cebu-based projects** count double (or carry extra weight)
+- **How to sign up**: Create an event-specific account via “OneCebby” to stay updated, find teams, and track participation.
+- **Notes**: Full details on the [Cebu Community blog here](https://hacktoberfest.jscebu.org)
+
 #### Cloudinary
 
 - **Swag**: The first 30 participants to submit a valid pull request to one of the Cloudinary SDK repos (see below) are rewarded with:
@@ -67,7 +77,26 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Once your contribution is accepted and merged, they'll provide you with an address form.
 - **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
 
+#### **CopilotKit**
+
+- **Swag**: CopilotKit swag
+- **Requirements**:
+    - Project Setup and Guidelines: Follow the instructions in [CONTRIBUTING.md](https://github.com/CopilotKit/CopilotKit/blob/main/community/content/CONTRIBUTING.md).
+    - Choose an Issue tagged `hacktoberfest`, see the link below.
+    - Submit Your Demo: Build and submit your demo as per **CONTRIBUTING.md**.
+    - Share Your Project: Post on X/Twitter tagging `@Copilotkit` and using **#CopilotKitHacktoberfest**; top-liked projects win,
+- **How to sign up**: No signup needed.
+- **Issues**: See the list of open `hacktoberfest` [issues here](https://github.com/CopilotKit/CopilotKit/issues?q=sort:updated-desc+is:issue+is:open+label:hacktoberfest).
+- **Notes**: Check out the [announcement post](https://github.com/CopilotKit/CopilotKit/tree/main/community/content) for more details.
+
 ### D
+
+#### devICT
+
+- **Swag**: Stickers
+- **Requirements**: Two pull requests to qualifying Wichita projects. Projects include [devICT](https://github.com/devict), [Groover Labs](https://github.com/grooverlabs), [Lake Afton Public Observatory](https://github.com/lake-afton-public-observatory), [MakeICT](https://github.com/makeict), and others.
+- **How to sign up**: Sign up at their Hacktoberfest webpage below.
+- **Notes**: Full details on the [devICT website here](https://hacktoberfest.devict.org/)
 
 #### DocsGPT
 
@@ -78,6 +107,17 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Fill out [this form](https://forms.gle/Npaba4n9Epfyx56S8) after your PR is merged.
 - **Issues**: [DocsGPT/issues](https://github.com/arc53/DocsGPT/issues)
 - **Notes**: Check the [announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for more details.
+
+#### Dodo Payments
+
+- **Swag**: Swag pack (T-shirt, cap, and stickers).
+- **Requirements**:
+    - Claim the issue and outline your approach.
+    - Work on the issue and implement code or docs and add tests.
+    - Make meaningful PRs which include everything that is needed.
+- **How to sign up**: Sign up here [Dodo Payments Sign up](https://app.dodopayments.com/signup).
+- **Issues**: Check open issues or open one in the participating repositories.
+- **Notes**: Read the rules and find all the participating repositories on the [announcement page](https://dodopayments.com/blogs/hacktoberfest-2025-dodo-payments).
 
 #### .NET Foundation (dotnet)
 
@@ -150,6 +190,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup link.
 - **Notes**: Find out more details [in their Hacktoberfest repo](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025).
 
+#### LocalStack
+
+- **Swag**: Unknown
+- **Requirements**:
+    - Participants must submit contributions during HacktoberFest (October) via PRs to LocalStack repos (e.g. `localstack-pro-samples`, `localstack-docs`)
+    - The PRs should be non-draft (ready for review) so they count for HacktoberFest rules
+- **How to sign up**: [Sign up here](https://docs.google.com/forms/d/e/1FAIpQLSd4BJXu6KbXZZ2afekxkm35j60otB_pkj5s7hJRAzTk9j9Njg/viewform?usp=header) after your PR is merged.
+- **Issues**:
+    - [localstack-pro-samples](https://github.com/localstack-samples/localstack-pro-samples/issues)
+    - [localstack-docs](https://github.com/localstack/localstack-docs/issues)
+- **Notes**: Check out the [announcement](https://blog.localstack.cloud/hacktoberfest-2025/) for more details. Only for the first 20 contributors.
+
+
 ### M
 
 #### **MindsDB**
@@ -170,31 +223,26 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Join via the ["Sign Up Here" button on the home page](https://modtoberfest.com/).
 - **Notes**: Read all of the [Modtoberfest Rules](https://modtoberfest.com/rules) and the [FAQ](https://modtoberfest.com/faq) to learn more.
 
+#### **Major League Hacking (MLH)**
+
+- **Swag**: Sticker pack and postcard
+- **Requirements**:
+    - Join the **[MLH Community Discord Server](https://discord.com/invite/mlh)**
+    - Check in on the **[event registration page](https://events.mlh.io/events/12714)**
+    - Submit your mailing address at [mlh.link/Address](https://mlh.link/Address)
+    - Attend **at least 5 live sessions** during Global Hack Week to earn bonus stickers
+- **How to sign up**: Register for [Global Hack Week](https://ghw.mlh.io) and complete the full check-in steps listed above.
+- **Notes**: Please see [more swag details here](https://ghw.mlh.io/swag).
+
 ### O
 
-#### Olake
+### **Olake**
 
-- **Swag:**  
-  Exclusive Jacket, Diaries, Pens, Stickers, Hacktoberfest goodies
-
-- **Requirements:**  
-    - Contribute to UI or Core repos during Hacktoberfest 2025  
-    - PRs must be merged  
-    - Tech: TypeScript, JavaScript, Golang  
-    - Beginners: “good first issues”; Advanced: deeper exploration  
-    - Active contributors may get priority for future openings
-
-- **How to sign up:**  
-  Join [Olake Slack](https://olake.io/slack/) and pick issues from:  
-    - [UI Repo](https://github.com/datazip-inc/olake-ui/issues)  
-    - [Core Repo](https://github.com/datazip-inc/olake/issues)  
-  Submit PRs during Hacktoberfest
-
-- **Issues:**  
-  All open Hacktoberfest-tagged issues
-
-- **Notes:**  
-  [Original Announcement](https://twitter.com/_olake)
+- **Swag**: Exclusive Olake Jacket, Diaries, Pens, Stickers, Hacktoberfest goodies.
+- **Requirements**:  Contribute to open issues at [UI Repo](https://github.com/datazip-inc/olake-ui/issues)
+- **How to sign up**:  Join the [Olake Slack](https://olake.io/slack/) 
+- **Issues**: Check the repos for Hacktoberfest-tagged issues.
+- **Notes**: Read the [Original Announcement](https://twitter.com/_olake)
 
 
 ### Q
@@ -217,6 +265,22 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Requirements**: Complete all of the 6 PRs for the main Hacktoberfest event, plus [write a comment on this blog post](https://www.servicenow.com/community/developer-advocate-blog/hacktoberfest-2025-building-with-servicenow-giving-with/ba-p/3386849) talking about your contributions and experience
 - **How to sign up**: You'll need a ServiceNow community account to comment. [Register on the site here](https://account.servicenow.com/sign-up).
 - **Notes**: Read their [full Hacktoberfest blog post here](https://www.servicenow.com/community/developer-advocate-blog/hacktoberfest-2025-building-with-servicenow-giving-with/ba-p/3386849) and [review the Hacktoberfest repo here](https://github.com/ServiceNowDevProgram/Hacktoberfest).
+
+### T
+
+#### Twenty
+
+- **Swag**: Amazon gift cards ($100 - $500), based on the top 3 extensions and the funniest extension.
+- **Requirements**:
+    - Register a solo or team entry via the [Twenty Discord](https://discord.com/invite/Zu6y7E5f).
+    - Build and publish an **extension app** for Twenty CRM between **Oct 1–31, 2025**.
+    - Use **Serverless Functions** or **Triggers** to extend Twenty’s capabilities.
+    - Follow the [local setup guide](https://twenty.com/developers/local-setup) and the [twenty-cli README](https://github.com/twentyhq/twenty/tree/main/packages/twenty-cli).
+    - Submit your project by opening a PR on the [main Twenty repository](https://github.com/twentyhq/twenty).
+    - Team submissions are encouraged but optional.
+- **How to sign up**: Join the [Twenty Discord community](https://discord.com/invite/Zu6y7E5f) and register your team with the core team there.
+- **Issues**: [Open issues on Twenty GitHub](https://github.com/twentyhq/twenty/issues?q=is%3Aissue+label%3Ahacktoberfest).
+- **Notes**: Full event details and project ideas are available in the [official Hacktoberfest 2025 Notion page](https://twentycrm.notion.site/Hacktoberfest-27711d8417038037a149d4638a9cc510).
 
 ---
 
