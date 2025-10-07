@@ -1,0 +1,30 @@
+name: reviewdog - markdownlint
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    paths:
+      - '**/*.md'
+      - '.markdownlint.yml'
+      - '.github/workflows/reviewdog-markdownlint.yml'
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  markdownlint:
+    name: runner / markdownlint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run markdownlint with reviewdog
+        uses: reviewdog/action-markdownlint@v0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          reporter: github-pr-review
+          markdownlint_flags: '--config .markdownlint.yml **/*.md'
