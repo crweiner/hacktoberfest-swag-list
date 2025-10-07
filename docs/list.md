@@ -55,7 +55,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### Cebu Community
 
-- **Swag / Prizes**: Top contributors, best local contributions, and winning teams get special recognition and prizes.
+- **Swag**: Top contributors, best local contributions, and winning teams get special recognition and prizes.  Swag currently unknown.
 - **Requirements**:
     - Form or join teams (up to 4 members) during the kickoff or through community channels.
     - The hackathon runs from **October 5 to 26, 2025**
@@ -81,12 +81,9 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### devICT
 
-- **Swag**: After making two qualifying pull requests, participants become eligible to receive *some local swag*.
-- **Requirements**:
-    - Pick an open issue from one of the qualifying Wichita community/open-source projects
-    - Make changes locally and submit a pull request (repeat for a second PR)
-    - Pull requests must be valid and accepted (i.e. meaningful contributions)
-- **How to sign up**: No known signup link, but it seems to be automated.
+- **Swag**: Stickers
+- **Requirements**: Two pull requests to qualifying Wichita projects. Projects include [devICT](https://github.com/devict), [Groover Labs](https://github.com/grooverlabs), [Lake Afton Public Observatory](https://github.com/lake-afton-public-observatory), [MakeICT](https://github.com/makeict), and others.
+- **How to sign up**: Sign up at their Hacktoberfest webpage below.
 - **Notes**: Full details on the [devICT website here](https://hacktoberfest.devict.org/)
 
 #### DocsGPT
