@@ -74,7 +74,7 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Project Setup and Guidelines: Follow the instructions in [CONTRIBUTING.md](https://github.com/CopilotKit/CopilotKit/blob/main/community/content/CONTRIBUTING.md).
     - Choose an Issue tagged `hacktoberfest`, see the link below.
     - Submit Your Demo: Build and submit your demo as per **CONTRIBUTING.md**.
-    - Share Your Project: Post on X/Twitter tagging `@Copilotkit` and using **#CopilotKitHacktoberfest**, top-liked projects win!.
+    - Share Your Project: Post on X/Twitter tagging `@Copilotkit` and using **#CopilotKitHacktoberfest**; top-liked projects win,
 - **How to sign up**: No signup needed.
 - **Issues**: See the list of open `hacktoberfest` [issues here](https://github.com/CopilotKit/CopilotKit/issues?q=sort:updated-desc+is:issue+is:open+label:hacktoberfest).
 - **Notes**: Check out the [announcement post](https://github.com/CopilotKit/CopilotKit/tree/main/community/content) for more details.
