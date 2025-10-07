@@ -246,6 +246,20 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup method.
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
+### R
+
+### **Requestly**
+
+- **Swag**: Swag kit, Amazon gift card, certificate
+- **Requirements**: Earn 100+ points by contributing to open issues, building API collections, or making no-code contributions
+    - Bronze: >= 100 points - Digital certificates + LinkedIn shout-out
+    - Silver: >= 175 points - 500 Rs Amazon gift card + Bronze perks
+    - Gold: >= 275 points - Swag kit + 2000 Rs Amazon gift card
+    - Hall of fame: Top 5 overall contributors receive a dedicated blog
+    - Grand Winner (#1, >= 400 points) - Landing page spotlight + Swag kit + 5000 Rs Amazon gift card
+- **How to sign up**: No known signup method
+- **Issues**: [Hacktoberfest tagged issues](https://github.com/search?q=repo%3Arequestly%2Frequestly%20%20label%3Ahacktoberfest&type=issues)
+- **Notes**: [Requestly LinkedIn](https://www.linkedin.com/company/requestly/posts/?feedView=all)
 ### S
 
 #### Service Now
