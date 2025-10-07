@@ -85,7 +85,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Requirements**:
     - Claim the issue and outline your approach.
     - Work on the issue and implement code or docs and add tests.
-    - Make meaningful PRs which include everything that is needed.                    
+    - Make meaningful PRs which include everything that is needed.
 - **How to sign up**: Sign up here [Dodo Payments Sign up](https://app.dodopayments.com/signup).
 - **Issues**: Check open issues or open one in the participating repositories.
 - **Notes**: Read the rules and find all the participating repositories on the [announcement page](https://dodopayments.com/blogs/hacktoberfest-2025-dodo-payments).
