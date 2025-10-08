@@ -124,6 +124,20 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: [This link shows the included repos and issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ainterledger+fork%3Atrue+repo%3Awicg%2Fwebmonetization&type=repositories).
 - **Notes**: See their [Hacktoberfest page here](https://interledger.org/hacktoberfest).
 
+#### iTop
+
+#### iTop
+
+- **Swag**: iTop Hacktoberfest stickers, exclusive iTop insulated bottle, and discounts on iTop extensions.
+- **Requirements**:
+  - 1 PR: iTop Hacktoberfest stickers
+  - 3 PRs: iTop insulated bottle.
+  - 6+ PRs: voucher for a free iTop extension (up to 75€ value) and a 50% discount on additional extensions.
+- **How to sign up**: No known signup link.
+- **Issues**: Check out the repositories tagged for Hacktoberfest contributions on [iTop’s GitHub](https://github.com/Combodo).
+- **Notes**: Join the conversation on iTop’s [Slack](https://join.slack.com/t/itopbycombodo/shared_invite/zt-3eics8oom-CsPiD~84Pos342id3cdG2A) #hacktoberfest channel, the [Hacktoberfest forum](https://sourceforge.net/p/itop/discussion/hacktoberfest/), or the global Hacktoberfest [Discord](https://discord.com/channels/707751027973161132/1414618063269134476) community.
+
+
 ### L
 
 #### Lamatic
