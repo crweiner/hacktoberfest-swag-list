@@ -246,6 +246,37 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup method.
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
+### R
+
+#### Requestly
+
+- **Swag**: Swag Kit (Gold), Digital certificate (Bronze), ₹500–₹5000 Amazon gift cards, LinkedIn shout-outs
+- **Requirements**: Contribute in any of the following ways to earn points (PRs can be merged or just submitted depending on type):
+    - **Code & Product**
+        - Visit the [Requestly GitHub Repo](https://github.com/requestly)
+        - Star & fork the repo(s)
+        - Pick any issue labeled Hacktoberfest
+        - Raise a PR with a clear description + optional screen recording
+        - Share work on social media for bonus points
+    - **API Collections**
+        - Clone a target project repo (≥200 stars)
+        - Create a Local Workspace in Requestly API Client
+        - Raise a PR to add your collection
+        - Points awarded for PR raised and merged
+    - **No-Code Contributions**
+        - Write a blog/article/tutorial on learnings/use cases
+        - Share on social media (LinkedIn/X first, then others for bonus points)
+- **How to sign up**: [Hacktoberfest 2025](https://hacktoberfest.com/)
+- **Issues**: look for Hacktoberfest-labeled issues in the [Requestly GitHub Repo](https://github.com/requestly)
+- **Notes**:
+    - Points are tracked for code and non-code contributions; no forms needed for PRs.
+    - Weekly top contributors announced on LinkedIn. Keep an eye out on the [leaderboard](https://github.com/requestly/requestly/issues/3631)
+    - Rewards are India-only.
+    - Timeline: Oct 6–31, 2025; winners announced after Oct 31, 2025.
+    - Discord community: [Join Requestly Discord](https://discord.com/invite/ZnTGjC4zqD)
+    - More details: [Requestly Hacktoberfest 2025 Blog](https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/)
+
+
 ### S
 
 #### Service Now
