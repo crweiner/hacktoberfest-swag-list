@@ -234,6 +234,22 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Register for [Global Hack Week](https://ghw.mlh.io) and complete the full check-in steps listed above.
 - **Notes**: Please see [more swag details here](https://ghw.mlh.io/swag).
 
+### O
+
+#### **Olake**
+
+- **Swag**: Jacket, diaries, pens, stickers, and other Hacktoberfest goodies  
+- **Requirements**: Contribute to any of Olake’s core repositories.  
+    - Check out the [Olake Core Repository](https://github.com/datazip-inc/olake/issues) or [Olake UI Repository](https://github.com/datazip-inc/olake-ui/issues). 
+    - Start with issues labeled “good first issue” if you’re a beginner.  
+    - More experienced contributors can take on advanced issues (TypeScript, JavaScript, or Golang).  
+    - Get your PRs merged to qualify for rewards.  
+    - Join the Slack community to discuss ideas and get support.  
+- **How to sign up**: Join the [Olake Slack Community](https://olake.io/slack/) to connect with the team and start contributing.  
+- **Issues**: [Core Repo Issues](https://github.com/datazip-inc/olake/issues) | [UI Repo Issues](https://github.com/datazip-inc/olake-ui/issues)  
+- **Notes**:  
+    - Active contributors get priority for future job openings.     
+
 ### Q
 
 #### **QuestDB**
