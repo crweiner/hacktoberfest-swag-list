@@ -249,6 +249,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 ### R
 
 #### Repello AI
+
 - **Swag**: Exclusive Repello AI merch and swags.
 - **Requirements**: Contribute to open issues at one of the two participating repositories:
     - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz/issues)
