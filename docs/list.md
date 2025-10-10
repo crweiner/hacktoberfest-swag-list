@@ -63,6 +63,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Create an event-specific account via “OneCebby” to stay updated, find teams, and track participation.
 - **Notes**: Full details on the [Cebu Community blog here](https://hacktoberfest.jscebu.org)
 
+#### Chimoney  
+
+- **Swag**: Digital badges & monetary incentives for selected contributions
+- **Requirements**:  
+    - Explore **open issues** in the [Chimoney Community Projects](https://github.com/Chimoney/chimoney-community-projects/issues) repository or **propose your own idea**.  
+    - **Fork the repository**, create a **new branch**, make your changes, and **open a pull request**.  
+    - Follow the **folder structure:** contributions go into the `submissions/` directory, with subfolders for SDKs, articles, etc.  
+    - Review Chimoney’s [contribution guidelines](https://github.com/Chimoney/chimoney-community-projects/blob/main/CONTRIBUTING.md) for details and examples.  
+- **How to sign up**: No known signup link. 
+- **Issues**: [Chimoney Community Projects – GitHub Issues](https://github.com/Chimoney/chimoney-community-projects/issues)  
+- **Notes**: Join the [Chimoney Discord](https://discord.com/invite/TsyKnzT4qV) for project updates, contribution guidance, and reward details, and [read their Hacktoberfest blog post here](https://chimoney.io/blogs/hacktoberfest-2025-build-contribute-and-learn-with-chimoney/).
+
 #### Cloudinary
 
 - **Swag**: The first 30 participants to submit a valid pull request to one of the Cloudinary SDK repos (see below) are rewarded with:
@@ -77,7 +89,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Once your contribution is accepted and merged, they'll provide you with an address form.
 - **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
 
-#### **CopilotKit**
+#### CopilotKit
 
 - **Swag**: CopilotKit swag
 - **Requirements**:
