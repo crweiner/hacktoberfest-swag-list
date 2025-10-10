@@ -184,15 +184,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### R
 
-#### **Requestly**
+#### Requestly
 
 - **Swag**: Digital certificate, Amazon gift cards, swag kits, LinkedIn recognition
 - **Requirements**: Contribute to Requestly (code or no-code) during Hacktoberfest 2025 (Oct 6 to Oct 31) via PRs, API collections, blog posts, or social shares. Earn points across multiple contribution types and redeem swag!
     - [Raise PRs](https://github.com/requestly/requestly/issues?q=is%3Aissue%20state%3Aopen%20label%3Ahacktoberfest)
     - [Create API Collections](https://github.com/requestly/requestly/issues/3637)
     - [Write Blogs or Articles](https://github.com/requestly/requestly/issues/3636)
-- **How to sign up**: [Visit the Github Page](https://github.com/requestly/requestly/issues/3638)
-- **Notes**: Check out the [Blog Post](https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/) for more details.
+- **How to sign up**: No signup needed, your contributions and points will be automatically tracked.
+- **Notes**: Check out the [Blog Post](https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/) and [this GitHub issue](https://github.com/requestly/requestly/issues/3638) for more details regarding how to earn points.
 
 ### S
 
