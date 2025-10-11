@@ -180,9 +180,9 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 - **Swag**: iTop Hacktoberfest stickers, exclusive iTop insulated bottle, and discounts on iTop extensions.
 - **Requirements**:
-  - 1 PR: iTop Hacktoberfest stickers
-  - 3 PRs: iTop insulated bottle
-  - 6+ PRs: voucher for a free iTop extension (up to 75€ value) and a 50% discount on additional extensions
+    - 1 PR: iTop Hacktoberfest stickers
+    - 3 PRs: iTop insulated bottle
+    - 6+ PRs: voucher for a free iTop extension (up to 75€ value) and a 50% discount on additional extensions
 - **How to sign up**: No known signup link.
 - **Issues**: Check out the repositories tagged for Hacktoberfest contributions on [iTop’s GitHub](https://github.com/Combodo).
 - **Notes**: Read the [announcement](https://combodo.com/ecosystem/join-us-for-hacktoberfest/) for more details.
