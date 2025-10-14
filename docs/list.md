@@ -63,6 +63,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Create an event-specific account via “OneCebby” to stay updated, find teams, and track participation.
 - **Notes**: Full details on the [Cebu Community blog here](https://hacktoberfest.jscebu.org)
 
+#### Chimoney  
+
+- **Swag**: Digital badges & monetary incentives for selected contributions
+- **Requirements**:  
+    - Explore **open issues** in the [Chimoney Community Projects](https://github.com/Chimoney/chimoney-community-projects/issues) repository or **propose your own idea**.  
+    - **Fork the repository**, create a **new branch**, make your changes, and **open a pull request**.  
+    - Follow the **folder structure:** contributions go into the `submissions/` directory, with subfolders for SDKs, articles, etc.  
+    - Review Chimoney’s [contribution guidelines](https://github.com/Chimoney/chimoney-community-projects/blob/main/CONTRIBUTING.md) for details and examples.  
+- **How to sign up**: No known signup link. 
+- **Issues**: [Chimoney Community Projects – GitHub Issues](https://github.com/Chimoney/chimoney-community-projects/issues)  
+- **Notes**: Join the [Chimoney Discord](https://discord.com/invite/TsyKnzT4qV) for project updates, contribution guidance, and reward details, and [read their Hacktoberfest blog post here](https://chimoney.io/blogs/hacktoberfest-2025-build-contribute-and-learn-with-chimoney/).
+
 #### Cloudinary
 
 - **Swag**: The first 30 participants to submit a valid pull request to one of the Cloudinary SDK repos (see below) are rewarded with:
@@ -77,7 +89,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Once your contribution is accepted and merged, they'll provide you with an address form.
 - **Notes**: Full details on the [Cloudinary blog here](https://cloudinary.com/blog/hacktoberfest-2025)
 
-#### **CopilotKit**
+#### CopilotKit
 
 - **Swag**: CopilotKit swag
 - **Requirements**:
@@ -264,7 +276,26 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 - **Issues**: [Robo.js GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues) 
 
-- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for collaboration, support, and live prize updates throughout Hacktoberfest 2025.  
+- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for collaboration, support, and live prize updates throughout Hacktoberfest 2025.
+-   
+#### Repello AI
+
+- **Swag**: Exclusive Repello AI merch and swags.
+- **Requirements**: Contribute to open issues at one of the two participating repositories:
+    - [Agent-Wiz](https://github.com/Repello-AI/Agent-Wiz/issues)
+    - [Whistleblower](https://github.com/Repello-AI/whistleblower/issues)
+- **How to sign up**: No known signup method.
+- **Notes**: Check out their [Hacktoberfest blog post here](https://repello.ai/blog/hacktoberfest-2025-contribute-to-ai-security-with-repello-ai) for full details on how to get started.
+
+#### Requestly
+
+- **Swag**: Digital certificate, Amazon gift cards, swag kits, LinkedIn recognition
+- **Requirements**: Contribute to Requestly (code or no-code) during Hacktoberfest 2025 (Oct 6 to Oct 31) via PRs, API collections, blog posts, or social shares. Earn points across multiple contribution types and redeem swag!
+    - [Raise PRs](https://github.com/requestly/requestly/issues?q=is%3Aissue%20state%3Aopen%20label%3Ahacktoberfest)
+    - [Create API Collections](https://github.com/requestly/requestly/issues/3637)
+    - [Write Blogs or Articles](https://github.com/requestly/requestly/issues/3636)
+- **How to sign up**: No signup needed, your contributions and points will be automatically tracked.
+- **Notes**: Check out the [Blog Post](https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/) and [this GitHub issue](https://github.com/requestly/requestly/issues/3638) for more details regarding how to earn points.
 
 ### S
 
