@@ -42,6 +42,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: [Sign up](https://hacktoberfest.appwrite.network/) for the Hackathon.
 - **Notes**: Check out the rules and FAQ at the [Appwrite Hacktoberfest Hackathon page](https://hacktoberfest.appwrite.network/#rules), and [a video for how to join the hackathon](https://www.youtube.com/watch?v=fyQOT93O8Do).
 
+#### Akash Network
+
+- **Swag**: Mechanical keyboard, gaming mouse, T-shirt, compute credits.
+- **Requirements**:
+    - Contribute to documentation, deploy templates, open issues, or make improvements to automation, tools or infrastructure.
+    - Project Maintainers on Akash Network can update their Readme to highlight how Akash is their supercloud house and add the SDL file to [awesome-akash-repo](https://github.com/akash-network/awesome-akash) for voting by the Akash community. Each winning project will receive $100 Akash Compute Credits, maintainer swag and spotlight across Akash's channels.
+- **How to sign up**: Join the [Akash Network Luma](https://luma.com/87pm7k1m) community.
+- **Issues**: All [Open issues](https://github.com/search?q=org%3Aakash-network+is%3Aissue+is%3Aopen+label%3Ahacktoberfest&type=issues) with `hacktoberfest` label.
+- **Notes**:
+    - Physical goodies ship within India.
+    - Global participants will get same value AKT tokens.
+    - Check the [Akash Network Luma community](https://luma.com/87pm7k1m) for more details.
+
 ### B
 
 #### **Ballerina**
