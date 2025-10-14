@@ -176,6 +176,20 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: [This link shows the included repos and issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ainterledger+fork%3Atrue+repo%3Awicg%2Fwebmonetization&type=repositories).
 - **Notes**: See their [Hacktoberfest page here](https://interledger.org/hacktoberfest).
 
+#### InsForge
+
+- **Swag**: Mechanical keyboard, water bottle, T-shirt and sticker.
+- **Requirements**: 
+    - Fix any open issue related to SDK templates, docs, dashboard UX, MCP or integrations.
+    - A Mechanical keyboard for the top contributor.
+    - Water bottles for contributors ranked 2 to 4.
+    - T-shirts for contributors ranked 5 to 10.
+    - Every participant will also receive a digital badge and sticker.
+    - Leaderboard and top contributors will be announced on November 5.
+- **How to sign up**: No known signup link.
+- **Issues**: [InsForge Github Issues](https://github.com/InsForge/InsForge/issues)
+- **Notes**: Check the [InsForge Hacktoberfest announcement page](https://insforge.dev/blog/insforge-hacktoberfest-2025) for more details.
+
 ### L
 
 #### Lamatic
