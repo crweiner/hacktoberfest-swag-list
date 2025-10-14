@@ -170,11 +170,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### Interledger
 
-- **Swag**: Unclear, "Interledger Swag"
-- **Requirements**: Unclear, but some kind of "tiered rewards system"
-- **How to sign up**: No known signup link.
+- **Swag**: Cash prizes, T-shirt, stickers
+- **Requirements**:
+    - Contribute by building new features, finding and fixing bugs, writing tests or helping with documentation.
+    - Partner with Interledger to organize Hacktoberfest events.
+    - $10 to the first 10 contributors who make 1 or more accepted PRs
+    - A T-shirt for first 50 contributors who make 4 or more accepted PRs.
+    - The first 5 accepted event organizers will receive a T-shirt and sticker pack.
+- **How to sign up**: Organizers should fill [this form](https://forms.gle/5m5zAvZk5CJDNnT47) to get support for their "Hacktoberfest with Interledger" pop-up event.
 - **Issues**: [This link shows the included repos and issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ainterledger+fork%3Atrue+repo%3Awicg%2Fwebmonetization&type=repositories).
-- **Notes**: See their [Hacktoberfest page here](https://interledger.org/hacktoberfest).
+- **Notes**: See their [Hacktoberfest page here](https://interledger.org/hacktoberfest) and [blog post](https://interledger.org/news/hacktoberfest-interledger-2025-open-source-celebration) for more details.
 
 #### InsForge
 
