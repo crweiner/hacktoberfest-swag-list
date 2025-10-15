@@ -279,18 +279,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No signup needed, your contributions and points will be automatically tracked.
 - **Notes**: Check out the [Blog Post](https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/) and [this GitHub issue](https://github.com/requestly/requestly/issues/3638) for more details regarding how to earn points.
 
-#### Robo.js  
+#### Robo.js
 
-- **Swag**: Exclusive Hacktoberfest 2025 T-Shirt, Free Discord Nitro for meaningful contributions, $25 USD for the top contributor.  
-- **Requirements**:  
-    - Resolve issues in the core or official plugins. [View Contribution Guide](https://github.com/Wave-Play/robo.js/blob/main/CONTRIBUTING.md)  
-    - Build ready-to-use project starters. [Explore Template Docs](https://robojs.dev/templates)  
-    - Add new NPM packages or integrations. [Learn How to Build Plugins](https://robojs.dev/plugins/create)  
+- **Swag**: Hacktoberfest 2025 T-Shirt, Free Discord Nitro, $25 USD for the top contributor.
+- **Requirements**:
+    - Resolve issues in the core or official plugins. [View Contribution Guide](https://github.com/Wave-Play/robo.js/blob/main/CONTRIBUTING.md)
+    - Build ready-to-use project starters. [Explore Template Docs](https://robojs.dev/templates)
+    - Add new NPM packages or integrations. [Learn How to Build Plugins](https://robojs.dev/plugins/create)
     - Teach Robo.js concepts via walkthroughs or live-coding sessions. Upload to YouTube and PR the link.
-    - Propose and ship scoped framework updates after community discussion. [Understand Robo Internals](https://robojs.dev/robojs/internals)   
-- **How to sign up**: Visit [robojs.dev/getting-started](https://robojs.dev/getting-started).  
-- **Issues**: [GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues)  
-- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for support and live prize updates.  
+    - Propose and ship scoped framework updates after community discussion. [Understand Robo Internals](https://robojs.dev/robojs/internals)
+- **How to sign up**: Visit [robojs.dev/getting-started](https://robojs.dev/getting-started).
+- **Issues**: [GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues)
+- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for support and live prize updates.
 
 ### S
 
