@@ -23,12 +23,12 @@ jobs:
           fetch-depth: 0
 
       - name: Run markdownlint with reviewdog
-        uses: reviewdog/action-markdownlint@v0
+        uses: reviewdog/action-markdownlint@v0.26.2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
           markdownlint_flags: '--config .markdownlint.yml **/*.md'
           level: error
-          filter_mode: added
+          filter_mode: diff
           fail_level: none
           fail_on_error: false
