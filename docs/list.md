@@ -281,14 +281,14 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### Robo.js  
 
-- **Swag**: Exclusive Hacktoberfest 2025 T-Shirt for top 3 contributors, Free Discord Nitro for meaningful contributions (while supplies last), and a $25 USD alternative for the top contributor.  
+- **Swag**: Exclusive Hacktoberfest 2025 T-Shirt, Free Discord Nitro for meaningful contributions, $25 USD for the top contributor.  
 - **Requirements**:  
     - Resolve issues in the core or official plugins. [View Contribution Guide](https://github.com/Wave-Play/robo.js/blob/main/CONTRIBUTING.md)  
     - Build ready-to-use project starters. [Explore Template Docs](https://robojs.dev/templates)  
     - Add new NPM packages or integrations. [Learn How to Build Plugins](https://robojs.dev/plugins/create)  
-    - Teach Robo.js concepts via walkthroughs or live-coding sessions, upload to youtube and PR the link.  
+    - Teach Robo.js concepts via walkthroughs or live-coding sessions. Upload to YouTube and PR the link.
     - Propose and ship scoped framework updates after community discussion. [Understand Robo Internals](https://robojs.dev/robojs/internals)   
-- **How to sign up**: Visit [robojs.dev/getting-started](https://robojs.dev/getting-started) for participation details and announcements.  
+- **How to sign up**: Visit [robojs.dev/getting-started](https://robojs.dev/getting-started).  
 - **Issues**: [GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues)  
 - **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for support and live prize updates.  
 
