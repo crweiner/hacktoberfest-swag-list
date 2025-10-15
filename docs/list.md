@@ -32,13 +32,26 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### A
 
+#### Akash Network
+
+- **Swag**: Mechanical keyboard, gaming mouse, T-shirt, compute credits.
+- **Requirements**:
+    - Contribute to documentation, deploy templates, open issues, or make improvements to automation, tools or infrastructure.
+    - Project Maintainers on Akash Network can update their Readme to highlight how Akash is their supercloud house and add the SDL file to [awesome-akash-repo](https://github.com/akash-network/awesome-akash) for voting by the Akash community. Each winning project will receive $100 Akash Compute Credits, maintainer swag and spotlight across Akash's channels.
+- **How to sign up**: Join the [Akash Network Luma](https://luma.com/87pm7k1m) community.
+- **Issues**: All [Open issues](https://github.com/search?q=org%3Aakash-network+is%3Aissue+is%3Aopen+label%3Ahacktoberfest&type=issues) with `hacktoberfest` label.
+- **Notes**:
+    - Physical goodies ship within India.
+    - Global participants will get same value AKT tokens.
+    - Check the [Akash Network Luma community](https://luma.com/87pm7k1m) for more details.
+
 #### Appwrite
 
 - **Swag**: Appwrite Swag kit (Customized hoodie, T-shirt, Mouse pad, and Stickers)
 - **Requirements**:
-  - Build and deploy a project from scratch using Appwrite Cloud
-  - Add a project submission to the [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions) repo.
-  - Submit PR details on the [hackathon portal (when logged in).](https://hacktoberfest.appwrite.network/hacker/submit)
+    - Build and deploy a project from scratch using Appwrite Cloud
+    - Add a project submission to the [appwrite-community/hf2025-hackathon-submissions](https://github.com/appwrite-community/hf2025-hackathon-submissions) repo.
+    - Submit PR details on the [hackathon portal (when logged in).](https://hacktoberfest.appwrite.network/hacker/submit)
 - **How to sign up**: [Sign up](https://hacktoberfest.appwrite.network/) for the Hackathon.
 - **Notes**: Check out the rules and FAQ at the [Appwrite Hacktoberfest Hackathon page](https://hacktoberfest.appwrite.network/#rules), and [a video for how to join the hackathon](https://www.youtube.com/watch?v=fyQOT93O8Do).
 
@@ -63,16 +76,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Create an event-specific account via “OneCebby” to stay updated, find teams, and track participation.
 - **Notes**: Full details on the [Cebu Community blog here](https://hacktoberfest.jscebu.org)
 
-#### Chimoney  
+#### Chimoney
 
 - **Swag**: Digital badges & monetary incentives for selected contributions
-- **Requirements**:  
-    - Explore **open issues** in the [Chimoney Community Projects](https://github.com/Chimoney/chimoney-community-projects/issues) repository or **propose your own idea**.  
-    - **Fork the repository**, create a **new branch**, make your changes, and **open a pull request**.  
-    - Follow the **folder structure:** contributions go into the `submissions/` directory, with subfolders for SDKs, articles, etc.  
-    - Review Chimoney’s [contribution guidelines](https://github.com/Chimoney/chimoney-community-projects/blob/main/CONTRIBUTING.md) for details and examples.  
-- **How to sign up**: No known signup link. 
-- **Issues**: [Chimoney Community Projects – GitHub Issues](https://github.com/Chimoney/chimoney-community-projects/issues)  
+- **Requirements**:
+    - Explore **open issues** in the [Chimoney Community Projects](https://github.com/Chimoney/chimoney-community-projects/issues) repository or **propose your own idea**.
+    - **Fork the repository**, create a **new branch**, make your changes, and **open a pull request**.
+    - Follow the **folder structure:** contributions go into the `submissions/` directory, with subfolders for SDKs, articles, etc.
+    - Review Chimoney’s [contribution guidelines](https://github.com/Chimoney/chimoney-community-projects/blob/main/CONTRIBUTING.md) for details and examples.
+- **How to sign up**: No known signup link.
+- **Issues**: [Chimoney Community Projects – GitHub Issues](https://github.com/Chimoney/chimoney-community-projects/issues)
 - **Notes**: Join the [Chimoney Discord](https://discord.com/invite/TsyKnzT4qV) for project updates, contribution guidance, and reward details, and [read their Hacktoberfest blog post here](https://chimoney.io/blogs/hacktoberfest-2025-build-contribute-and-learn-with-chimoney/).
 
 #### Cloudinary
@@ -168,13 +181,32 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### I
 
+#### InsForge
+
+- **Swag**: Mechanical keyboard, water bottle, T-shirt and sticker.
+- **Requirements**:
+    - Fix any open issue related to SDK templates, docs, dashboard UX, MCP or integrations.
+    - A Mechanical keyboard for the top contributor.
+    - Water bottles for contributors ranked 2 to 4.
+    - T-shirts for contributors ranked 5 to 10.
+    - Every participant will also receive a digital badge and sticker.
+    - Leaderboard and top contributors will be announced on November 5.
+- **How to sign up**: No known signup link.
+- **Issues**: [InsForge Github Issues](https://github.com/InsForge/InsForge/issues)
+- **Notes**: Check the [InsForge Hacktoberfest announcement page](https://insforge.dev/blog/insforge-hacktoberfest-2025) for more details.
+
 #### Interledger
 
-- **Swag**: Unclear, "Interledger Swag"
-- **Requirements**: Unclear, but some kind of "tiered rewards system"
-- **How to sign up**: No known signup link.
+- **Swag**: Cash prizes, T-shirt, stickers
+- **Requirements**:
+    - Contribute by building new features, finding and fixing bugs, writing tests or helping with documentation.
+    - Partner with Interledger to organize Hacktoberfest events.
+    - $10 to the first 10 contributors who make 1 or more accepted PRs
+    - A T-shirt for first 50 contributors who make 4 or more accepted PRs.
+    - The first 5 accepted event organizers will receive a T-shirt and sticker pack.
+- **How to sign up**: Organizers should fill [this form](https://forms.gle/5m5zAvZk5CJDNnT47) to get support for their "Hacktoberfest with Interledger" pop-up event.
 - **Issues**: [This link shows the included repos and issues](https://github.com/search?q=topic%3Ahacktoberfest+org%3Ainterledger+fork%3Atrue+repo%3Awicg%2Fwebmonetization&type=repositories).
-- **Notes**: See their [Hacktoberfest page here](https://interledger.org/hacktoberfest).
+- **Notes**: See their [Hacktoberfest page here](https://interledger.org/hacktoberfest) and [blog post](https://interledger.org/news/hacktoberfest-interledger-2025-open-source-celebration) for more details.
 
 #### iTop
 
@@ -224,7 +256,6 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [localstack-pro-samples](https://github.com/localstack-samples/localstack-pro-samples/issues)
     - [localstack-docs](https://github.com/localstack/localstack-docs/issues)
 - **Notes**: Check out the [announcement](https://blog.localstack.cloud/hacktoberfest-2025/) for more details. Only for the first 20 contributors.
-
 
 ### M
 
