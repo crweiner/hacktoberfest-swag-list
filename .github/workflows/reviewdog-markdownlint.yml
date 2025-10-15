@@ -31,4 +31,4 @@ jobs:
           level: error
           filter_mode: diff
           fail_level: none
-          fail_on_error: false
+          reviewdog_flags: '-diff="git diff FETCH_HEAD"'
