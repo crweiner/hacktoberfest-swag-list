@@ -259,25 +259,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
 ### R
-
-#### Robo.js  
-
-- **Swag**:  
-    -  **Exclusive Robo.js Hacktoberfest 2025 T-Shirt** for the **top 3 contributors**  
-    -  **Free Discord Nitro** for everyone who makes a meaningful contribution (while supplies last)  
-    -  **$25 USD** optional alternative for the **top contributor**  
-
-- **Requirements**:  
-    - **Contribute plugins, templates, video content, or features** to the Robo.js core framework.  
-    - Ensure contributions are valuable — spam or low-effort PRs will not be counted.  
-    - Follow Robo.js’s **contribution guidelines** and **code of conduct**.  
-
-- **How to sign up**: [Hacktoberfest 2025 × Robo.js](https://robojs.dev/getting-started) *(official announcements and participation details will appear here)*  
-
-- **Issues**: [Robo.js GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues) 
-
-- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for collaboration, support, and live prize updates throughout Hacktoberfest 2025.
--   
+   
 #### Repello AI
 
 - **Swag**: Exclusive Repello AI merch and swags.
@@ -296,6 +278,19 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [Write Blogs or Articles](https://github.com/requestly/requestly/issues/3636)
 - **How to sign up**: No signup needed, your contributions and points will be automatically tracked.
 - **Notes**: Check out the [Blog Post](https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/) and [this GitHub issue](https://github.com/requestly/requestly/issues/3638) for more details regarding how to earn points.
+
+#### Robo.js  
+
+- **Swag**: Exclusive Hacktoberfest 2025 T-Shirt for top 3 contributors, Free Discord Nitro for meaningful contributions (while supplies last), and a $25 USD alternative for the top contributor.  
+- **Requirements**:  
+    - Resolve issues in the core or official plugins. [View Contribution Guide](https://github.com/Wave-Play/robo.js/blob/main/CONTRIBUTING.md)  
+    - Build ready-to-use project starters. [Explore Template Docs](https://robojs.dev/templates)  
+    - Add new NPM packages or integrations. [Learn How to Build Plugins](https://robojs.dev/plugins/create)  
+    - Teach Robo.js concepts via walkthroughs or live-coding sessions, upload to youtube and PR the link.  
+    - Propose and ship scoped framework updates after community discussion. [Understand Robo Internals](https://robojs.dev/robojs/internals)   
+- **How to sign up**: Visit [robojs.dev/getting-started](https://robojs.dev/getting-started) for participation details and announcements.  
+- **Issues**: [GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues)  
+- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for support and live prize updates.  
 
 ### S
 
