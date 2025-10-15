@@ -31,4 +31,4 @@ jobs:
           level: error
           filter_mode: diff
           fail_level: none
-          reviewdog_flags: '-diff="git diff FETCH_HEAD"'
+          reviewdog_flags: '-diff="git diff HEAD^..HEAD"'
