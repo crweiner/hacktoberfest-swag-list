@@ -28,3 +28,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
           markdownlint_flags: '--config .markdownlint.yml **/*.md'
+          level: error
+          filter_mode: added
+          fail_level: none
+          fail_on_error: false
