@@ -32,8 +32,3 @@ jobs:
           filter_mode: added
           fail_level: none
           fail_on_error: false
-
-- name: Run markdownlint with reviewdog
-uses: reviewdog/action-markdownlint@v0.26.2
-
-
