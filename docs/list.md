@@ -266,7 +266,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**:
     - [Layer 5 Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+%28org%3Alayer5io+OR+org%3Ameshery+OR+org%3Aservice-mesh-performance+OR+org%3Aservice-mesh-patterns+OR+org%3Alayer5labs+OR+org%3Ameshery-extensions%29+label%3Ahacktoberfest)
     - [Ways to Contribute to layer5 for code and nocode](https://layer5.io/blog/open-source/ways-to-contribute-at-layer5)
-- **Notes**: Check out the [blog]([https://blog.localstack.cloud/hacktoberfest-2025/](https://layer5.io/programs/hacktoberfest)) for more details.
+- **Notes**: Check out the [blog](https://layer5.io/programs/hacktoberfest) for more details.
 
 ### M
 
