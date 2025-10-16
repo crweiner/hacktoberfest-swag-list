@@ -359,6 +359,20 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: [Open issues on Twenty GitHub](https://github.com/twentyhq/twenty/issues?q=is%3Aissue+label%3Ahacktoberfest).
 - **Notes**: Full event details and project ideas are available in the [official Hacktoberfest 2025 Notion page](https://twentycrm.notion.site/Hacktoberfest-27711d8417038037a149d4638a9cc510).
 
+### W
+
+#### WSO2
+
+- **Swag**: Amazon Vouchers, WSO2 Goodies,Free vouchers for WSO2 Practitioner and Developer certifications, $1000 USD Worth credits for WSO2 cloud products.
+- **Requirements**:
+    - Select an issue from the Hacktoberfest project board below.
+    - Leave a comment on the issue once you start working on it.
+    - Submit a PR and address any review comments, if needed, and get your PR merged.
+    - After your PR is merged, fill out the form below.
+- **How to sign up**: Fill out [this form](https://docs.google.com/forms/d/1tn3F1k3mERAXOCNNFOzX9i6rSSwbVcGkgkGL93Bgo5s/viewform?edit_requested=true) once the PR is merged.
+- **Issues**: [See the open issues on WSO2 GitHub project board here](https://github.com/orgs/wso2/projects/134/).
+- **Notes**: For more information please refer to [official WSO2 blog](https://wso2.com/hacktoberfest/).
+
 ---
 
 *Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
