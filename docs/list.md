@@ -321,6 +321,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No signup needed, your contributions and points will be automatically tracked.
 - **Notes**: Check out the [Blog Post](https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/) and [this GitHub issue](https://github.com/requestly/requestly/issues/3638) for more details regarding how to earn points.
 
+#### Robo.js
+
+- **Swag**: Hacktoberfest 2025 T-shirt, Free Discord Nitro, $25 USD for the top contributor.
+- **Requirements**: The following contribution types will be considered:
+    - Resolve issues in the core or official plugins
+    - Build [Templates](https://robojs.dev/templates)
+    - [Add new NPM packages](https://robojs.dev/plugins/create)
+    - Teach Robo.js concepts via walkthroughs or live-coding sessions.
+    - Propose and ship [scoped core feature](https://robojs.dev/robojs/internals)
+- **How to sign up**: No signup required.
+- **Issues**: [GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues)
+- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for support and live prize updates, [and read their blog post to learn more](https://dev.to/waveplay/hacktoberfest-2025-create-discord-features-or-videos-to-win-rewards-2d48).
+
 ### S
 
 #### Service Now
