@@ -257,6 +257,17 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [localstack-docs](https://github.com/localstack/localstack-docs/issues)
 - **Notes**: Check out the [announcement](https://blog.localstack.cloud/hacktoberfest-2025/) for more details. Only for the first 20 contributors.
 
+#### Layer5
+
+- **Swag**: Digital Badge
+- **Requirements**:
+    - Participants must submit contributions during HacktoberFest (October) via PRs to Layer5 projects.
+- **How to sign up**: No known signup link.
+- **Issues**:
+    - [Layer 5 Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+%28org%3Alayer5io+OR+org%3Ameshery+OR+org%3Aservice-mesh-performance+OR+org%3Aservice-mesh-patterns+OR+org%3Alayer5labs+OR+org%3Ameshery-extensions%29+label%3Ahacktoberfest)
+    - [Ways to Contribute to layer5 for code and nocode](https://layer5.io/blog/open-source/ways-to-contribute-at-layer5)
+- **Notes**: Check out the [blog]([https://blog.localstack.cloud/hacktoberfest-2025/](https://layer5.io/programs/hacktoberfest)) for more details.
+
 ### M
 
 #### **MindsDB**
