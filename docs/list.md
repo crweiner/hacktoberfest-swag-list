@@ -349,14 +349,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 ### W
 
 #### WSO2
+
 - **Swag**: Amazon Vouchers, WSO2 Goodies,Free vouchers for WSO2 Practitioner and Developer certifications, $1000 USD Worth credits for WSO2 cloud products.
 - **Requirements**:
-    - Refer to the Hacktoberfest project board and select an issue to work on.
-    - Once you start working on an issue, leave a comment stating that you're working on it to reserve it for yourself.
-    - When your work is ready, submit a pull request (PR). Address any review comments if needed and get your PR merged.
-    - After your PR is merged, fill out the form with the PR details and other relevant information.
-- **How to sign up**: No Sign up needed. Just Fill the [form](https://docs.google.com/forms/d/1tn3F1k3mERAXOCNNFOzX9i6rSSwbVcGkgkGL93Bgo5s/viewform?edit_requested=true) once the PR is merged.
-- **Issues**: [Open issues on WSO2 GitHub](https://github.com/orgs/wso2/projects/134/).
+    - Select an issue from the Hacktoberfest project board below.
+    - Leave a comment on the issue once you start working on it.
+    - Submit a PR and address any review comments, if needed, and get your PR merged.
+    - After your PR is merged, fill out the form below.
+- **How to sign up**: Fill out [this form](https://docs.google.com/forms/d/1tn3F1k3mERAXOCNNFOzX9i6rSSwbVcGkgkGL93Bgo5s/viewform?edit_requested=true) once the PR is merged.
+- **Issues**: [See the open issues on WSO2 GitHub project board here](https://github.com/orgs/wso2/projects/134/).
 - **Notes**: For more information please refer to [official WSO2 blog](https://wso2.com/hacktoberfest/).
 
 ---
