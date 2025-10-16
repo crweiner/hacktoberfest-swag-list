@@ -63,16 +63,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Create an event-specific account via “OneCebby” to stay updated, find teams, and track participation.
 - **Notes**: Full details on the [Cebu Community blog here](https://hacktoberfest.jscebu.org)
 
-#### Chimoney  
+#### Chimoney
 
 - **Swag**: Digital badges & monetary incentives for selected contributions
-- **Requirements**:  
-    - Explore **open issues** in the [Chimoney Community Projects](https://github.com/Chimoney/chimoney-community-projects/issues) repository or **propose your own idea**.  
-    - **Fork the repository**, create a **new branch**, make your changes, and **open a pull request**.  
-    - Follow the **folder structure:** contributions go into the `submissions/` directory, with subfolders for SDKs, articles, etc.  
-    - Review Chimoney’s [contribution guidelines](https://github.com/Chimoney/chimoney-community-projects/blob/main/CONTRIBUTING.md) for details and examples.  
-- **How to sign up**: No known signup link. 
-- **Issues**: [Chimoney Community Projects – GitHub Issues](https://github.com/Chimoney/chimoney-community-projects/issues)  
+- **Requirements**:
+    - Explore **open issues** in the [Chimoney Community Projects](https://github.com/Chimoney/chimoney-community-projects/issues) repository or **propose your own idea**.
+    - **Fork the repository**, create a **new branch**, make your changes, and **open a pull request**.
+    - Follow the **folder structure:** contributions go into the `submissions/` directory, with subfolders for SDKs, articles, etc.
+    - Review Chimoney’s [contribution guidelines](https://github.com/Chimoney/chimoney-community-projects/blob/main/CONTRIBUTING.md) for details and examples.
+- **How to sign up**: No known signup link.
+- **Issues**: [Chimoney Community Projects – GitHub Issues](https://github.com/Chimoney/chimoney-community-projects/issues)
 - **Notes**: Join the [Chimoney Discord](https://discord.com/invite/TsyKnzT4qV) for project updates, contribution guidance, and reward details, and [read their Hacktoberfest blog post here](https://chimoney.io/blogs/hacktoberfest-2025-build-contribute-and-learn-with-chimoney/).
 
 #### Cloudinary
@@ -214,7 +214,6 @@ Do you want to put your project in front of tens of thousands of developers duri
     - [localstack-docs](https://github.com/localstack/localstack-docs/issues)
 - **Notes**: Check out the [announcement](https://blog.localstack.cloud/hacktoberfest-2025/) for more details. Only for the first 20 contributors.
 
-
 ### M
 
 #### **MindsDB**
@@ -259,7 +258,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
 
 ### R
-   
+
 #### Repello AI
 
 - **Swag**: Exclusive Repello AI merch and swags.
@@ -281,8 +280,8 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### Robo.js
 
-- **Swag**: Hacktoberfest-2025 T-shirt, Free Discord Nitro, $25 USD for the top contributor.
-- **Requirements**: The following contribution types will be considered: 
+- **Swag**: Hacktoberfest 2025 T-shirt, Free Discord Nitro, $25 USD for the top contributor.
+- **Requirements**: The following contribution types will be considered:
     - Resolve issues in the core or official plugins
     - Build [Templates](https://robojs.dev/templates)
     - [Add new NPM packages](https://robojs.dev/plugins/create)
@@ -290,7 +289,7 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Propose and ship [scoped core feature](https://robojs.dev/robojs/internals)
 - **How to sign up**: No signup required.
 - **Issues**: [GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues)
-- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for support and live prize updates.
+- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for support and live prize updates, [and read their blog post to learn more](https://dev.to/waveplay/hacktoberfest-2025-create-discord-features-or-videos-to-win-rewards-2d48).
 
 ### S
 
