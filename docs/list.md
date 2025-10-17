@@ -336,6 +336,14 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### S
 
+#### Serplux
+
+- **Swag**: Exclusive Serplux Hacktoberfest 2025 T Shirt
+- **Requirements**: Submit atleast 2 Valid PRs.
+- **How to sign up**: No Signup Required.
+- **Issues**: [Serplux Repository](https://github.com/Serplux/blog)
+- **Notes**: Read their [full Hacktoberfest blog post here](https://blog.serplux.com/hacktoberfest-2025/)
+
 #### Service Now
 
 - **Swag**: ServiceNow merch store codes, and a Community Badge
