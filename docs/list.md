@@ -361,6 +361,20 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### W
 
+#### WeMakeDevs
+
+- **Swag**: Apple MacBook, Apple iPad, Interview opportunities at Kestra.
+- **Requirements**:
+    - Register for the challenge and join the [Kestra Slack community](https://kestra-io.slack.com/join/shared_invite/zt-2u3tfbhch-BSZmQKJtgbMvprneNEL_HQ#/shared-invite/email).
+    - Start contributing to open issues in [Kestra's repository](https://github.com/kestra-io/kestra/issues).
+    - Follow the contribution guidelines: comment on the issue before starting, get it assigned, then submit a PR.
+    - Write a short blog post about your experience and submit it during the final week to be eligible for prizes.
+- **How to sign up**: Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeNz4uTgojCQWlLsyTgOFHJ8I90gLmDIH-SBIMILfMAHMsJeQ/viewform).
+- **Issues**: Contribute to real-world issues in [Kestra's GitHub repository](https://github.com/kestra-io/kestra/issues).
+- **Notes**:
+    - Event runs from 14 Oct – 3 Nov.
+    - Full event details at [WeMakeDevs Open Source Fest page](https://www.wemakedevs.org/hackathons/opensourcefest25).
+
 #### WSO2
 
 - **Swag**: Amazon Vouchers, WSO2 Goodies,Free vouchers for WSO2 Practitioner and Developer certifications, $1000 USD Worth credits for WSO2 cloud products.
