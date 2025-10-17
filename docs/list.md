@@ -153,6 +153,23 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: When your PR is accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
 - **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest).
 
+### F
+
+#### Flexprice
+
+- **Swag**: Flexprice Swags.
+- **Requirements**:
+    - Make at least one meaningful pull request (PR) to an official flexprice repository.
+    - Make sure that PR passes checks & follows the template.
+- **How to sign up**: No Sign up required.
+- **Issues**:
+   - [Flexprice](https://github.com/flexprice/flexprice)
+   - [Flexprice Dashboard](https://github.com/flexprice/flexprice-front/issues)
+   - [Docs](https://github.com/flexprice/flexprice-docs/issues)
+   - [SDKs (TS/Python/Go)](https://github.com/flexprice/javascript-sdk/issues)  
+- **Notes**: Full details on the [X post here](https://x.com/nikhil__mishra/status/1974412729990701385).
+
+
 ### G
 
 #### **goose**
