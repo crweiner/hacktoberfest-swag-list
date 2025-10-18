@@ -153,6 +153,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: When your PR is accepted or merged, fill [this claim form](https://forms.cloud.microsoft/r/vS3YhKMEvL?utm_source=chatgpt.com) which will open during Oct 27-31 (UTC).
 - **Notes**: Full details on the [.NET Foundation blog here](https://dotnetfoundation.org/community/hacktoberfest).
 
+### E
+
+#### Erxes
+
+- **Swag**: Swags Currently unknown.
+- **Requirements**:
+    - Developers can contribute by fixing bugs and adding plugins.
+- **How to sign up**: No known signup link.
+- **Issues**: [Erxes Repo](https://github.com/erxes/erxes)
+- **Notes**: Full details on the [X post here](https://x.com/ItsNauren/status/1975875317098287342).
+
+
 ### G
 
 #### **goose**
