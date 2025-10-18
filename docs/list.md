@@ -338,9 +338,13 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### Serplux
 
-- **Swag**: Exclusive Serplux Hacktoberfest 2025 T Shirt
-- **Requirements**: Submit atleast 2 Valid PRs.
-- **How to sign up**: No Signup Required.
+- **Swag**: T Shirt
+- **Requirements**:
+   - Submit atleast 2 Valid PRs.
+   - Developers can contribute through improving code, solving bugs, writing test cases and improving code quality.
+   - Designers and Marketers can contribute through creating social post banners, logos, or improving the presentation of the serplux website pages and blog posts.
+   - Writers and Content creators can write tech blogs, walkthrough tech videos or how to guides.
+- **How to sign up**: Fill out this [Form](https://docs.google.com/forms/d/e/1FAIpQLSf9UW15IOT9hPYehUjqkgOUXerHeYnrm5Cova_PwGosryyvjg/viewform) when 2 PR is merged.
 - **Issues**: [Serplux Repository](https://github.com/Serplux/blog)
 - **Notes**: Read their [full Hacktoberfest blog post here](https://blog.serplux.com/hacktoberfest-2025/)
 
