@@ -259,6 +259,15 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### M
 
+#### Microsoft 365 & Power Platform Community
+
+- **Swag**: Digital Badges
+- **Requirements**:
+    - Contribute to [Microsoft 365 Repo](https://github.com/microsoft/Microsoft365DSC) and [Power Platform Community](https://community.powerplatform.com/) and earn the digital badges.
+- **How to sign up**: fill this [form](https://aka.us11.list-manage.com/subscribe?u=b3df03dd2b64a3bc8a2a200e8&id=4a558f9e2b) when your contributions are merged.
+- **Notes**: [Check out X Post for more details](https://x.com/DavidWarnerII/status/1975372755509125315).
+
+
 #### **MindsDB**
 
 - **Swag**: Github Sponsorship, MindsDB T-shirt, MacBook Pro
