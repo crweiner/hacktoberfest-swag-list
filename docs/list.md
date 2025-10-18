@@ -166,6 +166,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: Find issues in the [goose Hacktoberfest 2025 Project Hub](https://github.com/block/goose/issues/4705).
 - **Notes**: [Check out the goose Hacktoberfest 2025 blog post for full details](https://block.github.io/goose/blog/2025/09/26/hacktoberfest-2025/) and the [pinned Hacktoberfest issue](https://github.com/block/goose/issues/4705).
 
+#### **Globo**
+
+- **Swag**: T-shirt.
+- **Requirements**:
+    - Contribute to any of repository of Globo open source projects.
+    - To get a T-shirt you must have two PRs made between 1 and 31 October and at least one of them accepted.
+- **How to sign up**: Join Globo [with your Github account](https://hacktoberfest.globo.com/login).
+- **Issues**: All eligible [Globo open source projects](https://hacktoberfest.globo.com/projetos/).
+- **Notes**: Check the [Globo Hacktoberfest 2025 event page](https://hacktoberfest.globo.com/) for more details.
+
 ### H
 
 #### Hyperswitch
