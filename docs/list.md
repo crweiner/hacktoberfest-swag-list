@@ -245,6 +245,14 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup link.
 - **Notes**: Find out more details [in their Hacktoberfest repo](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025).
 
+#### Layer5
+
+- **Swag**: Digital Badge
+- **Requirements**: Participants must submit contributions during HacktoberFest (October) via PRs to Layer5 projects.
+- **How to sign up**: No known signup link.
+- **Issues**: [Layer 5 Hacktoberfest Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+%28org%3Alayer5io+OR+org%3Ameshery+OR+org%3Aservice-mesh-performance+OR+org%3Aservice-mesh-patterns+OR+org%3Alayer5labs+OR+org%3Ameshery-extensions%29+label%3Ahacktoberfest)
+- **Notes**: Check out the [blog post](https://layer5.io/programs/hacktoberfest) for more details.
+
 #### LocalStack
 
 - **Swag**: Unknown
