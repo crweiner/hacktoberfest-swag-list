@@ -340,12 +340,12 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 - **Swag**: T Shirt
 - **Requirements**:
-   - Submit atleast 2 Valid PRs.
+   - Submit at least 2 valid PRs.
    - Developers can contribute through improving code, solving bugs, writing test cases and improving code quality.
-   - Designers and Marketers can contribute through creating social post banners, logos, or improving the presentation of the serplux website pages and blog posts.
+   - Designers and Marketers can contribute through creating social post banners, logos, or improving the presentation of the Serplux website pages and blog posts.
    - Writers and Content creators can write tech blogs, walkthrough tech videos or how to guides.
 - **How to sign up**: Fill out this [Form](https://docs.google.com/forms/d/e/1FAIpQLSf9UW15IOT9hPYehUjqkgOUXerHeYnrm5Cova_PwGosryyvjg/viewform) when 2 PR is merged.
-- **Issues**: [Serplux Repository](https://github.com/Serplux/blog)
+- **Issues**: [See example Issues on the Serplux Blog Repository](https://github.com/Serplux/blog/issues)
 - **Notes**: Read their [full Hacktoberfest blog post here](https://blog.serplux.com/hacktoberfest-2025/)
 
 #### Service Now
