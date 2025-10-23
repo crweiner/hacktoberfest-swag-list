@@ -155,6 +155,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### G
 
+#### **Globo**
+
+- **Swag**: T-shirt.
+- **Requirements**:
+    - Contribute to any repository of Globo open source projects.
+    - To get a T-shirt you must have two PRs made between 1st and 31st October 2025 and at least one of them accepted.
+- **How to sign up**: Join Globo [with your Github account](https://hacktoberfest.globo.com/login).
+- **Issues**: All eligible [Globo open source projects](https://hacktoberfest.globo.com/projetos/).
+- **Notes**: Check the [Globo Hacktoberfest 2025 event page](https://hacktoberfest.globo.com/) for more details.
+
 #### **goose**
 
 - **Swag**: Gift cards to the goose swag shop and LLM credits.
