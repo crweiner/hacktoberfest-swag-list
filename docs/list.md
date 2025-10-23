@@ -363,7 +363,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### WeMakeDevs
 
-- **Swag**: Apple MacBook, Apple iPad, Interview opportunities at Kestra.
+- **Swag**: Apple MacBook, Apple iPad, Interview opportunities at Kestra for the top contributors
 - **Requirements**:
     - Register for the challenge and join the [Kestra Slack community](https://kestra-io.slack.com/join/shared_invite/zt-2u3tfbhch-BSZmQKJtgbMvprneNEL_HQ#/shared-invite/email).
     - Start contributing to open issues in [Kestra's repository](https://github.com/kestra-io/kestra/issues).
