@@ -306,6 +306,21 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Register for [Global Hack Week](https://ghw.mlh.io) and complete the full check-in steps listed above.
 - **Notes**: Please see [more swag details here](https://ghw.mlh.io/swag).
 
+### O
+
+### **Olake**
+
+- **Swag**: Jacket, diaries, pens and stickers.
+- **Requirements**: 
+		- Contribute to open issues in olake-UI or olake-Core repos. 
+		- Get your PR merged and join [Olake at Slack](https://olake.io/slack/) to get support.
+- **How to sign up**: No known sign up link.
+- **Issues**: 
+		- [Olake - UI](https://github.com/datazip-inc/olake-ui/issues)
+    - [Olake - Core](https://github.com/datazip-inc/olake/issues)
+- **Notes**: Read the [pinned post](https://x.com/cappybaradeploy/status/1973027154041729331) for more details.
+
+
 ### Q
 
 #### **QuestDB**
