@@ -155,6 +155,16 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### G
 
+#### **Globo**
+
+- **Swag**: T-shirt.
+- **Requirements**:
+    - Contribute to any repository of Globo open source projects.
+    - To get a T-shirt you must have two PRs made between 1st and 31st October 2025 and at least one of them accepted.
+- **How to sign up**: Join Globo [with your Github account](https://hacktoberfest.globo.com/login).
+- **Issues**: All eligible [Globo open source projects](https://hacktoberfest.globo.com/projetos/).
+- **Notes**: Check the [Globo Hacktoberfest 2025 event page](https://hacktoberfest.globo.com/) for more details.
+
 #### **goose**
 
 - **Swag**: Gift cards to the goose swag shop and LLM credits.
@@ -245,6 +255,14 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No known signup link.
 - **Notes**: Find out more details [in their Hacktoberfest repo](https://github.com/LambdaTest/lambdatest-hacktoberfest-2025).
 
+#### Layer5
+
+- **Swag**: Digital Badge
+- **Requirements**: Participants must submit contributions during HacktoberFest (October) via PRs to Layer5 projects.
+- **How to sign up**: No known signup link.
+- **Issues**: [Layer 5 Hacktoberfest Issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+%28org%3Alayer5io+OR+org%3Ameshery+OR+org%3Aservice-mesh-performance+OR+org%3Aservice-mesh-patterns+OR+org%3Alayer5labs+OR+org%3Ameshery-extensions%29+label%3Ahacktoberfest)
+- **Notes**: Check out the [blog post](https://layer5.io/programs/hacktoberfest) for more details.
+
 #### LocalStack
 
 - **Swag**: Unknown
@@ -321,7 +339,32 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No signup needed, your contributions and points will be automatically tracked.
 - **Notes**: Check out the [Blog Post](https://requestly.com/blog/hacktoberfest-2025-x-requestly-build-with-us-this-october/) and [this GitHub issue](https://github.com/requestly/requestly/issues/3638) for more details regarding how to earn points.
 
+#### Robo.js
+
+- **Swag**: Hacktoberfest 2025 T-shirt, Free Discord Nitro, $25 USD for the top contributor.
+- **Requirements**: The following contribution types will be considered:
+    - Resolve issues in the core or official plugins
+    - Build [Templates](https://robojs.dev/templates)
+    - [Add new NPM packages](https://robojs.dev/plugins/create)
+    - Teach Robo.js concepts via walkthroughs or live-coding sessions.
+    - Propose and ship [scoped core feature](https://robojs.dev/robojs/internals)
+- **How to sign up**: No signup required.
+- **Issues**: [GitHub Pull Requests](https://github.com/Wave-Play/robo.js/issues)
+- **Notes**: Join the [Robo.js Discord](https://discord.com/invite/fASAKnJxUP) for support and live prize updates, [and read their blog post to learn more](https://dev.to/waveplay/hacktoberfest-2025-create-discord-features-or-videos-to-win-rewards-2d48).
+
 ### S
+
+#### Serplux
+
+- **Swag**: T Shirt
+- **Requirements**:
+    - Submit at least 2 valid PRs that are merged.
+    - Developers can contribute through improving code, solving bugs, writing test cases and improving code quality.
+    - Designers and Marketers can contribute through creating social post banners, logos, or improving the presentation of the Serplux website pages and blog posts.
+    - Writers and Content creators can write tech blogs, walkthrough tech videos or how to guides.
+- **How to sign up**: Fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSf9UW15IOT9hPYehUjqkgOUXerHeYnrm5Cova_PwGosryyvjg/viewform) your 2 PRs are merged.
+- **Issues**: [See example Issues on the Serplux Blog Repository](https://github.com/Serplux/blog/issues)
+- **Notes**: Read their [full Hacktoberfest blog post here](https://blog.serplux.com/hacktoberfest-2025/)
 
 #### Service Now
 
@@ -345,6 +388,34 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Join the [Twenty Discord community](https://discord.com/invite/Zu6y7E5f) and register your team with the core team there.
 - **Issues**: [Open issues on Twenty GitHub](https://github.com/twentyhq/twenty/issues?q=is%3Aissue+label%3Ahacktoberfest).
 - **Notes**: Full event details and project ideas are available in the [official Hacktoberfest 2025 Notion page](https://twentycrm.notion.site/Hacktoberfest-27711d8417038037a149d4638a9cc510).
+
+### W
+
+#### WeMakeDevs
+
+- **Swag**: Apple MacBook, Apple iPad, Interview opportunities at Kestra for the top contributors
+- **Requirements**:
+    - Register for the challenge and join the [Kestra Slack community](https://kestra-io.slack.com/join/shared_invite/zt-2u3tfbhch-BSZmQKJtgbMvprneNEL_HQ#/shared-invite/email).
+    - Start contributing to open issues in [Kestra's repository](https://github.com/kestra-io/kestra/issues).
+    - Follow the contribution guidelines: comment on the issue before starting, get it assigned, then submit a PR.
+    - Write a short blog post about your experience and submit it during the final week to be eligible for prizes.
+- **How to sign up**: Fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSeNz4uTgojCQWlLsyTgOFHJ8I90gLmDIH-SBIMILfMAHMsJeQ/viewform).
+- **Issues**: Contribute to real-world issues in [Kestra's GitHub repository](https://github.com/kestra-io/kestra/issues).
+- **Notes**:
+    - Event runs from 14 Oct – 3 Nov.
+    - Full event details at [WeMakeDevs Open Source Fest page](https://www.wemakedevs.org/hackathons/opensourcefest25).
+
+#### WSO2
+
+- **Swag**: Amazon Vouchers, WSO2 Goodies,Free vouchers for WSO2 Practitioner and Developer certifications, $1000 USD Worth credits for WSO2 cloud products.
+- **Requirements**:
+    - Select an issue from the Hacktoberfest project board below.
+    - Leave a comment on the issue once you start working on it.
+    - Submit a PR and address any review comments, if needed, and get your PR merged.
+    - After your PR is merged, fill out the form below.
+- **How to sign up**: Fill out [this form](https://docs.google.com/forms/d/1tn3F1k3mERAXOCNNFOzX9i6rSSwbVcGkgkGL93Bgo5s/viewform?edit_requested=true) once the PR is merged.
+- **Issues**: [See the open issues on WSO2 GitHub project board here](https://github.com/orgs/wso2/projects/134/).
+- **Notes**: For more information please refer to [official WSO2 blog](https://wso2.com/hacktoberfest/).
 
 ---
 
