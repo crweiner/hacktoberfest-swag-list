@@ -155,6 +155,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### G
 
+#### **GibsonAI**
+
+- **Swag**: T-shirt, stickers and a surprise swag pack.
+- **Requirements**:
+    - Contribute to GibsonAI/memori, be eligible to win awards based on contribution level.
+    - Level 1 - Fix issues or improve documentation to win stickers.
+    - Level 2 - For feature enhancement or new integration win a T-shirt.
+    - Level 3 - Add major feature to win a swag pack with surprise inside.
+- **How to sign up**: No known signup link.
+- **Issues**: [All open issues at GibsonAI/memori](https://github.com/GibsonAI/memori/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen).
+- **Notes**: Check the [GibsonAI/memori repository](https://github.com/GibsonAI/memori/issues/127) for more details.
+
 #### **Globo**
 
 - **Swag**: T-shirt.
@@ -305,6 +317,18 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Attend **at least 5 live sessions** during Global Hack Week to earn bonus stickers
 - **How to sign up**: Register for [Global Hack Week](https://ghw.mlh.io) and complete the full check-in steps listed above.
 - **Notes**: Please see [more swag details here](https://ghw.mlh.io/swag).
+
+### O
+
+#### **Olake**
+
+- **Swag**: Jacket, diaries, pens and stickers.
+- **Requirements**:  Contribute to open issues at one of the two participating Olake repositories.
+- **How to sign up**: No known signup method.
+- **Issues**:
+      - [Olake UI](https://github.com/datazip-inc/olake-ui/issues)
+      - [Olake Core](https://github.com/datazip-inc/olake/issues)
+- **Notes**: For more information check out [this post on X](https://x.com/cappybaradeploy/status/1973027154041729331).
 
 ### Q
 
