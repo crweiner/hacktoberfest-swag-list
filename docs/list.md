@@ -155,6 +155,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### G
 
+#### **GibsonAI**
+
+- **Swag**: T-shirt, stickers and a surprise swag pack.
+- **Requirements**:
+    - Contribute to GibsonAI/memori, be eligible to win awards based on contribution level.
+    - Level 1 - Fix issues or improve documentation to win stickers.
+    - Level 2 - For feature enhancement or new integration win a T-shirt.
+    - Level 3 - Add major feature to win a swag pack with surprise inside.
+- **How to sign up**: No known signup link.
+- **Issues**: [All open issues at GibsonAI/memori](https://github.com/GibsonAI/memori/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen).
+- **Notes**: Check the [GibsonAI/memori repository](https://github.com/GibsonAI/memori/issues/127) for more details.
+
 #### **Globo**
 
 - **Swag**: T-shirt.
