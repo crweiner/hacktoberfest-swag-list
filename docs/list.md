@@ -306,17 +306,17 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Register for [Global Hack Week](https://ghw.mlh.io) and complete the full check-in steps listed above.
 - **Notes**: Please see [more swag details here](https://ghw.mlh.io/swag).
 
-### Q
+### O
 
-#### **QuestDB**
+#### **Olake**
 
-- **Swag**: T-shirt and stickers.
-- **Requirements**:  Contribute to open issues at one of the three participating repositories:
-    - [QuestDB Core](https://github.com/questdb/questdb/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-    - [Web Console](https://github.com/questdb/ui/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-    - [Documentation](https://github.com/questdb/documentation/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Swag**: Jacket, diaries, pens and stickers. 
+- **Requirements**:  Contribute to open issues at one of the two participating Olake repositories.
 - **How to sign up**: No known signup method.
-- **Notes**: Read the [contributing](https://github.com/questdb/questdb/blob/master/CONTRIBUTING.md) guide and check the [QuestDB Hacktoberfest page](https://questdb.io/blog/hacktoberfest-2025-questdb/) for more details.
+- **Issues**:
+      - [Olake UI](https://github.com/datazip-inc/olake-ui/issues)
+      - [Olake Core](https://github.com/datazip-inc/olake/issues)
+- **Notes**: For more information check out [this post on X](https://x.com/cappybaradeploy/status/1973027154041729331).
 
 ### R
 
