@@ -11,15 +11,15 @@ Pygments = "==2.19.2"
 prompt_toolkit = "==3.0.52"
 pyyaml = "==6.0.3"
 Jinja2 = "==3.1.6"
-pillow = "*"
-cairosvg = "*"
-markdown-link-attr-modifier = "*"
+pillow = ">=10.0.0"
+cairosvg = ">=2.7.0"
+markdown-link-attr-modifier = ">=0.3.0"
 
 [dev-packages]
-invoke = "*"
+invoke = ">=2.2.0"
 
 [requires]
-python_version = "3.8"
+python_version = "3.12"
 
 [pipenv]
 allow_prereleases = true
@@ -27,6 +27,6 @@ allow_prereleases = true
 [scripts]
 version = "mkdocs --version"
 help = "mkdocs --help"
-serve = "inv serve"
+serve = "invoke serve"
 build = "mkdocs build"
 deploy = "mkdocs gh-deploy"
