@@ -158,7 +158,6 @@ Do you want to put your project in front of tens of thousands of developers duri
 #### Flexprice
 
 - **Swag**: Flexprice Hacktoberfest swag pack (stickers, T-shirt, and tote bag) + social media shoutouts for top contributors.
-
 - **Requirements**:
     - Join the [Flexprice Slack community](https://join.slack.com/t/flexpricecommunity/shared_invite/zt-39uat51l0-n8JmSikHZP~bHJNXladeaQ).
     - Contribute between **Oct 1–31, 2025** to any of the following repositories:
