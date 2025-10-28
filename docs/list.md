@@ -165,7 +165,7 @@ Do you want to put your project in front of tens of thousands of developers duri
         - [Flexprice Dashboard](https://github.com/flexprice/flexprice-front/issues)
         - [Flexprice Docs](https://github.com/flexprice/flexprice-docs/issues)
         - [Flexprice SDKs (TS/Python/Go)](https://github.com/flexprice/javascript-sdk/issues)
-    - Pick an issue labeled `hacktoberfest`, `good first issue`, `help wanted`, `bug`, `enhancement`, or `documentation`.
+    - Pick an issue labelled `hacktoberfest`, `good first issue`, `help wanted`, `bug`, `enhancement`, or `documentation`.
     - Comment “I’m on it”, open a PR that passes checks, and follows the contribution template.
 - **How to sign up**: No separate signup form — contributions are tracked automatically via merged PRs and Slack participation.
 - **Issues**: [Flexprice Hacktoberfest issues](https://github.com/flexprice/flexprice/issues?q=is%3Aissue+label%3Ahacktoberfest)
@@ -198,7 +198,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 #### **goose**
 
 - **Swag**: Gift cards to the goose swag shop and LLM credits.
-- **Requirements**: PRs must be merged with the `hacktoberfest-accepted` label to `hacktoberfest`-labeled issues in the [goose repository](https://github.com/block/goose). Grab issues by commenting ".take". Points are awarded based on contribution size (small: 5 points, medium: 10 points, large: 15 points). Top 20 contributors win prizes.
+- **Requirements**: PRs must be merged with the `hacktoberfest-accepted` label to `hacktoberfest`-labelled issues in the [goose repository](https://github.com/block/goose). Grab issues by commenting ".take". Points are awarded based on contribution size (small: 5 points, medium: 10 points, large: 15 points). Top 20 contributors win prizes.
     - Top 1-5 Contributors: $100 gift card to goose swag shop + $100 LLM credits
     - Top 6-10 Contributors: $50 gift card to goose swag shop + $50 LLM credits
     - Top 11-20 Contributors: $25 LLM credits
