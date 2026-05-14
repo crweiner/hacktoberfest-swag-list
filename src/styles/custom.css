@@ -22,6 +22,15 @@
   --hfsl-panel-strong: #f2f0fb;
 }
 
+/* --- Footer logo (HF icon after disclaimer) --- */
+
+.sl-markdown-content img[src*="HF-"] {
+  display: block;
+  max-width: min(100%, 14rem);
+  height: auto;
+  margin-inline: auto;
+}
+
 /* --- Alphabetic letter headings (A, B, C…) --- */
 
 .sl-markdown-content .sl-heading-wrapper.level-h3:has(
