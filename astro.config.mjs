@@ -31,8 +31,8 @@ export default defineConfig({
       },
       sidebar: [
         { label: "Home", slug: "" },
+        { label: "Swag List", slug: "list" },
         { label: "Contributing", slug: "contributing" },
-        { label: "2025 Hacktoberfest Swag List", slug: "list" },
       ],
       customCss: ["./src/styles/custom.css"],
       head: [
