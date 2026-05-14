@@ -1,0 +1,28 @@
+{
+  "name": "hacktoberfest-swag-list",
+  "version": "2026.0.0-starlight",
+  "description": "Connecting contributors to open-source projects during Hacktoberfest.",
+  "private": true,
+  "engines": {
+    "node": ">=22.16.0 <23"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@astrojs/starlight": "^0.39.2",
+    "@fontsource/inter": "^5.2.8",
+    "@fontsource/jetbrains-mono": "^5.2.8",
+    "@six-tech/starlight-theme-six": "^1.0.16",
+    "astro": "^6.3.3",
+    "sharp": "^0.34.5"
+  }
+}
