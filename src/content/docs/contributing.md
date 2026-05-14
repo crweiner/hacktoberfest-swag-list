@@ -99,7 +99,7 @@ Please make sure you are always making changes in the Markdown files located in 
 
 ---
 
-_Disclaimer_: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
+_Disclaimer_: This website is a fan and community-made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
 ---
 

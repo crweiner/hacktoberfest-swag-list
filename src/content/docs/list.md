@@ -475,7 +475,7 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ---
 
-_Disclaimer_: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
+_Disclaimer_: This website is a fan and community-made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
 ---
 
