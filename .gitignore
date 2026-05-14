@@ -1,15 +1,5 @@
-# mkdocs documentation
-/site
-.cache
-
-# python
-.venv
-
-# editor
-.vscode
-
-# Mac
-.DS_Store
-
-# Dev tools
-devcontainer.json
+node_modules/
+dist/
+.astro/
+.env
+.env.*
