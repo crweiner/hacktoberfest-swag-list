@@ -4,6 +4,10 @@
   below to match the official Hacktoberfest color palette.
 */
 
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --sl-color-accent-low: #1a1a2e;
   --sl-color-accent: #9c36b5;
