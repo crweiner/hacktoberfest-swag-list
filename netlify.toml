@@ -1,9 +1,6 @@
 [build]
-  command = """
-  pip3 install mkdocs mkdocs-material[imaging] markdown_link_attr_modifier &&
-  mkdocs build --config-file mkdocs.yml
-  """
-  publish = "site"
+  command = "npm run build"
+  publish = "dist"
 
 [build.environment]
-  PYTHON_VERSION = "3.8"
+  NODE_VERSION = "22"

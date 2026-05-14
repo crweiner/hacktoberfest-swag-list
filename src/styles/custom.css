@@ -1,0 +1,23 @@
+/*
+  Custom styles for Hacktoberfest Swag List.
+  Once the 2026 branding is released, update the CSS custom properties
+  below to match the official Hacktoberfest color palette.
+*/
+
+:root {
+  --sl-color-accent-low: #1a1a2e;
+  --sl-color-accent: #9c36b5;
+  --sl-color-accent-high: #e2c4ed;
+}
+
+:root[data-theme="light"] {
+  --sl-color-accent-low: #f0e0f7;
+  --sl-color-accent: #7b2d8e;
+  --sl-color-accent-high: #3a1548;
+}
+
+h4 {
+  margin-top: 2rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--sl-color-gray-5);
+}
