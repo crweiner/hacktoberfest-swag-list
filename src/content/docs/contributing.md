@@ -26,7 +26,7 @@ Please be sure to follow the simple rules:
 
 ## How to format your contribution
 
-Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [list.md](https://github.com/crweiner/hacktoberfest-swag-list/blob/codex/starlight-migration/src/content/docs/list.md) file located at `src/content/docs/list.md`.
+Make a [fork of this repo](https://github.com/crweiner/hacktoberfest-swag-list/fork) and add the details for what company and swag you find in the [list.md](https://github.com/crweiner/hacktoberfest-swag-list/blob/master/src/content/docs/list.md) file located at `src/content/docs/list.md`.
 
 We are using a very simple language called Markdown to format this list. It's basically a way to make things look pretty without having to use a rich text editor. Please familiarize yourself with Markdown [using this handy cheat sheet provided by GitHub (PDF)](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf).
 
@@ -57,7 +57,7 @@ Find the first letter of your company within the list, then add your information
 
 You will need the following dependency already installed to set up the site locally:
 
-* [Node.js](https://nodejs.org/) 22.12 or newer.
+* [Node.js](https://nodejs.org/) 22.16.0 or newer.
 
 ### Setting up the repository
 

@@ -2,6 +2,8 @@ import starlight from '@astrojs/starlight';
 import { defineConfig } from 'astro/config';
 import starlightThemeSix from '@six-tech/starlight-theme-six';
 
+const editBranch = process.env.GIT_BRANCH || 'master';
+
 export default defineConfig({
   site: 'https://hacktoberfestswaglist.com',
   integrations: [
@@ -16,7 +18,7 @@ export default defineConfig({
       },
       editLink: {
         baseUrl:
-          'https://github.com/crweiner/hacktoberfest-swag-list/edit/codex/starlight-migration/',
+          `https://github.com/crweiner/hacktoberfest-swag-list/edit/${editBranch}/`,
       },
       plugins: [
         starlightThemeSix({
