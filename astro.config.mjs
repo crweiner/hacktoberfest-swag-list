@@ -24,6 +24,7 @@ export default defineConfig({
           href: "https://twitter.com/c_dubbs",
         },
       ],
+      tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 4 },
       editLink: {
         baseUrl:
           "https://github.com/crweiner/hacktoberfest-swag-list/edit/master/",
