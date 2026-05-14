@@ -44,7 +44,6 @@ export default defineConfig({
           },
         },
       ],
-      components: {},
     }),
   ],
 });
