@@ -83,7 +83,7 @@ To get the site up and running locally, follow the below steps:
   npm install
   ```
 
-- Build the site and make it available on your local server for live viewing:
+- Start the local development server for live preview:
 
   ```bash
   npm run dev
