@@ -146,14 +146,6 @@ html[data-theme="light"] .sl-markdown-content .sl-heading-wrapper.level-h4 + ul 
   color: var(--sl-color-black);
 }
 
-/* --- Scroll margin for heading anchors --- */
-
-.sl-markdown-content h2,
-.sl-markdown-content h3,
-.sl-markdown-content h4 {
-  scroll-margin-top: 6rem;
-}
-
 /* --- Mobile adjustments --- */
 
 @media (max-width: 50rem) {
