@@ -1,19 +1,19 @@
 # Hacktoberfest Swag List 2025
 
-![Hacktoberfest logo](docs/img/HF-Stacked-Color-Light.png#gh-dark-mode-only)
-![Hacktoberfest logo](docs/img/HF-Stacked-Color-Dark.png#gh-light-mode-only)
+![Hacktoberfest logo](public/img/HF-Stacked-Color-Light.png#gh-dark-mode-only)
+![Hacktoberfest logo](public/img/HF-Stacked-Color-Dark.png#gh-light-mode-only)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)! at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)
 
 ## [Click here to be taken to the 2025 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
 
-[As the official website states](https://hacktoberfest.com/participation/), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 9th, everyone can contribute to making open-source software even better!
+[As the official website states](https://hacktoberfest.com/participation/), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 10th, everyone can contribute to making open-source software even better!
 
 [Low-code or no-code contributions are encouraged](https://hacktoberfest.com/participation/#:~:text=them%20as%20%E2%80%9Cinvalid.%E2%80%9D-,Low%20or%20Non%20Code%20Contributions,-At%20its%20core), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
 
-New to git and GitHub? [Use the git cheat sheet (PDF)](docs/files/Hacktoberfest2025-GitCheatSheet.pdf) created by the Hacktoberfest team to learn how to contribute!
+New to git and GitHub? [Use the git cheat sheet (PDF)](public/files/Hacktoberfest2025-GitCheatSheet.pdf) created by the Hacktoberfest team to learn how to contribute!
 
-Please take a look at the new [Contributing.md](docs/contributing.md) file as the way to add organizations to the list has changed.
+Please take a look at the [Contributing guide](src/content/docs/contributing.md) as the way to add organizations to the list has changed.
 
 ---
 
@@ -39,9 +39,9 @@ Participating in Hacktoberfest requires following the [official values](https://
 
 ---
 
-*Disclaimer*: This website is a fan and community made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
+*Disclaimer*: This website is a fan and community-made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![HF 2025](/docs/img/HF-Icon-Color-Dark.png)
+![HF 2025](public/img/HF-Icon-Color-Dark.png)
 
 ---
 
