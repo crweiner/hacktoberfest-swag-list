@@ -1,0 +1,159 @@
+/*
+  Custom styles for Hacktoberfest Swag List.
+  Once the 2026 branding is released, update the CSS custom properties
+  below to match the official Hacktoberfest color palette.
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --sl-color-accent-low: #1a1a2e;
+  --sl-color-accent: #9c36b5;
+  --sl-color-accent-high: #e2c4ed;
+  --hfsl-border: color-mix(in srgb, var(--sl-color-gray-5), transparent 16%);
+  --hfsl-panel: color-mix(in srgb, var(--sl-color-bg-nav), var(--sl-color-bg) 34%);
+  --hfsl-panel-strong: color-mix(in srgb, var(--sl-color-bg-nav), var(--sl-color-accent) 8%);
+}
+
+:root[data-theme="light"] {
+  --sl-color-accent-low: #f0e0f7;
+  --sl-color-accent: #7b2d8e;
+  --sl-color-accent-high: #3a1548;
+  --hfsl-border: #d9d6eb;
+  --hfsl-panel: #f8f7fc;
+  --hfsl-panel-strong: #f2f0fb;
+}
+
+/* --- Footer logo (HF icon after disclaimer) --- */
+
+.sl-markdown-content img[src*="HF-"] {
+  display: block;
+  max-width: min(100%, 14rem);
+  height: auto;
+  margin-inline: auto;
+}
+
+/* --- Alphabetic letter headings (A, B, C…) --- */
+
+.sl-markdown-content .sl-heading-wrapper.level-h3:has(
+    > h3:is(
+        #a, #b, #c, #d, #e, #f, #g, #h, #i, #j, #k, #l, #m,
+        #n, #o, #p, #q, #r, #s, #t, #u, #v, #w, #x, #y, #z
+      )
+  ) {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-block: 2.5rem 1rem;
+}
+
+.sl-markdown-content h3:is(
+    #a, #b, #c, #d, #e, #f, #g, #h, #i, #j, #k, #l, #m,
+    #n, #o, #p, #q, #r, #s, #t, #u, #v, #w, #x, #y, #z
+  ) {
+  flex: 0 0 auto;
+  margin: 0;
+  color: var(--sl-color-accent);
+  font-size: 1.15rem;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.sl-markdown-content .sl-heading-wrapper.level-h3:has(
+    > h3:is(
+        #a, #b, #c, #d, #e, #f, #g, #h, #i, #j, #k, #l, #m,
+        #n, #o, #p, #q, #r, #s, #t, #u, #v, #w, #x, #y, #z
+      )
+  )::after {
+  content: "";
+  order: 3;
+  flex: 1;
+  height: 1px;
+  background: var(--hfsl-border);
+}
+
+.sl-markdown-content .sl-heading-wrapper.level-h3:has(
+    > h3:is(
+        #a, #b, #c, #d, #e, #f, #g, #h, #i, #j, #k, #l, #m,
+        #n, #o, #p, #q, #r, #s, #t, #u, #v, #w, #x, #y, #z
+      )
+  )
+  .sl-anchor-link {
+  order: 1;
+  flex: 0 0 auto;
+  align-self: center;
+  margin: 0;
+}
+
+/* --- Company cards (h4 header + ul body) --- */
+
+.sl-markdown-content .sl-heading-wrapper.level-h4 {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  width: 100%;
+  box-sizing: border-box;
+  margin-block: 1.25rem 0;
+  padding: 0.9rem 1rem 0.65rem;
+  border: 1px solid var(--hfsl-border);
+  border-bottom: 0;
+  border-radius: 0.75rem 0.75rem 0 0;
+  background: var(--hfsl-panel-strong);
+}
+
+.sl-markdown-content .sl-heading-wrapper.level-h4 .sl-anchor-link {
+  flex: 0 0 auto;
+  align-self: center;
+  margin: 0;
+}
+
+.sl-markdown-content h4 {
+  flex: 0 1 auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  font-size: 1.2rem;
+  overflow-wrap: anywhere;
+}
+
+.sl-markdown-content .sl-heading-wrapper.level-h4 + ul {
+  margin-block: 0 1.25rem;
+  padding: 0.85rem 1rem 1rem;
+  border: 1px solid var(--hfsl-border);
+  border-radius: 0 0 0.75rem 0.75rem;
+  background: var(--hfsl-panel);
+  list-style: none;
+}
+
+.sl-markdown-content .sl-heading-wrapper.level-h4 + ul > li + li {
+  margin-top: 0.45rem;
+}
+
+.sl-markdown-content .sl-heading-wrapper.level-h4 + ul ul {
+  margin-top: 0.45rem;
+  padding-left: 1.25rem;
+  list-style: disc;
+}
+
+.sl-markdown-content .sl-heading-wrapper.level-h4 + ul strong:first-child {
+  color: var(--sl-color-white);
+}
+
+html[data-theme="light"] .sl-markdown-content .sl-heading-wrapper.level-h4 + ul strong:first-child {
+  color: var(--sl-color-black);
+}
+
+/* --- Mobile adjustments --- */
+
+@media (max-width: 50rem) {
+  .sl-markdown-content .sl-heading-wrapper.level-h4 {
+    padding-inline: 0.85rem;
+  }
+
+  .sl-markdown-content .sl-heading-wrapper.level-h4 + ul {
+    padding-inline: 0.85rem;
+  }
+}

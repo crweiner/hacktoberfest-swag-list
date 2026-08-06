@@ -1,0 +1,5 @@
+inheritance: true
+reviews:
+  tools:
+    markdownlint:
+      enabled: true

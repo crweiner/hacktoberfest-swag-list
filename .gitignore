@@ -1,9 +1,7 @@
-# mkdocs documentation
-/site
-.cache
-
-# python
-.venv
+# astro
+node_modules/
+dist/
+.astro/
 
 # editor
 .vscode
@@ -13,3 +11,8 @@
 
 # Dev tools
 devcontainer.json
+
+# legacy mkdocs
+/site
+.cache
+.venv
