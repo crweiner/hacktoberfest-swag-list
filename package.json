@@ -15,7 +15,7 @@
     "sharp": "^0.35.3"
   },
   "devDependencies": {
-    "@types/node": "^22.15.31",
+    "@types/node": "^24.0.0",
     "typescript": "^5.9.3"
   }
 }
