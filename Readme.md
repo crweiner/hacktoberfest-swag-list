@@ -1,15 +1,16 @@
-# Hacktoberfest Swag List 2025
+# Hacktoberfest Swag List 2026
 
-![Hacktoberfest logo](public/img/HF-Stacked-Color-Light.png#gh-dark-mode-only)
-![Hacktoberfest logo](public/img/HF-Stacked-Color-Dark.png#gh-light-mode-only)
+![Hacktoberfest 2026 logo](public/img/HF26-Wordmark-Tile.png)
 
 Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)! at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)
 
-## [Click here to be taken to the 2025 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
+## [Click here to be taken to the 2026 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
 
-[As the official website states](https://hacktoberfest.com/participation/), Hacktoberfest is a time for everyone to celebrate open-source and come together to make meaningful contributions towards software and organizations you love. Whether this is your first Hacktoberfest or your 10th, everyone can contribute to making open-source software even better!
+This year looks a little different. [As the official website states](https://hacktoberfest.com/questions/), Hacktoberfest 2026 is 300+ community-hosted, one-day Fests plus a global online event, all focused on hands-on building with open source AI. It is stewarded by Major League Hacking (MLH) and DEV, with DigitalOcean as presenting partner, and it no longer counts pull requests.
 
-[Low-code or no-code contributions are encouraged](https://hacktoberfest.com/participation/#:~:text=them%20as%20%E2%80%9Cinvalid.%E2%80%9D-,Low%20or%20Non%20Code%20Contributions,-At%20its%20core), so everyone has a chance, regardless of skill level, to contribute and make open-source projects even better!
+Open source still runs 365 days a year, and plenty of organizations celebrate October with their own contribution programs and swag. Whether this is your first Hacktoberfest or your 10th, everyone can contribute to making open-source software even better!
+
+Low-code and no-code contributions like documentation, translations, design, and issue triage are real contributions too, so everyone has a chance, regardless of skill level, to make open-source projects even better!
 
 New to git and GitHub? [Use the git cheat sheet (PDF)](public/files/Hacktoberfest2025-GitCheatSheet.pdf) created by the Hacktoberfest team to learn how to contribute!
 
@@ -31,18 +32,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### Swag is an added benefit of helping out these awesome organizations, not the reason for you to contribute in the first place!
 
-Participating in Hacktoberfest requires following the [official values](https://hacktoberfest.com/participation/#values), including [**not spamming** the participating companies](https://hacktoberfest.com/participation/#spam).
+Participating in Hacktoberfest requires following the [official rules](https://hacktoberfest.com/questions/), and this list requires **not spamming** the participating companies.
 
 ---
 
-## [Click here to be taken to the 2025 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
+## [Click here to be taken to the 2026 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
 
 ---
 
 *Disclaimer*: This website is a fan and community-made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![HF 2025](public/img/HF-Icon-Color-Dark.png)
+![Hacktoberfest 2026 logo](public/img/HF26-Wordmark-Tile.png)
 
 ---
 
-If you're looking for the Swag List from 2018 through 2024 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023), and [2024](https://github.com/crweiner/hacktoberfest-swag-list/tree/2024) branches.
+If you're looking for the Swag List from 2018 through 2025 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023), [2024](https://github.com/crweiner/hacktoberfest-swag-list/tree/2024), and [2025](https://github.com/crweiner/hacktoberfest-swag-list/tree/2025) branches.

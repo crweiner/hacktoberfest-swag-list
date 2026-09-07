@@ -1,6 +1,9 @@
 ---
 title: Contributing
 description: How to contribute to the Hacktoberfest Swag List.
+banner:
+  content: |
+    New for 2026: Hacktoberfest is now 300+ local Fests plus an online event, all about open source AI. <a href="https://hacktoberfest.com/questions/" target="_blank" rel="noopener noreferrer">Read the official FAQ &rarr;</a>
 ---
 
 We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!
@@ -17,7 +20,7 @@ If you wish to add something to the Hacktoberfest Swag List, that's great and we
 
 Please be sure to follow the simple rules:
 
-1. Be sure you are looking to add something of substance to this project, not just spam PRs. PRs must meet the [Hacktoberfest Quality Standards](https://hacktoberfest.com/participation/).
+1. Be sure you are looking to add something of substance to this project, not just spam PRs. Low-effort or spammy PRs will be closed and marked as invalid.
 2. Verify that you have read the [home page](/), and [Readme.md on GitHub](https://github.com/crweiner/hacktoberfest-swag-list/blob/master/Readme.md). You understand that this project is to connect maintainers with developers, not a way to get all the swag you can.
 3. Please be available to make changes within 48 hours when requested to do so. If you don't, then your PR may be closed.
 4. Please fix all issues flagged by the bots, including CodeRabbit, GH Actions, Netlify, or any others as soon as possible, ideally right away.
@@ -101,8 +104,8 @@ Please make sure you are always making changes in the Markdown files located in 
 
 _Disclaimer_: This website is a fan and community-made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
 
-![HF 2025](/img/HF-Icon-Color-Dark.png)
+![Hacktoberfest 2026](/img/HF26-Wordmark-Tile.png)
 
 ---
 
-If you're looking for the Swag List from 2018 through 2024 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023), and [2024](https://github.com/crweiner/hacktoberfest-swag-list/tree/2024) branches.
+If you're looking for the Swag List from 2018 through 2025 [click here](https://github.com/crweiner/hacktoberfest-swag-list/releases) for the GitHub releases, [click here](https://github.com/crweiner/hacktoberfest-swag-list/tags) for the tags, and see the [2018](https://github.com/crweiner/hacktoberfest-swag-list/tree/2018), [2019](https://github.com/crweiner/hacktoberfest-swag-list/tree/2019), [2020](https://github.com/crweiner/hacktoberfest-swag-list/tree/2020), [2021](https://github.com/crweiner/hacktoberfest-swag-list/tree/2021), [2022](https://github.com/crweiner/hacktoberfest-swag-list/tree/2022), [2023](https://github.com/crweiner/hacktoberfest-swag-list/tree/2023), [2024](https://github.com/crweiner/hacktoberfest-swag-list/tree/2024), and [2025](https://github.com/crweiner/hacktoberfest-swag-list/tree/2025) branches.
