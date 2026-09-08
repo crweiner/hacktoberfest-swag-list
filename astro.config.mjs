@@ -28,9 +28,10 @@ export default defineConfig({
     starlight({
       title: "Hacktoberfest Swag List",
       logo: {
-        src: "./src/assets/HF26-Wordmark-Cream.svg",
+        light: "./src/assets/HF26-Icon-Green.svg",
+        dark: "./src/assets/HF26-Icon-Cream.svg",
         alt: "Hacktoberfest 2026",
-        replacesTitle: true,
+        replacesTitle: false,
       },
       favicon: "/favicon.svg",
       social: [
@@ -58,7 +59,6 @@ export default defineConfig({
       customCss: [
         // Hacktoberfest 2026 typefaces (self-hosted via Fontsource)
         "@fontsource/barlow-semi-condensed/700.css",
-        "@fontsource/barlow-semi-condensed/800.css",
         "@fontsource-variable/inter",
         "@fontsource-variable/martian-mono",
         "./src/styles/custom.css",

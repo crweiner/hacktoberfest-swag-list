@@ -1,33 +1,22 @@
 /*
-  Hacktoberfest Swag List — site theme.
+  Custom styles for Hacktoberfest Swag List.
 
-  Hacktoberfest 2026 branding, derived from hacktoberfest.com:
-  - Palette: deep greens and cream, with coral, red, periwinkle and gold accents,
-    and ink (#10201d) for text and borders.
-  - Type: Barlow Semi Condensed (display), Inter (body), Martian Mono (labels,
-    buttons and code).
-  - Motifs: 2px ink borders, hard offset shadows, square corners, pixel accents.
-
-  Fonts are loaded via Fontsource in astro.config.mjs.
+  Colors and fonts follow the Hacktoberfest 2026 palette used on
+  hacktoberfest.com (greens, cream, coral, red, periwinkle and gold;
+  Inter, Martian Mono and Barlow Semi Condensed). Fonts are self-hosted
+  via Fontsource and loaded in astro.config.mjs.
 */
 
 html {
   scroll-behavior: smooth;
 }
 
-/* ------------------------------------------------------------------ */
-/* 1. Tokens                                                           */
-/* ------------------------------------------------------------------ */
-
 :root {
   /* Hacktoberfest 2026 palette */
   --hf-ink: #10201d;
   --hf-green-deep: #2e4742;
   --hf-green: #3d5f58;
-  --hf-green-muted: #52635f;
-  --hf-green-text: #34433f;
   --hf-cream: #f7f7f2;
-  --hf-cream-200: #f2f2eb;
   --hf-cream-300: #e4e5da;
   --hf-coral: #e97b77;
   --hf-coral-light: #f6c4c1;
@@ -35,503 +24,83 @@ html {
   --hf-red-deep: #b8301f;
   --hf-red-shadow: #671912;
   --hf-blue: #8bb2de;
-  --hf-blue-deep: #1d539f;
   --hf-gold: #f5b726;
-  --hf-gold-shadow: #8a5d13;
 
-  /* Type */
+  /* Fonts */
   --sl-font: "Inter Variable", "Inter";
   --sl-font-mono: "Martian Mono Variable", "Martian Mono";
-  --hf-font-display: "Barlow Semi Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --sl-line-height-headings: 1.05;
-  --sl-text-h1: clamp(2.6rem, 1.5rem + 4vw, 4.25rem);
-  --sl-text-h2: clamp(2rem, 1.2rem + 2.5vw, 2.75rem);
-  --sl-text-h3: clamp(1.5rem, 1.1rem + 1.4vw, 1.9rem);
-  --sl-text-h4: 1.3rem;
-  --sl-text-code: 0.8125rem;
-  --sl-text-code-sm: 0.75rem;
+  --hfsl-font-heading: "Barlow Semi Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
-  /* Borders and hard shadows */
-  --hf-border: 2px solid var(--hf-ink);
-  --hf-shadow-color: var(--hf-ink);
-  --hf-shadow-sm: 3px 3px 0 var(--hf-shadow-color);
-  --hf-shadow: 5px 5px 0 var(--hf-shadow-color);
-  --hf-shadow-lg: 7px 7px 0 var(--hf-shadow-color);
-
-  /* Starlight tokens: dark theme (default) */
+  /* Dark theme (default): green-tinted neutrals, coral accent */
   --sl-color-white: var(--hf-cream);
-  --sl-color-gray-1: var(--hf-cream-300);
-  --sl-color-gray-2: #d3d8cf;
-  --sl-color-gray-3: #a3b2ab;
-  --sl-color-gray-4: #6f837d;
-  --sl-color-gray-5: var(--hf-green-muted);
-  --sl-color-gray-6: var(--hf-green);
-  --sl-color-black: var(--hf-green-deep);
+  --sl-color-gray-1: hsl(168, 12%, 92%);
+  --sl-color-gray-2: hsl(168, 8%, 77%);
+  --sl-color-gray-3: hsl(168, 7%, 56%);
+  --sl-color-gray-4: hsl(168, 9%, 36%);
+  --sl-color-gray-5: hsl(168, 14%, 23%);
+  --sl-color-gray-6: hsl(168, 20%, 16%);
+  --sl-color-black: hsl(168, 22%, 11%);
 
-  --sl-color-accent-low: var(--hf-ink);
+  --sl-color-accent-low: #4a1f1c;
   --sl-color-accent: var(--hf-coral);
-  --sl-color-accent-high: var(--hf-blue);
-  --sl-color-text-invert: var(--hf-ink);
-  --sl-color-bg-inline-code: var(--hf-green);
-  --sl-color-hairline: var(--hf-ink);
-  --sl-color-hairline-light: var(--hf-green-muted);
-  --sl-color-hairline-shade: var(--hf-ink);
-  --sl-color-backdrop-overlay: rgb(16 32 29 / 0.72);
+  --sl-color-accent-high: var(--hf-coral-light);
 
-  /* Theme-dependent accents */
-  --hf-em: var(--hf-blue);
-  --hf-eyebrow: var(--hf-coral-light);
-  --hf-letter: var(--hf-coral);
+  /* Aside colors (note / tip / caution / danger) nudged to the 2026 hues */
+  --sl-hue-blue: 212;
+  --sl-hue-purple: 3;
+  --sl-hue-orange: 41;
+  --sl-hue-red: 6;
+  --sl-hue-green: 165;
+
+  --hfsl-border: color-mix(in srgb, var(--sl-color-gray-5), transparent 16%);
+  --hfsl-panel: color-mix(in srgb, var(--sl-color-bg-nav), var(--sl-color-bg) 34%);
+  --hfsl-panel-strong: color-mix(in srgb, var(--sl-color-bg-nav), var(--sl-color-accent) 8%);
 }
 
 :root[data-theme="light"] {
   --sl-color-white: var(--hf-ink);
-  --sl-color-gray-1: #1b2c28;
-  --sl-color-gray-2: var(--hf-green-text);
-  --sl-color-gray-3: var(--hf-green-muted);
-  --sl-color-gray-4: #8b968f;
-  --sl-color-gray-5: #c7cabf;
-  --sl-color-gray-6: var(--hf-cream-300);
-  --sl-color-gray-7: var(--hf-cream);
-  --sl-color-black: var(--hf-cream-200);
+  --sl-color-gray-1: hsl(168, 20%, 16%);
+  --sl-color-gray-2: hsl(168, 14%, 23%);
+  --sl-color-gray-3: hsl(168, 9%, 36%);
+  --sl-color-gray-4: hsl(168, 7%, 56%);
+  --sl-color-gray-5: hsl(168, 8%, 77%);
+  --sl-color-gray-6: #e9eae0;
+  --sl-color-gray-7: #f4f4ee;
+  --sl-color-black: var(--hf-cream);
 
   --sl-color-accent-low: var(--hf-coral-light);
   --sl-color-accent: var(--hf-red-deep);
   --sl-color-accent-high: var(--hf-red-shadow);
-  --sl-color-text-invert: var(--hf-cream);
-  --sl-color-bg-inline-code: var(--hf-cream-300);
-  --sl-color-hairline-light: #c7cabf;
-  --sl-color-backdrop-overlay: rgb(52 67 63 / 0.6);
 
-  --hf-shadow-color: var(--hf-red-shadow);
-  --hf-em: var(--hf-red);
-  --hf-eyebrow: var(--hf-green-muted);
-  --hf-letter: var(--hf-red);
+  --hfsl-border: #d6dbd3;
+  --hfsl-panel: #f4f5ef;
+  --hfsl-panel-strong: #eef1ea;
 }
-
-/* ------------------------------------------------------------------ */
-/* 2. Base                                                             */
-/* ------------------------------------------------------------------ */
 
 ::selection {
   background: var(--hf-coral);
   color: var(--hf-ink);
 }
 
-:focus-visible {
-  outline: 3px solid var(--hf-cream);
-  outline-offset: 2px;
-  box-shadow: 0 0 0 5px var(--hf-ink);
-}
-
-:root[data-theme="light"] :focus-visible {
-  outline-color: var(--hf-ink);
-  box-shadow: 0 0 0 5px var(--hf-cream);
-}
+/* --- Headings in the 2026 display face --- */
 
 h1#_top,
 .sl-markdown-content :is(h1, h2, h3, h4, h5, h6):not(:where(.not-content *)) {
-  font-family: var(--hf-font-display);
-  font-weight: 800;
-  letter-spacing: -0.03em;
-}
-
-h1#_top {
-  letter-spacing: -0.04em;
-  line-height: 0.94;
-  text-wrap: balance;
-}
-
-.sl-markdown-content a:not(:where(.not-content *)) {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 3px;
-}
-
-.sl-markdown-content hr:not(:where(.not-content *)) {
-  border: 0;
-  border-top: 2px solid var(--sl-color-hairline-light);
-}
-
-.sl-markdown-content code:not(:where(.not-content *)) {
-  border-radius: 0;
-}
-
-.expressive-code .frame,
-.expressive-code pre {
-  border-radius: 0;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  html {
-    scroll-behavior: auto;
-  }
-}
-
-/* ------------------------------------------------------------------ */
-/* 3. Header and sidebar (always green, like hacktoberfest.com)        */
-/* ------------------------------------------------------------------ */
-
-header.header,
-.sidebar-pane {
-  --sl-color-white: var(--hf-cream);
-  --sl-color-gray-1: var(--hf-cream-300);
-  --sl-color-gray-2: #d3d8cf;
-  --sl-color-gray-3: #a3b2ab;
-  --sl-color-gray-4: #6f837d;
-  --sl-color-gray-5: var(--hf-green-muted);
-  --sl-color-gray-6: var(--hf-green);
-  --sl-color-black: var(--hf-green-deep);
-  --sl-color-bg-nav: var(--hf-green);
-  --sl-color-bg-sidebar: var(--hf-green);
-  --sl-color-text-accent: var(--hf-cream);
-  --sl-color-text-invert: var(--hf-ink);
-  --sl-color-hairline-light: var(--hf-green-muted);
-  --sl-color-bg-inline-code: var(--hf-green-deep);
-  color-scheme: dark;
-}
-
-header.header {
-  border-bottom: var(--hf-border);
-}
-
-/* Site title: the 2026 wordmark plus a "Swag List" chip */
-.site-title {
-  gap: 0.75rem;
-}
-
-.site-title img {
-  width: clamp(9rem, 38vw, 15rem);
-  height: auto;
-  max-height: calc(var(--sl-nav-height) - 2 * var(--sl-nav-pad-y));
-}
-
-.site-title::after {
-  content: "Swag List";
-  flex: none;
-  padding: 0.35rem 0.55rem;
-  border-radius: 6px;
-  background: var(--hf-ink);
-  color: var(--hf-cream);
-  font-family: var(--__sl-font-mono);
-  font-size: 0.62rem;
+  font-family: var(--hfsl-font-heading);
   font-weight: 700;
-  letter-spacing: 0.08em;
-  line-height: 1;
-  text-transform: uppercase;
-  white-space: nowrap;
+  letter-spacing: -0.01em;
 }
 
-@media (max-width: 30rem) {
-  .site-title::after {
-    display: none;
-  }
-}
+/* --- Footer logo (HF wordmark tile after disclaimer) --- */
 
-/* Search button and keyboard hint */
-site-search button[data-open-modal] {
-  border-radius: 0;
-  font-family: var(--__sl-font-mono);
-  font-size: 0.72rem;
-}
-
-@media (min-width: 50rem) {
-  site-search button[data-open-modal] {
-    border: var(--hf-border);
-    background-color: var(--hf-green-deep);
-  }
-
-  site-search button[data-open-modal]:hover {
-    border-color: var(--hf-ink);
-    background-color: var(--hf-ink);
-  }
-}
-
-site-search button > kbd {
-  border-radius: 0;
-}
-
-site-search dialog {
-  border: var(--hf-border);
-  border-radius: 0;
-  box-shadow: var(--hf-shadow-lg);
-}
-
-/* Mobile menu button */
-.sl-menu-button {
-  border: var(--hf-border);
-  border-radius: 0;
-  background-color: var(--hf-coral);
-  color: var(--hf-ink);
-  box-shadow: var(--hf-shadow-sm);
-  --hf-shadow-color: var(--hf-ink);
-}
-
-.sl-menu-button:has(~ :popover-open) {
-  background-color: var(--hf-cream);
-  box-shadow: none;
-}
-
-/* Sidebar navigation */
-@media (min-width: 50rem) {
-  .sidebar-pane {
-    border-inline-end: var(--hf-border);
-  }
-}
-
-.sidebar-content a {
-  border-radius: 0;
-  padding: 0.55rem 0.65rem;
-  font-family: var(--__sl-font-mono);
-  font-size: 0.78rem;
-  font-weight: 500;
-  letter-spacing: 0.01em;
-  line-height: 1.3;
-  transition: background-color 120ms ease;
-}
-
-.sidebar-content a.large {
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.sidebar-content a:hover,
-.sidebar-content a:focus {
-  background-color: rgb(16 32 29 / 0.3);
-}
-
-.sidebar-content a[aria-current="page"],
-.sidebar-content a[aria-current="page"]:hover,
-.sidebar-content a[aria-current="page"]:focus {
-  border: var(--hf-border);
-  background-color: var(--hf-coral);
-  color: var(--hf-ink);
-  box-shadow: 3px 3px 0 var(--hf-ink);
-}
-
-/* Banner (page-level announcement) */
-.sl-banner {
-  border-bottom: var(--hf-border);
-  background-color: var(--hf-blue);
-  color: var(--hf-ink);
-  box-shadow: none;
-  font-family: var(--__sl-font-mono);
-  font-size: 0.72rem;
-  font-weight: 500;
-  line-height: 1.5;
-}
-
-.sl-banner a {
-  color: var(--hf-ink);
-  font-weight: 700;
-  text-decoration: underline;
-  text-underline-offset: 3px;
-}
-
-/* ------------------------------------------------------------------ */
-/* 4. Buttons                                                          */
-/* ------------------------------------------------------------------ */
-
-.sl-link-button {
-  min-height: 3.125rem;
-  padding: 0.75rem 1.375rem;
-  border: var(--hf-border);
-  border-radius: 0;
-  font-family: var(--__sl-font-mono);
-  font-size: 0.85rem;
-  font-weight: 650;
-  letter-spacing: 0.02em;
-  line-height: 1.2;
-  box-shadow: var(--hf-shadow);
-  transition:
-    transform 150ms ease,
-    box-shadow 150ms ease;
-}
-
-.sl-link-button:hover {
-  transform: translate(2px, 2px);
-  box-shadow: var(--hf-shadow-sm);
-}
-
-.sl-link-button.primary {
-  --hf-shadow-color: var(--hf-red-shadow);
-  border-color: var(--hf-ink);
-  background: var(--hf-coral);
-  color: var(--hf-ink);
-}
-
-.sl-link-button.primary:hover {
-  color: var(--hf-ink);
-}
-
-.sl-link-button.secondary {
-  border-color: var(--hf-ink);
-  background: var(--hf-cream);
-  color: var(--hf-ink);
-}
-
-.sl-link-button.minimal {
-  min-height: 0;
-  padding: 0;
-  border: 0;
-  box-shadow: none;
-  color: var(--sl-color-white);
-  text-decoration: underline;
-  text-underline-offset: 4px;
-}
-
-.sl-link-button.minimal:hover {
-  transform: none;
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .sl-link-button,
-  .sl-link-button:hover {
-    transition: none;
-    transform: none;
-  }
-}
-
-/* ------------------------------------------------------------------ */
-/* 5. Hero (home page)                                                 */
-/* ------------------------------------------------------------------ */
-
-.hero {
-  gap: 2.5rem;
-}
-
-.hero .copy {
-  gap: 1.25rem;
-}
-
-.hero h1 {
-  font-family: var(--hf-font-display);
-  font-size: clamp(3rem, 1.5rem + 7vw, 5.75rem);
-  font-weight: 800;
-  letter-spacing: -0.04em;
-  line-height: 0.92;
-  text-wrap: balance;
-  color: var(--sl-color-white);
-}
-
-.hero h1 em {
-  color: var(--hf-em);
-  font-style: normal;
-}
-
-/* The tagline carries an eyebrow label and the tagline copy; render the
-   eyebrow above the title by lifting both out of the tagline box. */
-.hero .tagline {
-  display: contents;
-}
-
-.hfsl-eyebrow {
-  order: -1;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.75rem;
-  color: var(--hf-eyebrow);
-  font-family: var(--__sl-font-mono);
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  line-height: 1.4;
-  text-transform: uppercase;
-}
-
-.hfsl-eyebrow::before {
-  content: "";
-  flex: none;
-  width: 2.5rem;
-  height: 0.625rem;
-  background: linear-gradient(
-    to right,
-    var(--hf-red) 0 25%,
-    var(--hf-blue) 25% 50%,
-    var(--hf-gold) 50% 75%,
-    var(--hf-coral) 75%
-  );
-}
-
-.hfsl-tagline {
-  max-width: 50ch;
-  color: var(--sl-color-gray-2);
-  font-size: clamp(1.05rem, 0.6rem + 1.2vw, 1.25rem);
-  line-height: 1.55;
-}
-
-.hero .actions {
-  gap: 1rem 1.5rem;
-}
-
-.hero > .hero-html {
-  width: min(70%, 18rem);
-  color: var(--sl-color-white);
-}
-
-.hero > .hero-html svg {
+.sl-markdown-content img[src*="HF26-"] {
   display: block;
-  width: 100%;
+  max-width: min(100%, 22rem);
   height: auto;
+  margin-inline: auto;
 }
 
-@media (min-width: 50rem) {
-  .hero > .hero-html {
-    width: min(100%, 22rem);
-    margin-inline-start: auto;
-  }
-}
-
-/* ------------------------------------------------------------------ */
-/* 6. Asides (note / tip / caution / danger)                           */
-/* ------------------------------------------------------------------ */
-
-.starlight-aside {
-  --sl-color-white: var(--hf-ink);
-  --sl-color-text: var(--hf-ink);
-  --sl-color-asides-text-accent: var(--hf-ink);
-  --sl-color-bg-inline-code: rgb(16 32 29 / 0.12);
-  padding: 1.1rem 1.25rem;
-  border: var(--hf-border);
-  border-radius: 0;
-  color: var(--hf-ink);
-  box-shadow: var(--hf-shadow);
-}
-
-.starlight-aside--note {
-  background-color: var(--hf-blue);
-}
-
-.starlight-aside--tip {
-  background-color: var(--hf-coral-light);
-}
-
-.starlight-aside--caution {
-  background-color: var(--hf-gold);
-}
-
-.starlight-aside--danger {
-  background-color: var(--hf-coral);
-}
-
-.starlight-aside__title {
-  font-family: var(--__sl-font-mono);
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
-.starlight-aside__content a {
-  color: var(--hf-ink);
-  font-weight: 600;
-}
-
-/* ------------------------------------------------------------------ */
-/* 7. Swag list: letter headings (A, B, C…)                            */
-/* ------------------------------------------------------------------ */
+/* --- Alphabetic letter headings (A, B, C…) --- */
 
 .sl-markdown-content .sl-heading-wrapper.level-h3:has(
     > h3:is(
@@ -542,7 +111,7 @@ site-search dialog {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  margin-block: 3rem 1rem;
+  margin-block: 2.5rem 1rem;
 }
 
 .sl-markdown-content h3:is(
@@ -551,12 +120,9 @@ site-search dialog {
   ) {
   flex: 0 0 auto;
   margin: 0;
-  color: var(--hf-letter);
-  font-family: var(--hf-font-display);
-  font-size: 2.5rem;
-  font-weight: 800;
-  letter-spacing: -0.03em;
-  line-height: 1;
+  color: var(--sl-color-accent);
+  font-size: 1.25rem;
+  letter-spacing: 0;
   text-transform: uppercase;
 }
 
@@ -569,8 +135,8 @@ site-search dialog {
   content: "";
   order: 3;
   flex: 1;
-  height: 2px;
-  background: var(--sl-color-hairline-light);
+  height: 1px;
+  background: var(--hfsl-border);
 }
 
 .sl-markdown-content .sl-heading-wrapper.level-h3:has(
@@ -586,33 +152,20 @@ site-search dialog {
   margin: 0;
 }
 
-/* ------------------------------------------------------------------ */
-/* 8. Swag list: company cards (h4 header + ul body)                   */
-/* ------------------------------------------------------------------ */
+/* --- Company cards (h4 header + ul body) --- */
 
 .sl-markdown-content .sl-heading-wrapper.level-h4 {
-  --sl-color-gray-3: var(--hf-cream-300);
   display: flex;
   align-items: center;
-  gap: 0.6rem;
+  gap: 0.5rem;
   width: 100%;
   box-sizing: border-box;
-  margin-block: 1.5rem 0;
-  padding: 0.7rem 1rem;
-  border: var(--hf-border);
+  margin-block: 1.25rem 0;
+  padding: 0.9rem 1rem 0.65rem;
+  border: 1px solid var(--hfsl-border);
   border-bottom: 0;
-  border-radius: 0;
-  background: var(--hf-green);
-  color: var(--hf-cream);
-}
-
-.sl-markdown-content .sl-heading-wrapper.level-h4::before {
-  content: "";
-  flex: none;
-  width: 9px;
-  height: 9px;
-  background: var(--hf-coral);
-  box-shadow: 3px 3px 0 var(--hf-green-deep);
+  border-radius: 0.75rem 0.75rem 0 0;
+  background: var(--hfsl-panel-strong);
 }
 
 .sl-markdown-content .sl-heading-wrapper.level-h4 .sl-anchor-link {
@@ -627,102 +180,36 @@ site-search dialog {
   padding: 0;
   border: 0;
   background: transparent;
-  color: var(--hf-cream);
-  font-family: var(--hf-font-display);
-  font-size: 1.3rem;
-  font-weight: 700;
-  letter-spacing: -0.01em;
+  font-size: 1.25rem;
   overflow-wrap: anywhere;
 }
 
 .sl-markdown-content .sl-heading-wrapper.level-h4 + ul {
-  --sl-color-white: var(--hf-ink);
-  --sl-color-text: var(--hf-ink);
-  --sl-color-gray-2: var(--hf-green-text);
-  --sl-color-text-accent: var(--hf-red-deep);
-  --sl-color-bg-inline-code: var(--hf-cream-300);
-  margin-block: 0 1.75rem;
-  padding: 1rem 1.1rem 1.1rem;
-  border: var(--hf-border);
-  border-radius: 0;
-  background: var(--hf-cream);
-  color: var(--hf-ink);
-  box-shadow: var(--hf-shadow-lg);
+  margin-block: 0 1.25rem;
+  padding: 0.85rem 1rem 1rem;
+  border: 1px solid var(--hfsl-border);
+  border-radius: 0 0 0.75rem 0.75rem;
+  background: var(--hfsl-panel);
   list-style: none;
 }
 
 .sl-markdown-content .sl-heading-wrapper.level-h4 + ul > li + li {
-  margin-top: 0.5rem;
+  margin-top: 0.45rem;
 }
 
 .sl-markdown-content .sl-heading-wrapper.level-h4 + ul ul {
   margin-top: 0.45rem;
   padding-left: 1.25rem;
-  list-style: square;
+  list-style: disc;
 }
 
 .sl-markdown-content .sl-heading-wrapper.level-h4 + ul strong:first-child {
-  color: var(--hf-ink);
-  font-family: var(--__sl-font-mono);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
+  color: var(--sl-color-white);
 }
 
-/* ------------------------------------------------------------------ */
-/* 9. Pagination, footer, images                                       */
-/* ------------------------------------------------------------------ */
-
-.pagination-links a {
-  --sl-color-white: var(--hf-ink);
-  border: var(--hf-border);
-  border-radius: 0;
-  background: var(--hf-cream);
-  color: var(--hf-green-text);
-  box-shadow: var(--hf-shadow);
-  transition:
-    transform 150ms ease,
-    box-shadow 150ms ease;
-}
-
-.pagination-links a:hover {
-  border-color: var(--hf-ink);
-  transform: translate(2px, 2px);
-  box-shadow: var(--hf-shadow-sm);
-}
-
-.pagination-links .link-title {
-  color: var(--hf-ink);
-  font-family: var(--hf-font-display);
-  font-weight: 800;
-  letter-spacing: -0.02em;
-}
-
-footer .meta,
-footer .kudos {
-  font-family: var(--__sl-font-mono);
-  font-size: 0.72rem;
-}
-
-/* Hacktoberfest wordmark tile in page footers */
-.sl-markdown-content img[src*="HF26-"] {
-  display: block;
-  max-width: min(100%, 22rem);
-  height: auto;
-  margin-inline: auto;
-}
-
-/* ------------------------------------------------------------------ */
-/* 10. Mobile adjustments                                              */
-/* ------------------------------------------------------------------ */
+/* --- Mobile adjustments --- */
 
 @media (max-width: 50rem) {
-  .hfsl-eyebrow {
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-
   .sl-markdown-content .sl-heading-wrapper.level-h4 {
     padding-inline: 0.85rem;
   }

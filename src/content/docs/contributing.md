@@ -1,9 +1,6 @@
 ---
 title: Contributing
 description: How to contribute to the Hacktoberfest Swag List.
-banner:
-  content: |
-    New for 2026: Hacktoberfest is now 300+ local Fests plus an online event, all about open source AI. <a href="https://hacktoberfest.com/questions/" target="_blank" rel="noopener noreferrer">Read the official FAQ &rarr;</a>
 ---
 
 We'd love it if you could help make the Hacktoberfest Swag List even better. That's the spirit of open source after all!

@@ -1,9 +1,6 @@
 ---
 title: 2026 Hacktoberfest Swag List
 description: The list of companies offering unique swag for Hacktoberfest 2026.
-banner:
-  content: |
-    New for 2026: Hacktoberfest is now 300+ local Fests plus an online event, all about open source AI. <a href="https://hacktoberfest.com/questions/" target="_blank" rel="noopener noreferrer">Read the official FAQ &rarr;</a>
 ---
 
 :::caution[SPAM for the sake of swag will not be tolerated]
