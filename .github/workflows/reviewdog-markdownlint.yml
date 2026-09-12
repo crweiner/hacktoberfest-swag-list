@@ -23,7 +23,7 @@ jobs:
           fetch-depth: 0
 
       - name: Run markdownlint with reviewdog
-        uses: reviewdog/action-markdownlint@v0.29.0
+        uses: reviewdog/action-markdownlint@v0.29.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
