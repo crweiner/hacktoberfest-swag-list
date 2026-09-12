@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hacktoberfestswaglist.com/sitemap-index.xml

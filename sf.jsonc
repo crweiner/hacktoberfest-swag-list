@@ -1,0 +1,9 @@
+{
+  // Spacefast build settings. Mirrors netlify.toml so the repo stays self-describing after cutover.
+  // Schema: https://spacefast.com/schemas/sf.json
+  "build": {
+    "installCommand": "npm ci",
+    "buildCommand": "npm run build",
+    "outputDirectory": "dist"
+  }
+}
