@@ -1,7 +1,10 @@
 /*
   Custom styles for Hacktoberfest Swag List.
-  Once the 2026 branding is released, update the CSS custom properties
-  below to match the official Hacktoberfest color palette.
+
+  Colors and fonts follow the Hacktoberfest 2026 palette used on
+  hacktoberfest.com (greens, cream, coral, red, periwinkle and gold;
+  Inter, Martian Mono and Barlow Semi Condensed). Fonts are self-hosted
+  via Fontsource and loaded in astro.config.mjs.
 */
 
 html {
@@ -9,28 +12,90 @@ html {
 }
 
 :root {
-  --sl-color-accent-low: #1a1a2e;
-  --sl-color-accent: #9c36b5;
-  --sl-color-accent-high: #e2c4ed;
+  /* Hacktoberfest 2026 palette */
+  --hf-ink: #10201d;
+  --hf-green-deep: #2e4742;
+  --hf-green: #3d5f58;
+  --hf-cream: #f7f7f2;
+  --hf-cream-300: #e4e5da;
+  --hf-coral: #e97b77;
+  --hf-coral-light: #f6c4c1;
+  --hf-red: #e53927;
+  --hf-red-deep: #b8301f;
+  --hf-red-shadow: #671912;
+  --hf-blue: #8bb2de;
+  --hf-gold: #f5b726;
+
+  /* Fonts */
+  --sl-font: "Inter Variable", "Inter";
+  --sl-font-mono: "Martian Mono Variable", "Martian Mono";
+  --hfsl-font-heading: "Barlow Semi Condensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  /* Dark theme (default): green-tinted neutrals, coral accent */
+  --sl-color-white: var(--hf-cream);
+  --sl-color-gray-1: hsl(168, 12%, 92%);
+  --sl-color-gray-2: hsl(168, 8%, 77%);
+  --sl-color-gray-3: hsl(168, 7%, 56%);
+  --sl-color-gray-4: hsl(168, 9%, 36%);
+  --sl-color-gray-5: hsl(168, 14%, 23%);
+  --sl-color-gray-6: hsl(168, 20%, 16%);
+  --sl-color-black: hsl(168, 22%, 11%);
+
+  --sl-color-accent-low: #4a1f1c;
+  --sl-color-accent: var(--hf-coral);
+  --sl-color-accent-high: var(--hf-coral-light);
+
+  /* Aside colors (note / tip / caution / danger) nudged to the 2026 hues */
+  --sl-hue-blue: 212;
+  --sl-hue-purple: 3;
+  --sl-hue-orange: 41;
+  --sl-hue-red: 6;
+  --sl-hue-green: 165;
+
   --hfsl-border: color-mix(in srgb, var(--sl-color-gray-5), transparent 16%);
   --hfsl-panel: color-mix(in srgb, var(--sl-color-bg-nav), var(--sl-color-bg) 34%);
   --hfsl-panel-strong: color-mix(in srgb, var(--sl-color-bg-nav), var(--sl-color-accent) 8%);
 }
 
 :root[data-theme="light"] {
-  --sl-color-accent-low: #f0e0f7;
-  --sl-color-accent: #7b2d8e;
-  --sl-color-accent-high: #3a1548;
-  --hfsl-border: #d9d6eb;
-  --hfsl-panel: #f8f7fc;
-  --hfsl-panel-strong: #f2f0fb;
+  --sl-color-white: var(--hf-ink);
+  --sl-color-gray-1: hsl(168, 20%, 16%);
+  --sl-color-gray-2: hsl(168, 14%, 23%);
+  --sl-color-gray-3: hsl(168, 9%, 36%);
+  --sl-color-gray-4: hsl(168, 7%, 56%);
+  --sl-color-gray-5: hsl(168, 8%, 77%);
+  --sl-color-gray-6: #e9eae0;
+  --sl-color-gray-7: #f4f4ee;
+  --sl-color-black: var(--hf-cream);
+
+  --sl-color-accent-low: var(--hf-coral-light);
+  --sl-color-accent: var(--hf-red-deep);
+  --sl-color-accent-high: var(--hf-red-shadow);
+
+  --hfsl-border: #d6dbd3;
+  --hfsl-panel: #f4f5ef;
+  --hfsl-panel-strong: #eef1ea;
 }
 
-/* --- Footer logo (HF icon after disclaimer) --- */
+::selection {
+  background: var(--hf-coral);
+  color: var(--hf-ink);
+}
 
-.sl-markdown-content img[src*="HF-"] {
+/* --- Headings in the 2026 display face --- */
+
+h1#_top,
+.sl-markdown-content :is(h1, h2, h3, h4, h5, h6):not(:where(.not-content *)) {
+  font-family: var(--hfsl-font-heading);
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+/* --- Footer logo (HF wordmark tile after disclaimer) --- */
+
+.sl-markdown-content img[src*="HF26-"] {
   display: block;
-  max-width: min(100%, 14rem);
+  max-width: min(100%, 22rem);
   height: auto;
   margin-inline: auto;
 }
@@ -56,7 +121,7 @@ html {
   flex: 0 0 auto;
   margin: 0;
   color: var(--sl-color-accent);
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   letter-spacing: 0;
   text-transform: uppercase;
 }
@@ -115,7 +180,7 @@ html {
   padding: 0;
   border: 0;
   background: transparent;
-  font-size: 1.2rem;
+  font-size: 1.25rem;
   overflow-wrap: anywhere;
 }
 
@@ -140,10 +205,6 @@ html {
 
 .sl-markdown-content .sl-heading-wrapper.level-h4 + ul strong:first-child {
   color: var(--sl-color-white);
-}
-
-html[data-theme="light"] .sl-markdown-content .sl-heading-wrapper.level-h4 + ul strong:first-child {
-  color: var(--sl-color-black);
 }
 
 /* --- Mobile adjustments --- */
