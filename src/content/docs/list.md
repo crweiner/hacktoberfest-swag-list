@@ -44,13 +44,13 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### DevOps Daily
 
-- **Swag**: DevOps Daily stickers, plus a raffle for DigitalOcean credit
+- **Swag**: DevOps Daily stickers shipped to everyone who finishes all 8 days, plus a chance to win DigitalOcean credit in a raffle
 - **Requirements**:
-    - Complete all 8 daily challenges (October 1-7, plus a bonus day 8), one pull request per day
+    - Complete all 8 challenges: one per day from October 1-7, plus a bonus day 8
     - Tasks take 5-15 minutes and need no coding
 - **How to sign up**: No sign-up needed. Star and fork the [DevOps Daily repo](https://github.com/The-DevOps-Daily/devops-daily) and start with day 1.
 - **Issues**: Daily challenges are listed on the [DevOps Daily Hacktoberfest page](https://devops-daily.com/hacktoberfest)
-- **Notes**: Day 1 also earns a public profile in their Experts Directory. See the [announcement issue](https://github.com/The-DevOps-Daily/devops-daily/issues/1114).
+- **Notes**: Day 1 also earns a public profile in their Experts Directory. The sticker and raffle details are posted on the [DevOps Daily Hacktoberfest page](https://devops-daily.com/hacktoberfest) under "Complete All 8 Days".
 
 ---
 
