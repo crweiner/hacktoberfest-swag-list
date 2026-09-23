@@ -40,9 +40,17 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ## A to Z Order of Companies
 
-### A
+### D
 
-_To be filled in as Hacktoberfest 2026 progresses!_
+#### DevOps Daily
+
+- **Swag**: DevOps Daily stickers, plus a raffle for DigitalOcean credit
+- **Requirements**:
+    - Complete all 8 daily challenges (October 1-7, plus a bonus day 8), one pull request per day
+    - Tasks take 5-15 minutes and need no coding
+- **How to sign up**: No sign-up needed. Star and fork the [DevOps Daily repo](https://github.com/The-DevOps-Daily/devops-daily) and start with day 1.
+- **Issues**: Daily challenges are listed on the [DevOps Daily Hacktoberfest page](https://devops-daily.com/hacktoberfest)
+- **Notes**: Day 1 also earns a public profile in their Experts Directory. See the [announcement issue](https://github.com/The-DevOps-Daily/devops-daily/issues/1114).
 
 ---
 
