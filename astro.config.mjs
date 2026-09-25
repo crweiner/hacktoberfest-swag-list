@@ -1,17 +1,39 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+import { satteri } from "@astrojs/markdown-satteri";
+
+/**
+ * Open links to other sites in a new tab. Internal links (`/list/`, `#anchors`)
+ * are untouched. Runs on the HTML AST of every Markdown page.
+ */
+const externalLinks = {
+  name: "external-links",
+  element: {
+    filter: ["a"],
+    visit(node, ctx) {
+      const href = String(node.properties?.href ?? "");
+      if (!/^https?:\/\//i.test(href)) return;
+      ctx.setProperty(node, "target", "_blank");
+      ctx.setProperty(node, "rel", "noopener noreferrer");
+    },
+  },
+};
 
 export default defineConfig({
   site: "https://hacktoberfestswaglist.com",
+  markdown: {
+    processor: satteri({ hastPlugins: [externalLinks] }),
+  },
   integrations: [
     starlight({
       title: "Hacktoberfest Swag List",
       logo: {
-        light: "./src/assets/HF-Icon-Color-Dark.svg",
-        dark: "./src/assets/HF-Icon-Color-Light.svg",
+        light: "./src/assets/HF26-Icon-Green.svg",
+        dark: "./src/assets/HF26-Icon-Cream.svg",
+        alt: "Hacktoberfest 2026",
         replacesTitle: false,
       },
-      favicon: "/favicon.ico",
+      favicon: "/favicon.svg",
       social: [
         {
           icon: "github",
@@ -34,13 +56,38 @@ export default defineConfig({
         { label: "Swag List", slug: "list" },
         { label: "Contributing", slug: "contributing" },
       ],
-      customCss: ["./src/styles/custom.css"],
+      customCss: [
+        // Hacktoberfest 2026 typefaces (self-hosted via Fontsource)
+        "@fontsource/barlow-semi-condensed/700.css",
+        "@fontsource-variable/inter",
+        "@fontsource-variable/martian-mono",
+        "./src/styles/custom.css",
+      ],
       head: [
+        {
+          tag: "link",
+          attrs: { rel: "icon", href: "/favicon.ico", sizes: "32x32" },
+        },
+        {
+          tag: "link",
+          attrs: { rel: "apple-touch-icon", href: "/apple-touch-icon.png" },
+        },
+        {
+          tag: "meta",
+          attrs: { name: "theme-color", content: "#3d5f58" },
+        },
         {
           tag: "meta",
           attrs: {
             property: "og:image",
-            content: "/img/HF-Horizontal-Color-Dark.png",
+            content: "https://hacktoberfestswaglist.com/img/HF26-OG.png",
+          },
+        },
+        {
+          tag: "meta",
+          attrs: {
+            name: "twitter:image",
+            content: "https://hacktoberfestswaglist.com/img/HF26-OG.png",
           },
         },
       ],
