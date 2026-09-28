@@ -57,7 +57,7 @@ If you don't see a letter heading for your company, please add it! Use the Markd
 
 You will need the following dependency already installed in your system to set up the site locally:
 
-- [Node.js](https://nodejs.org/) (version 18.17.1 or higher)
+- [Node.js](https://nodejs.org/) (version 22.12.0 or higher)
 
 ### Setting up the repository
 

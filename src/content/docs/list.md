@@ -66,7 +66,7 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Only 2 pull requests per participant can be open at a time.
 - **How to sign up**: Register with the [Kestra Hacktoberfest form](https://docs.google.com/forms/d/e/1FAIpQLSfHgC4RsK9NK51gLUxBYwpUQwLB45SJQB365G0MAIrKLlnnSg/viewform) so merged pull requests can be matched to you.
 - **Issues**: Open [`good first issue` issues across kestra-io](https://github.com/search?q=org%3Akestra-io+label%3A%22good+first+issue%22+is%3Aopen&type=issues)
-- **Notes**: Prizes are judged on merged pull request quality, with separate podiums for each track. See the [Kestra Hacktoberfest page](https://kestra.io/hacktoberfest) for rules and livestream details.
+- **Notes**: Prizes are judged on merged pull request quality, with separate podiums for each track. See the [Kestra Hacktoberfest page](https://kestra.io/hacktober) for rules and livestream details.
 
 ### S
 

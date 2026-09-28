@@ -43,7 +43,7 @@ export default defineConfig({
         {
           icon: "x.com",
           label: "X",
-          href: "https://twitter.com/c_dubbs",
+          href: "https://x.com/c_dubbs",
         },
       ],
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 4 },

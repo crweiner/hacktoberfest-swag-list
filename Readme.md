@@ -2,7 +2,7 @@
 
 ![Hacktoberfest 2026 logo](public/img/HF26-Wordmark-Tile.png)
 
-Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/)! at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)
+Hello all you beautiful nerds and welcome to another year of [Hacktoberfest](https://hacktoberfest.com/) at the [Hacktoberfest Swag List](https://hacktoberfestswaglist.com)!
 
 ## [Click here to be taken to the 2026 Hacktoberfest Swag List!](https://hacktoberfestswaglist.com/list)
 
@@ -14,7 +14,7 @@ Low-code and no-code contributions like documentation, translations, design, and
 
 New to git and GitHub? [Use the git cheat sheet (PDF)](public/files/Hacktoberfest2025-GitCheatSheet.pdf) created by the Hacktoberfest team to learn how to contribute!
 
-Please take a look at the [Contributing guide](src/content/docs/contributing.md) as the way to add organizations to the list has changed.
+Please take a look at the [Contributing guide](src/content/docs/contributing.md) before adding an organization to the list.
 
 ---
 
