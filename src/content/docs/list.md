@@ -36,6 +36,8 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Hacktoberfest 2026 no longer counts pull requests, so there is no PR-based digital rewards kit this year
     - A T-shirt is not guaranteed for every participant, and online participants are not eligible for T-shirts
     - Swag Envelopes ship after Hacktoberfest ends and should arrive within 30-60 days
+    - Every in-person Hack Day runs a Best Open-Source AI Project challenge. Each member of the winning team gets a DEV Badge, and MLH may also provide MLH+DEV swag bags ([details](https://hacktoberfest-handbook.mlh.com/fest-planning-guide/open-source-prize-categories))
+    - Selected Hack Days also get a sponsor prize category from Google Gemma, Snowflake, Solana, or GitHub Copilot. Prizes for the winning team include a mechanical keyboard or swag bag, an Arduino Tiny Machine Learning Kit, a Ledger Nano S Plus, or wireless headphones, and vary by region and inventory ([details](https://hacktoberfest-handbook.mlh.com/hack-days-partner-modules))
     - See the [official FAQ](https://hacktoberfest.com/questions/) for the latest details
 
 ## A to Z Order of Companies
@@ -65,6 +67,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: Register with the [Kestra Hacktoberfest form](https://docs.google.com/forms/d/e/1FAIpQLSfHgC4RsK9NK51gLUxBYwpUQwLB45SJQB365G0MAIrKLlnnSg/viewform) so merged pull requests can be matched to you.
 - **Issues**: Open [`good first issue` issues across kestra-io](https://github.com/search?q=org%3Akestra-io+label%3A%22good+first+issue%22+is%3Aopen&type=issues)
 - **Notes**: Prizes are judged on merged pull request quality, with separate podiums for each track. See the [Kestra Hacktoberfest page](https://kestra.io/hacktoberfest) for rules and livestream details.
+
+### S
+
+#### Salam
+
+- **Swag**: A $1 USD GitHub Sponsors payout for each completed issue in the program
+- **Requirements**:
+    - Work only on issues labeled `$1`, and only after `@jbampton` assigns the issue to you
+    - One `$1` issue at a time
+    - Your pull request must be accepted through the `$1` process, merged into the default branch, and close the issue
+- **How to sign up**: Comment on a `$1` issue in the [Salam repo](https://github.com/SalamLang/Salam) asking to be assigned. Don't start work until you're assigned.
+- **Issues**: [Open `$1` issues](https://github.com/SalamLang/Salam/issues?q=is%3Aissue+is%3Aopen+label%3A%241)
+- **Notes**: Salam is a general-purpose and systems programming language. See the [announcement issue](https://github.com/SalamLang/Salam/issues/1716) for the full rules.
 
 ---
 
