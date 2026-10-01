@@ -59,14 +59,14 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 #### DocsGPT
 
-- **Swag**: A DocsGPT T-shirt for meaningful contributions
+- **Swag**: T-shirt
 - **Requirements**:
-    - Get a meaningful pull request merged between October 1 and 31, 2026: fix a real bug, add a feature, or noticeably improve the docs
-    - Typo fixes and other trivial changes don't qualify
-    - Any meaningful merged pull request counts, whether or not it closes an issue labeled `hacktoberfest`
-- **How to sign up**: No sign-up needed. Check the [issues](https://github.com/arc53/DocsGPT/issues) and wait to be assigned before you start. Keep a link to your merged pull request so you can claim your T-shirt.
-- **Issues**: [Open `hacktoberfest` issues](https://github.com/arc53/DocsGPT/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
-- **Notes**: The T-shirt design and claim form will be announced later on the [DocsGPT Discord](https://discord.gg/vN7YFfdMpj) and in the README. See [DocsGPT's HACKTOBERFEST.md](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for details.
+    - Get a meaningful pull request merged into [DocsGPT](https://github.com/arc53/DocsGPT) between October 1 and 31, 2026: a real bug fix, a new feature, or a noticeable documentation improvement. Typo fixes and other trivial changes don't qualify.
+    - Any meaningful merged pull request counts. Issues labeled `hacktoberfest` are good places to start but aren't required.
+    - Check the existing issues (or open one) and wait to be assigned before you start.
+- **How to sign up**: No sign-up needed. The claim form will be announced on the [DocsGPT Discord](https://discord.gg/vN7YFfdMpj) and in the README, so keep a link to your merged pull request.
+- **Issues**: [`hacktoberfest` issues](https://github.com/arc53/DocsGPT/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: See the [DocsGPT Hacktoberfest announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for details.
 
 ### I
 
