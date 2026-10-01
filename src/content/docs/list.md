@@ -54,6 +54,17 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: Daily challenges are listed on the [DevOps Daily Hacktoberfest page](https://devops-daily.com/hacktoberfest)
 - **Notes**: Day 1 also earns a public profile in their Experts Directory. The sticker and raffle details are posted on the [DevOps Daily Hacktoberfest page](https://devops-daily.com/hacktoberfest) under "Complete All 8 Days".
 
+#### DocsGPT
+
+- **Swag**: T-shirt
+- **Requirements**:
+    - Get a meaningful pull request merged into [DocsGPT](https://github.com/arc53/DocsGPT) between October 1 and 31, 2026: a real bug fix, a new feature, or a noticeable documentation improvement. Typo fixes and other trivial changes don't qualify.
+    - Any meaningful merged pull request counts. Issues labeled `hacktoberfest` are good places to start but aren't required.
+    - Check the existing issues (or open one) and wait to be assigned before you start.
+- **How to sign up**: No sign-up needed. The claim form will be announced on the [DocsGPT Discord](https://discord.gg/vN7YFfdMpj) and in the README, so keep a link to your merged pull request.
+- **Issues**: [`hacktoberfest` issues](https://github.com/arc53/DocsGPT/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: See the [DocsGPT Hacktoberfest announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for details.
+
 ### K
 
 #### Kestra
