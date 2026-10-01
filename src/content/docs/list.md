@@ -27,15 +27,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### The Original - Hacktoberfest 2026, powered by MLH and DEV, presented by DigitalOcean
 
-- **Swag**: T-shirts and stickers handed out at in-person Fests (distributed by local organizers while supplies last), plus a Swag Envelope of custom Hacktoberfest stickers and other envelope-friendly items for online participants
+- **Swag**:
+    - In person: Hacktoberfest 2026 T-shirts, stickers, and swag at every Fest while supplies last, plus Arduinos at select Hack Days
+    - Online and in person: a Hacktoberfest 2026 sticker pack in the mail, a bonus holographic sticker at 10 virtual stickers, and a raffle entry for a Hacktoberfest 2026 T-shirt or an Arduino Uno Q board at 15 virtual stickers
 - **Requirements**:
     - In person: attend a [Hacktoberfest Fest](https://hacktoberfest.com/fests/) (a Hack Day or a Meet Up) in your city
-    - Online: complete the official participation milestones (details to be announced by Hacktoberfest)
-- **How to sign up**: [Find a Fest near you](https://hacktoberfest.com/fests/) or [host your own](https://hacktoberfest.com/host/)
+    - Online: collect virtual stickers in [My Hacktoberfest](https://hacktoberfest.com/my/) by attending livestreams, entering DEV Challenges, joining Global Hack Week, and more. For the sticker pack, sign in, add your mailing address, and collect one more virtual sticker.
+- **How to sign up**: Sign in to [My Hacktoberfest](https://hacktoberfest.com/my/) with a MyMLH account, then [find a Fest near you](https://hacktoberfest.com/fests/), [attend online](https://hacktoberfest.com/online/), or [host your own](https://hacktoberfest.com/host/)
 - **Notes**:
     - Hacktoberfest 2026 no longer counts pull requests, so there is no PR-based digital rewards kit this year
-    - A T-shirt is not guaranteed for every participant, and online participants are not eligible for T-shirts
-    - Swag Envelopes ship after Hacktoberfest ends and should arrive within 30-60 days
+    - T-shirts at Fests are not guaranteed. Online participants can only win one through the raffle.
+    - Stickers and prizes are mailed 8-12 weeks after Hacktoberfest ends
+    - [DEV Challenges](https://dev.to/challenges) run a Weekend Challenge and four weekly open-source AI rounds with cash prizes. Prize amounts are posted on each challenge page.
     - Every in-person Hack Day runs a Best Open-Source AI Project challenge. Each member of the winning team gets a DEV Badge, and MLH may also provide MLH+DEV swag bags ([details](https://hacktoberfest-handbook.mlh.com/fest-planning-guide/open-source-prize-categories))
     - Selected Hack Days also get a sponsor prize category from Google Gemma, Snowflake, Solana, or GitHub Copilot. Prizes for the winning team include a mechanical keyboard or swag bag, an Arduino Tiny Machine Learning Kit, a Ledger Nano S Plus, or wireless headphones, and vary by region and inventory ([details](https://hacktoberfest-handbook.mlh.com/hack-days-partner-modules))
     - See the [official FAQ](https://hacktoberfest.com/questions/) for the latest details
@@ -64,6 +67,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **How to sign up**: No sign-up needed. The claim form will be announced on the [DocsGPT Discord](https://discord.gg/vN7YFfdMpj) and in the README, so keep a link to your merged pull request.
 - **Issues**: [`hacktoberfest` issues](https://github.com/arc53/DocsGPT/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **Notes**: See the [DocsGPT Hacktoberfest announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for details.
+
+### I
+
+#### Interledger Foundation
+
+- **Swag**: A limited-edition Interledger digital badge for any valid contribution, an exclusive physical swag pack for the top contributor of the month, and a secret prize for everyone who completes a Hacktoberfest activity (to be announced)
+- **Requirements**:
+    - Code: resolve one of the open issues listed on the [Interledger Hacktoberfest page](https://interledger.org/tech/hacktoberfest/), with original work rather than unedited AI-generated content
+    - No code: report bugs, typos, and usability issues on the new interledger.org website through the feedback form on that page
+    - The top contributor is chosen by the number of qualifying pull requests and form submissions
+- **How to sign up**: No sign-up needed. Pick an issue or submit feedback from the [Interledger Hacktoberfest page](https://interledger.org/tech/hacktoberfest/).
+- **Issues**: Listed on the [Interledger Hacktoberfest page](https://interledger.org/tech/hacktoberfest/), across the publisher tools, Web Monetization extension, Mastodon GCP Terraform, community jokes, and ASCII art repos
+- **Notes**: Review Interledger's contribution guidelines and AI policy, linked from their Hacktoberfest page, before contributing.
 
 ### K
 
