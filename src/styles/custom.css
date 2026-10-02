@@ -218,3 +218,25 @@ h1#_top,
     padding-inline: 0.85rem;
   }
 }
+
+/* --- Site title in the header ---
+   Starlight keeps the title on one line and clips whatever doesn't fit, which
+   cuts "Hacktoberfest Swag List" short next to the search and menu buttons on
+   phones. Scale the text with the viewport and let it wrap as a last resort. */
+
+@media (max-width: 50rem) {
+  .site-title {
+    gap: 0.5rem;
+    font-size: clamp(0.875rem, 4.4vw, var(--sl-text-h4));
+    line-height: 1.15;
+    white-space: normal;
+  }
+
+  .site-title img {
+    flex: 0 0 auto;
+  }
+
+  .site-title span {
+    text-wrap: balance;
+  }
+}
