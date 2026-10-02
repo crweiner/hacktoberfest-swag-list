@@ -85,9 +85,35 @@ export default defineConfig({
         },
         {
           tag: "meta",
+          attrs: { property: "og:image:type", content: "image/png" },
+        },
+        {
+          tag: "meta",
+          attrs: { property: "og:image:width", content: "1200" },
+        },
+        {
+          tag: "meta",
+          attrs: { property: "og:image:height", content: "630" },
+        },
+        {
+          tag: "meta",
+          attrs: {
+            property: "og:image:alt",
+            content: "Hacktoberfest 26 Swag List, hacktoberfestswaglist.com",
+          },
+        },
+        {
+          tag: "meta",
           attrs: {
             name: "twitter:image",
             content: "https://hacktoberfestswaglist.com/img/HF26-OG.png",
+          },
+        },
+        {
+          tag: "meta",
+          attrs: {
+            name: "twitter:image:alt",
+            content: "Hacktoberfest 26 Swag List, hacktoberfestswaglist.com",
           },
         },
       ],
