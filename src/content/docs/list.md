@@ -96,6 +96,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: Open [`good first issue` issues across kestra-io](https://github.com/search?q=org%3Akestra-io+label%3A%22good+first+issue%22+is%3Aopen&type=issues)
 - **Notes**: Prizes are judged on merged pull request quality, with separate podiums for each track. See the [Kestra Hacktoberfest page](https://kestra.io/hacktober) for rules and livestream details.
 
+### M
+
+#### Modtoberfest
+
+- **Swag**: A prize pack of stickers and pins designed by the event's sponsors, plus a tree planted in the Modtoberforest for everyone who completes the challenge
+- **Requirements**:
+    - Submit four valid pull requests during October 2026 to repositories on the [participating projects list](https://modtoberfest.com/repositories)
+    - Pull requests don't need to be merged, but they can't be drafts or be marked invalid or spam by a maintainer
+    - Pull requests to your own projects don't count, and neither do scripted or AI-generated ones or minor changes like typos and formatting
+- **How to sign up**: Sign up on the [Modtoberfest website](https://modtoberfest.com/) before the end of October 2026
+- **Issues**: See the [participating repositories](https://modtoberfest.com/repositories)
+- **Notes**: Modtoberfest celebrates open source projects in the Minecraft community. Prize packs are limited to one per person while supplies last and ship from Canada, so customs fees may apply. See the [rules](https://modtoberfest.com/rules) and [FAQ](https://modtoberfest.com/faq).
+
 ### S
 
 #### Salam
