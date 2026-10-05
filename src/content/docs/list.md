@@ -38,7 +38,8 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Hacktoberfest 2026 no longer counts pull requests, so there is no PR-based digital rewards kit this year
     - T-shirts at Fests are not guaranteed. Online participants can only win one through the raffle.
     - Stickers and prizes are mailed 8-12 weeks after Hacktoberfest ends
-    - [DEV Challenges](https://dev.to/challenges) run a Weekend Challenge and four weekly open-source AI rounds with cash prizes. Prize amounts are posted on each challenge page.
+    - [DEV Challenges](https://dev.to/challenges) run a Weekend Challenge and four weekly open-source AI rounds with cash prizes. The Weekend Challenge awarded $250 to the overall winner and $100 to $200 per partner category, and every valid submission earns a completion badge. Prize amounts are posted on each challenge page.
+    - Several sponsors, including Tinker, Render, Backboard, and ElevenLabs, give participants credits and promo codes. Claim them under [Codes and offers](https://hacktoberfest.com/my/promos/) in My Hacktoberfest.
     - Every in-person Hack Day runs a Best Open-Source AI Project challenge. Each member of the winning team gets a DEV Badge, and MLH may also provide MLH+DEV swag bags ([details](https://hacktoberfest-handbook.mlh.com/fest-planning-guide/open-source-prize-categories))
     - Selected Hack Days also get a sponsor prize category from Google Gemma, Snowflake, Solana, or GitHub Copilot. Prizes for the winning team include a mechanical keyboard or swag bag, an Arduino Tiny Machine Learning Kit, a Ledger Nano S Plus, or wireless headphones, and vary by region and inventory ([details](https://hacktoberfest-handbook.mlh.com/hack-days-partner-modules))
     - See the [official FAQ](https://hacktoberfest.com/questions/) for the latest details
