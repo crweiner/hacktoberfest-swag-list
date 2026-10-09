@@ -98,6 +98,18 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ### M
 
+#### Major League Hacking (MLH)
+
+- **Swag**: Sticker pack and postcard, plus bonus stickers
+- **Requirements**:
+    - Check in to Global Hack Week: Hacktoberfest, which runs October 9-15, 2026
+    - Join the [MLH Community Discord Server](https://discord.mlh.io)
+    - Submit your mailing address at [mlh.link/Address](https://mlh.link/Address)
+    - Complete all of the registration challenges
+    - Attend at least 5 live sessions during the week to earn the bonus stickers
+- **How to sign up**: Register for [Global Hack Week: Hacktoberfest](https://ghw.mlh.com/events/open-source)
+- **Notes**: This is MLH's own Global Hack Week swag, separate from the official Hacktoberfest sticker pack. See [more swag details here](https://ghw.mlh.com/swag).
+
 #### Modtoberfest
 
 - **Swag**: A prize pack of stickers and pins designed by the event's sponsors, plus a tree planted in the Modtoberforest for everyone who completes the challenge
