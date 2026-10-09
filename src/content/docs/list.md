@@ -122,6 +122,20 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: [Open `$1` issues](https://github.com/SalamLang/Salam/issues?q=is%3Aissue+is%3Aopen+label%3A%241)
 - **Notes**: Salam is a general-purpose and systems programming language. See the [announcement issue](https://github.com/SalamLang/Salam/issues/1716) for the full rules.
 
+### U
+
+#### UseAgent
+
+- **Swag**: Cash bounties of $30 or $80 on selected Hacktoberfest issues
+- **Requirements**:
+    - Only issues with a bounty label pay: the [student and campus kit](https://github.com/useagenthq/useagent/issues/51) ($30), [desktop app on Windows and Linux](https://github.com/useagenthq/useagent/issues/56) ($30), and [mobile app for iOS and Android](https://github.com/useagenthq/useagent/issues/61) ($80)
+    - Bounty issues are assigned by a maintainer, and the bounty is paid after the pull request is merged and the outcome the issue describes is verified
+    - One pull request per issue, by the person who claimed it, with your own screenshots or a recording showing it working
+    - Pull requests that look generated and untested are closed and labeled `spam`
+- **How to sign up**: No sign-up needed. Pick an issue in the [UseAgent repo](https://github.com/useagenthq/useagent) and comment that you're taking it.
+- **Issues**: [Open `hacktoberfest` issues](https://github.com/useagenthq/useagent/issues?q=is%3Aopen+label%3Ahacktoberfest)
+- **Notes**: Most `hacktoberfest` issues carry no bounty. See the [Hacktoberfest 2026 section of the README](https://github.com/useagenthq/useagent#hacktoberfest-2026) and [CONTRIBUTING.md](https://github.com/useagenthq/useagent/blob/main/CONTRIBUTING.md).
+
 ---
 
 _Disclaimer_: This website is a fan and community-made creation. It is not affiliated with [Hacktoberfest](https://hacktoberfest.com/) or any company offering swag.
