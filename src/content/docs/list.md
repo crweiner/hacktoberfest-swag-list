@@ -58,8 +58,8 @@ Do you want to put your project in front of tens of thousands of developers duri
     - Ties go to whoever got there first
     - Two pull requests labeled `spam` and you're out of the goodies
 - **How to sign up**: No sign-up needed. Comment on an open issue to get assigned before you start.
-- **Issues**: [Open `hacktoberfest` issues across CODERCOPS](https://github.com/search?q=org%3Acodercops+label%3Ahacktoberfest+state%3Aopen+no%3Aassignee&type=issues)
-- **Notes**: This is CODERCOPS's own October 2026 contributor program, separate from official Hacktoberfest rewards. Track standings on the [live leaderboard](https://oss.codercops.com/leaderboard/2026-10), and see the [announcement](https://github.com/orgs/codercops/discussions/9) and the [CODERCOPS profile](https://github.com/codercops) for details.
+- **Issues**: [Open `hacktoberfest` issues in the four eligible repos](https://github.com/search?q=repo%3Acodercops%2Fchatcops+repo%3Acodercops%2Fogcops+repo%3Acodercops%2Ftoolbelt+repo%3Acodercops%2Fdiscord-bot+label%3Ahacktoberfest+state%3Aopen+no%3Aassignee&type=issues)
+- **Notes**: This is CODERCOPS's own October 2026 contributor program, separate from official Hacktoberfest rewards. Track standings on the [live leaderboard](https://oss.codercops.com/leaderboard/2026-10), and see the [announcement](https://github.com/codercops/.github/discussions/9) and the [CODERCOPS profile](https://github.com/codercops) for details.
 
 ### D
 
