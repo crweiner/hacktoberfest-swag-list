@@ -47,6 +47,20 @@ Do you want to put your project in front of tens of thousands of developers duri
 
 ## A to Z Order of Companies
 
+### C
+
+#### CODERCOPS
+
+- **Swag**: A CODERCOPS T-shirt and stickers for the top 5 contributors of the month
+- **Requirements**:
+    - Get at least 5 pull requests merged and labeled `hacktoberfest-accepted` across the chatcops, ogcops, toolbelt, and discord-bot repos between October 1 and 31, 2026 (UTC)
+    - Only pull requests for issues that were assigned to you count, and a fix split into several pull requests counts once
+    - Ties go to whoever got there first
+    - Two pull requests labeled `spam` and you're out of the goodies
+- **How to sign up**: No sign-up needed. Comment on an open issue to get assigned before you start.
+- **Issues**: [Open `hacktoberfest` issues in the four eligible repos](https://github.com/search?q=repo%3Acodercops%2Fchatcops+repo%3Acodercops%2Fogcops+repo%3Acodercops%2Ftoolbelt+repo%3Acodercops%2Fdiscord-bot+label%3Ahacktoberfest+state%3Aopen+no%3Aassignee&type=issues)
+- **Notes**: This is CODERCOPS's own October 2026 contributor program, separate from official Hacktoberfest rewards. Track standings on the [live leaderboard](https://oss.codercops.com/leaderboard/2026-10), and see the [announcement](https://github.com/codercops/.github/discussions/9) and the [CODERCOPS profile](https://github.com/codercops) for details.
+
 ### D
 
 #### DevOps Daily
