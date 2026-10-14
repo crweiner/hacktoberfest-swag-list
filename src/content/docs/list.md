@@ -84,6 +84,19 @@ Do you want to put your project in front of tens of thousands of developers duri
 - **Issues**: [`hacktoberfest` issues](https://github.com/arc53/DocsGPT/issues?q=is%3Aissue+is%3Aopen+label%3Ahacktoberfest)
 - **Notes**: See the [DocsGPT Hacktoberfest announcement](https://github.com/arc53/DocsGPT/blob/main/HACKTOBERFEST.md) for details.
 
+### G
+
+#### GitHub Education
+
+- **Swag**: A raffle of 3-month GitHub Copilot Pro coupons for 10 participants in the Code for Good Hacktoberfest Contest
+- **Requirements**:
+    - Be a verified student through [GitHub Education](https://education.github.com/)
+    - Contribute to one of the 10 listed digital public good projects between October 14 and 31, 2026, following that project's contribution guidelines
+    - Submit a link to your contribution through the entry form in the announcement, limited to one submission per person
+- **How to sign up**: Get verified as a student through GitHub Education, then enter through the form linked in the [announcement](https://github.com/orgs/community/discussions/210285)
+- **Issues**: The 10 eligible projects are listed in the [announcement](https://github.com/orgs/community/discussions/210285), including [CASA](https://github.com/rubyforgood/casa), [Penpot](https://github.com/penpot/penpot), and [Open Food Facts](https://github.com/openfoodfacts/smooth-app)
+- **Notes**: Run by GitHub Education and Social Impact with the [Digital Public Goods Alliance](https://www.digitalpublicgoods.net/). Winners are picked at random and contacted by November 18.
+
 ### I
 
 #### Interledger Foundation
