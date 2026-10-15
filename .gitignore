@@ -20,3 +20,4 @@ devcontainer.json
 /.spacefast-*
 .spacefast/.spacefast-*
 .spacefast/.space-link-*.tmp
+.env

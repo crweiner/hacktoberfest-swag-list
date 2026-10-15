@@ -1,0 +1,123 @@
+---
+import Default from "@astrojs/starlight/components/Head.astro";
+
+const apiKey = import.meta.env.PUBLIC_POSTHOG_PROJECT_TOKEN;
+const apiHost = import.meta.env.PUBLIC_POSTHOG_HOST;
+const isDevelopment = import.meta.env.DEV;
+---
+
+<Default />
+
+<script is:inline define:vars={{ apiKey, apiHost, isDevelopment }}>
+  if (!apiKey || !apiHost) {
+    if (isDevelopment) {
+      const missingVariable = !apiKey
+        ? "PUBLIC_POSTHOG_PROJECT_TOKEN"
+        : "PUBLIC_POSTHOG_HOST";
+      console.warn(
+        `${missingVariable} is not set, so PostHog is disabled. Add it to a local .env file to enable it.`,
+      );
+    }
+  } else if (
+    // Only the live site and local testing report to PostHog, so branch
+    // previews don't mix into production analytics.
+    ["hacktoberfestswaglist.com", "www.hacktoberfestswaglist.com", "localhost"].includes(
+      location.hostname,
+    )
+  ) {
+    !(function (t, e) {
+      var o, n, p, r;
+      e.__SV ||
+        ((window.posthog = e),
+        (e._i = []),
+        (e.init = function (i, s, a) {
+          function g(t, e) {
+            var o = e.split(".");
+            2 == o.length && ((t = t[o[0]]), (e = o[1])),
+              (t[e] = function () {
+                t.push([e].concat(Array.prototype.slice.call(arguments, 0)));
+              });
+          }
+          ((p = t.createElement("script")).type = "text/javascript"),
+            (p.crossOrigin = "anonymous"),
+            (p.async = !0),
+            (p.src = s.api_host + "/static/array.js"),
+            (r = t.getElementsByTagName("script")[0]).parentNode.insertBefore(
+              p,
+              r,
+            );
+          var u = e;
+          for (
+            void 0 !== a ? (u = e[a] = []) : (a = "posthog"),
+              u.people = u.people || [],
+              Object.defineProperty(u, "toString", {
+                configurable: !0,
+                enumerable: !0,
+                writable: !0,
+                value: function (t) {
+                  var e = "posthog";
+                  return "posthog" !== a && (e += "." + a), t || (e += " (stub)"), e;
+                },
+              }),
+              Object.defineProperty(u.people, "toString", {
+                configurable: !0,
+                enumerable: !0,
+                writable: !0,
+                value: function () {
+                  return u.toString(1) + ".people (stub)";
+                },
+              }),
+              o = "capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures getActiveMatchingSurveys getSurveys getNextSurveyStep onSessionId captureException".split(
+                " ",
+              ),
+              n = 0;
+            n < o.length;
+            n++
+          )
+            g(u, o[n]);
+          e._i.push([i, s, a]);
+        }),
+        (e.__SV = 1));
+    })(document, window.posthog || []);
+
+    window.posthog.init(apiKey, {
+      api_host: apiHost,
+      defaults: "2026-01-30",
+      capture_exceptions: {
+        capture_unhandled_errors: true,
+        capture_unhandled_rejections: true,
+        capture_console_errors: false,
+      },
+      logs: {
+        serviceName: "hacktoberfest-swag-list-web",
+      },
+    });
+
+    window.posthog.onFeatureFlags(() => {
+      window.posthog.logger?.info("documentation site ready", {
+        event: "documentation_site_ready",
+      });
+    });
+
+    document.addEventListener("click", (event) => {
+      const link = event.target instanceof Element ? event.target.closest("a") : null;
+      const eventName =
+        link?.getAttribute("href") === "/list/"
+          ? "swag_list_opened"
+          : link?.getAttribute("href") === "/contributing/"
+            ? "contribution_guide_opened"
+            : link?.getAttribute("href") ===
+                "https://github.com/crweiner/hacktoberfest-swag-list/fork"
+              ? "github_contribution_started"
+              : null;
+
+      if (eventName) {
+        window.posthog.capture(eventName);
+        window.posthog.logger?.info("documentation navigation started", {
+          event: "documentation_navigation_started",
+          destination: eventName,
+        });
+      }
+    });
+  }
+</script>
