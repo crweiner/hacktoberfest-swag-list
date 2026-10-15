@@ -63,6 +63,9 @@ export default defineConfig({
         "@fontsource-variable/martian-mono",
         "./src/styles/custom.css",
       ],
+      components: {
+        Head: "./src/components/posthog.astro",
+      },
       head: [
         {
           tag: "link",
