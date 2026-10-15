@@ -18,7 +18,13 @@ const isDevelopment = import.meta.env.DEV;
         `${missingVariable} is not set, so PostHog is disabled. Copy .env.example to .env to enable it locally.`,
       );
     }
-  } else {
+  } else if (
+    // Only the live site and local testing report to PostHog, so branch
+    // previews don't mix into production analytics.
+    ["hacktoberfestswaglist.com", "www.hacktoberfestswaglist.com", "localhost"].includes(
+      location.hostname,
+    )
+  ) {
     !(function (t, e) {
       var o, n, p, r;
       e.__SV ||
