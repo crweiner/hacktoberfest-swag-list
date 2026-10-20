@@ -12,10 +12,6 @@ dist/
 # Dev tools
 devcontainer.json
 
-# legacy mkdocs
-/site
-.cache
-.venv
 .spacefast/state.json
 /.spacefast-*
 .spacefast/.spacefast-*
